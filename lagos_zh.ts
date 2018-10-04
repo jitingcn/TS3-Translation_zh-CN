@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished">软件版本：</translation>
+        <translation>软件版本：</translation>
     </message>
     <message>
         <source>Qt Version:</source>
@@ -17,12 +17,12 @@
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation type="unfinished">如需技术支援，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <translation>如需技术支援，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
     </message>
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com&quot;&gt;寂听&lt;/a&gt;  ||  由于本人水平有限，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出修改意见</translation>
+        <translation>&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com&quot;&gt;寂听&lt;/a&gt;  ||  由于本人水平有限，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出修改意见</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -38,22 +38,22 @@
     </message>
     <message>
         <source>Copy version to clipboard</source>
-        <translation type="unfinished">复制版本号到剪贴板</translation>
+        <translation>复制版本号到剪贴板</translation>
     </message>
 </context>
 <context>
     <name>AccountCreateDialog</name>
     <message>
         <source>Create your myTeamSpeak Account</source>
-        <translation type="unfinished">创建您的 myTeamSpeak 账号</translation>
+        <translation>创建您的 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Verify Password:</source>
-        <translation type="unfinished">确认密码:</translation>
+        <translation>确认密码:</translation>
     </message>
     <message>
         <source>Email Address:</source>
-        <translation type="unfinished">电子邮箱地址:</translation>
+        <translation>电子邮箱地址:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="unfinished">在此计算机上保持登录状态</translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>Continue without logging in</source>
-        <translation type="unfinished">暂不登录</translation>
+        <translation>暂不登录</translation>
     </message>
     <message>
         <source>Use existing account</source>
-        <translation type="unfinished">使用现有的账号</translation>
+        <translation>使用现有的账号</translation>
     </message>
     <message>
         <source>Create</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Email Address:</source>
-        <translation type="unfinished">电子邮箱地址:</translation>
+        <translation>电子邮箱地址:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="unfinished">在此计算机上保持登录状态</translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">电子邮箱地址：</translation>
+        <translation>电子邮箱地址：</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -178,7 +178,7 @@
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="unfinished">在此计算机上保持登录状态</translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Create Account</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Manual (Define which items get synchronized)</source>
-        <translation type="unfinished">手动 （自定义同步的项目）</translation>
+        <translation>手动 （自定义同步的项目）</translation>
     </message>
     <message>
         <source>Synchronization</source>
@@ -272,11 +272,11 @@ After you verified your account, press the Login button.
     <name>ApplicationSetup</name>
     <message>
         <source>Application</source>
-        <translation type="unfinished">主程序</translation>
+        <translation>主程序</translation>
     </message>
     <message>
         <source>General Application Options</source>
-        <translation type="unfinished">常规设置</translation>
+        <translation>常规设置</translation>
     </message>
     <message>
         <source>System Default</source>
@@ -284,16 +284,16 @@ After you verified your account, press the Login button.
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished">英语 English</translation>
+        <translation>英语 English</translation>
     </message>
     <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
-        <translation type="unfinished">为了使 TeamSpeak 变得更好，我们希望收集一些有关于您的操作系统和硬件配置的统计信息。这些数据将以匿名的方式发送。</translation>
+        <translation>为了使 TeamSpeak 变得更好，我们希望收集一些有关于您的操作系统和硬件配置的统计信息。这些数据将以匿名的方式发送。</translation>
     </message>
     <message>
         <source>The language will change after restarting TeamSpeak.
 Do you want to restart now?</source>
-        <translation type="unfinished">界面语言将在重新启动 TeamSpeak 后改变。
+        <translation>界面语言将在重新启动 TeamSpeak 后改变。
 你想现在重启吗？</translation>
     </message>
     <message>
@@ -302,7 +302,7 @@ Do you want to restart now?</source>
     </message>
     <message>
         <source>All confirmations were reset.</source>
-        <translation type="unfinished">所有不再提示的选项已重置。</translation>
+        <translation>所有不再提示的选项已重置。</translation>
     </message>
     <message>
         <source>Beta channel</source>
@@ -311,7 +311,7 @@ Do you want to restart now?</source>
     <message>
         <source>You are switching to the beta update channel.
 The beta releases are meant for testing and may be unstable.</source>
-        <translation type="unfinished">更新通道将切换为测试版本。
+        <translation>更新通道将切换为测试版本。
 该版本应仅用于测试，可能导致软件不稳定。</translation>
     </message>
 </context>
@@ -319,7 +319,7 @@ The beta releases are meant for testing and may be unstable.</source>
     <name>AreYouSureDialog</name>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished">不再提示</translation>
+        <translation>不再提示</translation>
     </message>
 </context>
 <context>
@@ -330,7 +330,7 @@ The beta releases are meant for testing and may be unstable.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">发生错误</translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <source>Invalid image selected.
@@ -341,7 +341,7 @@ Failed to set avatar.</source>
     <message>
         <source>Selected animated avatar is too large.
 The maximum allowed size is %1x%2.</source>
-        <translation type="unfinished">选定的头像尺寸太大了。
+        <translation>选定的头像尺寸太大了。
 允许的最大大小为 %1x%2。</translation>
     </message>
     <message>
@@ -409,7 +409,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation type="unfinished">IP/名称 解释器(&amp;I):</translation>
+        <translation>IP/名称 解释器(&amp;I):</translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
@@ -421,7 +421,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Fixed String</source>
-        <translation type="unfinished">字符串</translation>
+        <translation>字符串</translation>
     </message>
     <message>
         <source>Regular Expression</source>
@@ -429,7 +429,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation type="unfinished">&amp;UID：</translation>
+        <translation>&amp;UID：</translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -437,11 +437,11 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="unfinished">预设信息：</translation>
+        <translation>预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">保存预设</translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>&amp;Duration:</source>
@@ -469,11 +469,11 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="unfinished">设置为最大值</translation>
+        <translation>设置为最大值</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">无预设</translation>
+        <translation>无预设</translation>
     </message>
     <message>
         <source>Save Preset</source>
@@ -493,18 +493,18 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Add Ban</source>
-        <translation type="unfinished">添加黑名单</translation>
+        <translation>添加黑名单</translation>
     </message>
     <message>
         <source>Edit Ban</source>
-        <translation type="unfinished">编辑黑名单</translation>
+        <translation>编辑黑名单</translation>
     </message>
 </context>
 <context>
     <name>BanClientDialog</name>
     <message>
         <source>Ban Client</source>
-        <translation type="unfinished">黑名单用户</translation>
+        <translation>黑名单用户</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -516,7 +516,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="unfinished">预设信息：</translation>
+        <translation>预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -532,7 +532,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished">分钟</translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <source>hours</source>
@@ -548,14 +548,14 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="unfinished">设置为最大值</translation>
+        <translation>设置为最大值</translation>
     </message>
 </context>
 <context>
     <name>BanList</name>
     <message>
         <source>Add new ban&lt;br&gt;(Ctrl+N)</source>
-        <translation type="unfinished">新增黑名单项目&lt;br&gt;(Ctrl+N)</translation>
+        <translation>新增黑名单项目&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>Add</source>
@@ -563,7 +563,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Remove selected bans&lt;br&gt;(Delete)</source>
-        <translation type="unfinished">移除选中的黑名单项目&lt;br&gt;(Delete)</translation>
+        <translation>移除选中的黑名单项目&lt;br&gt;(Delete)</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -571,7 +571,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Edit selected ban&lt;br&gt;(Return)</source>
-        <translation type="unfinished">编辑选中的黑名单项目&lt;br&gt;(Return)</translation>
+        <translation>编辑选中的黑名单项目&lt;br&gt;(Return)</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -579,7 +579,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Search bans by text&lt;br&gt;(Ctrl+F)</source>
-        <translation type="unfinished">根据关键词搜索黑名单项目&lt;br&gt;(Ctrl+F)</translation>
+        <translation>根据关键词搜索黑名单项目&lt;br&gt;(Ctrl+F)</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -587,19 +587,19 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Show only bans created by you</source>
-        <translation type="unfinished">只显示自己创建的黑名单项目</translation>
+        <translation>只显示自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Show only own bans</source>
-        <translation type="unfinished">只显示自己创建的黑名单项目</translation>
+        <translation>只显示自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Mark bans created by you as bold</source>
-        <translation type="unfinished">用粗体标记自己创建的黑名单项目</translation>
+        <translation>用粗体标记自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Highlight own bans</source>
-        <translation type="unfinished">高亮自己创建的黑名单项目</translation>
+        <translation>高亮自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Name/IP/UID</source>
@@ -647,7 +647,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Your ban was successfully added.</source>
-        <translation type="unfinished">您已成功添加黑名单。</translation>
+        <translation>您已成功添加黑名单。</translation>
     </message>
     <message>
         <source>Insufficient permissions...</source>
@@ -656,30 +656,30 @@ To remove a badge drag it from the slot to the list below.</source>
     <message>
         <source>You don&apos;t have the permission to edit ban entries from other users.
 Inserting a modified copy instead.</source>
-        <translation type="unfinished">您无权编辑其他用户创建的黑名单条目。
+        <translation>您无权编辑其他用户创建的黑名单条目。
 改为插入修改后的副本。</translation>
     </message>
     <message>
         <source>Ban List - %1</source>
-        <translation type="unfinished">黑名单列表 - %1</translation>
+        <translation>黑名单列表 - %1</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="unfinished">黑名单列表</translation>
+        <translation>黑名单列表</translation>
     </message>
     <message>
         <source>Delete bans</source>
-        <translation type="unfinished">删除黑名单项目</translation>
+        <translation>删除黑名单项目</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n你真的想删除所选择的黑名单项目吗?</numerusform>
         </translation>
     </message>
     <message>
         <source>You have insufficient permissions to view the ban list.</source>
-        <translation type="unfinished">您没有足够的权限来查看黑名单列表。</translation>
+        <translation>您没有足够的权限来查看黑名单列表。</translation>
     </message>
 </context>
 <context>
@@ -702,7 +702,7 @@ Inserting a modified copy instead.</source>
     </message>
     <message>
         <source>Show ServerQuery Clients</source>
-        <translation type="unfinished">显示 ServerQuery 用户</translation>
+        <translation>显示 ServerQuery 用户</translation>
     </message>
     <message>
         <source>Automatically connect to this server when starting TeamSpeak</source>
@@ -710,7 +710,7 @@ Inserting a modified copy instead.</source>
     </message>
     <message>
         <source>Connect on Startup</source>
-        <translation type="unfinished">启动时连接此服务器</translation>
+        <translation>启动时连接此服务器</translation>
     </message>
     <message>
         <source>Server &amp;Address:</source>
@@ -724,7 +724,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="unfinished">音效包:</translation>
+        <translation>音效包:</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
@@ -744,7 +744,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation type="unfinished">服务器密码（可选）</translation>
+        <translation>服务器密码（可选）</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
@@ -760,11 +760,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished">播放配置(&amp;P):</translation>
+        <translation>播放配置(&amp;P):</translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
-        <translation type="unfinished">用于此服务器的播放配置</translation>
+        <translation>用于此服务器的播放配置</translation>
     </message>
     <message>
         <source>Default Channel &amp;Password:</source>
@@ -772,7 +772,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
-        <translation type="unfinished">默认频道密码（可选）</translation>
+        <translation>默认频道密码（可选）</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
@@ -792,19 +792,19 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished">昵称发音(&amp;P):</translation>
+        <translation>昵称发音(&amp;P):</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished">你的昵称的发音（可选）</translation>
+        <translation>你的昵称的发音（可选）</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">捕获配置(&amp;C):</translation>
+        <translation>捕获配置(&amp;C):</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation type="unfinished">用于此服务器的捕获配置</translation>
+        <translation>用于此服务器的捕获配置</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
@@ -852,180 +852,180 @@ servers will not be cleared.</source>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>录音设定</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
-        <translation type="unfinished"></translation>
+        <translation>设置音频捕获系统</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;按键讲话&lt;/strong&gt; 仅在按下指定的按键时启用麦克风，并在释放指定的热键时停用麦克风。如果您是第一次配置按键通话，请点击 &amp;quot;未分配快捷键&amp;quot; 按钮配置快捷键。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;With &lt;strong&gt;Continuous Transmission&lt;/strong&gt; voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activation Detection instead to lower bandwidth usage.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;持续传输&lt;/strong&gt; 保持语音数据不断传输。 建议使用 &amp;quot;按键讲话&amp;quot; 或 &amp;quot;自动语音检测&amp;quot; 来降低带宽使用率。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Voice Activation Detection&lt;/strong&gt; automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.&lt;/p&gt;&lt;p&gt;This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;自动语音检测&lt;/strong&gt; 会在您开始讲话时（以及停止时）自动检测您的语音，并相应地启用或禁用您的麦克风，即免提模式。&lt;/p&gt;&lt;p&gt;不建议在嘈杂的环境中使用本模式，可能会错误地将检测到的背景噪音传输给其他用户。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Voice Test is still active...</source>
-        <translation type="unfinished"></translation>
+        <translation>音频测试还在进行中…</translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the options page will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;切换选项页面将中止语音测试。&lt;/p&gt;&lt;p&gt;继续切换并停止语音测试？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the profile will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;切换配置文件将中止语音测试。&lt;/p&gt;&lt;p&gt;是否继续切换并停止语音测试？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="unfinished"></translation>
+        <translation>自动使用最合适的模式</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="unfinished"></translation>
+        <translation>删除快捷键…</translation>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>捕获配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有热键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountEmailDialog</name>
     <message>
         <source>Change Email</source>
-        <translation type="unfinished"></translation>
+        <translation>更改邮箱</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前密码（&amp;P）：</translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>新邮箱（&amp;E）：</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountPasswordDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation>更改密码</translation>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>新密码（&amp;N)：</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前密码（&amp;P）：</translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>确认新密码（&amp;P）：</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountUsernameDialog</name>
     <message>
         <source>Change Username</source>
-        <translation type="unfinished"></translation>
+        <translation>更改用户名</translation>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>新用户名（&amp;U）：</translation>
     </message>
 </context>
 <context>
     <name>ChangeLogViewer</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日志</translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterPasswordDialog</name>
     <message>
         <source>Change Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>更改主密码</translation>
     </message>
     <message>
         <source>A Master Password is used to protect sensitive information like your identities and passwords. If you create a Master Password you will be asked to enter it every time TeamSpeak starts up.</source>
-        <translation type="unfinished"></translation>
+        <translation>主密码用于保护身份和密码等敏感信息。 如果您创建主密码，在每次 TeamSpeak 启动时都会要求您输入主密码。</translation>
     </message>
     <message>
         <source>If you forget your Master Password your sensitive information can never be retrieved. Please make sure to remember your Master Password carefully! Your password must be at least 6 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您忘记了主密码，将无法读取敏感信息。 请务必牢记您的主密码！ 密码长度最少为6个字符。</translation>
     </message>
     <message>
         <source>Current password:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前密码：</translation>
     </message>
     <message>
         <source>Enter new password:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入新密码:</translation>
     </message>
     <message>
         <source>Re-enter password:</source>
-        <translation type="unfinished"></translation>
+        <translation>重新输入主密码：</translation>
     </message>
     <message>
         <source>Remove Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>移除主密码</translation>
     </message>
     <message>
         <source>Set Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>设置主密码</translation>
     </message>
 </context>
 <context>
     <name>ChannelDescTextEdit</name>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation>频道描述</translation>
     </message>
 </context>
 <context>
     <name>ChannelDescriptionEditTearOffWidget</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Press Button to &quot;Preview&quot; the changes in channel info.</source>
-        <translation type="unfinished"></translation>
+        <translation>按下“预览”按钮以查看频道信息的更改。</translation>
     </message>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation>频道描述</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>预览（&amp;P）</translation>
     </message>
 </context>
 <context>
@@ -4105,7 +4105,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
 </context>
 <context>
@@ -10450,31 +10450,31 @@ TeamSpeak will be closed if you proceed.</source>
     <name>VADControl</name>
     <message>
         <source>Error, could not open Capture Device.</source>
-        <translation type="unfinished"></translation>
+        <translation>发生错误，无法打开音频捕获设备。</translation>
     </message>
     <message>
         <source>Speak clearly and adjust the voice level.</source>
-        <translation type="unfinished"></translation>
+        <translation>清晰的讲话并调整音量水平。</translation>
     </message>
     <message>
         <source>Press %1 to talk.</source>
-        <translation type="unfinished"></translation>
+        <translation>按下 %1键 说话。</translation>
     </message>
     <message>
         <source>Please define a Hotkey.</source>
-        <translation type="unfinished"></translation>
+        <translation>请设置一个快捷键。</translation>
     </message>
     <message>
         <source>Continuous transmission - just talk.</source>
-        <translation type="unfinished"></translation>
+        <translation>持续传输 - 保持音频捕获。</translation>
     </message>
     <message>
         <source>Begin Test</source>
-        <translation type="unfinished"></translation>
+        <translation>开始测试</translation>
     </message>
     <message>
         <source>Stop Test</source>
-        <translation type="unfinished"></translation>
+        <translation>停止测试</translation>
     </message>
 </context>
 <context>
@@ -11335,7 +11335,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
     <message>
         <source>Reply Hotkey:</source>
@@ -11741,7 +11741,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Continuous Transmission</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">持续传输</translation>
     </message>
     <message>
         <source>Voice Activation Detection</source>
@@ -12679,7 +12679,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
     <message>
         <source>Clients &amp; Channels</source>
