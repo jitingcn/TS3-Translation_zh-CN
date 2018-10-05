@@ -1032,340 +1032,340 @@ servers will not be cleared.</source>
     <name>ChannelEditTearOffWidget</name>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation>频道描述</translation>
     </message>
     <message>
         <source>Toggle bbCode and WYSIWYG display</source>
-        <translation type="unfinished"></translation>
+        <translation>切换显示“bbCode”或“即时预览”</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
 </context>
 <context>
     <name>ChannelGroupsOfClientDialog</name>
     <message>
         <source>Channel Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>用户频道组</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入</translation>
     </message>
     <message>
         <source>Remove all Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>移除所有频道组</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>频道</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>频道组</translation>
     </message>
 </context>
 <context>
     <name>ChannelSelectionDialog</name>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>重新载入</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Channel Group: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>频道组： %1</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
     <name>ChatLineEdit</name>
     <message>
         <source>Chat input</source>
-        <translation type="unfinished"></translation>
+        <translation>对话输入</translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="unfinished"></translation>
+        <translation>输入聊天消息…</translation>
     </message>
     <message>
         <source>Paste &amp;&amp; Send</source>
-        <translation type="unfinished"></translation>
+        <translation>黏贴并发送</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>字体格式</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
 </context>
 <context>
     <name>ChatSetupDialog</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Configure the Chat Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>配置聊天选项卡</translation>
     </message>
 </context>
 <context>
     <name>ChatTab</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Show Emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation>显示表情符号</translation>
     </message>
     <message>
         <source>Show Line Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示行标记</translation>
     </message>
     <message>
         <source>*** Chat begins %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>*** 开始对话 %1 %2</translation>
     </message>
     <message>
         <source>*** Log begins %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>*** 开始记录日志 %1 %2</translation>
     </message>
     <message>
         <source>Invalid channel</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的频道</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>*** Chat begins</source>
-        <translation type="unfinished"></translation>
+        <translation>*** 开始对话</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;*** 昨日&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Today&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;*** 今日&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Tomorrow %1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;*** 明日 %1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>End of chat history</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天记录结束</translation>
     </message>
 </context>
 <context>
     <name>ChatTabWidget</name>
     <message>
         <source>Chat output tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天输出选项卡</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>*** You are now talking in channel: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>*** 您当前在 %1 频道中</translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="unfinished"></translation>
+        <translation>输入聊天消息…</translation>
     </message>
     <message>
         <source>%1 rejoined chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 重新加入了聊天。</translation>
     </message>
     <message>
         <source>Chat partner disconnected out of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>对方未查看。</translation>
     </message>
     <message>
         <source>Close Private Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭私聊选项卡</translation>
     </message>
     <message>
         <source>Close Private Tabs but this</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭除此以外的私聊选项卡</translation>
     </message>
     <message>
         <source>Your chat partner has disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>对方已断开连接。</translation>
     </message>
 </context>
 <context>
     <name>ChooseNickname</name>
     <message>
         <source>Too short</source>
-        <translation type="unfinished"></translation>
+        <translation>太短了</translation>
     </message>
 </context>
 <context>
     <name>ChooseNicknameDialog</name>
     <message>
         <source>Choose Your Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>选择你的昵称</translation>
     </message>
     <message>
         <source>This is your identifying name which is displayed to other users.</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称是您对其他用户显示的身份名称。</translation>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>选择你的昵称：</translation>
     </message>
 </context>
 <context>
     <name>ClientDatabaseListViewer</name>
     <message>
         <source>All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>所有客户端</translation>
     </message>
     <message>
         <source>Clear search field</source>
-        <translation type="unfinished"></translation>
+        <translation>清除搜索框</translation>
     </message>
     <message>
         <source>&amp;Search by</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索（&amp;S）</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称</translation>
     </message>
     <message>
         <source>Unique Identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>唯一标识符</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>更多</translation>
     </message>
     <message>
         <source>Last Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>最后使用的昵称</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation>最后</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">总计</translation>
     </message>
     <message>
         <source>Last IP</source>
-        <translation type="unfinished"></translation>
+        <translation>最后的IP</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>All clients already received</source>
-        <translation type="unfinished"></translation>
+        <translation>所有客户端都已收到</translation>
     </message>
     <message>
         <source>No clients found</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到用户</translation>
     </message>
     <message>
         <source>Client deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除客户</translation>
     </message>
     <message>
         <source>This client is currently online and cannot be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>此客户端当前在线，无法删除。</translation>
     </message>
     <message>
         <source>Copy Nickname to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制昵称到剪贴板</translation>
     </message>
     <message>
         <source>Copy Unique ID to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制 UID 到剪贴板</translation>
     </message>
     <message>
         <source>Copy Last IP to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制最后使用的IP到剪贴板</translation>
     </message>
     <message>
         <source>Ban client</source>
-        <translation type="unfinished"></translation>
+        <translation>黑名单用户</translation>
     </message>
     <message>
         <source>Delete avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>删除头像</translation>
     </message>
     <message numerus="yes">
         <source>Delete client(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>删除用户%n</numerusform>
         </translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>确认</translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;all selected clients&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">永久删除 &lt;strong&gt;所有已选择的客户&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;%1&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>永久删除 &lt;strong&gt;%1&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
     </message>
     <message>
         <source>At least three characters required</source>
-        <translation type="unfinished"></translation>
+        <translation>至少需要3个字符</translation>
     </message>
     <message>
         <source>Invalid search pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的搜索模式</translation>
     </message>
 </context>
 <context>
@@ -4864,7 +4864,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <source>Toggle Subscribe Mode for this server
@@ -4881,7 +4881,7 @@ Current: %1</source>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 在 %2</translation>
     </message>
     <message>
         <source>Transfer Completed</source>
@@ -4985,7 +4985,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
@@ -4997,7 +4997,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+D</translation>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
@@ -5021,7 +5021,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -5029,7 +5029,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Q</translation>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
@@ -5133,7 +5133,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+U</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+U</translation>
     </message>
     <message>
         <source>File &amp;Transfers</source>
@@ -5145,7 +5145,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+T</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -5157,7 +5157,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
@@ -5201,7 +5201,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+L</translation>
     </message>
     <message>
         <source>&amp;Server Log</source>
@@ -5213,7 +5213,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+L</translation>
     </message>
     <message>
         <source>&amp;Server Groups</source>
@@ -5225,7 +5225,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F1</translation>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
@@ -5237,7 +5237,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F2</translation>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
@@ -5249,7 +5249,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F3</translation>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
@@ -5261,7 +5261,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F4</translation>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
@@ -5273,7 +5273,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F5</translation>
     </message>
     <message>
         <source>Check for &amp;Update</source>
@@ -5301,7 +5301,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+I</translation>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
@@ -5337,7 +5337,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+R</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
@@ -5349,7 +5349,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+T</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -5365,7 +5365,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+O</translation>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
@@ -5381,7 +5381,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+B</translation>
     </message>
     <message>
         <source>Complaints List</source>
@@ -5393,7 +5393,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+C</translation>
     </message>
     <message>
         <source>View &amp;Changelog</source>
@@ -5445,7 +5445,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义工具栏</translation>
     </message>
     <message>
         <source>Master Volume</source>
@@ -5461,7 +5461,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+W</translation>
     </message>
     <message>
         <source>&amp;Whisper History</source>
@@ -5473,7 +5473,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+Shift+H</translation>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
