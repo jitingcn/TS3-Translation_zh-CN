@@ -5,23 +5,25 @@
     <name>PermI18n</name>
     <message>
         <source>b_serverinstance_help_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索帮助文本</translation>
     </message>
     <message>
         <source>b_serverinstance_help_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用ServerQuery命令 &quot;&lt;b&gt;help&lt;/b&gt;&quot;。&lt;/p&gt;提供有关ServerQuery命令的帮助信息。 不带参数使用 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 命令时，将会简要列出所有命令及其描述。
+&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 或查阅手册： “ts3_serverquery_manual.pdf”&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索版本信息</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用ServerQuery命令 &quot;&lt;b&gt;version&lt;/b&gt;&quot;.&lt;br&gt;&lt;br&gt; 提供服务端版本信息，包括系统平台和内部版本号。
+&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help version&lt;/b&gt;&quot; 输入 ServerQuery 或查阅手册： ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索主机和实例信息</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view_long</source>
@@ -29,7 +31,7 @@
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索虚拟服务器列表</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list_long</source>
@@ -37,7 +39,7 @@
     </message>
     <message>
         <source>b_serverinstance_binding_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索服务器IP地址</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list_long</source>
@@ -45,7 +47,7 @@
     </message>
     <message>
         <source>b_serverinstance_permission_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：检索权限列表</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list_long</source>
@@ -53,7 +55,7 @@
     </message>
     <message>
         <source>b_serverinstance_permission_find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查找已分配的权限</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find_long</source>
@@ -61,7 +63,7 @@
     </message>
     <message>
         <source>b_virtualserver_create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：创建虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_create_long</source>
@@ -69,7 +71,7 @@
     </message>
     <message>
         <source>b_virtualserver_delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：删除现有的虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_delete_long</source>
@@ -77,7 +79,7 @@
     </message>
     <message>
         <source>b_virtualserver_start_any</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：启动虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_start_any_long</source>
@@ -85,7 +87,7 @@
     </message>
     <message>
         <source>b_virtualserver_stop_any</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：停止虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_stop_any_long</source>
@@ -93,7 +95,7 @@
     </message>
     <message>
         <source>b_virtualserver_change_machine_id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器机器ID</translation>
     </message>
     <message>
         <source>b_virtualserver_change_machine_id_long</source>
@@ -101,7 +103,7 @@
     </message>
     <message>
         <source>b_virtualserver_change_template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：编辑虚拟服务器模板</translation>
     </message>
     <message>
         <source>b_virtualserver_change_template_long</source>
@@ -109,7 +111,7 @@
     </message>
     <message>
         <source>b_serverquery_login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：通过ServerQuery登录</translation>
     </message>
     <message>
         <source>b_serverquery_login_long</source>
@@ -117,7 +119,7 @@
     </message>
     <message>
         <source>b_serverinstance_textmessage_send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：向所有人发送文字信息</translation>
     </message>
     <message>
         <source>b_serverinstance_textmessage_send_long</source>
@@ -125,7 +127,7 @@
     </message>
     <message>
         <source>b_serverinstance_log_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看服务端日志</translation>
     </message>
     <message>
         <source>b_serverinstance_log_view_long</source>
@@ -133,7 +135,7 @@
     </message>
     <message>
         <source>b_serverinstance_log_add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：写入服务端日志</translation>
     </message>
     <message>
         <source>b_serverinstance_log_add_long</source>
@@ -141,7 +143,7 @@
     </message>
     <message>
         <source>b_serverinstance_stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：停止服务端</translation>
     </message>
     <message>
         <source>b_serverinstance_stop_long</source>
@@ -149,7 +151,7 @@
     </message>
     <message>
         <source>b_serverinstance_modify_settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：修改服务端设置</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_settings_long</source>
@@ -157,7 +159,7 @@
     </message>
     <message>
         <source>b_serverinstance_modify_querygroup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改 ServerQuery 组</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_querygroup_long</source>
@@ -165,7 +167,7 @@
     </message>
     <message>
         <source>b_serverinstance_modify_templates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改模板组</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_templates_long</source>
@@ -173,7 +175,7 @@
     </message>
     <message>
         <source>b_virtualserver_select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：选择虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_select_long</source>
@@ -181,7 +183,7 @@
     </message>
     <message>
         <source>b_virtualserver_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看虚拟服务器信息</translation>
     </message>
     <message>
         <source>b_virtualserver_info_view_long</source>
@@ -189,7 +191,7 @@
     </message>
     <message>
         <source>b_virtualserver_connectioninfo_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看虚拟服务器连接信息</translation>
     </message>
     <message>
         <source>b_virtualserver_connectioninfo_view_long</source>
@@ -197,7 +199,7 @@
     </message>
     <message>
         <source>b_virtualserver_channel_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看现有频道列表</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_list_long</source>
@@ -205,7 +207,7 @@
     </message>
     <message>
         <source>b_virtualserver_channel_search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：搜索频道</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_search_long</source>
@@ -213,7 +215,7 @@
     </message>
     <message>
         <source>b_virtualserver_client_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看在线客户端列表</translation>
     </message>
     <message>
         <source>b_virtualserver_client_list_long</source>
@@ -221,7 +223,7 @@
     </message>
     <message>
         <source>b_virtualserver_client_search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：搜索在线客户端</translation>
     </message>
     <message>
         <source>b_virtualserver_client_search_long</source>
@@ -229,7 +231,7 @@
     </message>
     <message>
         <source>b_virtualserver_client_dblist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看已知用户标识（UID）的列表</translation>
     </message>
     <message>
         <source>b_virtualserver_client_dblist_long</source>
@@ -237,7 +239,7 @@
     </message>
     <message>
         <source>b_virtualserver_client_dbsearch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索已知的客户端标识（UID）</translation>
     </message>
     <message>
         <source>b_virtualserver_client_dbsearch_long</source>
@@ -245,7 +247,7 @@
     </message>
     <message>
         <source>b_virtualserver_client_dbinfo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看客户端数据库信息</translation>
     </message>
     <message>
         <source>b_virtualserver_client_dbinfo_long</source>
@@ -253,7 +255,7 @@
     </message>
     <message>
         <source>b_virtualserver_permission_find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：搜索权限分配</translation>
     </message>
     <message>
         <source>b_virtualserver_permission_find_long</source>
@@ -261,7 +263,7 @@
     </message>
     <message>
         <source>b_virtualserver_custom_search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：搜索自定义客户端属性</translation>
     </message>
     <message>
         <source>b_virtualserver_custom_search_long</source>
@@ -269,7 +271,7 @@
     </message>
     <message>
         <source>b_virtualserver_start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：启动此虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_start_long</source>
@@ -277,7 +279,7 @@
     </message>
     <message>
         <source>b_virtualserver_stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：停止此虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_stop_long</source>
@@ -285,7 +287,7 @@
     </message>
     <message>
         <source>b_virtualserver_token_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看可用权限码列表</translation>
     </message>
     <message>
         <source>b_virtualserver_token_list_long</source>
@@ -293,7 +295,7 @@
     </message>
     <message>
         <source>b_virtualserver_token_add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建新的权限码</translation>
     </message>
     <message>
         <source>b_virtualserver_token_add_long</source>
@@ -301,7 +303,7 @@
     </message>
     <message>
         <source>b_virtualserver_token_use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用权限码获取权限</translation>
     </message>
     <message>
         <source>b_virtualserver_token_use_long</source>
@@ -309,7 +311,7 @@
     </message>
     <message>
         <source>b_virtualserver_token_delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除权限码</translation>
     </message>
     <message>
         <source>b_virtualserver_token_delete_long</source>
@@ -317,7 +319,7 @@
     </message>
     <message>
         <source>b_virtualserver_log_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：查看虚拟服务器日志</translation>
     </message>
     <message>
         <source>b_virtualserver_log_view_long</source>
@@ -325,7 +327,7 @@
     </message>
     <message>
         <source>b_virtualserver_log_add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：写入虚拟服务器日志</translation>
     </message>
     <message>
         <source>b_virtualserver_log_add_long</source>
@@ -333,7 +335,7 @@
     </message>
     <message>
         <source>b_virtualserver_join_ignore_password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略虚拟服务器密码</translation>
     </message>
     <message>
         <source>b_virtualserver_join_ignore_password_long</source>
@@ -341,7 +343,7 @@
     </message>
     <message>
         <source>b_virtualserver_notify_register</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：注册事件通知</translation>
     </message>
     <message>
         <source>b_virtualserver_notify_register_long</source>
@@ -349,7 +351,7 @@
     </message>
     <message>
         <source>b_virtualserver_notify_unregister</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：取消注册事件通知</translation>
     </message>
     <message>
         <source>b_virtualserver_notify_unregister_long</source>
@@ -357,7 +359,7 @@
     </message>
     <message>
         <source>b_virtualserver_snapshot_create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：备份服务器设置</translation>
     </message>
     <message>
         <source>b_virtualserver_snapshot_create_long</source>
@@ -365,7 +367,7 @@
     </message>
     <message>
         <source>b_virtualserver_snapshot_deploy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：还原服务器设置</translation>
     </message>
     <message>
         <source>b_virtualserver_snapshot_deploy_long</source>
@@ -373,7 +375,7 @@
     </message>
     <message>
         <source>b_virtualserver_permission_reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery：重置虚拟服务器权限设置</translation>
     </message>
     <message>
         <source>b_virtualserver_permission_reset_long</source>
@@ -381,7 +383,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器名称</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_name_long</source>
@@ -389,7 +391,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_welcomemessage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器欢迎消息</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_welcomemessage_long</source>
@@ -397,7 +399,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_maxclients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器最大客户端</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_maxclients_long</source>
@@ -405,7 +407,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_reserved_slots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器保留位置</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_reserved_slots_long</source>
@@ -413,7 +415,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器密码</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_password_long</source>
@@ -421,7 +423,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_default_servergroup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器默认服务器组</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_default_servergroup_long</source>
@@ -429,7 +431,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_default_channelgroup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器默认频道组</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_default_channelgroup_long</source>
@@ -437,7 +439,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_default_channeladmingroup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器频道管理组</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_default_channeladmingroup_long</source>
@@ -445,7 +447,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_channel_forced_silence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器强制静音限制</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_channel_forced_silence_long</source>
@@ -453,7 +455,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_complain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器投诉设置</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_complain_long</source>
@@ -461,7 +463,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_antiflood</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器 反拒绝服务攻击 设置</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_antiflood_long</source>
@@ -469,7 +471,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_ft_settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器文件传输设置</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_ft_settings_long</source>
@@ -477,7 +479,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_ft_quotas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器文件传输配额</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_ft_quotas_long</source>
@@ -485,7 +487,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostmessage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器主机消息</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostmessage_long</source>
@@ -493,7 +495,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostbanner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器主机横幅</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostbanner_long</source>
@@ -501,7 +503,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostbutton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器主机按钮</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostbutton_long</source>
@@ -509,7 +511,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_port</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器端口</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_port_long</source>
@@ -517,7 +519,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_autostart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器自动启动行为</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_autostart_long</source>
@@ -525,7 +527,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_needed_identity_security_level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器安全级别</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_needed_identity_security_level_long</source>
@@ -533,7 +535,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_priority_speaker_dimm_modificator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器主讲发言音量控制</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_priority_speaker_dimm_modificator_long</source>
@@ -541,7 +543,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_log_settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器日志设置</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_log_settings_long</source>
