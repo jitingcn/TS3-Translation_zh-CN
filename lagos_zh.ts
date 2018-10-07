@@ -911,11 +911,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码（&amp;P）：</translation>
+        <translation>当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation>新邮箱（&amp;E）：</translation>
+        <translation>新邮箱(&amp;E)：</translation>
     </message>
 </context>
 <context>
@@ -926,15 +926,15 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation>新密码（&amp;N)：</translation>
+        <translation>新密码(&amp;N)：</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码（&amp;P）：</translation>
+        <translation>当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation>确认新密码（&amp;P）：</translation>
+        <translation>确认新密码(&amp;P)：</translation>
     </message>
 </context>
 <context>
@@ -945,7 +945,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation>新用户名（&amp;U）：</translation>
+        <translation>新用户名(&amp;U)：</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>预览（&amp;P）</translation>
+        <translation>预览(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -1267,7 +1267,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Search by</source>
-        <translation>搜索（&amp;S）</translation>
+        <translation>搜索(&amp;S)</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -4860,108 +4860,109 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <name>MainWindow</name>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Toggle Subscribe Mode for this server
 Current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>切换此服务器的订阅模式
+当前： %1</translation>
     </message>
     <message>
         <source>Subscribe all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部订阅</translation>
     </message>
     <message>
         <source>Subscribe selected</source>
-        <translation type="unfinished"></translation>
+        <translation>订阅选中项</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished">%1 在 %2</translation>
+        <translation>%1 在 %2</translation>
     </message>
     <message>
         <source>Transfer Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>传输完成</translation>
     </message>
     <message>
         <source>Away on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>离开此服务器</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;Your message has not been sent. Message limit has been exceeded.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;您的信息未发送。已超出发信限制。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:blue;&quot;&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:blue;&quot;&gt;内置命令： /close, /clear, /exit&lt;br&gt;插件命令： /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red;&quot;&gt;无效的命令或缺少参数： %1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上对扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上取消对扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风静音</translation>
     </message>
     <message>
         <source>Unmute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>取消麦克风静音</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>取消扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is the last TeamSpeak version available for Windows XP.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows Vista or newer.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;这是适用于 Windows XP 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows Vista 或更新版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Use Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限码</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限码：&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter Privilege Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入权限码：</translation>
     </message>
     <message>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择文件</translation>
     </message>
     <message>
         <source>Wave files (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>波形文件 (*.wav)</translation>
     </message>
     <message>
         <source>Transfer &quot;%1&quot; reports: (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>传输 &quot;%1&quot; 报告： (%2)</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
@@ -4969,11 +4970,11 @@ Current: %1</source>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">/s</translation>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于 TeamSpeak 3(&amp;A)</translation>
     </message>
     <message>
         <source>Show application and copyright information</source>
@@ -4981,7 +4982,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接服务器(&amp;C)</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
@@ -4989,7 +4990,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接到一个 TeamSpeak 服务器</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Current</source>
@@ -5033,7 +5034,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出 TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Toggle Away Status</source>
@@ -5137,11 +5138,11 @@ Current: %1</source>
     </message>
     <message>
         <source>File &amp;Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">传输文件(&amp;T)</translation>
     </message>
     <message>
         <source>Display file transfers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示文件传输</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
@@ -5149,7 +5150,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">联系人</translation>
     </message>
     <message>
         <source>Manage contacts</source>
@@ -5209,7 +5210,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Display server log messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示服务器日志消息</translation>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
@@ -5229,7 +5230,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage client permissions</source>
@@ -5429,7 +5430,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve connection information</source>
@@ -5513,7 +5514,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接(&amp;C)</translation>
     </message>
     <message>
         <source>S&amp;elf</source>
@@ -5557,7 +5558,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Filetransfer in progress</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输中</translation>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
@@ -5571,15 +5572,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你真的想要退出么？</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Failed to start Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动 Overwolf 失败</translation>
     </message>
 </context>
 <context>
