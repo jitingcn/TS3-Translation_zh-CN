@@ -4974,7 +4974,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
-        <translation type="unfinished">关于 TeamSpeak 3(&amp;A)</translation>
+        <translation>关于 TeamSpeak 3(&amp;A)</translation>
     </message>
     <message>
         <source>Show application and copyright information</source>
@@ -4982,15 +4982,15 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished">连接服务器(&amp;C)</translation>
+        <translation>连接服务器(&amp;C)</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
-        <translation type="unfinished">连接到一个 TeamSpeak 服务器</translation>
+        <translation>连接到一个 TeamSpeak 服务器</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Current</source>
@@ -4998,7 +4998,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished">Ctrl+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
@@ -5022,19 +5022,19 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished">Ctrl+Shift+S</translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished">Ctrl+Q</translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
-        <translation type="unfinished">退出 TeamSpeak</translation>
+        <translation>退出 TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Toggle Away Status</source>
@@ -5114,7 +5114,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Start &amp;Overwolf</source>
@@ -5134,43 +5134,43 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+U</source>
-        <translation type="unfinished">Ctrl+U</translation>
+        <translation>Ctrl+U</translation>
     </message>
     <message>
         <source>File &amp;Transfers</source>
-        <translation type="unfinished">传输文件(&amp;T)</translation>
+        <translation>文件传输(&amp;T)</translation>
     </message>
     <message>
         <source>Display file transfers</source>
-        <translation type="unfinished">显示文件传输</translation>
+        <translation>显示文件传输</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+T</translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished">联系人</translation>
+        <translation>联系人</translation>
     </message>
     <message>
         <source>Manage contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>管理联系人</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 网站(&amp;W)</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官网: www.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;myTeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 账号(&amp;M)</translation>
     </message>
     <message>
         <source>Visit the myTeamSpeak account webpage</source>
@@ -5194,7 +5194,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Client &amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端日志(&amp;L)</translation>
     </message>
     <message>
         <source>Display client log</source>
@@ -5202,23 +5202,23 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+L</source>
-        <translation type="unfinished">Ctrl+L</translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <source>&amp;Server Log</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器日志(&amp;S)</translation>
     </message>
     <message>
         <source>Display server log messages</source>
-        <translation type="unfinished">显示服务器日志消息</translation>
+        <translation>显示服务器日志消息</translation>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
-        <translation type="unfinished">Ctrl+Shift+L</translation>
+        <translation>Ctrl+Shift+L</translation>
     </message>
     <message>
         <source>&amp;Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器组(&amp;S)</translation>
     </message>
     <message>
         <source>Manage server group permissions</source>
@@ -5226,11 +5226,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F1</source>
-        <translation type="unfinished">Ctrl+F1</translation>
+        <translation>Ctrl+F1</translation>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
-        <translation type="unfinished">用户权限(&amp;C)</translation>
+        <translation>用户权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage client permissions</source>
@@ -5238,7 +5238,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F2</source>
-        <translation type="unfinished">Ctrl+F2</translation>
+        <translation>Ctrl+F2</translation>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
@@ -5250,7 +5250,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F3</source>
-        <translation type="unfinished">Ctrl+F3</translation>
+        <translation>Ctrl+F3</translation>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
@@ -5262,7 +5262,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F4</source>
-        <translation type="unfinished">Ctrl+F4</translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
@@ -5274,7 +5274,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation type="unfinished">Ctrl+F5</translation>
+        <translation>Ctrl+F5</translation>
     </message>
     <message>
         <source>Check for &amp;Update</source>
@@ -5302,7 +5302,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished">Ctrl+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
@@ -5338,7 +5338,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
-        <translation type="unfinished">Ctrl+Shift+R</translation>
+        <translation>Ctrl+Shift+R</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
@@ -5350,7 +5350,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
-        <translation type="unfinished">Ctrl+Shift+T</translation>
+        <translation>Ctrl+Shift+T</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -5366,7 +5366,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
@@ -5382,7 +5382,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished">Ctrl+Shift+B</translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <source>Complaints List</source>
@@ -5394,7 +5394,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished">Ctrl+Shift+C</translation>
+        <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
         <source>View &amp;Changelog</source>
@@ -5430,7 +5430,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connection Info</source>
-        <translation type="unfinished">连接信息(&amp;C)</translation>
+        <translation>连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve connection information</source>
@@ -5446,7 +5446,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished">自定义工具栏</translation>
+        <translation>自定义工具栏</translation>
     </message>
     <message>
         <source>Master Volume</source>
@@ -5462,7 +5462,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished">Ctrl+Shift+W</translation>
+        <translation>Ctrl+Shift+W</translation>
     </message>
     <message>
         <source>&amp;Whisper History</source>
@@ -5474,7 +5474,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
-        <translation type="unfinished">Ctrl+Shift+H</translation>
+        <translation>Ctrl+Shift+H</translation>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
@@ -5514,7 +5514,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished">连接(&amp;C)</translation>
+        <translation>连接(&amp;C)</translation>
     </message>
     <message>
         <source>S&amp;elf</source>
@@ -5558,7 +5558,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Filetransfer in progress</source>
-        <translation type="unfinished">文件传输中</translation>
+        <translation>文件传输中</translation>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
@@ -5572,15 +5572,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation type="unfinished">你真的想要退出么？</translation>
+        <translation>你真的想要退出么？</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Failed to start Overwolf</source>
-        <translation type="unfinished">启动 Overwolf 失败</translation>
+        <translation>启动 Overwolf 失败</translation>
     </message>
 </context>
 <context>
