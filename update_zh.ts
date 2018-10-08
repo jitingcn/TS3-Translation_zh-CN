@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>&lt;p&gt;Update in progress.&lt;/p&gt;&lt;p&gt;Are you sure you want to abort?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;正在更新。&lt;/p&gt;&lt;p&gt;你确定要中止操作吗？&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;正在更新。&lt;/p&gt;&lt;p&gt;您确定要中止操作吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Waiting until TeamSpeak 3 Client has been closed.</source>

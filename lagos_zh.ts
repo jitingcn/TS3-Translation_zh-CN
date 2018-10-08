@@ -22,7 +22,7 @@
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation>&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com&quot;&gt;寂听&lt;/a&gt;  ||  由于本人水平有限，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出修改意见</translation>
+        <translation>&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com&quot;&gt;寂听&lt;/a&gt;&lt;br&gt;由于本人水平有限，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出修改意见。&lt;br&gt;感谢所有参与项目的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -92,7 +92,7 @@
     <name>AccountLoginDialog</name>
     <message>
         <source>Login to your myTeamSpeak Account</source>
-        <translation>登录你的 myTeamSpeak 账号</translation>
+        <translation>登录您的 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Email Address:</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.</source>
-        <translation>恢复密钥用于加密你的数据，如果你忘记了你的账号密码，则需要密钥来恢复数据。</translation>
+        <translation>恢复密钥用于加密您的数据，如果您忘记了您的账号密码，则需要密钥来恢复数据。</translation>
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
@@ -294,7 +294,7 @@ After you verified your account, press the Login button.
         <source>The language will change after restarting TeamSpeak.
 Do you want to restart now?</source>
         <translation>界面语言将在重新启动 TeamSpeak 后改变。
-你想现在重启吗？</translation>
+您想现在重启吗？</translation>
     </message>
     <message>
         <source>Information</source>
@@ -674,7 +674,7 @@ Inserting a modified copy instead.</source>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
         <translation>
-            <numerusform>%n你真的想删除所选择的黑名单项目吗?</numerusform>
+            <numerusform>%n您真的想删除所选择的黑名单项目吗?</numerusform>
         </translation>
     </message>
     <message>
@@ -796,7 +796,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation>你的昵称的发音（可选）</translation>
+        <translation>您的昵称的发音（可选）</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
@@ -1244,7 +1244,7 @@ servers will not be cleared.</source>
     <name>ChooseNicknameDialog</name>
     <message>
         <source>Choose Your Nickname</source>
-        <translation>选择你的昵称</translation>
+        <translation>选择您的昵称</translation>
     </message>
     <message>
         <source>This is your identifying name which is displayed to other users.</source>
@@ -1252,7 +1252,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation>选择你的昵称：</translation>
+        <translation>选择您的昵称：</translation>
     </message>
 </context>
 <context>
@@ -1295,7 +1295,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished">总计</translation>
+        <translation>总计</translation>
     </message>
     <message>
         <source>Last IP</source>
@@ -5572,7 +5572,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation>你真的想要退出么？</translation>
+        <translation>您真的想要退出么？</translation>
     </message>
     <message>
         <source>Error</source>
