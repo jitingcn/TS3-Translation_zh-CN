@@ -4966,11 +4966,12 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>无法确定 telephony 表示什么东西</translatorcomment>
+        <translation type="unfinished">&lt;p&gt;您尚未配置电话帐户。&lt;/p&gt;&lt;p&gt;打开电话选项以设置新帐户？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished">/s</translation>
+        <translation>/s</translation>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
@@ -4978,7 +4979,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Show application and copyright information</source>
-        <translation type="unfinished"></translation>
+        <translation>显示程序许可和版权声明等信息</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
@@ -4994,7 +4995,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Disconnect from Current</source>
-        <translation type="unfinished"></translation>
+        <translation>断开当前连接的服务器(&amp;D)</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
@@ -5002,23 +5003,23 @@ Current: %1</source>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
-        <translation type="unfinished"></translation>
+        <translation>断开当前选项卡的服务器连接</translation>
     </message>
     <message>
         <source>&amp;Disconnect from All</source>
-        <translation type="unfinished"></translation>
+        <translation>断开所有服务器连接(&amp;D)</translation>
     </message>
     <message>
         <source>Disconnect from all TeamSpeak Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>断开与所有 TeamSpeak 服务器的连接</translation>
     </message>
     <message>
         <source>&amp;Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器列表(&amp;S)</translation>
     </message>
     <message>
         <source>Show list of known TeamSpeak 3 servers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示已知的 TeamSpeak 3 服务器列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
@@ -5038,39 +5039,39 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Toggle Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>切换离开状态(&amp;T)</translation>
     </message>
     <message>
         <source>Toggle the Away status</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到离开状态</translation>
     </message>
     <message>
         <source>&amp;Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>设置为离开(&amp;S)</translation>
     </message>
     <message>
         <source>Set your status to Away</source>
-        <translation type="unfinished"></translation>
+        <translation>将您的状态设置为离开</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>设置全局离开(&amp;S)</translation>
     </message>
     <message>
         <source>Set you status Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>将您的全局状态设置为离开</translation>
     </message>
     <message>
         <source>&amp;Set Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>设置离开状态信息(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>设置全局离开状态信息(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"></translation>
+        <translation>上线(&amp;O)</translation>
     </message>
     <message>
         <source>Set status to Online on the active server</source>
@@ -5106,11 +5107,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>设置(&amp;O)</translation>
     </message>
     <message>
         <source>Open options dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>打开软件设置</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -5118,19 +5119,19 @@ Current: %1</source>
     </message>
     <message>
         <source>Start &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 &amp;Overwolf</translation>
     </message>
     <message>
         <source>Start Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 Overwolf 叠加层</translation>
     </message>
     <message>
         <source>Collected &amp;URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>收集到的链接(&amp;U)</translation>
     </message>
     <message>
         <source>Display collected internet locations</source>
-        <translation type="unfinished"></translation>
+        <translation>显示服务器收集的链接(来自用户)</translation>
     </message>
     <message>
         <source>Ctrl+U</source>
@@ -5170,27 +5171,27 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;myTeamSpeak Account</source>
-        <translation>myTeamSpeak 账号(&amp;M)</translation>
+        <translation>&amp;myTeamSpeak账号 网站</translation>
     </message>
     <message>
         <source>Visit the myTeamSpeak account webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 myTeamSpeak 账号的网站</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Support Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官方支持论坛(&amp;S)</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak support forum at forum.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官方支持论坛: forum.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">租用自己的 TeamSpeak 服务器(&amp;R)</translation>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TeamSpeak 服务器 官方托管</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
@@ -5198,7 +5199,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Display client log</source>
-        <translation type="unfinished"></translation>
+        <translation>显示客户端日志</translation>
     </message>
     <message>
         <source>Ctrl+L</source>
@@ -5398,19 +5399,19 @@ Current: %1</source>
     </message>
     <message>
         <source>View &amp;Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>查看更新日志(&amp;C)</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 TeamSpeak 3 客户端更新日志</translation>
     </message>
     <message>
         <source>View &amp;License</source>
-        <translation type="unfinished"></translation>
+        <translation>查看许可证(&amp;L)</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client License</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 TeamSpeak 3 客户端许可证</translation>
     </message>
     <message>
         <source>Set &amp;Phonetic Nickname</source>
@@ -5422,11 +5423,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>权限码(&amp;P)</translation>
     </message>
     <message>
         <source>Manage privilege keys on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>管理服务器上的权限码</translation>
     </message>
     <message>
         <source>&amp;Connection Info</source>
@@ -5526,19 +5527,19 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>工具(&amp;T)</translation>
     </message>
     <message>
         <source>Teleph&amp;ony</source>
-        <translation type="unfinished"></translation>
+        <translation>电话(&amp;O)</translation>
     </message>
     <message>
         <source>P&amp;lugins</source>
-        <translation type="unfinished"></translation>
+        <translation>插件(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <source>On active server</source>
@@ -5546,15 +5547,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>离开设置</translation>
     </message>
     <message>
         <source>Install &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>安装 &amp;Overwolf</translation>
     </message>
     <message>
         <source>Install Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安装 Overwolf 叠加层</translation>
     </message>
     <message>
         <source>Filetransfer in progress</source>
@@ -5562,13 +5563,13 @@ Current: %1</source>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> %n 个文件正在传输中。</numerusform>
         </translation>
     </message>
     <message>
         <source>If you quit now, any transfer will be aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您现在退出，任何文件传输都将中止。</translation>
     </message>
     <message>
         <source>Do you really want to quit?</source>
