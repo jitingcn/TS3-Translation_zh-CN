@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>This add-on is not available for your platform.</source>
-        <translation>这个附加组件不可用于你的操作系统。</translation>
+        <translation>这个附加组件不可用于您的操作系统。</translation>
     </message>
     <message>
         <source>Install</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>&lt;p&gt;You are about to install a Plugin for your TeamSpeak Client.&lt;/p&gt;&lt;p&gt;Plugins should only be installed from trusted sources, as it is possible to inject malicious code into the TeamSpeak client with a plugin.&lt;/p&gt;&lt;p&gt;Do you trust this Plugin and want to proceed installing?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;您即将为 TeamSpeak 客户端安装插件。&lt;/p&gt;&lt;p&gt;你应只安装从可信的来源获取的插件，否则恶意代码可能会被注入TeamSpeak客户端。&lt;/p&gt;&lt;p&gt;你信任这个插件并想继续安装吗？&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;您即将为 TeamSpeak 客户端安装插件。&lt;/p&gt;&lt;p&gt;您应只安装从可信的来源获取的插件，否则恶意代码可能会被注入TeamSpeak客户端。&lt;/p&gt;&lt;p&gt;您信任这个插件并想继续安装吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>No TeamSpeak 3 Client installation directory found.</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>&lt;p&gt;Add-On successfully installed.&lt;br&gt;Do you want to activate this Add-On?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Please restart your TeamSpeak Client.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;附加组件安装成功。&lt;br&gt;你想激活这个附加组件吗？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;请重启您的 TeamSpeak 客户端。&lt;/strong&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;附加组件安装成功。&lt;br&gt;您想激活这个附加组件吗？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;请重启您的 TeamSpeak 客户端。&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Add-On successfully installed.</source>
@@ -87,7 +87,7 @@
         <source>Failed to install Add-On.
 Do you want to retry as Administrator?</source>
         <translation>附加组件安装失败。
-你想使用系统管理员身份重试吗？</translation>
+您想使用系统管理员身份重试吗？</translation>
     </message>
     <message>
         <source>Failed to install Add-On.</source>
