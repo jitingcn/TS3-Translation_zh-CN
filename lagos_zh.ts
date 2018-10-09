@@ -4967,7 +4967,7 @@ Current: %1</source>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
         <translatorcomment>无法确定 telephony 表示什么东西</translatorcomment>
-        <translation type="unfinished">&lt;p&gt;您尚未配置电话帐户。&lt;/p&gt;&lt;p&gt;打开电话选项以设置新帐户？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;您尚未配置语音帐户。&lt;/p&gt;&lt;p&gt;打开语音选项以设置新帐户？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>/s</source>
@@ -5531,7 +5531,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Teleph&amp;ony</source>
-        <translation>电话(&amp;O)</translation>
+        <translation>语音(&amp;O)</translation>
     </message>
     <message>
         <source>P&amp;lugins</source>
