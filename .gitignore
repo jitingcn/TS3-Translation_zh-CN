@@ -1,5 +1,3 @@
 *.qm
 *.bat
-permissions.ts
 qt_zh.ts
-ts_core_errors.ts
