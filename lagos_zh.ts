@@ -1353,7 +1353,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;all selected clients&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="unfinished">永久删除 &lt;strong&gt;所有已选择的客户&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
+        <translation>永久删除 &lt;strong&gt;所有已选择的客户&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;%1&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
@@ -13377,51 +13377,51 @@ Once used, the privilege key will become invalid.</source>
     <name>guiSetupDialog</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>风格</translation>
     </message>
     <message>
         <source>Select style of TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 TeamSpeak 的界面风格</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>系统默认</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
     <message>
         <source>Select stylesheet from &quot;styles&quot; directory</source>
-        <translation type="unfinished"></translation>
+        <translation>从“风格”目录中选择样式</translation>
     </message>
     <message>
         <source>Icon Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>图标包</translation>
     </message>
     <message>
         <source>Visit TeamSpeak Addons webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak Addons 网站</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Transparency of main window</source>
-        <translation type="unfinished"></translation>
+        <translation>主窗口的透明度</translation>
     </message>
     <message>
         <source>Channel Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>频道树</translation>
     </message>
     <message>
         <source>Expand the complete channel tree when logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开完整的频道树。</translation>
     </message>
     <message>
         <source>Expand all channels on login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开所有频道树</translation>
     </message>
     <message>
         <source>Expand channels up to this level when logging in.
@@ -13501,248 +13501,248 @@ Once used, the privilege key will become invalid.</source>
     <name>passwordDialog</name>
     <message>
         <source>Channel Password</source>
-        <translation type="unfinished"></translation>
+        <translation>频道密码</translation>
     </message>
     <message>
         <source>Enter Password for Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入频道的密码：</translation>
     </message>
 </context>
 <context>
     <name>playbackSoundSetupDialog</name>
     <message>
         <source>Profile Details</source>
-        <translation type="unfinished"></translation>
+        <translation>配置详情</translation>
     </message>
     <message>
         <source>Playback Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>回放模式:</translation>
     </message>
     <message>
         <source>Playback Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>回放设备:</translation>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放测试音以测试播放设置</translation>
     </message>
     <message>
         <source>Mono Sound Expansion</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道扩展</translation>
     </message>
     <message>
         <source>Mono to stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道转立体声</translation>
     </message>
     <message>
         <source>Mono to center speaker (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转换单声道为立体声（如果可用）</translation>
     </message>
     <message>
         <source>Mono to surround (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转换单声道为环绕（如果可用）</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Always set clients 3D positions when available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">始终在可用时设置用户3D位置</translation>
     </message>
     <message>
         <source>Own client plays mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地客户端播放麦克风点击</translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">其他客户端播放麦克风点击</translation>
     </message>
 </context>
 <context>
     <name>securitySetupDialog</name>
     <message>
         <source>Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Save channel passwords to your computer.&lt;BR/&gt;This might pose a security risk if anyone can access the passwords file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;将频道密码保存到您的计算机。&lt;BR/&gt;如果任何人都可以访问密码文件，这可能会带来安全风险。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Save channel passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>保存频道密码</translation>
     </message>
     <message>
         <source>Clear Channel Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>清除频道密码</translation>
     </message>
     <message>
         <source>Use a master password</source>
-        <translation type="unfinished"></translation>
+        <translation>使用主密码</translation>
     </message>
     <message>
         <source>Change Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>更改主密码</translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Clear cache when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>当客户端关闭时清除缓存</translation>
     </message>
     <message>
         <source>Clear Cache on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出时清除缓存</translation>
     </message>
     <message>
         <source>Clear collected URLs when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端关闭时清除收集的URL</translation>
     </message>
     <message>
         <source>Clear URLs on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出时清除URLs</translation>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>清除缓存</translation>
     </message>
     <message>
         <source>Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>身份标识</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户身份标识</translation>
     </message>
     <message>
         <source>Identity Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>用户标识管理器</translation>
     </message>
 </context>
 <context>
     <name>sound3Dwidget</name>
     <message>
         <source>3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 音效</translation>
     </message>
     <message>
         <source>Select Client</source>
-        <translation type="unfinished"></translation>
+        <translation>用户选择</translation>
     </message>
     <message>
         <source>x: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>x: 0</translation>
     </message>
     <message>
         <source>y: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>y: 0</translation>
     </message>
     <message>
         <source>z: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>z: 0</translation>
     </message>
     <message>
         <source>Add Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>添加频道管理员</translation>
     </message>
     <message>
         <source>Add Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>添加服务器组</translation>
     </message>
     <message>
         <source>Add Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>添加频道组</translation>
     </message>
     <message>
         <source>Arrange Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>用户排列</translation>
     </message>
     <message>
         <source>Center Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>居中选中</translation>
     </message>
     <message>
         <source>Center All</source>
-        <translation type="unfinished"></translation>
+        <translation>居中所有</translation>
     </message>
     <message>
         <source>All Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>所有环绕我</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>半径</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>Test Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>测试模式</translation>
     </message>
     <message>
         <source>Add Test User</source>
-        <translation type="unfinished"></translation>
+        <translation>添加测试用户</translation>
     </message>
     <message>
         <source>Rotate Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转半径</translation>
     </message>
     <message>
         <source>Rotate Around Oneself</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕用户旋转</translation>
     </message>
     <message>
         <source>Rotate Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕我旋转</translation>
     </message>
     <message>
         <source>Rotate Around Center</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕中心旋转</translation>
     </message>
     <message>
         <source>Selected only</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>顺时针</translation>
     </message>
     <message>
         <source>Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>逆时针</translation>
     </message>
     <message>
         <source>Start Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>开始旋转</translation>
     </message>
     <message>
         <source>Stop Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>结束旋转</translation>
     </message>
     <message>
         <source>Toggle borders</source>
-        <translation type="unfinished"></translation>
+        <translation>切换边界</translation>
     </message>
     <message>
         <source>Play test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>播放测试音</translation>
     </message>
     <message>
         <source>Enable 3D sound</source>
-        <translation type="unfinished"></translation>
+        <translation>开启3D音效</translation>
     </message>
     <message>
         <source>Disband overlapping text</source>
-        <translation type="unfinished"></translation>
+        <translation>解除叠加文本</translation>
     </message>
 </context>
 </TS>
