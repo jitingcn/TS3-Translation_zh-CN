@@ -9,8 +9,7 @@
     </message>
     <message>
         <source>b_serverinstance_help_view_long</source>
-        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;help&lt;/b&gt;&quot;.&lt;/p&gt;Provides information about ServerQuery commands. Using without parameters, &quot;&lt;b&gt;help&lt;/b&gt;&quot; lists and briefly describes every command.&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;help&lt;/b&gt;&quot;.&lt;/p&gt;Provides information about ServerQuery commands. Using without parameters, &quot;&lt;b&gt;help&lt;/b&gt;&quot; lists and briefly describes every command.&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
@@ -19,8 +18,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_version_view_long</source>
         <translation>Allows using the ServerQuery command &quot;&lt;b&gt;version&lt;/b&gt;&quot;.&lt;br&gt;&lt;br&gt;Provides the servers version information including platform and build number.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help version&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help version&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
@@ -31,8 +29,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; and &quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot;.&lt;/p&gt;
 &quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; provides detailed connection information about the server instance including uptime, number of virtual servers online, traffic information, etc.&lt;br&gt;&lt;br&gt;
 &quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot; provides detailed configuration information about the server instance including database revision number, file transfer port, default group IDs, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help hostinfo&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help hostinfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list</source>
@@ -41,8 +38,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_virtualserver_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverlist&lt;/b&gt;&quot;.&lt;/p&gt;Provides a list of virtual servers including their ID, status, number of clients online, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverlist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverlist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list</source>
@@ -51,8 +47,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_binding_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;bindinglist&lt;/b&gt;&quot;.&lt;/p&gt;Provides a list of IP addresses used by the server instance on multi-homed machines.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help bindinglist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help bindinglist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list</source>
@@ -61,8 +56,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_permission_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;permissionlist&lt;/b&gt;&quot;.&lt;/p&gt;Provides a list of permissions available on the server instance including ID, name and description.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permissionlist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permissionlist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find</source>
@@ -71,8 +65,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_permission_find_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;permfind&lt;/b&gt;&quot;.&lt;/p&gt;Provides detailed information about all assignments of the permission which can be specified by &lt;i&gt;permid&lt;/i&gt; or &lt;i&gt;permsid&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_create</source>
@@ -81,8 +74,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_create_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;servercreate&lt;/b&gt;&quot;.&lt;/p&gt;Creates a new virtual server using the given properties. Beside an ID and a port, there is also a privilege key returned, which can be used to gain administrative access.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servercreate&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servercreate&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_delete</source>
@@ -91,8 +83,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_delete_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverdelete&lt;/b&gt;&quot;.&lt;/p&gt;Deletes the virtual server specified with &lt;i&gt;sid&lt;/i&gt;. Please note that only stopped virtual servers can be deleted.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverdelete&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverdelete&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_start_any</source>
@@ -101,8 +92,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_start_any_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverstart&lt;/b&gt;&quot;.&lt;/p&gt;Starts all virtual servers in the server instance.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstart&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstart&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_stop_any</source>
@@ -111,8 +101,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_stop_any_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverstop&lt;/b&gt;&quot;.&lt;/p&gt;Stops all virtual servers in the server instance.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstop&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstop&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_change_machine_id</source>
@@ -137,8 +126,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverquery_login_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;login&lt;/b&gt;&quot;.&lt;/p&gt;To authenticate against the server instance via ServerQuery by given name and password.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help login&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help login&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_textmessage_send</source>
@@ -147,8 +135,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_textmessage_send_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;gm&lt;/b&gt;&quot;.&lt;/p&gt; Sends a text message to all clients on all running virtual servers.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help gm&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help gm&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_log_view</source>
@@ -157,8 +144,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_log_view_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;logview&lt;/b&gt;&quot;.&lt;/p&gt;Depending on the assigned permissions, it retrieves a specified number of entries from the server instance log and/or thr virtual servers log.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logview&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logview&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_log_add</source>
@@ -167,8 +153,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_log_add_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;logadd&lt;/b&gt;&quot;.&lt;/p&gt;Depending on the assigned permissions, the custom entry is written into the server instance log and/or the virtual servers log.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logadd&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logadd&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_stop</source>
@@ -177,8 +162,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_stop_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverprocessstop&lt;/b&gt;&quot;.&lt;/p&gt;Stops the entire server instance by shutting down the process.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverprocessstop&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverprocessstop&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_settings</source>
@@ -187,8 +171,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_serverinstance_modify_settings_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;instanceedit&lt;b&gt;&quot;.&lt;/p&gt;Changes the server instance configuration using the given properties.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help instanceedit&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help instanceedit&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_querygroup</source>
@@ -213,8 +196,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_select_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;use&lt;/b&gt;&quot;.&lt;/p&gt;Selects a virtual server via ServerQuery by its given parameter &lt;i&gt;sid&lt;/i&gt; or &lt;i&gt;port&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help use&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help use&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_info_view</source>
@@ -223,8 +205,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_info_view_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverinfo&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves detailed information about the selected virtual server inluding unique ID, number of clients online, configuration, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverinfo&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverinfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_connectioninfo_view</source>
@@ -241,8 +222,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_channel_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;channellist&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of channels on the virtual server including their ID, order name, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channellist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channellist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_search</source>
@@ -251,8 +231,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_channel_search_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;channelfind&lt;/b&gt;&quot;.&lt;/p&gt;Search for channels on the virtual server matching a given pattern.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelfind&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelfind&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_list</source>
@@ -261,8 +240,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_client_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;clientlist&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of connected clients on the virtual server including their ID, nickname, status flags, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientlist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientlist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_search</source>
@@ -271,8 +249,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_client_search_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;clientfind&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of clients matching a given name pattern.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientfind&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientfind&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_dblist</source>
@@ -297,8 +274,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_client_dbinfo_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;clientdbinfo&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves detailed database information about a client including unique ID, creation date, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientdbinfo&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientdbinfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_permission_find</source>
@@ -307,8 +283,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_permission_find_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;permfind&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves detailed informations about all local assignments of the permission specified by&lt;i&gt;permid&lt;/i&gt; or &lt;i&gt;permsid&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_custom_search</source>
@@ -317,8 +292,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_custom_search_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;customsearch&lt;/b&gt;&quot;.&lt;/p&gt;Searches for custom client properties specified by &lt;i&gt;ident&lt;/i&gt; and &lt;i&gt;value&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help customsearch&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help customsearch&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_start</source>
@@ -327,8 +301,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_start_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverstart&lt;/b&gt;&quot;.&lt;/p&gt;Starts the virtual server specified with &lt;i&gt;sid&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstart&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstart&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_stop</source>
@@ -337,8 +310,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_stop_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serverstop&lt;/b&gt;&quot;.&lt;/p&gt;Stops the virtual server specified with &lt;i&gt;sid&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstop&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serverstop&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_token_list</source>
@@ -379,8 +351,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_log_view_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;logview&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a specified number of entries from the virtual servers log.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logview&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logview&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_log_add</source>
@@ -389,8 +360,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_log_add_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;logadd&lt;/b&gt;&quot;.&lt;/p&gt;The custom entry is written into the virtual servers log.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logadd&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help logadd&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_join_ignore_password</source>
@@ -407,8 +377,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_notify_register_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;servernotifyregister&lt;/b&gt;&quot;.&lt;/p&gt;Registers for a type of events on a virtual server to receive notification messages in the ServerQuery client.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servernotifyregister&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servernotifyregister&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_notify_unregister</source>
@@ -417,8 +386,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_notify_unregister_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;servernotifyunregister&lt;/b&gt;&quot;.&lt;/p&gt;Unregisters from notification events previously registered, so notification messages were no longer reveived.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servernotifyunregister&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servernotifyunregister&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_snapshot_create</source>
@@ -427,8 +395,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_snapshot_create_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serversnapshotcreate&lt;/b&gt;&quot;.&lt;/p&gt;Creates a snapshot of the selected virtual server containing all settings, groups, channels and known client identities.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serversnapshotcreate&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serversnapshotcreate&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_snapshot_deploy</source>
@@ -437,8 +404,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_snapshot_deploy_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;serversnapshotdeploy&lt;/b&gt;&quot;.&lt;/p&gt;Restores the selected virtual servers configuration using the data from a previously created server snapshot.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serversnapshotdeploy&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help serversnapshotdeploy&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -448,8 +414,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;
     <message>
         <source>b_virtualserver_permission_reset_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;permreset&lt;/b&gt;&quot;.&lt;/p&gt; Resets the default permission settings on the selected virtual server and creates a new privilege key, which can immediately be used to gain administrative access.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permreset&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help permreset&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_name</source>
@@ -714,8 +679,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_channel_info_view_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;channelinfo&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves detailed configuration information about a channel including ID, topic, description, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelinfo&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelinfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1277,8 +1241,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;
     <message>
         <source>b_virtualserver_servergroup_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;servergrouplist&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of server groups available. Depending on permissions, the list may also contain global ServerQuery- and template groups.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servergrouplist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help servergrouplist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_servergroup_permission_list</source>
@@ -1303,8 +1266,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_virtualserver_channelgroup_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;channelgrouplist&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of channel groups available on the virtual server.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelgrouplist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help channelgrouplist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_channelgroup_permission_list</source>
@@ -1593,8 +1555,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>b_client_info_view_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;clientinfo&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves detailed configuration information about a client including unique ID, nickname, client version, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientinfo&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help clientinfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_client_permissionoverview_view</source>
@@ -1645,7 +1606,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;custominfo&lt;/b&gt;&quot; and &quot;&lt;b&gt;customsearch&lt;/b&gt;&quot;.&lt;/p&gt;
 &quot;&lt;b&gt;custominfo&lt;/b&gt;&quot; shows a list of custom properties for the client specified with &lt;i&gt;cldbid&lt;/i&gt;. &lt;br&gt;&lt;br&gt;
 &quot;&lt;b&gt;customsearch&lt;/b&gt;&quot; searches for custom client properties specified by &lt;i&gt;ident&lt;/i&gt; and &lt;i&gt;value&lt;/i&gt;.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help custominfo&lt;/b&gt;&quot; into the ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help custominfo&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>i_client_kick_from_server_power</source>
@@ -1911,7 +1872,7 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
         <source>b_client_modify_dbproperties_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;clientdbedit&lt;/b&gt;&quot;.&lt;/p&gt;
 Changes a clients settings using given properties.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;clientdbedit&lt;/b&gt;&quot; into the ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;clientdbedit&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_client_delete_dbproperties</source>
@@ -1944,8 +1905,7 @@ Changes a clients settings using given properties.
     <message>
         <source>b_ft_transfer_list_long</source>
         <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Allows using the ServerQuery command &quot;&lt;b&gt;ftlist&lt;/b&gt;&quot;.&lt;/p&gt;Retrieves a list of running file transfers on the selected virtual server. The output contains the path to which a file is loaded to, the current transfer rate in bytes per second, etc.
-&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help ftlist&lt;/b&gt;&quot; into the
-ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;For detailed informations, type &quot;&lt;b&gt;help ftlist&lt;/b&gt;&quot; into the ServerQuery or read the ServerQuery manual.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>i_ft_file_upload_power</source>
@@ -2066,6 +2026,22 @@ ServerQuery or read the ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     <message>
         <source>grant_desc_long</source>
         <translation>Every permission has an associated grant/modify privilege. These permissions control which permissions a client is allowed to grant or revoke, so they are the key to modifying the permission system and are thus usually reserved to administrators.</translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_nickname</source>
+        <translation>Modify Virtual Server Nicknames</translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_nickname_long</source>
+        <translation>Allows modifying the nicknames of the virtual server. Nicknames can be registered on the myTeamSpeak webpage. Nicknames can be used to easily connecto to a TeamSpeak server.</translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_integrations</source>
+        <translation>Modify Integrations</translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_integrations_long</source>
+        <translation>Allows modifying integrations of the virtual server. This includes adding and removing integrations as well as modifying the server group assignments for each tier.</translation>
     </message>
 </context>
 </TS>

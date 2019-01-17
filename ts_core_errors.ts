@@ -104,6 +104,10 @@
         <translation>client is not subscribed to the channel</translation>
     </message>
     <message>
+        <source>ts_core_error_672</source>
+        <translation>invalid myTeamSpeak ID data</translation>
+    </message>
+    <message>
         <source>ts_core_error_768</source>
         <translation>invalid channelID</translation>
     </message>
@@ -224,6 +228,14 @@
         <translation>server is already running under a different serverID</translation>
     </message>
     <message>
+        <source>ts_core_error_1039</source>
+        <translation>the time difference between server and client is too large</translation>
+    </message>
+    <message>
+        <source>ts_core_error_1040</source>
+        <translation>server blacklisted</translation>
+    </message>
+    <message>
         <source>ts_core_error_1280</source>
         <translation>database error</translation>
     </message>
@@ -326,6 +338,18 @@
     <message>
         <source>ts_core_error_1804</source>
         <translation>no whisper targets found</translation>
+    </message>
+    <message>
+        <source>ts_core_error_1805</source>
+        <translation>server uses an unsupported protocol</translation>
+    </message>
+    <message>
+        <source>ts_core_error_1806</source>
+        <translation>no common encryption algorithms</translation>
+    </message>
+    <message>
+        <source>ts_core_error_1807</source>
+        <translation>failed to validate server license</translation>
     </message>
     <message>
         <source>ts_core_error_2048</source>
@@ -576,6 +600,10 @@
         <translation>permission error</translation>
     </message>
     <message>
+        <source>ts_core_error_2573</source>
+        <translation>permission used by integration</translation>
+    </message>
+    <message>
         <source>ts_core_error_2816</source>
         <translation>virtualserver limit reached</translation>
     </message>
@@ -662,6 +690,78 @@
     <message>
         <source>ts_core_error_3840</source>
         <translation>invalid privilege key</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4352</source>
+        <translation>random number generator failed</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4353</source>
+        <translation>certificate signature is invalid</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4354</source>
+        <translation>invalid license key</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4355</source>
+        <translation>unable to create a valid certificate key</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4356</source>
+        <translation>out of memory</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4357</source>
+        <translation>certificate already exists</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4358</source>
+        <translation>read beyond end of certificate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4359</source>
+        <translation>write beyond end of certificate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4360</source>
+        <translation>invalid version in certifcate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4361</source>
+        <translation>invalid certificate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4362</source>
+        <translation>invalid date in certificate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4363</source>
+        <translation>not authorized to create certificate</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4364</source>
+        <translation>invalid certificate type</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4365</source>
+        <translation>certificate address does not match</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4366</source>
+        <translation>certificate is not valid yet</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4367</source>
+        <translation>certificate is expired</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4368</source>
+        <translation>certificate index out of range</translation>
+    </message>
+    <message>
+        <source>ts_core_error_4369</source>
+        <translation>certifcate invalid size</translation>
     </message>
 </context>
 </TS>
