@@ -212,6 +212,10 @@
         <source>Badges</source>
         <translation>徽章</translation>
     </message>
+    <message>
+        <source>Integrations</source>
+        <translation type="unfinished"></translation>
+    </message>	  
 </context>
 <context>
     <name>AccountVerifyDialog</name>
@@ -713,13 +717,21 @@ Inserting a modified copy instead.</source>
         <translation>启动时连接此服务器</translation>
     </message>
     <message>
-        <source>Server &amp;Address:</source>
-        <translation>服务器地址(&amp;A):</translation>
+        <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hostname or IP of the TeamSpeak 3 server,
+        <source>Send myTeamSpeak ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server Nickname or &amp;Address:</source>
+        <translation>服务器别名或地址(&amp;A):</translation>
+    </message>
+    <message>		 
+        <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation>TeamSpeak 3 服务器的主机名或IP地址，
+        <translation>TeamSpeak 3 服务器的别名、主机名或IP地址，
 示例： voice.teamspeak.com：9987</translation>
     </message>
     <message>
@@ -1372,88 +1384,71 @@ servers will not be cleared.</source>
     <name>ClientLogView</name>
     <message>
         <source>Client Log</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端日志</translation>
     </message>
     <message>
         <source>&amp;Critical</source>
-        <translation type="unfinished"></translation>
+        <translation>严重(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>错误(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>信息(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>调试(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation>高亮(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation type="unfinished"></translation>
+        <translation>排除过滤器(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索(&amp;S):</translation>
     </message>
     <message>
         <source>Search text in log.
 Press Enter to search next location.</source>
-        <translation type="unfinished"></translation>
+        <translation>在日志中搜索文本。
+按Enter键搜索下一个位置。</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器(&amp;F):</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
 Press Enter to apply filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>仅显示与过滤器文本匹配的行。
+按Enter键应用过滤器。</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>区分大小写(&amp;C)</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>前一项</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>后一项</translation>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ClientQueryOptionsDialog</name>
-    <message>
-        <source>ClientQuery Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable ClientQuery logging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open telnet port for everyone</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;Warning&lt;/span&gt;: If you open the ClientQuery telnet port to everyone, other computers on your network can connect to your TeamSpeak client.&lt;/p&gt;&lt;p&gt;You should only enable this option if you really need this feature and have a firewall to protect your TeamSpeak client against access from outside your local network.&lt;/p&gt;&lt;p&gt;If you change this settings, you need to reload the ClientQuery plugin to take effect.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>分隔线</translation>
     </message>
 </context>
 <context>
@@ -3528,6 +3523,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Active tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Keep dialog open</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4314,11 +4313,6 @@ Failed to upload icon.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Selected icon is too large.
-The maximum size is %1x%2 pixels.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Selected icon file is too large.
 The maximum allowed file size is %1 kB.</source>
         <translation type="unfinished"></translation>
@@ -4485,55 +4479,39 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name:</source>
+        <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Address:</source>
+        <source>Server Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Version:</source>
+        <source>Current Clients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 on %2</source>
+        <source>Total Client Connections</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>License:</source>
+        <source>Current Channels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Uptime:</source>
+        <source>Uptime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current Channels:</source>
+        <source>Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Total Client Connections: %1</source>
+        <source>Nicknames</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-%1 reserved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total ServerQuery Connections: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Queries:</source>
+        <source>License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4545,11 +4523,35 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Channel Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moderated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unlimited</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inherited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Codec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4569,63 +4571,31 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Topic:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec Quality:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(estimated bitrate: %1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flags:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Family Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required Talk Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Voice Data Encryption:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel will be deleted in %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Needed Talk Power</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Transmission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Timer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4633,7 +4603,49 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>%1 %2 on %3</source>
+        <comment>3.1.5 [Stable] on Windows</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 on %2</source>
+        <comment>3.1.5 on Windows</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Modifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online since</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>[Inherited from: %1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel Group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4669,57 +4681,27 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Custom nickname:</source>
+        <source>Invalid License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Platform:</source>
+        <source>No License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel Group:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>Server Group(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Online since:</source>
+        <source>Host Provider License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Volume modifier:</source>
+        <source>LAN License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Description:</source>
+        <source>Non-Profit License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Talk Power Request:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reason for Talk Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Licensed hosting provider</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offline license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Non-profit license</source>
+        <source>Activation License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4850,13 +4832,6 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
 </context>
 <context>
-    <name>LuaConfigDialog</name>
-    <message>
-        <source>Lua Modules</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>Toolbar</source>
@@ -4933,12 +4908,12 @@ Current: %1</source>
         <translation>信息</translation>
     </message>
     <message>
-        <source>&lt;p&gt;This is the last TeamSpeak version available for Windows XP.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows Vista or newer.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;这是适用于 Windows XP 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows Vista 或更新版本。&lt;/p&gt;</translation>
+        <source>&lt;p&gt;This is the last TeamSpeak version available for Windows Vista.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows 7 or newer.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;这是适用于 Windows Vista 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows 7 或更新版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Use Privilege Key</source>
-        <translation>使用权限码</translation>
+        <translation>使用权限密钥</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
@@ -4966,8 +4941,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
-        <translatorcomment>无法确定 telephony 表示什么东西</translatorcomment>
-        <translation type="unfinished">&lt;p&gt;您尚未配置语音帐户。&lt;/p&gt;&lt;p&gt;打开语音选项以设置新帐户？&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;您尚未配置语音帐户。&lt;/p&gt;&lt;p&gt;打开语音选项以设置新帐户？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>/s</source>
@@ -5075,35 +5049,35 @@ Current: %1</source>
     </message>
     <message>
         <source>Set status to Online on the active server</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动服务器上将状态设置为在线</translation>
     </message>
     <message>
         <source>&amp;Online on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>全部上线(&amp;O)</translation>
     </message>
     <message>
         <source>Set your status to online on the all server</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上将状态设置为在线</translation>
     </message>
     <message>
         <source>(Un)Mute the Microphone on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前服务器上将麦克风静音/取消静音</translation>
     </message>
     <message>
         <source>&amp;Activate Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>激活麦克风(&amp;A)</translation>
     </message>
     <message>
         <source>Activate the Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>激活麦克风</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前服务器上的语音静音</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>将所有服务器上的语音静音</translation>
     </message>
     <message>
         <source>&amp;Options</source>
@@ -5187,11 +5161,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
-        <translation type="unfinished">租用自己的 TeamSpeak 服务器(&amp;R)</translation>
+        <translation>租用自己的 TeamSpeak 服务器(&amp;R)</translation>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation type="unfinished">TeamSpeak 服务器 官方托管</translation>
+        <translation>TeamSpeak 服务器 官方托管</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
@@ -5223,7 +5197,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Manage server group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理服务器组权限</translation>
     </message>
     <message>
         <source>Ctrl+F1</source>
@@ -5235,7 +5209,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Manage client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户权限</translation>
     </message>
     <message>
         <source>Ctrl+F2</source>
@@ -5243,11 +5217,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>频道权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理频道权限</translation>
     </message>
     <message>
         <source>Ctrl+F3</source>
@@ -5255,11 +5229,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>频道组(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理频道组权限</translation>
     </message>
     <message>
         <source>Ctrl+F4</source>
@@ -5267,11 +5241,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>用户频道权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理用户频道权限</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -5279,27 +5253,27 @@ Current: %1</source>
     </message>
     <message>
         <source>Check for &amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>检查客户端更新(&amp;U)</translation>
     </message>
     <message>
         <source>Check if a new TeamSpeak 3 client version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>检查是否有新的 TeamSpeak 3 客户端版本</translation>
     </message>
     <message>
         <source>Show News &amp;Ticker</source>
-        <translation type="unfinished"></translation>
+        <translation>显示新闻(&amp;T)</translation>
     </message>
     <message>
         <source>Show latest news about TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>显示有关 TeamSpeak 的最新消息</translation>
     </message>
     <message>
         <source>&amp;Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>身份(&amp;I)</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户身份</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -5307,35 +5281,35 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ServerQuery 登录</translation>
     </message>
     <message>
         <source>Set login name and password for your ServerQuery connection</source>
-        <translation type="unfinished"></translation>
+        <translation>设置 ServerQuery 连接的登录名和密码</translation>
     </message>
     <message>
         <source>Use &amp;Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Use Privilege Key to get specific permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限密钥获取特定权限</translation>
     </message>
     <message>
         <source>Channel &amp;Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>用户频道组(&amp;G)</translation>
     </message>
     <message>
         <source>Display channel groups of specified client</source>
-        <translation type="unfinished"></translation>
+        <translation>显示指定客户端的频道组</translation>
     </message>
     <message>
         <source>Start &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>开始录音(&amp;R)</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>开始录音</translation>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
@@ -5343,11 +5317,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录音(&amp;R)</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录音</translation>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
@@ -5355,15 +5329,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>状态栏</translation>
     </message>
     <message>
         <source>Offline Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>离线消息</translation>
     </message>
     <message>
         <source>Open Offline Message Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>打开离线消息对话框</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
@@ -5371,15 +5345,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
-        <translation type="unfinished"></translation>
+        <translation>切换频道订阅模式</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>封禁列表</translation>
     </message>
     <message>
         <source>Opens the Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>打开封禁名单</translation>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
@@ -5387,11 +5361,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Complaints List</source>
-        <translation type="unfinished"></translation>
+        <translation>抱怨列表</translation>
     </message>
     <message>
         <source>Show list of complaints</source>
-        <translation type="unfinished"></translation>
+        <translation>显示投诉列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
@@ -5415,19 +5389,19 @@ Current: %1</source>
     </message>
     <message>
         <source>Set &amp;Phonetic Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>设置昵称音素(&amp;P)</translation>
     </message>
     <message>
         <source>Set your nickname written in phonemes</source>
-        <translation type="unfinished"></translation>
+        <translation>设置你的昵称的发音方式</translation>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
-        <translation>权限码(&amp;P)</translation>
+        <translation>权限密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Manage privilege keys on this server</source>
-        <translation>管理服务器上的权限码</translation>
+        <translation>管理服务器上的权限密钥</translation>
     </message>
     <message>
         <source>&amp;Connection Info</source>
@@ -5435,15 +5409,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Retrieve connection information</source>
-        <translation type="unfinished"></translation>
+        <translation>检索连接信息</translation>
     </message>
     <message>
         <source>&amp;List All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>所有客户端列表(&amp;L)</translation>
     </message>
     <message>
         <source>Show list of all clients on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>显示当前服务器所有用户的投诉列表</translation>
     </message>
     <message>
         <source>Customize Toolbar</source>
@@ -5451,15 +5425,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>主音量</translation>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>密语(&amp;W)</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
-        <translation type="unfinished"></translation>
+        <translation>管理密语列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
@@ -5467,11 +5441,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Whisper History</source>
-        <translation type="unfinished"></translation>
+        <translation>密语记录(&amp;W)</translation>
     </message>
     <message>
         <source>Show whisper history for current server</source>
-        <translation type="unfinished"></translation>
+        <translation>显示当前服务器的密语日志</translation>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
@@ -5479,39 +5453,39 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请好友(&amp;I)</translation>
     </message>
     <message>
         <source>Invite a buddy to this server</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请好友加入这个服务器</translation>
     </message>
     <message>
         <source>&amp;Toggle ServerQueryClients</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 ServerQueryClients (&amp;T)</translation>
     </message>
     <message>
         <source>Toggle ServerQueryClients on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>在此服务器上切换 ServerQueryClients</translation>
     </message>
     <message>
         <source>T&amp;oggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换阻止传入的密语(&amp;T)</translation>
     </message>
     <message>
         <source>Toggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换阻止传入的密语</translation>
     </message>
     <message>
         <source>&amp;Call</source>
-        <translation type="unfinished"></translation>
+        <translation>呼叫(&amp;C)</translation>
     </message>
     <message>
         <source>Call user</source>
-        <translation type="unfinished"></translation>
+        <translation>呼叫用户</translation>
     </message>
     <message>
         <source>Open telephony settings</source>
-        <translation type="unfinished"></translation>
+        <translation>打开语音设置</translation>
     </message>
     <message>
         <source>&amp;Connections</source>
@@ -5519,11 +5493,11 @@ Current: %1</source>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation type="unfinished"></translation>
+        <translation>个人设定(&amp;E)</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
-        <translation type="unfinished"></translation>
+        <translation>权限(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -5543,7 +5517,7 @@ Current: %1</source>
     </message>
     <message>
         <source>On active server</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动服务器上</translation>
     </message>
     <message>
         <source>Set Away</source>
@@ -5555,7 +5529,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Install Overwolf Overlay</source>
-        <translation type="unfinished">安装 Overwolf 叠加层</translation>
+        <translation>安装 Overwolf (叠加层)软件</translation>
     </message>
     <message>
         <source>Filetransfer in progress</source>
@@ -5667,6 +5641,21 @@ Current: %1</source>
     </message>
     <message>
         <source>The preset name already exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MicPermissionDialog</name>
+    <message>
+        <source>Unfortunately, the operating system denied access to the microphone.&lt;br&gt;Click &lt;a href = &quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unfortunately, the operating system denied access to the microphone. Please check your permission settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Error</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7429,6 +7418,22 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Discard is only available on Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discard is not available in default mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Synchronized profiles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7462,6 +7467,34 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>(invalid)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+		<source>Speex Narrowband</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speex Wideband</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speex Ultra-Wideband</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CELT Mono</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opus Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opus Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Codec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7541,6 +7574,18 @@ This can NOT be undone</source>
         <source>&lt;p&gt;Failed to start &quot;%1&quot;.&lt;/p&gt;&lt;p&gt;Please start createfileassoc.exe manually.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ignore&lt;/strong&gt; to not show this message again.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed to load ca certificates!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please install ca certficates on your system, or specify the location using the SSL_CERT_DIR or SSL_CERT_FILE environment variable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to initialize data backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RecorderLabel</name>
@@ -7579,11 +7624,11 @@ This can NOT be undone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for channel &quot;%1&quot; (%2) was not found.</source>
+        <source>The icon for channel &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for client &quot;%1&quot; (%2) was not found.</source>
+        <source>The icon for client &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8216,11 +8261,67 @@ Press Enter to apply filter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>We updated our myTeamSpeak services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update your client to continue using sync related features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>make sure to update your client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>myTeamSpeak session expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sync related features are unavailable at the moment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter the password for your current account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you skip this, you can visit the settings later to perform a new login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invalid server address: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aborting connection attempt to &apos;%1&apos;, already connecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This server configuration is deprecated. Support for this configuration will be dropped in the future.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please contact your server administrator. For details please see this %1Knowledge Base%2 article.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The TSDNS server &apos;%1&apos; does not know &apos;%2&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to resolve hostname &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8387,15 +8488,19 @@ Would you like to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aborting connection attempt to &apos;%1&apos;, already connecting</source>
+        <source>The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The TSDNS server &apos;%1&apos; does not know &apos;%2&apos;</source>
+        <source>Reconnecting might solve the issue.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to resolve hostname &apos;%1&apos;</source>
+        <source>myTeamSpeak notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The TeamSpeak server could not validate your myTeamSpeak ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8424,6 +8529,10 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Failed to connect to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection lost because server license can not be validated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8572,6 +8681,10 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Your description has been removed by %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renewed myTeamSpeak ID received and successfully validated.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8736,6 +8849,22 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Chat partner has closed the conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This server is blacklisted. Refusing to connect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection aborted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9263,34 +9392,6 @@ Would you like to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This server is blacklisted. Refusing to connect.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You have connected to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connection aborted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9344,6 +9445,10 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;This server requires a newer client version.&lt;/p&gt;&lt;p&gt;Please update your client or visit &lt;a href=&quot;www.teamspeak.com&quot;&gt;www.teamspeak.com&lt;/a&gt; to download the latest version.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The TeamSpeak server version is outdated. Please contact your hoster to update the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9656,6 +9761,12 @@ Do you want to apply your changes?</source>
             <numerusform></numerusform>
         </translation>
     </message>
+    <message numerus="yes">
+        <source>%n new warning message(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
 </context>
 <context>
     <name>StatusModel</name>
@@ -9729,22 +9840,9 @@ Do you want to apply your changes?</source>
             <numerusform></numerusform>
         </translation>
     </message>
-</context>
-<context>
-    <name>StatusWarningDisplay</name>
     <message>
-        <source>Show warnings</source>
+        <source>File transfer error</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear warnings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n new warning message(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
     </message>
 </context>
 <context>
@@ -10296,6 +10394,90 @@ Do you want to apply your changes?</source>
         <source>Channel tree</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>tree_tooltip_client.tpl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online since</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>tree_tooltip_channel.tpl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Codec Quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Codec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inherited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Data Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not subscribed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Needed Talk Power</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel will be deleted in %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UIFileTransferManager</name>
@@ -10471,6 +10653,10 @@ TeamSpeak will be closed if you proceed.</source>
         <translation>持续传输 - 保持音频捕获。</translation>
     </message>
     <message>
+        <source>The OS denied access to the microphone. Please click &lt;a href=&quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Begin Test</source>
         <translation>开始测试</translation>
     </message>
@@ -10482,10 +10668,6 @@ TeamSpeak will be closed if you proceed.</source>
 <context>
     <name>VirtualServerEditDialog</name>
     <message>
-        <source>Phonetic Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icon:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10494,11 +10676,11 @@ TeamSpeak will be closed if you proceed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Maximum Clients:</source>
+        <source>Server Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Server Name:</source>
+        <source>Maximum Clients:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10507,6 +10689,15 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Welcome Message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server Nicknames:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Server nicknames are registered on the myTeamSpeak webpage and can be used to easily connect to a TeamSpeak Server.&lt;/p&gt;
+&lt;p&gt;Enter already registered servernames here to show them to users. Seperate nicknames by linebreak.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10571,6 +10762,10 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Icon URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integrations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10686,11 +10881,11 @@ TeamSpeak will be closed if you proceed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Min clients in channel before silence:</source>
+        <source>Priority speaker dim modificator:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Priority speaker dim modificator:</source>
+        <source>Min clients in channel before silence:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10699,6 +10894,10 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phonetic Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10739,6 +10938,10 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Manage Virtual Server[*]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register Nickname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10817,6 +11020,18 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Host Message is empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>invalid character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>too small</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>too large</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12220,7 +12435,7 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;p&gt;Bookmarks have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
+        <source>&lt;p&gt;Bookmarks have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12249,6 +12464,14 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>New Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to synchronized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12474,6 +12697,14 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Move to synchronized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Import Identity</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12501,6 +12732,36 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Ini files (*.ini)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>com::teamspeak::ui::IntegrationBubble</name>
+    <message>
+        <source>Unknown (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>com::teamspeak::ui::IntegrationsWidget</name>
+    <message>
+        <source>Visit Dashboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add %1 account</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>com::teamspeak::ui::MyTSIDStatusWidget</name>
+    <message>
+        <source>The TeamSpeak server could not validate your myTeamSpeak ID.
+Some myTeamSpeak related services are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12555,6 +12816,53 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&lt;p&gt;Fallback means that all items on the server will be overwritten by your local items. If you have not synchronized with this client for a while, you may loose some remote items.&lt;br&gt;Only use this as a last resort if you lost your recovery key.&lt;/p&gt;&lt;p&gt;Do you really want to start the item fallback and overwrite all your remote items?&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>com::teamspeak::ui::ServerIntegrationsWidget</name>
+    <message>
+        <source>Show details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login to your myTeamSpeak account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link with your %1 account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server Integrations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove server integration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to remove server integration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available Integrations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This TeamSpeak server is outdated and does not support integrations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please contact your TeamSpeak server Administrator and ask to update this server.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12894,6 +13202,11 @@ Do you want to apply your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Plugin reported initialization failure.
+Please contact the plugin author.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12985,6 +13298,17 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Copy link to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>com::teamspeak::ui::integration::ServerIntegrations</name>
+    <message>
+        <source>An error occurred while trying to install integration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred while trying to delete integration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13164,45 +13488,13 @@ Do you want to apply your changes?</source>
     </message>
 </context>
 <context>
-    <name>com::teamspeak::ui::tsdns::Connector</name>
-    <message>
-        <source>Deprecated server configuration detected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This server configuration is deprecated.&lt;br&gt;Support for this configuration will be dropped with client version 3.1.1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please contact your server administrator.&lt;br&gt;For details please see this %1Knowledge Base%2 article.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Don&apos;t show this message again for this server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>connectDialog</name>
     <message>
         <source>Connect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Server &amp;Address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hostname or IP of the TeamSpeak 3 server,
-for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Nickname:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Too Short]</source>
+        <source>Server Nickname or &amp;Address:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13214,15 +13506,37 @@ for example: voice.teamspeak.com:9987</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
+for example: voice.teamspeak.com:9987</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Server password (optional)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Phonetic Nickname:</source>
+        <source>&amp;Nickname:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your nickname written as phonemes (optional)</source>
+        <source>[Too Short]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One-time privilege key used after connecting.
+Once used, the privilege key will become invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hotkey Profile:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send myTeamSpeak ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13230,11 +13544,27 @@ for example: voice.teamspeak.com:9987</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Phonetic Nickname:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Capture Profile:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Identity:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Join this channel on login (optional)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel &amp;Password:</source>
+        <source>Your nickname written as phonemes (optional)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Pack:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13246,28 +13576,11 @@ for example: voice.teamspeak.com:9987</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>One-time privilege key used after connecting.
-Once used, the privilege key will become invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Identity:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Capture Profile:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Playback Profile:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hotkey Profile:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound Pack:</source>
+        <source>Channel &amp;Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13458,6 +13771,10 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Show away message beside nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show tooltip info on hover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
