@@ -215,7 +215,7 @@
     <message>
         <source>Integrations</source>
         <translation type="unfinished"></translation>
-    </message>	  
+    </message>
 </context>
 <context>
     <name>AccountVerifyDialog</name>
@@ -718,17 +718,17 @@ Inserting a modified copy instead.</source>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID 获取 Twitch 集成和其他服务</translation>
     </message>
     <message>
         <source>Send myTeamSpeak ID</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID</translation>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
         <translation>服务器别名或地址(&amp;A):</translation>
     </message>
-    <message>		 
+    <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
         <translation>TeamSpeak 3 服务器的别名、主机名或IP地址，
@@ -7470,7 +7470,7 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-		<source>Speex Narrowband</source>
+        <source>Speex Narrowband</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12116,7 +12116,7 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::AccountSetup</name>
     <message>
         <source>myTeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Automatic&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as synchronized items by default.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Manual&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as local items by default, you decide which individual items will be synchronized.&lt;/p&gt;</source>
@@ -12345,31 +12345,31 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::Bookmarks</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>不再显示</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签管理器(&amp;M)</translation>
     </message>
     <message>
         <source>Manage bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>管理书签</translation>
     </message>
     <message>
         <source>Ctrl+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <source>&amp;Add to Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到书签(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -13623,67 +13623,67 @@ Once used, the privilege key will become invalid.</source>
     <name>downloadSetupDialog</name>
     <message>
         <source>Download Location</source>
-        <translation type="unfinished"></translation>
+        <translation>下载位置</translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>下载文件夹:</translation>
     </message>
     <message>
         <source>Always save to this folder</source>
-        <translation type="unfinished"></translation>
+        <translation>始终保存到此文件夹</translation>
     </message>
     <message>
         <source>Ask for save folder on every download</source>
-        <translation type="unfinished"></translation>
+        <translation>在每次下载时询问保存文件夹位置</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>改变</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>界面</translation>
     </message>
     <message>
         <source>Show file transfers window when a download starts</source>
-        <translation type="unfinished"></translation>
+        <translation>下载开始时显示文件传输窗口</translation>
     </message>
     <message>
         <source>Close file transfers window when all downloads are finished</source>
-        <translation type="unfinished"></translation>
+        <translation>所有下载完成后关闭文件传输窗口</translation>
     </message>
     <message>
         <source>Display tray icon balloon message when file transfer finishes</source>
-        <translation type="unfinished"></translation>
+        <translation>文件传输完成后显示托盘气泡</translation>
     </message>
     <message>
         <source>Upload Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>上传带宽</translation>
     </message>
     <message>
         <source>Do not limit</source>
-        <translation type="unfinished"></translation>
+        <translation>不限制</translation>
     </message>
     <message>
         <source>Limit to</source>
-        <translation type="unfinished"></translation>
+        <translation>限制到</translation>
     </message>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>KiB/s</translation>
     </message>
     <message>
         <source>Download Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>下载带宽</translation>
     </message>
     <message>
         <source>Simultaneous Uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>同时上传</translation>
     </message>
     <message>
         <source>Simultaneous Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>同时下载</translation>
     </message>
 </context>
 <context>
@@ -13739,79 +13739,80 @@ Once used, the privilege key will become invalid.</source>
     <message>
         <source>Expand channels up to this level when logging in.
 0 means expand everything.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时将频道展开到此级别。
+0 意味着展开全部频道。</translation>
     </message>
     <message>
         <source>Expand channels up to this level:</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时将频道展开到此级别:</translation>
     </message>
     <message>
         <source>Only expand your own channel when logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时只展开您自己的频道。</translation>
     </message>
     <message>
         <source>Expand own channel on login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开自己的频道</translation>
     </message>
     <message>
         <source>Sort clients below channels</source>
-        <translation type="unfinished"></translation>
+        <translation>排序频道中的用户</translation>
     </message>
     <message>
         <source>Display country flag on clients</source>
-        <translation type="unfinished"></translation>
+        <translation>在用户旁显示国旗(根据IP)</translation>
     </message>
     <message>
         <source>Display Overwolf icons on clients</source>
-        <translation type="unfinished"></translation>
+        <translation>在用户旁显示 Overwolf 图标</translation>
     </message>
     <message>
         <source>Show channel commander as lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>显示频道指挥官标志</translation>
     </message>
     <message>
         <source>Show away message beside nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>在昵称旁显示离线信息</translation>
     </message>
     <message>
         <source>Show tooltip info on hover</source>
-        <translation type="unfinished"></translation>
+        <translation>在悬停时显示工具提示信息</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>状态栏图标</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏状态栏图标</translation>
     </message>
     <message>
         <source>Hide TeamSpeak to tray icon when minimized</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化时隐藏 TeamSpeak 到状态栏图标</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化到状态栏</translation>
     </message>
     <message>
         <source>Hide TeamSpeak to tray icon when closed</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭时隐藏 TeamSpeak 到状态栏</translation>
     </message>
     <message>
         <source>Close to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭到状态栏</translation>
     </message>
     <message>
         <source>Animated GIF support</source>
-        <translation type="unfinished"></translation>
+        <translation>动画 GIF 支持</translation>
     </message>
     <message>
         <source>Enable Animated Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>启用动态头像</translation>
     </message>
     <message>
         <source>Enable Animated Images</source>
-        <translation type="unfinished"></translation>
+        <translation>启用动态图片</translation>
     </message>
 </context>
 <context>
@@ -13841,7 +13842,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
-        <translation type="unfinished">播放测试音以测试播放设置</translation>
+        <translation>播放测试音以测试播放设置</translation>
     </message>
     <message>
         <source>Mono Sound Expansion</source>
@@ -13853,11 +13854,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Mono to center speaker (if available)</source>
-        <translation type="unfinished">转换单声道为立体声（如果可用）</translation>
+        <translation>转换单声道为立体声（如果可用）</translation>
     </message>
     <message>
         <source>Mono to surround (if available)</source>
-        <translation type="unfinished">转换单声道为环绕（如果可用）</translation>
+        <translation>转换单声道为环绕（如果可用）</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13865,15 +13866,15 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Always set clients 3D positions when available</source>
-        <translation type="unfinished">始终在可用时设置用户3D位置</translation>
+        <translation>始终在可用时设置用户3D位置</translation>
     </message>
     <message>
         <source>Own client plays mic clicks</source>
-        <translation type="unfinished">本地客户端播放麦克风点击</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
-        <translation type="unfinished">其他客户端播放麦克风点击</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
