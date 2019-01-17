@@ -66,16 +66,16 @@
     <message>
         <source>The TeamSpeak 3 Client should be
 closed before starting the update.</source>
-        <translation type="unfinished">TeamSpeak 3 客户端
-应该在开始更新前关闭。</translation>
+        <translation>应在开始更新前关闭
+TeamSpeak 3 客户端。</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>信息</translation>
     </message>
     <message>
-        <source>&lt;p&gt;This is the last TeamSpeak version available for Windows XP.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows Vista or newer.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;这是适用于 Windows XP 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows Vista 或更新版本。&lt;/p&gt;</translation>
+        <source>&lt;p&gt;This is the last TeamSpeak version available for Windows Vista.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows 7 or newer.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;这是适用于 Windows Vista 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows 7 或更新版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 KB / %2 KB</source>
@@ -96,10 +96,6 @@ closed before starting the update.</source>
     <message>
         <source>Update cancelled. Push &quot;Details&quot; to check reasons.</source>
         <translation>更新被取消。点击“详情”检查原因。</translation>
-    </message>
-    <message>
-        <source>Click to open &quot;%1://%2&quot;</source>
-        <translation>点击打开 &quot;%1://%2&quot;</translation>
     </message>
 </context>
 <context>

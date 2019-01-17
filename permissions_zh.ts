@@ -606,6 +606,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>b_virtualserver_modify_nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_nickname_long</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_integrations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>b_virtualserver_modify_integrations_long</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>i_channel_min_depth</source>
         <translation type="unfinished"></translation>
     </message>

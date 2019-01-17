@@ -12,10 +12,10 @@
         <translation>您想发送错误报告吗？</translation>
     </message>
     <message>
-        <source>The TeamSpeak 3 client has crashed. There is a debug file which will help
+        <source>The TeamSpeak 3 client has crashed. There is a crash report which will help
 the developers to fix the problem. Please type a description in the text
 field to reproduce the issue.</source>
-        <translation>TeamSpeak 3 客户端崩溃了。软件生成了一个调试文件，可以帮助开发人员解决问题。 请在文本字段中输入说明以重现该问题。</translation>
+        <translation>TeamSpeak 3 客户端崩溃了。软件生成了一个错误报告，可以帮助开发人员解决问题。 请在文本字段中输入说明(之前的操作)以重现该问题。</translation>
     </message>
     <message>
         <source>Thank you for your report!</source>

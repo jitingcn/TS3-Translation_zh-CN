@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>teamspeak_core_error</name>
     <message>
@@ -101,6 +101,10 @@
     </message>
     <message>
         <source>ts_core_error_528</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_672</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -224,6 +228,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>ts_core_error_1039</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_1040</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ts_core_error_1280</source>
         <translation type="unfinished"></translation>
     </message>
@@ -325,6 +337,18 @@
     </message>
     <message>
         <source>ts_core_error_1804</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_1805</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_1806</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_1807</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -576,6 +600,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>ts_core_error_2573</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ts_core_error_2816</source>
         <translation type="unfinished"></translation>
     </message>
@@ -661,6 +689,78 @@
     </message>
     <message>
         <source>ts_core_error_3840</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4352</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4353</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4354</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4355</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4356</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4357</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4358</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4359</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4360</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4361</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4362</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4363</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4364</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4365</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4366</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4367</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4368</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ts_core_error_4369</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
