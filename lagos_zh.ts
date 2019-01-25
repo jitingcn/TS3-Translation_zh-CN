@@ -214,7 +214,7 @@
     </message>
     <message>
         <source>Integrations</source>
-        <translation type="unfinished"></translation>
+        <translation>服务集成</translation>
     </message>
 </context>
 <context>
@@ -1455,60 +1455,60 @@ Press Enter to apply filter.</source>
     <name>CollisionResolver</name>
     <message>
         <source>Resolve Collisions</source>
-        <translation type="unfinished"></translation>
+        <translation>解决冲突</translation>
     </message>
     <message>
         <source>Hide passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏密码</translation>
     </message>
     <message>
         <source>Try to apply decision to all collisions</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试将决策应用于所有冲突</translation>
     </message>
 </context>
 <context>
     <name>ComplainView</name>
     <message>
         <source>Complaints List</source>
-        <translation type="unfinished"></translation>
+        <translation>投诉列表</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Target Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>被举报者</translation>
     </message>
     <message>
         <source>From Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>举报者</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation>原因</translation>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>被禁止用户: %1</translation>
     </message>
     <message numerus="yes">
         <source>has %n complaint(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>有 %n 个投诉</numerusform>
         </translation>
     </message>
     <message>
         <source>Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation>封禁用户</translation>
     </message>
     <message>
         <source>Remove selected...</source>
-        <translation type="unfinished"></translation>
+        <translation>移除选中...</translation>
     </message>
     <message>
         <source>Do you really want to remove all complaints of this user?</source>
@@ -5361,7 +5361,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Complaints List</source>
-        <translation>抱怨列表</translation>
+        <translation>投诉列表</translation>
     </message>
     <message>
         <source>Show list of complaints</source>
