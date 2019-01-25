@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation>Teamspeak 账号功能:</translation>
+        <translation>TeamSpeak 账号功能:</translation>
     </message>
     <message>
         <source>Synchronization</source>

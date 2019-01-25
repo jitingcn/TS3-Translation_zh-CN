@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.1" language="en">
 <context>
     <name>teamspeak_core_error</name>
     <message>
         <source>ts_core_error_0</source>
-        <translation type="unfinished"></translation>
+        <translation type="OK"></translation>
     </message>
     <message>
         <source>ts_core_error_1</source>
-        <translation type="unfinished"></translation>
+        <translation type="未定义的错误"></translation>
     </message>
     <message>
         <source>ts_core_error_2</source>
-        <translation type="unfinished"></translation>
+        <translation type="未实现"></translation>
     </message>
     <message>
         <source>ts_core_error_3</source>
-        <translation type="unfinished"></translation>
+        <translation type="OK"></translation>
     </message>
     <message>
         <source>ts_core_error_4</source>
-        <translation type="unfinished"></translation>
+        <translation type="OK"></translation>
     </message>
     <message>
         <source>ts_core_error_5</source>
-        <translation type="unfinished"></translation>
+        <translation type="达到库时限"></translation>
     </message>
     <message>
         <source>ts_core_error_256</source>
-        <translation type="unfinished"></translation>
+        <translation type="没有找到指令"></translation>
     </message>
     <message>
         <source>ts_core_error_257</source>
-        <translation type="unfinished"></translation>
+        <translation type="无法绑定网络端口"></translation>
     </message>
     <message>
         <source>ts_core_error_258</source>
-        <translation type="unfinished"></translation>
+        <translation type="没有可用的网络端口"></translation>
     </message>
     <message>
         <source>ts_core_error_512</source>
-        <translation type="unfinished"></translation>
+        <translation type="无效的客户端ID"></translation>
     </message>
     <message>
         <source>ts_core_error_513</source>
-        <translation type="unfinished"></translation>
+        <translation type="昵称已被使用"></translation>
     </message>
     <message>
         <source>ts_core_error_515</source>
-        <translation type="unfinished"></translation>
+        <translation type="达到最大客户端协议限制"></translation>
     </message>
     <message>
         <source>ts_core_error_516</source>
-        <translation type="unfinished"></translation>
+        <translation type="无效的客户端类型"></translation>
     </message>
     <message>
         <source>ts_core_error_517</source>
-        <translation type="unfinished"></translation>
+        <translation type="已经订阅"></translation>
     </message>
     <message>
         <source>ts_core_error_518</source>
-        <translation type="unfinished"></translation>
+        <translation type="未登录"></translation>
     </message>
     <message>
         <source>ts_core_error_519</source>
-        <translation type="unfinished"></translation>
+        <translation type="无法验证客户端身份"></translation>
     </message>
     <message>
         <source>ts_core_error_520</source>
-        <translation type="unfinished"></translation>
+        <translation type="无效的登录名或密码"></translation>
     </message>
     <message>
         <source>ts_core_error_521</source>
