@@ -812,11 +812,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation>捕获配置(&amp;C):</translation>
+        <translation>录音配置(&amp;C):</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation>用于此服务器的捕获配置</translation>
+        <translation>用于此服务器的录音配置</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
@@ -912,7 +912,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation>捕获配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有热键？&lt;/p&gt;</translation>
+        <translation>录音配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有热键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1512,12 +1512,12 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Do you really want to remove all complaints of this user?</source>
-        <translation type="unfinished"></translation>
+        <translation>你真的想移除此用户的所有投诉吗？</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n你真的想移除选中的投诉吗？</numerusform>
         </translation>
     </message>
 </context>
@@ -1525,11 +1525,11 @@ Press Enter to apply filter.</source>
     <name>ConnectDialog</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
 </context>
 <context>
@@ -3564,7 +3564,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>录音配置</translation>
     </message>
     <message>
         <source>Playback Profile</source>
@@ -3704,7 +3704,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>激活的录音配置</translation>
     </message>
     <message>
         <source>Deactivate Capture Profile</source>
@@ -12120,106 +12120,106 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Automatic&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as synchronized items by default.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Manual&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as local items by default, you decide which individual items will be synchronized.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;自动&lt;/strong&gt;&lt;br&gt;默认情况下，所有项目（书签，身份等）都将创建为同步项目。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;手动&lt;/strong&gt;&lt;br&gt;所有项目（书签，身份等）都将创建为本地项目 默认情况下，您可以决定要同步哪些项目。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>连接中断</translation>
     </message>
     <message>
         <source>Reset Password</source>
-        <translation type="unfinished"></translation>
+        <translation>重设密码</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation>修改密码</translation>
     </message>
     <message>
         <source>Change Username</source>
-        <translation type="unfinished"></translation>
+        <translation>修改用户名</translation>
     </message>
     <message>
         <source>New Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation>新的恢复密钥</translation>
     </message>
     <message>
         <source>Configure Badges</source>
-        <translation type="unfinished"></translation>
+        <translation>设置徽章</translation>
     </message>
     <message>
         <source>Redeem Code</source>
-        <translation type="unfinished"></translation>
+        <translation>兑换代码</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>&lt;p&gt;If you turn this off now, your synchronized items will no longer be available on this computer (but stay stored in your myTeamSpeak account).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;Read details&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;如果您现在关闭此功能，您的同步项目将不再可用于此计算机（但会保留在 myTeamSpeak 帐户中）。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;阅读详情&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Connected as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>登录为 %1</translation>
     </message>
     <message>
         <source>Login failed, please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败，请稍后重试</translation>
     </message>
     <message>
         <source>Account verification pending</source>
-        <translation type="unfinished"></translation>
+        <translation>账号待验证</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>连接中...</translation>
     </message>
     <message>
         <source>Not Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <source>Email is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>邮箱为空</translation>
     </message>
     <message>
         <source>Password is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>密码为空</translation>
     </message>
     <message>
         <source>Please confirm your myTeamSpeak account password</source>
-        <translation type="unfinished"></translation>
+        <translation>请确认你的 myTeamSpeak 账号密码</translation>
     </message>
     <message>
         <source>Password invalid. Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>密码无效。请重试</translation>
     </message>
     <message>
         <source>Confirm password</source>
-        <translation type="unfinished"></translation>
+        <translation>确认密码</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::Account_Create_Login_Dialog</name>
     <message>
         <source>myTeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>&lt;p&gt;If disabled, you will automatically be logged out of your myTeamSpeak account on exit.&lt;/p&gt;&lt;p&gt;Please note this will delete all synchronized items on this device when you exit the TeamSpeak client, but they will stay on the myTeamSpeak server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;如果禁用，您将在退出程序时自动登出 myTeamSpeak 帐户。&lt;/p&gt;&lt;p&gt;Please note this will delete all synchronized items on this device when you exit the TeamSpeak client, but they will stay on the myTeamSpeak server.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Synchronize your bookmarks, identities, hotkeys, addons and more settings over different devices.&lt;/p&gt;</source>
@@ -12231,15 +12231,15 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Forgot Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>忘记密码？</translation>
     </message>
     <message>
         <source>Invalid email</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的邮箱</translation>
     </message>
     <message>
         <source>Password is too short, requires at least %1 characters</source>
@@ -12739,18 +12739,18 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::IntegrationBubble</name>
     <message>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的 (%1)</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::IntegrationsWidget</name>
     <message>
         <source>Visit Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>访问控制台</translation>
     </message>
     <message>
         <source>Add %1 account</source>
-        <translation type="unfinished"></translation>
+        <translation>添加 %1 账号</translation>
     </message>
 </context>
 <context>
@@ -12758,34 +12758,35 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID.
 Some myTeamSpeak related services are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak 服务器无法验证您的 myTeamSpeak ID。
+某些 myTeamSpeak 相关服务将无法使用。</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>重新连接</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::RedeemBadgeCodeDialog</name>
     <message>
         <source>Code successfully redeemed.</source>
-        <translation type="unfinished"></translation>
+        <translation>代码兑换成功。</translation>
     </message>
     <message>
         <source>Failed to redeem code.</source>
-        <translation type="unfinished"></translation>
+        <translation>兑换代码失败。</translation>
     </message>
     <message>
         <source>An error occured, try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>发生了一个错误，请稍后再试</translation>
     </message>
     <message>
         <source>Invalid code</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的代码</translation>
     </message>
     <message>
         <source>You already have this badge</source>
-        <translation type="unfinished"></translation>
+        <translation>你已经有这个徽章了</translation>
     </message>
 </context>
 <context>
@@ -13491,132 +13492,134 @@ Please contact the plugin author.</source>
     <name>connectDialog</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器别名或地址(&amp;A):</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器密码(&amp;P):</translation>
     </message>
     <message>
         <source>Your requested nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>你请求使用的昵称</translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak 3服务器的别名，主机名或IP，
+例如： voice.teamspeak.com：9987</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器密码 (可选)</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称(&amp;N):</translation>
     </message>
     <message>
         <source>[Too Short]</source>
-        <translation type="unfinished"></translation>
+        <translation>【长度过短】</translation>
     </message>
     <message>
         <source>One-time privilege key used after connecting.
 Once used, the privilege key will become invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接后使用的一次性权限密钥。
+使用后，权限密钥将失效。</translation>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键配置:</translation>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID 可授予您访问 Twitch 集成和其他服务的权限</translation>
     </message>
     <message>
         <source>Send myTeamSpeak ID</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID</translation>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>默认频道(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称音素(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>录音配置(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>身份(&amp;I):</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时加入此频道 (可选)</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>你的昵称的读音 (可选)</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>音效包:</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>默认频道的密码 (可选)</translation>
     </message>
     <message>
         <source>One-Time &amp;Privilege Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>一次性权限密钥(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>播放配置(&amp;P):</translation>
     </message>
     <message>
         <source>Channel &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>频道密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接(&amp;C)</translation>
     </message>
     <message>
         <source>In New &amp;Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>在新的标签中(&amp;T)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>createProfileDialog</name>
     <message>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>创建配置档案</translation>
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置名称：</translation>
     </message>
     <message>
         <source>Create Profile Using:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基于配置创建：</translation>
     </message>
     <message>
         <source>Default Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>默认设置</translation>
     </message>
     <message>
         <source>Profile Copy from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从现有配置复制：</translation>
     </message>
 </context>
 <context>
@@ -13866,15 +13869,15 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Always set clients 3D positions when available</source>
-        <translation>始终在可用时设置用户3D位置</translation>
+        <translation type="unfinished">始终在可用时安排用户的3D空间位置</translation>
     </message>
     <message>
         <source>Own client plays mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在自己的客户端播放麦克风开关声</translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在其他用户的客户端播放麦克风开关声</translation>
     </message>
 </context>
 <context>
