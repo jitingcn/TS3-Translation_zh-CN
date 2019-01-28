@@ -10,7 +10,7 @@ before_install:
 - sudo apt-get update -q
 
 install:
-- sudo apt-get install qt5-default qttools5-dev-tools -y
+- sudo apt-get install qt5-default qttools5-dev-tools -y -q
 
 script:
 - "./maker.py"
