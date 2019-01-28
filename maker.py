@@ -19,7 +19,8 @@ def make_release():
     if os.name == 'nt':
         lrelease = 'C:/Qt/Qt5.6.3/5.6.3/msvc2015_64/bin/lrelease.exe'  # On my laptop.
     else:  # os.name == 'posix'
-        lrelease = subprocess.run(['whereis', 'lrelease', '-b'], stdout=subprocess.PIPE).stdout[11:]
+        # result = subprocess.run(['whereis', 'lrelease', '-b'], stdout=subprocess.PIPE).stdout.decode("utf-8")
+            lrelease = 'lrelease'
     # source_file = [f[:-3] for f in os.listdir(src) if os.path.isfile(os.path.join(src, f)) and f[-5:-3] == language]
     source_file = [f[:-3] for f in os.listdir(src) if f[-5:-3] == language]
     release_file = []
