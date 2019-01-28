@@ -1,0 +1,26 @@
+dist: xenial
+language: python
+python: 3.7
+sudo: required
+
+before_install:
+  - export TZ=Asia/Shanghai
+  - mkdir dist -p
+  - chmod +x ./maker.py
+  - sudo apt-get update -q
+
+install:
+  - sudo apt-get install qt5-default qttools5-dev-tools -y
+
+script:
+  - ./maker.py
+  - rm dist/*
+
+deploy:
+  provider: releases
+  prerelease: true
+  api_key:
+    secure: evVNKg4vC9SRdxh6rIaKkIDKLCqgOvPmdrjWEnN/Vb6gRjUMJ+bfey71ee8OXpkjDtmj9omH9D5P+YeM9O4VeEPZwXImJ41EmMhoy1mky0XQkVShUfnMnBPO/AbaWYBREuS1b13XsTEvU6LiePoRHgJL05G76UKXjD9EqUiHBdc6rxwvZn4AFuNx5Bzj1VpH1Go8IQhFGWSeABXDZiB8yHhqRDowa6Fq3Olc2zvjtLFu2kHO9oWKQ4SWTD5yTXC8o8pzWUWoodxvb8TkAWq52CC0sWkrI/c0x0aodTFY4z+/kjuipxzWhpID3xmmz7ApLcgKgYUeD9zmGTqp0T4MeFAeCbVL6h8JRJDSHIDe8dBd0KIC4eZPRXBKGsNbPZNVaEHBFehx5B33rm2jtW7OpJhQSeNH42icALsZ6OPn2Y6TuaePTT8iXQ0s4DH9rzdksMDb/lzs6TC9p/0vKWUp8hKW+MsgOXjES/oKAzeoF/vc4wjTeuuhnBJbybKQBqJ5sr+T8g6RZtFdo3zP2dMEuX1NpPS8Dja8FvUuUMFXftf+uwum0cF6nFvZO9NO5pgLToa7/ZIei3nKdic8R+H8HkQViTH4yVXs2aktELvdWy977A8zkVbgcsf9akfdYTMNiTjXXDBdgoPmD3wdPU3pZtzKeT2phvGMuetwJtHIvN4=
+  file: "Chinese Translation (zh-CN).ts3_translation"
+  on:
+    repo: jitingcn/TS3-Translation_zh-CN
