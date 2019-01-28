@@ -53,7 +53,7 @@ def make_package(release_list):
                         'Description = Source Code: https://github.com/jitingcn/TS3-Translation_zh-CN']
         f.write("\n".join(package_info))
 
-    file_name = 'Chinese Translation (zh-CN).ts3_translation'
+    file_name = 'Chinese_Translation_(zh-CN).ts3_translation'
     print("Zip package ...")
     with zipfile.ZipFile(file_name, 'w', zipfile.ZIP_DEFLATED) as release:
         release.write(ini, "package.ini")
