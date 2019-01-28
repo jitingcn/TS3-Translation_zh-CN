@@ -15,7 +15,7 @@ install:
 - sudo apt-get install qt5-default qttools5-dev-tools -y -q
 
 script:
-- python3 ./maker.py
+- python3 maker.py
 - rm dist/*
 
 deploy:
