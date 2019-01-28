@@ -23,7 +23,7 @@ deploy:
   prerelease: true
   api_key:
     secure: Uhkopjz/RWKThMknhkOmuWU/8WZgS+0MkNKwV7ydQ0r4xat8m6DbCxmlyHM1Y5sLaC3wKwyW2CTnKue0wscDokNan+KdJLoh90xfJytBcPx33ElYEw7Gc+ChfJQy/KNxlrps4XOH2+wBTemlK2ws1btL70pHrBdgLfQtGiZKC69mz+oegQjkky7wC9JT4ne81rDtNwwV7TT2htP/ewTZejIXct7egydk0PpmXN8j9uondfblkk3t4TbsojWa7JybkE/nD/vxUIzd20gi+it4aYpkepga1cnbzm2/ZMWPeCSquu28X4vnhXW17RmHyT7L5zueL+bAz5AEwK4FfCMZDqETbXhIFz6pgsiVneZMpCr6gqNU112ihKTtVgDQrmk6xw+ST24yfqRP4qUBoF0rYz50YT1VpcucqEAuNK6nkha54P5H9xzZkQEjRLV0Gro0B5euwmPFX0KUbxaq58gUVlq0DJgWblYjILzd9/BgS0KKLmyNL1NSkwRHdn+AJ3s/1h206nzSZ2h/RnEXGzT/f2jsVwxi1QQOVFkQwyVS4IvZl2wgb0XZsK7pAnfjznAsR8NYYzcFb4S4KmYxoBGR6jr2zfw9o0LfraOEDM+A05IjYlMpZYE9i7VhQ+4rbX11cjW6gPAMT86Gqw84rsxPNe3FGyBriN1LRQybljzJe1Y=
-  file: Chinese_Translation_(zh-CN).ts3_translation
+  file: "Chinese_Translation_(zh-CN).ts3_translation"
   skip_cleanup: true
   on:
     repo: jitingcn/TS3-Translation_zh-CN
