@@ -4,23 +4,23 @@ python: 3.7
 sudo: required
 
 before_install:
-  - export TZ=Asia/Shanghai
-  - mkdir dist -p
-  - chmod +x ./maker.py
-  - sudo apt-get update -q
+- export TZ=Asia/Shanghai
+- mkdir dist -p
+- chmod +x ./maker.py
+- sudo apt-get update -q
 
 install:
-  - sudo apt-get install qt5-default qttools5-dev-tools -y
+- sudo apt-get install qt5-default qttools5-dev-tools -y
 
 script:
-  - ./maker.py
-  - rm dist/*
+- "./maker.py"
+- rm dist/*
 
 deploy:
   provider: releases
   prerelease: true
   api_key:
-    secure: evVNKg4vC9SRdxh6rIaKkIDKLCqgOvPmdrjWEnN/Vb6gRjUMJ+bfey71ee8OXpkjDtmj9omH9D5P+YeM9O4VeEPZwXImJ41EmMhoy1mky0XQkVShUfnMnBPO/AbaWYBREuS1b13XsTEvU6LiePoRHgJL05G76UKXjD9EqUiHBdc6rxwvZn4AFuNx5Bzj1VpH1Go8IQhFGWSeABXDZiB8yHhqRDowa6Fq3Olc2zvjtLFu2kHO9oWKQ4SWTD5yTXC8o8pzWUWoodxvb8TkAWq52CC0sWkrI/c0x0aodTFY4z+/kjuipxzWhpID3xmmz7ApLcgKgYUeD9zmGTqp0T4MeFAeCbVL6h8JRJDSHIDe8dBd0KIC4eZPRXBKGsNbPZNVaEHBFehx5B33rm2jtW7OpJhQSeNH42icALsZ6OPn2Y6TuaePTT8iXQ0s4DH9rzdksMDb/lzs6TC9p/0vKWUp8hKW+MsgOXjES/oKAzeoF/vc4wjTeuuhnBJbybKQBqJ5sr+T8g6RZtFdo3zP2dMEuX1NpPS8Dja8FvUuUMFXftf+uwum0cF6nFvZO9NO5pgLToa7/ZIei3nKdic8R+H8HkQViTH4yVXs2aktELvdWy977A8zkVbgcsf9akfdYTMNiTjXXDBdgoPmD3wdPU3pZtzKeT2phvGMuetwJtHIvN4=
+    secure: Uhkopjz/RWKThMknhkOmuWU/8WZgS+0MkNKwV7ydQ0r4xat8m6DbCxmlyHM1Y5sLaC3wKwyW2CTnKue0wscDokNan+KdJLoh90xfJytBcPx33ElYEw7Gc+ChfJQy/KNxlrps4XOH2+wBTemlK2ws1btL70pHrBdgLfQtGiZKC69mz+oegQjkky7wC9JT4ne81rDtNwwV7TT2htP/ewTZejIXct7egydk0PpmXN8j9uondfblkk3t4TbsojWa7JybkE/nD/vxUIzd20gi+it4aYpkepga1cnbzm2/ZMWPeCSquu28X4vnhXW17RmHyT7L5zueL+bAz5AEwK4FfCMZDqETbXhIFz6pgsiVneZMpCr6gqNU112ihKTtVgDQrmk6xw+ST24yfqRP4qUBoF0rYz50YT1VpcucqEAuNK6nkha54P5H9xzZkQEjRLV0Gro0B5euwmPFX0KUbxaq58gUVlq0DJgWblYjILzd9/BgS0KKLmyNL1NSkwRHdn+AJ3s/1h206nzSZ2h/RnEXGzT/f2jsVwxi1QQOVFkQwyVS4IvZl2wgb0XZsK7pAnfjznAsR8NYYzcFb4S4KmYxoBGR6jr2zfw9o0LfraOEDM+A05IjYlMpZYE9i7VhQ+4rbX11cjW6gPAMT86Gqw84rsxPNe3FGyBriN1LRQybljzJe1Y=
   file: "Chinese Translation (zh-CN).ts3_translation"
   on:
     repo: jitingcn/TS3-Translation_zh-CN
