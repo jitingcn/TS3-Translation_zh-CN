@@ -1540,7 +1540,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>retrieving data</source>
-        <translation type="unfinished">检索数据</translation>
+        <translation type="unfinished">获取数据</translation>
     </message>
     <message>
         <source>Idle time</source>
@@ -1612,7 +1612,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Packets transferred</source>
-        <translation type="unfinished">发包率</translation>
+        <translation type="unfinished">数据包传输数</translation>
     </message>
     <message>
         <source>Bytes transferred</source>
@@ -1628,7 +1628,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>File transfer bandwidth</source>
-        <translation type="unfinished">文件传输流量</translation>
+        <translation type="unfinished">文件传输带宽</translation>
     </message>
     <message>
         <source>Total</source>
@@ -1636,15 +1636,15 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished">流入</translation>
+        <translation type="unfinished">传入</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished">流出</translation>
+        <translation type="unfinished">传出</translation>
     </message>
     <message>
         <source>Exceeded</source>
-        <translation type="unfinished">溢出</translation>
+        <translation type="unfinished">超出</translation>
     </message>
     <message>
         <source>Calculating</source>
@@ -1652,7 +1652,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>%1 ms %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ms %2 %3</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -1660,11 +1660,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>%1 %</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %</translation>
     </message>
     <message>
         <source>%1/s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/s</translation>
     </message>
     <message>
         <source>Speech</source>
@@ -1695,11 +1695,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">名称：</translation>
+        <translation type="unfinished">名称(&amp;N)：</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished">图标：</translation>
+        <translation type="unfinished">图标(&amp;I)：</translation>
     </message>
     <message>
         <source>Set channel icon.</source>
@@ -1707,27 +1707,27 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation type="unfinished">密码(&amp;P)：</translation>
     </message>
     <message>
         <source>Optional password for this channel.</source>
-        <translation type="unfinished">(可选)这个频道的密码</translation>
+        <translation type="unfinished">此频道的密码(可选).</translation>
     </message>
     <message>
         <source>&amp;Topic:</source>
-        <translation type="unfinished">主题：</translation>
+        <translation type="unfinished">主题(&amp;T)：</translation>
     </message>
     <message>
         <source>Optional topic for this channel, displayed in the info area on the right.</source>
-        <translation type="unfinished">(可选)关于这个频道的主题,将在右边的信息区域显示。</translation>
+        <translation type="unfinished">此频道的相关主题，将显示在右侧的信息区域(可选).</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished">描述：</translation>
+        <translation type="unfinished">说明(&amp;D)：</translation>
     </message>
     <message>
         <source>Tear off description editor</source>
-        <translation type="unfinished">打开频道描述编辑器</translation>
+        <translation type="unfinished">打开频道说明编辑器</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -1739,7 +1739,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Channel will be deleted when the last user left.</source>
-        <translation type="unfinished">当最后一名用户离开时，频道将被删除。</translation>
+        <translation type="unfinished">频道将在最后一名用户离开时自动删除。</translation>
     </message>
     <message>
         <source>Temporary</source>
@@ -1747,7 +1747,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Channel exists until server is restarted.</source>
-        <translation type="unfinished">直到服务器重启前，频道将持续存在。</translation>
+        <translation type="unfinished">服务器重启前保留频道。</translation>
     </message>
     <message>
         <source>Semi-Permanent</source>
@@ -1755,7 +1755,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Channel will exist until manually deleted.</source>
-        <translation type="unfinished">频道将持续存在，直至手动删除。</translation>
+        <translation type="unfinished">频道永久保留，可手动删除。</translation>
     </message>
     <message>
         <source>Permanent</source>
@@ -1764,12 +1764,12 @@ Press Enter to apply filter.</source>
     <message>
         <source>The default channel is the place where new clients join on login.
 There can be only one default channel for the whole server.</source>
-        <translation type="unfinished">新用户会连接到默认频道。
-每个服务器只有一个默认频道。</translation>
+        <translation type="unfinished">新用户登录时会进入默认频道。
+每个服务器只能存在一个默认频道。</translation>
     </message>
     <message>
         <source>&amp;Default Channel</source>
-        <translation type="unfinished">默认频道</translation>
+        <translation type="unfinished">默认频道(&amp;D)</translation>
     </message>
     <message>
         <source>Sort This Channel After:</source>
@@ -1785,7 +1785,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Needed Talk Power:</source>
-        <translation type="unfinished">发言所需权限：</translation>
+        <translation type="unfinished">发言所需权限(&amp;N)：</translation>
     </message>
     <message>
         <source>Talk power required to speak in this channel.</source>
@@ -1801,11 +1801,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Voice Mobile</source>
-        <translation type="unfinished">移动式</translation>
+        <translation type="unfinished">手机语音</translation>
     </message>
     <message>
         <source>Voice Desktop</source>
-        <translation type="unfinished">桌面式</translation>
+        <translation type="unfinished">桌面语音</translation>
     </message>
     <message>
         <source>Music</source>
