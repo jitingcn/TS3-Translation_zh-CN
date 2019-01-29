@@ -10654,7 +10654,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>The OS denied access to the microphone. Please click &lt;a href=&quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">操作系统拒绝访问麦克风。 请单击&lt;a href=&quot;#open_os_permissions&quot;&gt;此处&lt;/a&gt;以打开Windows隐私设置并允许应用程序使用它。</translation>
     </message>
     <message>
         <source>Begin Test</source>
@@ -12628,39 +12628,39 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::IdentityDialog</name>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>导入</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导出</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Too short</source>
-        <translation type="unfinished"></translation>
+        <translation>太短</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>确认</translation>
     </message>
     <message>
         <source>&lt;p&gt;Identities have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;身份已更改。&lt;/p&gt;&lt;p&gt;您想要&lt;strong&gt;保存&lt;/strong&gt;，&lt;strong&gt;放弃&lt;/strong&gt;您的更改&lt;br&gt;还是&lt;strong&gt;中止&lt;/strong&gt;并关闭这个窗口？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Exceeding maximum of %1 synchronized identities</source>
@@ -12668,71 +12668,71 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>New identity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新的身份</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>One or more identities your about to remove are connected to a server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您要删除的一个或多个身份已连接到服务器。</translation>
     </message>
     <message>
         <source>You cannot remove an identity which is connected to a server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您无法删除已经连接到服务器的身份。</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected identitie(s)?</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n你真的想删除所选的身份吗？</numerusform>
         </translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <source>Empty identity name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">身份名称为空</translation>
     </message>
     <message>
         <source>Move to synchronized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移至同步</translation>
     </message>
     <message>
         <source>Move to local</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移至本地</translation>
     </message>
     <message>
         <source>Import Identity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入身份</translation>
     </message>
     <message>
         <source>Ini files (*.ini);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件 (*.ini);;所有文件 (*.*)</translation>
     </message>
     <message numerus="yes">
         <source>Failed to import %n identitie(s).</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>导入%n 个身份失败。</numerusform>
         </translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;DO NOT SEND THIS FILE TO ANYBODY!&lt;/strong&gt;&lt;br&gt;It contains all information needed to take over all your permissions on all TeamSpeak 3 servers.&lt;br&gt;Neither TeamSpeak employees nor support staff will ever ask you for this file.&lt;/p&gt;&lt;p&gt;Do you want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;不要将此文件发送给任何人！&lt;/strong&gt;&lt;br&gt;它包含接管所有 TeamSpeak 3 服务器上所有权限所需的所有信息。&lt;br&gt;TeamSpeak 员工和支持人员都不会要求您提供此文件。&lt;/p&gt;&lt;p&gt;你想继续吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Export Identity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导出身份</translation>
     </message>
     <message>
         <source>Ini files (*.ini)</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件 (*.ini)</translation>
     </message>
 </context>
 <context>
@@ -12793,180 +12793,180 @@ Some myTeamSpeak related services are not available.</source>
     <name>com::teamspeak::ui::RestoreBackupkeyDialog</name>
     <message>
         <source>Recovery key successfully applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">恢复密钥使用成功</translation>
     </message>
     <message>
         <source>Failed to restore recovery key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法还原恢复密钥</translation>
     </message>
     <message>
         <source>Fallback successfully applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回国成功</translation>
     </message>
     <message>
         <source>Fallback failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回滚失败</translation>
     </message>
     <message>
         <source>Please enter a recovery key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入恢复密钥</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>&lt;p&gt;Fallback means that all items on the server will be overwritten by your local items. If you have not synchronized with this client for a while, you may loose some remote items.&lt;br&gt;Only use this as a last resort if you lost your recovery key.&lt;/p&gt;&lt;p&gt;Do you really want to start the item fallback and overwrite all your remote items?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;回滚意味着服务器上的所有项目都将被本地项目覆盖。 如果您暂时没有与此客户端同步，则可能会丢失一些远程项目。&lt;br&gt;如果您丢失了恢复密钥，则仅将此作为最后的手段。&lt;/p&gt;&lt;p&gt;您真的想开始回滚并覆盖所有远程项目？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::ServerIntegrationsWidget</name>
     <message>
         <source>Show details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示细节</translation>
     </message>
     <message>
         <source>Hide details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏细节</translation>
     </message>
     <message>
         <source>Login to your myTeamSpeak account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">登录至你的 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Link with your %1 account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接至你的 %1 账号</translation>
     </message>
     <message>
         <source>Server Integrations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器集成</translation>
     </message>
     <message>
         <source>Remove server integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除服务器集成</translation>
     </message>
     <message>
         <source>Failed to remove server integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除服务器集成失败</translation>
     </message>
     <message>
         <source>Available Integrations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可用的集成</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>安装</translation>
     </message>
     <message>
         <source>This TeamSpeak server is outdated and does not support integrations.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此 TeamSpeak 服务器已过期，不支持集成。</translation>
     </message>
     <message>
         <source>Please contact your TeamSpeak server Administrator and ask to update this server.</source>
-        <translation type="unfinished"></translation>
+        <translation>请联系您的 TeamSpeak 服务器管理员并请求更新此服务器。</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::SyncStatusWidget</name>
     <message>
         <source>Account Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>账号设置</translation>
     </message>
     <message>
         <source>Resolve Collisions</source>
-        <translation type="unfinished"></translation>
+        <translation>解决冲突</translation>
     </message>
     <message>
         <source>Restore Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">恢复还原密钥</translation>
     </message>
     <message>
         <source>Failed to connect to myTeamSpeak account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法连接到 myTeamSpeak 帐户</translation>
     </message>
     <message>
         <source>Failed to synchronize with myTeamSpeak account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法与 myTeamSpeak 帐户同步</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">书签</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件夹</translation>
     </message>
     <message>
         <source>Identity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">身份</translation>
     </message>
     <message>
         <source>Whisper list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语列表</translation>
     </message>
     <message>
         <source>Hotkey profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键配置</translation>
     </message>
     <message>
         <source>Addon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拓展插件</translation>
     </message>
     <message>
         <source>MyTeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MyTeamSpeak</translation>
     </message>
     <message>
         <source>Item is too large to sync</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">物品太大而无法同步</translation>
     </message>
     <message>
         <source>myTeamSpeak account connected</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 帐户已连接</translation>
     </message>
     <message>
         <source>myTeamSpeak account disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 帐户已断开连接</translation>
     </message>
     <message>
         <source>myTeamSpeak account error</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 帐户错误</translation>
     </message>
     <message>
         <source>myTeamSpeak syncing error</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 同步错误</translation>
     </message>
     <message>
         <source>Unable to decrypt data, please apply encryption backup key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法解密数据，请使用加密备份密钥</translation>
     </message>
     <message>
         <source>myTeamSpeak account collision detected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检测到 myTeamSpeak 帐户冲突</translation>
     </message>
     <message>
         <source>myTeamSpeak account limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超出 myTeamSpeak 帐户限制</translation>
     </message>
     <message>
         <source>Login with myTeamSpeak account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用 myTeamSpeak 帐户登录</translation>
     </message>
     <message>
         <source>Account verification pending</source>
-        <translation type="unfinished"></translation>
+        <translation>帐户等待验证</translation>
     </message>
     <message>
         <source>myTeamSpeak notification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">myTeamSpeak 通知</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::WarnWhenMutedInfoDialog</name>
     <message>
         <source>&lt;p&gt;You are talking while your microphone is muted.&lt;/p&gt;&lt;p&gt;Occasionally one might forget that the microphone has been muted and continue talking, but nothing will be heard by others.&lt;/p&gt;&lt;p&gt;TeamSpeak can warn you with a &quot;Beep&quot; sound when this happens. This can be useful when running a fullscreen application and the TeamSpeak client is not visible.&lt;/p&gt;&lt;p&gt;Do you want to disable this feature or keep it enabled? This can be changed anytime in the Applications page in the options.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;当你的麦克风被静音时，你正在说话。&lt;/p&gt;&lt;p&gt;偶尔有人可能会忘记麦克风被静音并继续说话，但其他人是听不见的。&lt;/p&gt;&lt;p&gt;TeamSpeak 可以在发生这种情况时发出“嘟嘟”声警告你。 这在运行全屏应用程序并且 TeamSpeak 客户端不可见时非常有用。&lt;/p&gt;&lt;p&gt;是否要禁用此功能或保持启用？ 这可以在选项的“应用程序”页面中随时更改。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -13161,7 +13161,7 @@ Do you want to apply your changes?</source>
     <name>com::teamspeak::ui::addons::Addons</name>
     <message>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
 </context>
 <context>
@@ -13268,49 +13268,49 @@ Please contact the plugin author.</source>
     <name>com::teamspeak::ui::addons::Download_Widget</name>
     <message>
         <source>Downloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>下载中...</translation>
     </message>
     <message>
         <source>Download failed (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败 (%1)</translation>
     </message>
     <message>
         <source>Download finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>下载完毕.</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>安装中...</translation>
     </message>
     <message>
         <source>Installation failed (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>安装失败 (%1)</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>安装完毕</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::externallink::ExternalLinkWarningDialog</name>
     <message>
         <source>&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;ATTENTION&lt;/p&gt;&lt;p&gt;You are about to open an external link to:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;注意&lt;/p&gt;&lt;p&gt;您即将访问外部链接：&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak 无法对内容进行验证或承担任何责任。访问网站或从未知来源下载文件时要小心，他们可能会危害您的计算机和系统安全。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Copy link to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制链接到剪贴板</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::integration::ServerIntegrations</name>
     <message>
         <source>An error occurred while trying to install integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">尝试安装集成时发生错误</translation>
     </message>
     <message>
         <source>An error occurred while trying to delete integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">尝试删除集成时发生错误</translation>
     </message>
 </context>
 <context>
