@@ -276,7 +276,7 @@ After you verified your account, press the Login button.
     <name>ApplicationSetup</name>
     <message>
         <source>Application</source>
-        <translation>主程序</translation>
+        <translation>应用程序</translation>
     </message>
     <message>
         <source>General Application Options</source>
@@ -1525,11 +1525,11 @@ Press Enter to apply filter.</source>
     <name>ConnectDialog</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">默认</translation>
+        <translation>默认</translation>
     </message>
 </context>
 <context>
@@ -10511,124 +10511,125 @@ Do you want to apply your changes?</source>
     <name>UpdateDialog</name>
     <message>
         <source>Update available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">有更新可用</translation>
     </message>
     <message>
         <source>Do you want to update?
 TeamSpeak will be closed if you proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你想更新吗？
+如果继续，TeamSpeak 将被关闭。</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不是现在</translation>
     </message>
     <message>
         <source>TeamSpeak %1 is available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TeamSpeak %1 可用。</translation>
     </message>
     <message>
         <source>A new TeamSpeak version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">有新版本的 TeamSpeak 客户端可供使用。</translation>
     </message>
 </context>
 <context>
     <name>Updater</name>
     <message>
         <source>Checking for Update</source>
-        <translation type="unfinished"></translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <source>You are already running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您当前运行的是最新版本。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Failed to query latest client version from update server.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从更新服务器查询最新的客户端版本。</translation>
     </message>
     <message>
         <source>Failed to start updater.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动更新程序。</translation>
     </message>
 </context>
 <context>
     <name>UrlCatcherTableView</name>
     <message>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">链接</translation>
     </message>
     <message>
         <source>Times Mentioned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提及次数</translation>
     </message>
     <message>
         <source>Last Mentioned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后一次提及</translation>
     </message>
     <message>
         <source>Mentioned by</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提起</translation>
     </message>
     <message>
         <source>Open in Webbrowser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在浏览器中打开</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制到剪贴板</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
     <name>UrlCatcherViewer</name>
     <message>
         <source>Collected URLs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收集到的链接</translation>
     </message>
     <message>
         <source>Clear search</source>
-        <translation type="unfinished"></translation>
+        <translation>清除搜索</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Clear list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清空列表(&amp;C)</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>Delete all URL entries?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除所有链接条目？</translation>
     </message>
 </context>
 <context>
     <name>UserVolumeWidget</name>
     <message>
         <source>Master volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>主音量：</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>还原(&amp;R)</translation>
     </message>
     <message>
         <source>Volume - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>音量 - %1</translation>
     </message>
 </context>
 <context>
@@ -11040,11 +11041,11 @@ No changes have been written yet.</source>
     <name>VoipCallBookmarks</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -11260,15 +11261,15 @@ No changes have been written yet.</source>
     <name>WarnWhenMutedInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Keep Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>保持开启</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
 </context>
 <context>
@@ -11782,52 +11783,53 @@ No changes have been written yet.</source>
     <name>applicationSetup</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>语言</translation>
     </message>
     <message>
         <source>Select client language (A restart of TeamSpeak is required)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择客户端语言（需要重启TeamSpeak）</translation>
     </message>
     <message>
         <source>Update Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新通道</translation>
     </message>
     <message>
         <source>Stable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">稳定版</translation>
     </message>
     <message>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">测试版</translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation type="unfinished"></translation>
+        <translation>确认框</translation>
     </message>
     <message>
         <source>Reset all &quot;Do not show again&quot; confirmation dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置所有“不再显示”确认对话框</translation>
     </message>
     <message>
         <source>Reset Confirmations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置确认提示</translation>
     </message>
     <message>
         <source>Anonymous Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">匿名统计</translation>
     </message>
     <message>
         <source>Send statistics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发送匿名统计数据</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Always try to activate the microphone when switching server tabs.
 This depends of course, on a valid playback and capture device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换服务器选项卡时，请务必尝试激活麦克风。
+当然，这取决于有效的播放和捕获设备。</translation>
     </message>
     <message>
         <source>Activate microphone automatically when switching servers</source>
@@ -11859,7 +11861,7 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <source>The client will always stay above any other window</source>
@@ -11867,7 +11869,7 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>Always stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保持窗口置顶</translation>
     </message>
     <message>
         <source>Enable more options for permission system</source>
