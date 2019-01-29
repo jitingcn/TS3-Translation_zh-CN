@@ -1544,7 +1544,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Idle time</source>
-        <translation type="unfinished">空闲时间</translation>
+        <translation type="unfinished">闲置时间</translation>
     </message>
     <message>
         <source>Client address</source>
@@ -1600,7 +1600,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Remaining upload this month:</source>
-        <translation type="unfinished">本月剩余下载量</translation>
+        <translation type="unfinished">本月剩余上传量:</translation>
     </message>
     <message>
         <source>Retrieving</source>
@@ -1735,7 +1735,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Channel &amp;Type</source>
-        <translation type="unfinished">频道类型</translation>
+        <translation type="unfinished">频道类型(&amp;T)</translation>
     </message>
     <message>
         <source>Channel will be deleted when the last user left.</source>
