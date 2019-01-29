@@ -1536,119 +1536,119 @@ Press Enter to apply filter.</source>
     <name>ConnectionInfoDialog</name>
     <message>
         <source>Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接信息</translation>
     </message>
     <message>
         <source>retrieving data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检索数据</translation>
     </message>
     <message>
         <source>Idle time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">空闲时间</translation>
     </message>
     <message>
         <source>Client address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端地址</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端名称</translation>
     </message>
     <message>
         <source>Connection time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接时间</translation>
     </message>
     <message>
         <source>Copy client address to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制客户端地址到剪贴板</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网络延迟(Ping)</translation>
     </message>
     <message>
         <source>Quota</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">限额</translation>
     </message>
     <message>
         <source>Downloaded this month:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本月下载量：</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">N/A</translation>
     </message>
     <message>
         <source>Available download quota:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可用下载量：</translation>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无限制</translation>
     </message>
     <message>
         <source>Uploaded this month:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本月上传量：</translation>
     </message>
     <message>
         <source>Available upload quota:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可用上传量：</translation>
     </message>
     <message>
         <source>Remaining download this month:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本月剩余下载量：</translation>
     </message>
     <message>
         <source>Remaining upload this month:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本月剩余下载量</translation>
     </message>
     <message>
         <source>Retrieving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">获取中</translation>
     </message>
     <message>
         <source>Packet loss</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">丢包率</translation>
     </message>
     <message>
         <source>Packets transferred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发包率</translation>
     </message>
     <message>
         <source>Bytes transferred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据传输量</translation>
     </message>
     <message>
         <source>Bandwidth last second</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前一秒带宽</translation>
     </message>
     <message>
         <source>Bandwidth last minute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前一分钟带宽</translation>
     </message>
     <message>
         <source>File transfer bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输流量</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">总计</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">流入</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">流出</translation>
     </message>
     <message>
         <source>Exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">溢出</translation>
     </message>
     <message>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计算中</translation>
     </message>
     <message>
         <source>%1 ms %2 %3</source>
@@ -1656,7 +1656,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏</translation>
     </message>
     <message>
         <source>%1 %</source>
@@ -1668,155 +1668,156 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Speech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语音</translation>
     </message>
     <message>
         <source>Keep Alive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保持连接</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">控制</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <source>Connection Info - %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接信息 - %1</translation>
     </message>
 </context>
 <context>
     <name>CreateChannelDialog</name>
     <message>
         <source>Create Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称：</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标：</translation>
     </message>
     <message>
         <source>Set channel icon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置频道图标。</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <source>Optional password for this channel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(可选)这个频道的密码</translation>
     </message>
     <message>
         <source>&amp;Topic:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主题：</translation>
     </message>
     <message>
         <source>Optional topic for this channel, displayed in the info area on the right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(可选)关于这个频道的主题,将在右边的信息区域显示。</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">描述：</translation>
     </message>
     <message>
         <source>Tear off description editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开频道描述编辑器</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基本</translation>
     </message>
     <message>
         <source>Channel &amp;Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道类型</translation>
     </message>
     <message>
         <source>Channel will be deleted when the last user left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当最后一名用户离开时，频道将被删除。</translation>
     </message>
     <message>
         <source>Temporary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时</translation>
     </message>
     <message>
         <source>Channel exists until server is restarted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">直到服务器重启前，频道将持续存在。</translation>
     </message>
     <message>
         <source>Semi-Permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">半永久</translation>
     </message>
     <message>
         <source>Channel will exist until manually deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道将持续存在，直至手动删除。</translation>
     </message>
     <message>
         <source>Permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">永久</translation>
     </message>
     <message>
         <source>The default channel is the place where new clients join on login.
 There can be only one default channel for the whole server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新用户会连接到默认频道。
+每个服务器只有一个默认频道。</translation>
     </message>
     <message>
         <source>&amp;Default Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认频道</translation>
     </message>
     <message>
         <source>Sort This Channel After:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排在此频道后面：</translation>
     </message>
     <message>
         <source>Channel will be sorted below this channel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道将会排在这个频道后面。</translation>
     </message>
     <message>
         <source>Moderation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管控</translation>
     </message>
     <message>
         <source>&amp;Needed Talk Power:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发言所需权限：</translation>
     </message>
     <message>
         <source>Talk power required to speak in this channel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此频道发言所需的最低权限值。</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">声音品质</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设</translation>
     </message>
     <message>
         <source>Voice Mobile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移动式</translation>
     </message>
     <message>
         <source>Voice Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">桌面式</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音乐</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义</translation>
     </message>
     <message>
         <source>Custom Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义设置</translation>
     </message>
     <message>
         <source>&amp;Codec:</source>
