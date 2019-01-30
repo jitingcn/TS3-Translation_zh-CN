@@ -4,8 +4,8 @@ python: 3.7
 sudo: required
 
 branches:
-  only:
-  - master
+  except:
+    - travis-dev-build
 
 before_install:
 - export TZ=Asia/Shanghai
@@ -29,8 +29,8 @@ before_deploy:
 
 deploy:
   provider: releases
-  name: TeamSpeak 3 zh-CN translation addon snapshot release
-  body: ($TRAVIS_COMMIT) Automatic build by Travis CI on $(date +'%F %T %Z').
+  name: TeamSpeak 3 zh-CN translation snapshot release
+  body: $TRAVIS_BRANCH ($TRAVIS_COMMIT) Automatic build by Travis CI on $(date +'%F %T %Z').
   prerelease: true
   # on.tags: true
   api_key:
