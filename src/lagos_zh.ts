@@ -12411,7 +12411,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Always default</source>
-        <translation>永远默认</translation>
+        <translation>保持默认</translation>
     </message>
     <message>
         <source>Confirmation</source>
