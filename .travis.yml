@@ -40,4 +40,5 @@ deploy:
   overwrite: true
   target_commitish: $TRAVIS_COMMIT
   on:
-    repo: jitingcn/TS3-Translation_zh-CN
+    branch: master
+    #repo: jitingcn/TS3-Translation_zh-CN
