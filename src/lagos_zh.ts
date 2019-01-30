@@ -864,7 +864,7 @@ servers will not be cleared.</source>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation>录制</translation>
+        <translation>捕获</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
@@ -2070,11 +2070,11 @@ There can be only one default channel for the whole server.</source>
     <name>CreateProfileDialog</name>
     <message>
         <source>The profile name &quot;All&quot; is prohibited.</source>
-        <translation type="unfinished">个人资料名称 &quot;全部&quot; 被禁止。</translation>
+        <translation type="unfinished">配置名称 &quot;全部&quot; 被禁止。</translation>
     </message>
     <message>
         <source>The profile name &quot;%1&quot; already exists.</source>
-        <translation type="unfinished">个人资料名称 &quot;%1&quot; 已存在。</translation>
+        <translation type="unfinished">配置名称 &quot;%1&quot; 已存在。</translation>
     </message>
 </context>
 <context>
