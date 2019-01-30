@@ -20,10 +20,10 @@ script:
 - rm dist/*
 
 before_deploy:
-  - git config --local user.name "jitingcn"
-  - git config --local user.email "jiting@jtcat.com"
   - git tag -f travis-dev-build
-  - git push -f origin travis-dev-build
+  - git remote add tmp https://${TRAVIS_REPO_SLUG%/*}:${GITHUB_API_KEY}@github.com/${TRAVIS_REPO_SLUG}.git
+  - git push -f tmp travis-dev-build
+  - git remote remove tmp
   #- export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
   #- git tag $TRAVIS_TAG
 
