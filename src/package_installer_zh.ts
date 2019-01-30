@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>All</source>
-        <translation>全选</translation>
+        <translation>全平台</translation>
     </message>
     <message>
         <source>Select TeamSpeak Client installation folder</source>
