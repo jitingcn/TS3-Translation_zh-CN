@@ -33,11 +33,11 @@
     </message>
     <message>
         <source>Step one: Updating updater</source>
-        <translation>第1步： 更新TS3更新程序</translation>
+        <translation>第1步:  更新TS3更新程序</translation>
     </message>
     <message>
         <source>Step two: Updating TeamSpeak client</source>
-        <translation>第2步： 更新 TeamSpeak 客户端</translation>
+        <translation>第2步:  更新 TeamSpeak 客户端</translation>
     </message>
     <message>
         <source>Confirm reboot</source>

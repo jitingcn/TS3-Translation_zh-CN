@@ -116,7 +116,7 @@ Do you want to retry as Administrator?</source>
     <message>
         <source>Failed to extract Add-On:
 %1</source>
-        <translation>无法提取附加组件：
+        <translation>无法提取附加组件: 
 %1</translation>
     </message>
 </context>
