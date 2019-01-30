@@ -2070,93 +2070,93 @@ There can be only one default channel for the whole server.</source>
     <name>CreateProfileDialog</name>
     <message>
         <source>The profile name &quot;All&quot; is prohibited.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">个人资料名称 &quot;全部&quot; 被禁止。</translation>
     </message>
     <message>
         <source>The profile name &quot;%1&quot; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">个人资料名称 &quot;%1&quot; 已存在。</translation>
     </message>
 </context>
 <context>
     <name>CustomGraphicsItem</name>
     <message>
         <source>Hide Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏项目</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除项目</translation>
     </message>
 </context>
 <context>
     <name>CustomizeToolbar</name>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义工具栏</translation>
     </message>
     <message>
         <source>Reset to Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重置为默认</translation>
     </message>
     <message>
         <source>Available actions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可用操作: </translation>
     </message>
     <message>
         <source>Selected actions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所选操作: </translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隔离</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <source>Dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对话框</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">录音</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">其他</translation>
     </message>
     <message>
         <source>Please Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请确认</translation>
     </message>
     <message>
         <source>Do you really want to reset the toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你真的想重置工具栏吗? </translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索...</translation>
     </message>
 </context>
 <context>
@@ -2165,145 +2165,149 @@ There can be only one default channel for the whole server.</source>
         <source>Zero and all negative values cannot cause
 clipping and distortion, and are preferred
 for optimal audio quality.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">零和所有负值不会导致削波和失真，并且更适合于音频质量。</translation>
     </message>
     <message>
         <source>Values greater than zero and less than
 +6 dB might cause moderate clipping and
 distortion, but should still be within
 acceptable bounds.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大于零或小于
++6 dB可能造成轻微的削波和失真,
+但仍应处于可接受范围之内。</translation>
     </message>
     <message>
         <source>Values greater than +6 dB will cause
 clipping and distortion that will negatively
 affect your audio quality. It is advised
 to chose lower values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大于+6 dB的值
+将导致你的音频质量降低和失真。
+建议选择较低的值。</translation>
     </message>
 </context>
 <context>
     <name>DebugLogViewer</name>
     <message>
         <source>Client Debug Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端日志</translation>
     </message>
 </context>
 <context>
     <name>DownloadSetupDialog</name>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>Configure Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载设置</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择下载文件夹</translation>
     </message>
 </context>
 <context>
     <name>EasyConfirmDialog</name>
     <message>
         <source>Apply permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用权限</translation>
     </message>
     <message>
         <source>&lt;p&gt;This group contains additional permissions which have not been set by this dialog.&lt;/p&gt;&lt;p&gt;Do you want to keep or remove these permissions?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;此组包含没有在此对话框中设置的附加权限。&lt;/p&gt;&lt;p&gt;要保留还是删除这些权限？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保留</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>&amp;More info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">详情(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Less info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏(&amp;L)</translation>
     </message>
 </context>
 <context>
     <name>EasyPermissionsWidget</name>
     <message>
         <source>This group will be set as:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此组将会设置为: </translation>
     </message>
     <message>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标: </translation>
     </message>
     <message>
         <source>Set group icon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置群图标。</translation>
     </message>
     <message>
         <source>Group options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">组选项</translation>
     </message>
     <message>
         <source>Show name in tree:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在主界面显示组名称: </translation>
     </message>
     <message>
         <source>Do not show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不显示</translation>
     </message>
     <message>
         <source>Show before name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示在名称前面</translation>
     </message>
     <message>
         <source>Show behind name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示在名称后面</translation>
     </message>
     <message>
         <source>Permissions of this group cannot be restricted by channelgroups or channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此用户组的权限不被屏道祖或者频道限制</translation>
     </message>
     <message>
         <source>Administrate the Server (edit Settings, use reserved slots)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理服务器 (修改设置, 保留用户位置)</translation>
     </message>
     <message>
         <source>Client can edit servername, welcomemessage, password etc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以编辑服务器名称, 欢迎信息, 密码等</translation>
     </message>
     <message>
         <source>Client can edit server host settings (maxclients, filetransfer quotas etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以编辑服务器设置 (最大用户数, 文件传输配额等)</translation>
     </message>
     <message>
         <source>Client can use reserved slots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以使用保留位置</translation>
     </message>
     <message>
         <source>Client can view server informations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以查看服务器信息</translation>
     </message>
     <message>
         <source>Manage Groups (create, delete, modify)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理用户组 (创建, 删除, 修改)</translation>
     </message>
     <message>
         <source>Client can create and delete Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以创建, 删除用户组</translation>
     </message>
     <message>
         <source>Client can change channel, client and group icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以修改频道, 用户, 组图标</translation>
     </message>
     <message>
         <source>Client can view permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以查看权限信息</translation>
     </message>
     <message>
         <source>Assign and Remove Member (add user, manage token)</source>
