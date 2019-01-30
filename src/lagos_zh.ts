@@ -2311,15 +2311,15 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Assign and Remove Member (add user, manage token)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">分配和删除成员(添加用户, 管理密钥)</translation>
     </message>
     <message>
         <source>Client can add user to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可以分配用户至</translation>
     </message>
     <message>
         <source>Client can manage Privilege Keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以管理密钥</translation>
     </message>
     <message>
         <source>Administrate Clients (move, kick, ban)</source>
