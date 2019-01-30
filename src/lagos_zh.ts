@@ -2070,22 +2070,22 @@ There can be only one default channel for the whole server.</source>
     <name>CreateProfileDialog</name>
     <message>
         <source>The profile name &quot;All&quot; is prohibited.</source>
-        <translation type="unfinished">配置名称 &quot;全部&quot; 被禁止。</translation>
+        <translation type="unfinished">禁止使用 &quot;All&quot; 作为配置名称。</translation>
     </message>
     <message>
         <source>The profile name &quot;%1&quot; already exists.</source>
-        <translation type="unfinished">配置名称 &quot;%1&quot; 已存在。</translation>
+        <translation type="unfinished">配置 &quot;%1&quot; 已存在。</translation>
     </message>
 </context>
 <context>
     <name>CustomGraphicsItem</name>
     <message>
         <source>Hide Item</source>
-        <translation type="unfinished">隐藏项目</translation>
+        <translation>隐藏项目</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished">移除项目</translation>
+        <translation>移除项目</translation>
     </message>
 </context>
 <context>
@@ -2100,15 +2100,15 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Available actions:</source>
-        <translation type="unfinished">可用操作: </translation>
+        <translation type="unfinished">可用行为: </translation>
     </message>
     <message>
         <source>Selected actions:</source>
-        <translation type="unfinished">所选操作: </translation>
+        <translation type="unfinished">已选行为: </translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished">隔离</translation>
+        <translation type="unfinished">分隔栏</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -2144,7 +2144,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">其他</translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <source>Please Confirm</source>
@@ -2152,7 +2152,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Do you really want to reset the toolbar?</source>
-        <translation type="unfinished">你真的想重置工具栏吗? </translation>
+        <translation type="unfinished">你真的想重置工具栏吗？</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -2165,32 +2165,31 @@ There can be only one default channel for the whole server.</source>
         <source>Zero and all negative values cannot cause
 clipping and distortion, and are preferred
 for optimal audio quality.</source>
-        <translation type="unfinished">零和所有负值不会导致削波和失真，并且更适合于音频质量。</translation>
+        <translation type="unfinished">负值和零不会造成削波和
+失真，能获得最佳音频质量。</translation>
     </message>
     <message>
         <source>Values greater than zero and less than
 +6 dB might cause moderate clipping and
 distortion, but should still be within
 acceptable bounds.</source>
-        <translation type="unfinished">大于零或小于
-+6 dB可能造成轻微的削波和失真,
-但仍应处于可接受范围之内。</translation>
+        <translation type="unfinished">0到+6 dB可能会造成轻微削波和
+失真，但仍处于可接受的范围之内。</translation>
     </message>
     <message>
         <source>Values greater than +6 dB will cause
 clipping and distortion that will negatively
 affect your audio quality. It is advised
 to chose lower values.</source>
-        <translation type="unfinished">大于+6 dB的值
-将导致你的音频质量降低和失真。
-建议选择较低的值。</translation>
+        <translation type="unfinished">选择高于+6 dB的值会造成失真，将导致
+你的音频质量受损。建议选择一个较低的值。</translation>
     </message>
 </context>
 <context>
     <name>DebugLogViewer</name>
     <message>
         <source>Client Debug Log</source>
-        <translation type="unfinished">客户端日志</translation>
+        <translation type="unfinished">客户端调试日志</translation>
     </message>
 </context>
 <context>
@@ -2271,7 +2270,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Permissions of this group cannot be restricted by channelgroups or channels</source>
-        <translation type="unfinished">此用户组的权限不被屏道祖或者频道限制</translation>
+        <translation type="unfinished">此用户组的权限不被频道组或者频道限制</translation>
     </message>
     <message>
         <source>Administrate the Server (edit Settings, use reserved slots)</source>
@@ -2279,7 +2278,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can edit servername, welcomemessage, password etc.</source>
-        <translation type="unfinished">用户可以编辑服务器名称, 欢迎信息, 密码等</translation>
+        <translation type="unfinished">用户可以编辑服务器名称, 欢迎信息, 密码等。</translation>
     </message>
     <message>
         <source>Client can edit server host settings (maxclients, filetransfer quotas etc.)</source>
@@ -3905,7 +3904,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>----- Misc -----</source>
-        <translation type="unfinished"></translation>
+        <translation>----- 杂项 -----</translation>
     </message>
     <message>
         <source>Grant Next User Talk Power</source>
@@ -5394,7 +5393,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Set &amp;Phonetic Nickname</source>
-        <translation>设置昵称音素(&amp;P)</translation>
+        <translation type="unfinished">设置昵称发音(&amp;P)</translation>
     </message>
     <message>
         <source>Set your nickname written in phonemes</source>
@@ -10848,7 +10847,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <source>Default Groups</source>
@@ -13555,7 +13554,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation>昵称音素(&amp;P):</translation>
+        <translation type="unfinished">昵称发音(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
