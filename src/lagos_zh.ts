@@ -864,7 +864,7 @@ servers will not be cleared.</source>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation>录音设定</translation>
+        <translation>录制</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
@@ -5106,7 +5106,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Collected &amp;URLs</source>
-        <translation>收集到的链接(&amp;U)</translation>
+        <translation>收到的链接(&amp;U)</translation>
     </message>
     <message>
         <source>Display collected internet locations</source>
@@ -5498,7 +5498,7 @@ Current: %1</source>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation>个人设定(&amp;E)</translation>
+        <translation>个人(&amp;E)</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
@@ -10598,7 +10598,7 @@ TeamSpeak will be closed if you proceed.</source>
     <name>UrlCatcherViewer</name>
     <message>
         <source>Collected URLs</source>
-        <translation type="unfinished">收集到的链接</translation>
+        <translation type="unfinished">收到的链接</translation>
     </message>
     <message>
         <source>Clear search</source>
