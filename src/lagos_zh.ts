@@ -2322,7 +2322,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Administrate Clients (move, kick, ban)</source>
-        <translation type="unfinished"管理客户端(移动, 踢出, 封禁)</translation>
+        <translation type="unfinished">管理客户端(移动, 踢出, 封禁)</translation>
     </message>
     <message>
         <source>Client can move</source>
