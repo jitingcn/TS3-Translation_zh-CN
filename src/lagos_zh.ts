@@ -2322,151 +2322,151 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Administrate Clients (move, kick, ban)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"管理客户端(移动, 踢出, 封禁)</translation>
     </message>
     <message>
         <source>Client can move</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以移动</translation>
     </message>
     <message>
         <source>Client can kick from channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以踢出频道</translation>
     </message>
     <message>
         <source>Client can ban</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以封禁</translation>
     </message>
     <message>
         <source>Client can change client descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以修改描述</translation>
     </message>
     <message>
         <source>Client can grant talk power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以授权发言权限</translation>
     </message>
     <message>
         <source>Client can kick from server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以踢出服务器</translation>
     </message>
     <message>
         <source>Manage Channels (create, edit, delete)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理频道(创建, 编辑, 删除)</translation>
     </message>
     <message>
         <source>Client can create channeltype</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户能创建的频道类型</translation>
     </message>
     <message>
         <source>Client can delete channeltype</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户能删除的频道类型</translation>
     </message>
     <message>
         <source>Client can edit channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户能编辑频道</translation>
     </message>
     <message>
         <source>Basics (send messages, set avatar, subscribe channel)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基本(发送消息, 设置头像, 订阅频道)</translation>
     </message>
     <message>
         <source>Client can send messages to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以发送消息至</translation>
     </message>
     <message>
         <source>Client can set avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以设置头像</translation>
     </message>
     <message>
         <source>Client can use channel commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以使用频道指挥官</translation>
     </message>
     <message>
         <source>Client can subscribe channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以订阅频道</translation>
     </message>
     <message>
         <source>Client can assign priority speaker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户可以分配优先发言</translation>
     </message>
     <message>
         <source>Filetransfer (manage, upload, download)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输(管理, 上传, 下载)</translation>
     </message>
     <message>
         <source>Client can manage files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以管理文件</translation>
     </message>
     <message>
         <source>Client can upload files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以上传文件</translation>
     </message>
     <message>
         <source>Client can download files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户可以下载文件</translation>
     </message>
     <message>
         <source>Switch to advanced permissions display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到高级权限显示界面</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">丢弃</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用</translation>
     </message>
     <message>
         <source>No permissions to view this group.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有权限查看这个组。</translation>
     </message>
     <message>
         <source>Edit Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑图标</translation>
     </message>
     <message>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除图标</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <source>Permissions reverted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限恢复</translation>
     </message>
     <message>
         <source>Permissions applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限应用</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被禁止</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to remove grant permissions from a Server Admin group&lt;br&gt;and are a member of this group.&lt;/p&gt;&lt;p&gt;As this might prevent you from being able to add this permission again,&lt;br&gt;this operation is prohibited.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您即将删除服务器管理组的授予权限,&lt;br&gt;并且您是该组成员的成员,&lt;/p&gt;&lt;p&gt;因为这样会禁止您再次添加此权限,&lt;br&gt;此操作已被禁止。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略</translation>
     </message>
     <message>
         <source>Applying permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用权限中...</translation>
     </message>
     <message>
         <source>Not all permissions could be applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">并非所有的权限都可以应用</translation>
     </message>
     <message>
         <source>Icon applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标已应用</translation>
     </message>
     <message>
         <source>Icon removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标已移除</translation>
     </message>
     <message>
         <source>Icon could not be applied</source>
@@ -2474,18 +2474,18 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Icon could not be removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标无法被移除</translation>
     </message>
 </context>
 <context>
     <name>EnumerationDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>The TeamSpeak Hotkey System is probably not working properly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TeamSpeak 热键系统可能无法正常工作。</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -2497,15 +2497,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不再显示</translation>
     </message>
     <message>
         <source>Enumerating Input Devices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">枚举输入装置</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">工作中</translation>
     </message>
 </context>
 <context>
