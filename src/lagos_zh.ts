@@ -2546,7 +2546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>I know the risk, do not show again</source>
-        <translation type="unfinished">我了解存在的风险，不再提示</translation>
+        <translation type="unfinished">我了解可能存在的风险，不再提示</translation>
     </message>
     <message>
         <source>Open link</source>
@@ -5720,279 +5720,279 @@ Current: %1</source>
     <name>NotificationsSetup</name>
     <message>
         <source>&amp;Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>音效包(&amp;S): </translation>
     </message>
     <message>
         <source>&amp;While Output Muted:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出静音时(&amp;W): </translation>
     </message>
     <message>
         <source>Use as Default for all Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用作所有书签的默认值</translation>
     </message>
     <message>
         <source>Hint: The Sound Pack can be overwritten for each &lt;a href=&quot;jumpTo:OpenBookmarks&quot;&gt;Bookmark&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提示: 音效包可以覆盖每个单独的&lt;a href=&quot;jump To:Open Bookmarks&quot;&gt;书签&lt;/a&gt;。</translation>
     </message>
     <message>
         <source>Play selected sound (Alt+P)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放选择的声音(Alt+P)</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放(&amp;PP)</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+P</translation>
     </message>
     <message>
         <source>No valid entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未选择有效条目</translation>
     </message>
     <message>
         <source>Visit TeamSpeak Addons webpage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">访问 TeamSpeak Addons 网页</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通知</translation>
     </message>
     <message>
         <source>Configure the Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置通知</translation>
     </message>
     <message>
         <source>Get more soundpacks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">获取更多音效包</translation>
     </message>
     <message>
         <source>Play all sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放所有音效</translation>
     </message>
     <message>
         <source>Play only important sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只播放重要的音效</translation>
     </message>
     <message>
         <source>Play no sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不播放音效</translation>
     </message>
     <message>
         <source>Select Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择组</translation>
     </message>
     <message>
         <source>Deselect Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消选择组</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>取消全选</translation>
     </message>
     <message>
         <source>Expand Group</source>
-        <translation type="unfinished"></translation>
+        <translation>展开组</translation>
     </message>
     <message>
         <source>Collapse Group</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠组</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>展开全部</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>折叠全部</translation>
     </message>
     <message>
         <source>Mark as Important</source>
-        <translation type="unfinished"></translation>
+        <translation>标记为重要</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">聊天</translation>
     </message>
     <message>
         <source>Sound capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频捕获</translation>
     </message>
     <message>
         <source>Sound playback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频输出</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">其他</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">特殊</translation>
     </message>
     <message>
         <source>Connected to server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接到服务器</translation>
     </message>
     <message>
         <source>Disconnected from server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从服务器断开</translation>
     </message>
     <message>
         <source>Lost connection to server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">丢失了与服务器的连接</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建</translation>
     </message>
     <message>
         <source>Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Edited</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <source>Moved</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移动</translation>
     </message>
     <message>
         <source>By you</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被你</translation>
     </message>
     <message>
         <source>By other client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被其他用户</translation>
     </message>
     <message>
         <source>By the server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被服务器</translation>
     </message>
     <message>
         <source>Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前频道</translation>
     </message>
     <message>
         <source>Other Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">其他频道</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Insufficient permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限不足</translation>
     </message>
     <message>
         <source>By other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被其他人</translation>
     </message>
     <message>
         <source>Switched</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换</translation>
     </message>
     <message>
         <source>Renamed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名</translation>
     </message>
     <message>
         <source>Was Kicked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被踢了</translation>
     </message>
     <message>
         <source>Was Banned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被封禁了</translation>
     </message>
     <message>
         <source>Was Assigned a Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被分配了一个组</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">录音</translation>
     </message>
     <message>
         <source>Requests Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求通话权限</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
     <message>
         <source>Lost Connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">丢失连接</translation>
     </message>
     <message>
         <source>Current channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前频道</translation>
     </message>
     <message>
         <source>To Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">到当前频道</translation>
     </message>
     <message>
         <source>Away from Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开当前频道</translation>
     </message>
     <message>
         <source>To Different Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">到不同的频道</translation>
     </message>
     <message>
         <source>And appears</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">并出现</translation>
     </message>
     <message>
         <source>And stays in view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">并留在视图中</translation>
     </message>
     <message>
         <source>And disappears</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">并消失</translation>
     </message>
     <message>
         <source>You have been renamed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您已被重命名</translation>
     </message>
     <message>
         <source>Other has been renamed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">其他用户被重命名</translation>
     </message>
     <message>
         <source>From Channel</source>
@@ -6196,43 +6196,43 @@ Current: %1</source>
     </message>
     <message>
         <source>Text Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文字位置</translation>
     </message>
     <message>
         <source>This item is marked as important!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此项目被标记为重要！</translation>
     </message>
     <message>
         <source>No sound script available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有声音脚本可用</translation>
     </message>
     <message>
         <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;找不到文件 &quot;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>No entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有选择条目</translation>
     </message>
     <message>
         <source>channelname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道名</translation>
     </message>
     <message>
         <source>clientname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端名称</translation>
     </message>
     <message>
         <source>Mark as Unimportant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记为不重要</translation>
     </message>
     <message>
         <source>Use Default?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认情况下使用？</translation>
     </message>
     <message>
         <source>Are you sure you want to use the selected Sound Pack as Default for all your Bookmarks?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您确定要将选中的音效包作为所有书签的默认值吗？</translation>
     </message>
 </context>
 <context>
