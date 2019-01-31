@@ -12986,17 +12986,22 @@ Some myTeamSpeak related services are not available.</source>
 
 Drag &amp; Drop whisper targets from the right side
 Use right mouse or delete key to remove an item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此密语列表为空
+
+从右侧拖放密语目标
+使用鼠标右键或删除键删除项目</translation>
     </message>
     <message>
         <source>
 
 Hint: Hold down SHIFT if you want to add channels recursively</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+
+提示: 如果要连续添加，请按住SHIFT键</translation>
     </message>
     <message>
         <source>No items in this panel...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此面板中没有任何项目...</translation>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
@@ -13004,167 +13009,170 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Clients &amp; Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户和频道</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>组</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新增</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <source>Export all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部导出</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看全部</translation>
     </message>
     <message>
         <source>View Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看联系人</translation>
     </message>
     <message>
         <source>View Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看用户</translation>
     </message>
     <message>
         <source>View Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看频道</translation>
     </message>
     <message>
         <source>You are about to delete a list which is not empty
 Do you really want to delete?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您即将删除非空的列表
+你真的想删除吗？</translation>
     </message>
     <message>
         <source>WhisperList %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语列表 %1</translation>
     </message>
     <message>
         <source>Import whisperlists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导入密语列表</translation>
     </message>
     <message>
         <source>Whisper to </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语对</translation>
     </message>
     <message>
         <source>Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器组</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道指挥官</translation>
     </message>
     <message>
         <source>All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部用户</translation>
     </message>
     <message>
         <source> in </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在</translation>
     </message>
     <message>
         <source>All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部频道</translation>
     </message>
     <message>
         <source>Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前频道</translation>
     </message>
     <message>
         <source>Parent Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">父频道</translation>
     </message>
     <message>
         <source>All Parent Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部父频道</translation>
     </message>
     <message>
         <source>Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道树</translation>
     </message>
     <message>
         <source>Complete Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完整的频道树</translation>
     </message>
     <message>
         <source>Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子频道</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Exceeding maximum of %1 synchronized whisperlists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超过最大同步密语列表上限 %1</translation>
     </message>
     <message>
         <source>Press hotkey combination.
 (ESC to cancel or to clear the hotkey)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按下快捷键组合。
+（ESC 为取消或清除快捷键）</translation>
     </message>
     <message numerus="yes">
         <source>Assigned profile(s): %1</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n已指定的配置: %1</numerusform>
         </translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
         <source>The settings have been modified.
 Do you want to apply your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置已被修改。
+您想应用更改吗？</translation>
     </message>
     <message>
         <source>Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快速访问</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">联系人</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::WhisperSetup</name>
     <message>
         <source>Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语</translation>
     </message>
     <message>
         <source>Configure Whispering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置密语</translation>
     </message>
 </context>
 <context>
@@ -13178,100 +13186,101 @@ Do you want to apply your changes?</source>
     <name>com::teamspeak::ui::addons::Addons_Setup</name>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同步</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>卸载</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Plugin failed to load:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件无法加载: </translation>
     </message>
     <message>
         <source>minimum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最小值</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前</translation>
     </message>
     <message>
         <source>Plugin reported initialization failure.
 Please contact the plugin author.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件报告初始化失败。
+请联系插件作者。</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">版本</translation>
     </message>
     <message>
         <source>Keyword</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关键词</translation>
     </message>
     <message>
         <source>Addons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">附加组件</translation>
     </message>
     <message>
         <source>Collections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">合集包</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件</translation>
     </message>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主题</translation>
     </message>
     <message>
         <source>Icon Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标包</translation>
     </message>
     <message>
         <source>Sound Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音效包</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">翻译</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部</translation>
     </message>
     <message>
         <source>Reload All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部刷新</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <source>Failed to reload plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法重新加载插件。</translation>
     </message>
     <message>
         <source>Failed to initialize plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法初始化插件。</translation>
     </message>
 </context>
 <context>
@@ -13327,35 +13336,35 @@ Please contact the plugin author.</source>
     <name>com::teamspeak::ui::sync::Collision_Resolver</name>
     <message>
         <source>Sync Collisions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同步冲突</translation>
     </message>
     <message>
         <source>Your synced data has been edited simultaneously on multiple devices or has been deleted. This has caused a collision between this device and your myTeamSpeak account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已同步的数据在多台设备上同时编辑或已被删除。这导致此设备与 myTeamSpeak 帐户发生冲突。</translation>
     </message>
     <message>
         <source>How to resolve the collision</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如何解决冲突</translation>
     </message>
     <message>
         <source>Delete Local Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除本地项目</translation>
     </message>
     <message>
         <source>The item was deleted in your account. Also delete it on this device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该项目已从此设备和您的帐户中删除。</translation>
     </message>
     <message>
         <source>Keep Local Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保留本地项目</translation>
     </message>
     <message>
         <source>The item was deleted in your account. Keep it on this device and upload to your account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该项目已在您的帐户中删除。 将其保留在此设备上并上传到您的帐户。</translation>
     </message>
     <message>
         <source>Add Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新增项目</translation>
     </message>
     <message>
         <source>The item was deleted on this device but still exists in your account. Keep the item in your account and add it to this device.</source>
