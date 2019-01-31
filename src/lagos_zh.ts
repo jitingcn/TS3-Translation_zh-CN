@@ -2524,7 +2524,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完成</translation>
     </message>
 </context>
 <context>
