@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Abort</source>
-        <translation>中断</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Error</source>

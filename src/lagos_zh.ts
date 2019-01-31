@@ -2270,27 +2270,27 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Permissions of this group cannot be restricted by channelgroups or channels</source>
-        <translation type="unfinished">此用户组的权限不被频道组或者频道限制</translation>
+        <translation type="unfinished">此用户组的权限无法被频道组或者频道限制</translation>
     </message>
     <message>
         <source>Administrate the Server (edit Settings, use reserved slots)</source>
-        <translation type="unfinished">管理服务器 (修改设置, 保留用户位置)</translation>
+        <translation type="unfinished">管理服务器 (修改设置, 使用预留位置)</translation>
     </message>
     <message>
         <source>Client can edit servername, welcomemessage, password etc.</source>
-        <translation type="unfinished">用户可以编辑服务器名称, 欢迎信息, 密码等。</translation>
+        <translation type="unfinished">用户能够编辑服务器名称, 欢迎信息, 密码等。</translation>
     </message>
     <message>
         <source>Client can edit server host settings (maxclients, filetransfer quotas etc.)</source>
-        <translation type="unfinished">用户可以编辑服务器设置 (最大用户数, 文件传输配额等)</translation>
+        <translation type="unfinished">用户能够编辑服务器设置 (最大用户数, 文件传输配额等)</translation>
     </message>
     <message>
         <source>Client can use reserved slots</source>
-        <translation type="unfinished">用户可以使用保留位置</translation>
+        <translation type="unfinished">用户能够使用预留位置</translation>
     </message>
     <message>
         <source>Client can view server informations</source>
-        <translation type="unfinished">用户可以查看服务器信息</translation>
+        <translation type="unfinished">用户能够查看服务器信息</translation>
     </message>
     <message>
         <source>Manage Groups (create, delete, modify)</source>
@@ -2298,15 +2298,15 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can create and delete Groups</source>
-        <translation type="unfinished">用户可以创建, 删除用户组</translation>
+        <translation type="unfinished">用户能够创建或删除用户组</translation>
     </message>
     <message>
         <source>Client can change channel, client and group icons</source>
-        <translation type="unfinished">用户可以修改频道, 用户, 组图标</translation>
+        <translation type="unfinished">用户能够修改频道, 用户, 组图标</translation>
     </message>
     <message>
         <source>Client can view permissions</source>
-        <translation type="unfinished">用户可以查看权限信息</translation>
+        <translation type="unfinished">用户能够查看权限信息</translation>
     </message>
     <message>
         <source>Assign and Remove Member (add user, manage token)</source>
@@ -2314,11 +2314,11 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can add user to</source>
-        <translation type="unfinished">可以分配用户至</translation>
+        <translation type="unfinished">能够分配用户至</translation>
     </message>
     <message>
         <source>Client can manage Privilege Keys</source>
-        <translation type="unfinished">用户可以管理密钥</translation>
+        <translation type="unfinished">用户能够管理密钥</translation>
     </message>
     <message>
         <source>Administrate Clients (move, kick, ban)</source>
@@ -2326,27 +2326,27 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can move</source>
-        <translation type="unfinished">用户可以移动</translation>
+        <translation type="unfinished">用户能够移动</translation>
     </message>
     <message>
         <source>Client can kick from channel</source>
-        <translation type="unfinished">用户可以踢出频道</translation>
+        <translation type="unfinished">用户能从频道踢出</translation>
     </message>
     <message>
         <source>Client can ban</source>
-        <translation type="unfinished">用户可以封禁</translation>
+        <translation type="unfinished">用户能够封禁</translation>
     </message>
     <message>
         <source>Client can change client descriptions</source>
-        <translation type="unfinished">用户可以修改描述</translation>
+        <translation type="unfinished">用户能够修改描述</translation>
     </message>
     <message>
         <source>Client can grant talk power</source>
-        <translation type="unfinished">用户可以授权发言权限</translation>
+        <translation type="unfinished">用户能够获得发言权限</translation>
     </message>
     <message>
         <source>Client can kick from server</source>
-        <translation type="unfinished">用户可以踢出服务器</translation>
+        <translation type="unfinished">用户能从服务器踢出</translation>
     </message>
     <message>
         <source>Manage Channels (create, edit, delete)</source>
@@ -2370,23 +2370,23 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can send messages to</source>
-        <translation type="unfinished">用户可以发送消息至</translation>
+        <translation type="unfinished">用户能够发送消息至</translation>
     </message>
     <message>
         <source>Client can set avatar</source>
-        <translation type="unfinished">用户可以设置头像</translation>
+        <translation type="unfinished">用户能设置头像</translation>
     </message>
     <message>
         <source>Client can use channel commander</source>
-        <translation type="unfinished">用户可以使用频道指挥官</translation>
+        <translation type="unfinished">用户能使用频道指挥官</translation>
     </message>
     <message>
         <source>Client can subscribe channels</source>
-        <translation type="unfinished">用户可以订阅频道</translation>
+        <translation type="unfinished">用户能订阅频道</translation>
     </message>
     <message>
         <source>Client can assign priority speaker</source>
-        <translation type="unfinished">客户可以分配优先发言</translation>
+        <translation type="unfinished">客户能分配优先发言</translation>
     </message>
     <message>
         <source>Filetransfer (manage, upload, download)</source>
@@ -2410,7 +2410,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished">丢弃</translation>
+        <translation type="unfinished">放弃</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -2450,7 +2450,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">忽略</translation>
+        <translation type="unfinished">舍弃</translation>
     </message>
     <message>
         <source>Applying permissions...</source>
@@ -2470,7 +2470,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Icon could not be applied</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标无法被应用</translation>
     </message>
     <message>
         <source>Icon could not be removed</source>
@@ -2481,11 +2481,11 @@ to chose lower values.</source>
     <name>EnumerationDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>The TeamSpeak Hotkey System is probably not working properly.</source>
-        <translation type="unfinished">TeamSpeak 热键系统可能无法正常工作。</translation>
+        <translation type="unfinished">TeamSpeak 快捷键系统可能无法正常工作。</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -2493,11 +2493,15 @@ to chose lower values.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished">不再显示</translation>
+        <translation>不再显示</translation>
     </message>
     <message>
         <source>Enumerating Input Devices</source>
@@ -2505,22 +2509,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished">工作中</translation>
+        <translation>工作中</translation>
     </message>
 </context>
 <context>
     <name>EnumerationDialog_Windows</name>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Enumerating Input devices is taking longer than it should.&lt;/strong&gt;&lt;/p&gt;This might be a hardware problem with one of the input devices or buggy drivers.&lt;BR&gt;Find which device is causing the issue by selectively unplugging Input Devices&lt;BR&gt;(Keyboard,Mouse, Joystick...) and starting TeamSpeak until this dialog does no&lt;BR&gt;longer appear. Then try and find updated drivers for the device causing the issues.&lt;BR&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;枚举输入设备的时间比预期的要长。&lt;/strong&gt;&lt;/p&gt;这可能是其中一个输入设备有缺陷的驱动程序或硬件问题。&lt;BR&gt;通过选择性地拔出输入设备来查找导致问题的设备&lt;BR&gt;（键盘，鼠标，操纵杆...）并启动TeamSpeak，直到此对话框&lt;BR&gt;不在出现。然后尝试找到导致问题的设备的更新驱动程序。&lt;BR&gt;</translation>
     </message>
     <message>
         <source>&amp;Continue in Background</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在后台继续(&amp;C)</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <source>Complete</source>
@@ -2531,26 +2535,26 @@ p, li { white-space: pre-wrap; }
     <name>EscLineEdit</name>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索...</translation>
     </message>
 </context>
 <context>
     <name>ExternalLinkWarningDialog</name>
     <message>
         <source>External link</source>
-        <translation type="unfinished"></translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <source>I know the risk, do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我了解存在的风险，不再提示</translation>
     </message>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开链接</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出</translation>
     </message>
 </context>
 <context>
