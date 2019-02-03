@@ -812,11 +812,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation>录音配置(&amp;C):</translation>
+        <translation type="unfinished">音频捕获配置(&amp;C):</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation>用于此服务器的录音配置</translation>
+        <translation type="unfinished">用于此服务器的音频捕获配置</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
@@ -864,7 +864,7 @@ servers will not be cleared.</source>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation>捕获</translation>
+        <translation type="unfinished">音频捕获</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
@@ -912,7 +912,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation>录音配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有热键？&lt;/p&gt;</translation>
+        <translation type="unfinished">音频捕获配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有快捷键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3573,7 +3573,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Capture Profile</source>
-        <translation>录音配置</translation>
+        <translation type="unfinished">音频捕获配置</translation>
     </message>
     <message>
         <source>Playback Profile</source>
@@ -3713,11 +3713,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Capture Profile</source>
-        <translation>激活的录音配置</translation>
+        <translation type="unfinished">启用音频捕获配置</translation>
     </message>
     <message>
         <source>Deactivate Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用音频捕获配置</translation>
     </message>
     <message>
         <source>Toggle Capture Profile</source>
@@ -8335,7 +8335,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>No server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无服务器</translation>
     </message>
     <message>
         <source>Error retrieving filebrowser: %1</source>
@@ -8360,11 +8360,11 @@ Do you want to send a channel chat message instead?</source>
     </message>
     <message>
         <source>leaving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码</translation>
     </message>
     <message>
         <source>Enter server password:</source>
@@ -10375,19 +10375,19 @@ Do you want to apply your changes?</source>
     <name>TreeItem</name>
     <message>
         <source>Permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">永久</translation>
     </message>
     <message>
         <source>Semi-Permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">半永久</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码</translation>
     </message>
 </context>
 <context>
@@ -13572,7 +13572,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation>录音配置(&amp;C):</translation>
+        <translation type="unfinished">音频捕获配置(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
