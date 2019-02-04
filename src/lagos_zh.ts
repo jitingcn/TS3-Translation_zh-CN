@@ -8497,11 +8497,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">描述</translation>
+        <translation type="unfinished">简介</translation>
     </message>
     <message>
         <source>Client Description:</source>
-        <translation type="unfinished">用户描述: </translation>
+        <translation type="unfinished">个人简介: </translation>
     </message>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.</source>
@@ -8713,7 +8713,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 disconnected %2</source>
-        <translation type="unfinished">%1 断开与 %2 的连接</translation>
+        <translation type="unfinished">%1 断开连接 %2 </translation>
     </message>
     <message>
         <source>%1 appears, coming from channel %2</source>
@@ -8749,7 +8749,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 appears, was moved from channel %2 by %3 %4</source>
-        <translation type="unfinished">%1 上线，被 %3 %4 从频道 %2 移动</translation>
+        <translation type="unfinished">%1 上线，被 %3从频道 %2 移动 %4 </translation>
     </message>
     <message>
         <source>%1 was moved from channel %2 to %3 by %4 %5</source>
