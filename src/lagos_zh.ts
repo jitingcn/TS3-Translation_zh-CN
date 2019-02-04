@@ -8267,71 +8267,71 @@ Press Enter to apply filter.</source>
     <name>ServerView</name>
     <message>
         <source>(Locked) In Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">（已锁定）在预览中</translation>
     </message>
     <message>
         <source>We updated our myTeamSpeak services</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我们更新了 myTeamSpeak 服务</translation>
     </message>
     <message>
         <source>Update your client to continue using sync related features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请更新您的客户端以继续使用同步相关功能</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">稍后</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新</translation>
     </message>
     <message>
         <source>make sure to update your client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请务必更新您的客户端</translation>
     </message>
     <message>
         <source>myTeamSpeak session expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">myTeamSpeak 会话已过期</translation>
     </message>
     <message>
         <source>Sync related features are unavailable at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目前无法使用同步相关功能</translation>
     </message>
     <message>
         <source>Please enter the password for your current account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入您当前帐户的密码</translation>
     </message>
     <message>
         <source>If you skip this, you can visit the settings later to perform a new login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果跳过此步骤，可以稍后访问设置以执行新登录</translation>
     </message>
     <message>
         <source>Invalid server address: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器地址无效: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">尝试解析主机名 &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Aborting connection attempt to &apos;%1&apos;, already connecting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止尝试连接 &apos;%1&apos;，已经连接</translation>
     </message>
     <message>
         <source>This server configuration is deprecated. Support for this configuration will be dropped in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此服务器的配置被弃用。将来将不再支持此配置。</translation>
     </message>
     <message>
         <source>Please contact your server administrator. For details please see this %1Knowledge Base%2 article.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请联系您的服务器管理员。有关详细信息，请参阅此 %1知识库%2文章。</translation>
     </message>
     <message>
         <source>The TSDNS server &apos;%1&apos; does not know &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TSDNS服务器 &apos;%1&apos; 找不到 &apos;%2&apos;</translation>
     </message>
     <message>
         <source>Failed to resolve hostname &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法解析主机名 &apos;%1&apos;</translation>
     </message>
     <message>
         <source>No server</source>
@@ -8339,24 +8339,25 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Error retrieving filebrowser: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检索文件浏览器时出错: %1</translation>
     </message>
     <message>
         <source>Error refreshing file list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新文件列表时出错: %1</translation>
     </message>
     <message>
         <source>You don&apos;t have permissions to send channel chat messages, failed to send text message.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您当前无权发送频道聊天消息，无法发送文字信息。</translation>
     </message>
     <message>
         <source>Insufficient permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限不足...</translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to send server text messages.
 Do you want to send a channel chat message instead?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您无权发送服务器信息。
+您想要发送频道聊天消息吗？</translation>
     </message>
     <message>
         <source>leaving</source>
@@ -8368,381 +8369,387 @@ Do you want to send a channel chat message instead?</source>
     </message>
     <message>
         <source>Enter server password:</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入服务器密码: </translation>
     </message>
     <message>
         <source>Send Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation>发送离线消息</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>权限</translation>
     </message>
     <message>
         <source>Server changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器配置改变</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The identity of this server has changed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This could have one of these reasons:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;A new TeamSpeak server is running at this address.&lt;/li&gt;&lt;li&gt;The security of your connection to this server is compromised,&lt;br&gt;a man-in-the-middle attack is taking place.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Do you want to accept the new identity and remain connected?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;此服务器的身份识别已更改。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这可能是以下原因引起的: &lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;新的 TeamSpeak 服务器正在此地址运行。&lt;/li&gt;&lt;li&gt;您与此服务器的连接安全性受到影响，&lt;br&gt;服务器正在遭受中间人攻击。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;您想接受新的服务器标识并保持连接吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>You have %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你有 %1</translation>
     </message>
     <message>
         <source>There are no clients in this channel.
 Changing it to temporary will delete it after %1.
 Do you want to change the channel to temporary?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此频道中没有用户。
+将其更改为临时将在 %1 后删除它。
+您想将频道类型更改为临时频道吗？</translation>
     </message>
     <message>
         <source>There are no clients in this channel.
 Changing it to temporary will delete it.
 Do you want to change the channel to temporary?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此频道中没有用户。
+将其更改为临时将会删除此频道。
+您想将频道类型更改为临时频道吗？</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">问题</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>The default channel cannot be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认频道不能被删除。</translation>
     </message>
     <message>
         <source>Open Text Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开文字聊天</translation>
     </message>
     <message>
         <source>This will activate another server tab.
 
 Would you like to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这将激活另一个服务器选项卡。
+
+您想继续吗？</translation>
     </message>
     <message>
         <source>You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery is registered for private text messages events with &quot;servernotifyregister event=textprivate&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您正在尝试与 ServerQuery 客户端聊天。请注意，只有在使用 &quot;servernotifyregister event = textprivate&quot; 为私有文本消息事件注册 ServerQuery 时，才会收到文本消息。</translation>
     </message>
     <message>
         <source>Kick from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从频道中踢出</translation>
     </message>
     <message>
         <source>Kick Message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">踢出信息: </translation>
     </message>
     <message>
         <source>Poke</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戳一戳</translation>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戳一戳原因: </translation>
     </message>
     <message>
         <source>Complaint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">投诉</translation>
     </message>
     <message>
         <source>Enter the reason for your complaint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入你投诉此用户的原因</translation>
     </message>
     <message>
         <source>Kick from Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从服务器中踢出</translation>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户被封禁: %1</translation>
     </message>
     <message>
         <source>Failed to remove priority speaker. Probably it was not set as channel client permission. Check other permissions types manually in the permissions window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法移除优先发言人。可能它没有被设置为频道用户权限。在权限窗口中手动检查其他权限类型。</translation>
     </message>
     <message>
         <source>Complaint sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">投诉已发送.</translation>
     </message>
     <message>
         <source>Cannot add multiple complaints about the same client.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法添加有关同一用户的多个投诉。</translation>
     </message>
     <message>
         <source>Privilege Key successfully used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限密钥使用成功。</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;Invalid Privilege Key.&lt;/p&gt;&lt;p&gt;Either you entered an invalid Privilege Key or it has already been used.&lt;br&gt;Remember a Privilege Key can be used only once.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&quot;color:red;&quot;&gt;无效的权限密钥&lt;/p&gt;&lt;p&gt;您输入了无效的权限密钥或密钥已被使用。&lt;br&gt;请记住，权限密钥只能使用一次。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Failed to use Privilege Key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用权限密钥失败: %1</translation>
     </message>
     <message>
         <source>This ServerQuery login name is already used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此 ServerQuery 登录名已被使用。</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">描述</translation>
     </message>
     <message>
         <source>Client Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户描述: </translation>
     </message>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TeamSpeak 服务器无法验证您的 myTeamSpeak ID。 某些 myTeamSpeak 相关服务不可用。</translation>
     </message>
     <message>
         <source>Reconnecting might solve the issue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新连接可能会解决问题。</translation>
     </message>
     <message>
         <source>myTeamSpeak notification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">myTeamSpeak 通知</translation>
     </message>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TeamSpeak 服务器无法验证您的 myTeamSpeak ID</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;你真的想继续吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Leaving a group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开一个组</translation>
     </message>
     <message>
         <source>Talk Power Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求通话权限</translation>
     </message>
     <message>
         <source>Enter reason for talk power request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入请求通话权限的原因</translation>
     </message>
     <message>
         <source>Disconnected from server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">与服务器断开连接</translation>
     </message>
     <message>
         <source>Connection to server lost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">与服务器的连接丢失</translation>
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法连接到服务器</translation>
     </message>
     <message>
         <source>Connection lost because server license can not be validated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接丢失，因为无法验证服务器许可证</translation>
     </message>
     <message>
         <source>Disconnected from server (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">与服务器断开连接 (%1)</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <source>&lt;p&gt;This server version is outdated.&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;Recent versions of the TeamSpeak Client will not function properly on this server.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Please contact the hoster to update this TeamSpeak server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;此服务器版本已经过时。&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;最新版本的 TeamSpeak 客户端无法在此服务器上正常运行。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;请联系服务提供者以更新此 TeamSpeak 服务器。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Connected to Server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接到服务器: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;This client version is outdated.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;此客户端版本已过时。&lt;/p&gt;&lt;p&gt;您想现在检查更新吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The server version is outdated.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;此服务器版本已过时。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The following features are known to not function properly:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;已知以下功能无法正常运行: &lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Sending and receiving text chat messages&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;li&gt;发送和接收文字聊天消息&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Whispering to channels&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;li&gt;对频道密语&lt;/ li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Members of permission groups might not be displayed&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;li&gt;可能不会显示权限组的成员&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;Voice transmission can be corrupted, this server cannot be used with this client. The server should be updated.&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;语音传输可能已损坏，此服务器无法与此客户端使用。服务器应该进行更新。&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Certain characters in text messages are transmitted incorrectly&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;li&gt;文字信息中的某些字符传输不正确&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Channel %1 created successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 创建成功</translation>
     </message>
     <message>
         <source>Channel %1 created by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 由 %2 创建</translation>
     </message>
     <message>
         <source>Channel %1 was deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被删除</translation>
     </message>
     <message>
         <source>Channel %1 was deleted by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被 %2 删除</translation>
     </message>
     <message>
         <source>Channel %1 was moved, new parent channel is %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被移动，新的父频道为 %2</translation>
     </message>
     <message>
         <source>Channel %1 was moved by %2, new parent channel is %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被 %2 移动，新的父频道为 %3</translation>
     </message>
     <message>
         <source>Successfully renamed channel %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">成功重命名频道 %1 -&gt; %2</translation>
     </message>
     <message>
         <source>Channel %1 edited successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 编辑成功</translation>
     </message>
     <message>
         <source>Channel %1 was edited by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被 %2 编辑</translation>
     </message>
     <message>
         <source>Channel %1 was renamed to %2 by %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 被 %3 重命名为 %2 </translation>
     </message>
     <message>
         <source>Talk power granted by %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通话权限被 %1 提升</translation>
     </message>
     <message>
         <source>Talk power revoked by %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通话权限被 %1 撤销</translation>
     </message>
     <message>
         <source>Talk power granted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通话权限被提升</translation>
     </message>
     <message>
         <source>Talk power revoked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通话权限被撤销</translation>
     </message>
     <message>
         <source>%1 requested talk power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 请求通话权限</translation>
     </message>
     <message>
         <source>%1 started recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 开始录音</translation>
     </message>
     <message>
         <source>%1 stopped recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 停止录音</translation>
     </message>
     <message>
         <source>Started recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始录音</translation>
     </message>
     <message>
         <source>Stopped recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止录音</translation>
     </message>
     <message>
         <source>Your description has been changed to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的个人简介已更改为 &quot;%1&quot;。</translation>
     </message>
     <message>
         <source>Your description has been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的个人简介已移除。</translation>
     </message>
     <message>
         <source>Your description has been changed to &quot;%1&quot; by %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的个人简介已被 %2 更改为 &quot;%1&quot;。</translation>
     </message>
     <message>
         <source>Your description has been removed by %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的个人简介已被 %1 移除。</translation>
     </message>
     <message>
         <source>Renewed myTeamSpeak ID received and successfully validated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新了 myTeamSpeak ID 并验证成功。</translation>
     </message>
     <message>
         <source>%1 connected to channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 连接到频道 %2</translation>
     </message>
     <message>
         <source>%1 disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 断开连接</translation>
     </message>
     <message>
         <source>%1 disconnected %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 断开与 %2 的连接</translation>
     </message>
     <message>
         <source>%1 appears, coming from channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 上线，来自频道 %2</translation>
     </message>
     <message>
         <source>You switched from channel %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您从频道 %1 切换到 %2</translation>
     </message>
     <message>
         <source>%1 switched from channel %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 从频道 %2 切换到 %3</translation>
     </message>
     <message>
         <source>%1 left heading to channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 离开，前往频道 %2</translation>
     </message>
     <message>
         <source>%1 dropped (ping timeout)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 掉线了 (ping超时)</translation>
     </message>
     <message>
         <source>%1 dropped (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 掉线了 (%2)</translation>
     </message>
     <message>
         <source>You dropped (ping timeout)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您掉线了 (ping超时)</translation>
     </message>
     <message>
         <source>You dropped (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您掉线了 (%1)</translation>
     </message>
     <message>
         <source>%1 appears, was moved from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 上线，被 %3 %4 从频道 %2 移动</translation>
     </message>
     <message>
         <source>%1 was moved from channel %2 to %3 by %4 %5</source>
@@ -8782,7 +8789,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>permanently</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">永久</translation>
     </message>
     <message>
         <source>for %1</source>
@@ -8798,11 +8805,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Server properties edited successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器属性修改成功</translation>
     </message>
     <message>
         <source>Server properties have been edited by %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器属性被 %1 修改</translation>
     </message>
     <message>
         <source>Server has been shut down: %1</source>
@@ -8822,27 +8829,27 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 pokes you</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 戳了戳你</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 - %2 戳了戳你: %3</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 - %2 戳了戳你.</translation>
     </message>
     <message>
         <source>You Have Been Poked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您被戳了戳</translation>
     </message>
     <message>
         <source>The password of channel %1 has been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道 %1 的密码已被更改。</translation>
     </message>
     <message>
         <source>[Inherited from: %1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[从 %1 继承]</translation>
     </message>
     <message>
         <source>Channel group &quot;%1&quot;%2 was assigned to %3 by %4.</source>
@@ -8858,39 +8865,39 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Chat partner has closed the conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">聊天对象关闭了对话</translation>
     </message>
     <message>
         <source>This server is blacklisted. Refusing to connect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此服务器已列入黑名单。拒绝连接。</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您正在连接到似乎使用无效许可证的 TeamSpeak 服务器。&lt;/p&gt;&lt;p&gt;如果您是此服务器的所有者，请与您的TeamSpeak主机提供商联系，确认他们使用的是有效许可证。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">继续</translation>
     </message>
     <message>
         <source>Connection aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接被中断。</translation>
     </message>
     <message>
         <source>You are not connected to a server, this message has not been sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您未连接到服务器，此消息尚未发送。</translation>
     </message>
     <message>
         <source>Chat partner is out of view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">聊天对象离开</translation>
     </message>
     <message>
         <source>&lt;p&gt;Your chat partner is out of view.&lt;/p&gt;&lt;p&gt;Do you want to send the chat text as an offline message?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您的聊天对象已离开。&lt;/p&gt;&lt;p&gt;您是否要将聊天文本作为离线消息发送？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Out of view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开</translation>
     </message>
     <message>
         <source>This ServerQuery client did not register for the private text message event using &quot;servernotifyregister event=textprivate&quot;. The text message was not received.</source>
@@ -8906,7 +8913,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Offline message sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离线消息已发送。</translation>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
