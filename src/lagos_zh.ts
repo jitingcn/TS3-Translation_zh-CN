@@ -8909,7 +8909,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>No permissions to view the description of channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有权限查看频道 %1 的描述</translation>
     </message>
     <message>
         <source>Offline message sent.</source>
@@ -8917,11 +8917,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你戳了一下 %1 并发送消息: %2</translation>
     </message>
     <message>
         <source>You poked %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你戳了一下 %1。</translation>
     </message>
     <message>
         <source>&amp;Client Connection Info</source>
@@ -13194,7 +13194,7 @@ Do you want to apply your changes?</source>
     <name>com::teamspeak::ui::addons::Addons_Setup</name>
     <message>
         <source>Disabled</source>
-        <translation>禁用</translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -13214,7 +13214,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>启用</translation>
+        <translation>已启用</translation>
     </message>
     <message>
         <source>Plugin failed to load:</source>
