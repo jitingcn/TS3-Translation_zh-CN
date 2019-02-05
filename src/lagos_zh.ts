@@ -9189,19 +9189,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Add as Friend</source>
-        <translation type="unfinished">添加为朋友</translation>
+        <translation type="unfinished">加为好友</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Friend</source>
-        <translation type="unfinished">将此用户作为好友添加到联系人管理器</translation>
+        <translation type="unfinished">将此用户添加到联系人管理器好友列表</translation>
     </message>
     <message>
         <source>Add as Blocked</source>
-        <translation type="unfinished">添加为屏蔽</translation>
+        <translation type="unfinished">加入屏蔽列表</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Blocked</source>
-        <translation type="unfinished">将此用户添加到联系人管理器为屏蔽</translation>
+        <translation type="unfinished">将此用户添加到联系人管理器屏蔽列表</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
@@ -9221,19 +9221,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished">请求通话权限</translation>
+        <translation type="unfinished">请求发言权限</translation>
     </message>
     <message>
         <source>Request talk power</source>
-        <translation type="unfinished">请求通话权限</translation>
+        <translation type="unfinished">请求发言权限</translation>
     </message>
     <message>
         <source>Cancel Talk Power Request</source>
-        <translation type="unfinished">取消请求通话权限</translation>
+        <translation type="unfinished">取消请求发言权限</translation>
     </message>
     <message>
         <source>Cancel talk power request</source>
-        <translation type="unfinished">取消请求通话权限</translation>
+        <translation type="unfinished">取消请求发言权限</translation>
     </message>
     <message>
         <source>Client Permissions</source>
@@ -9325,19 +9325,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Grant Talk Power</source>
-        <translation type="unfinished">提升通话权限</translation>
+        <translation type="unfinished">授予发言权限</translation>
     </message>
     <message>
         <source>Grant talk power to this client</source>
-        <translation type="unfinished">提升此用户的通话权限</translation>
+        <translation type="unfinished">授予此用户的发言权限</translation>
     </message>
     <message>
         <source>Revoke Talk Power</source>
-        <translation type="unfinished">撤销通话权限</translation>
+        <translation type="unfinished">撤销发言权限</translation>
     </message>
     <message>
         <source>Revoke talk power from this client</source>
-        <translation type="unfinished">撤销此用户的通话权限</translation>
+        <translation type="unfinished">撤销此用户的发言权限</translation>
     </message>
     <message>
         <source>Grant Next Requested Talk Power</source>
