@@ -8813,7 +8813,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Server has been shut down: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器被关闭: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you: %3&lt;/div&gt;&lt;/p&gt;</source>
@@ -8925,179 +8925,179 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Client Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve client connection information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">获取客户端连接信息</translation>
     </message>
     <message>
         <source>&amp;Server Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器连接信息(&amp;S)</translation>
     </message>
     <message>
         <source>Retrieve server connection infomation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">获取服务器连接信息</translation>
     </message>
     <message>
         <source>&amp;Switch to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到频道(&amp;S)</translation>
     </message>
     <message>
         <source>Switch into the selected channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到选中的频道</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">订阅频道(&amp;U)</translation>
     </message>
     <message>
         <source>Display the occupants of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示此频道内的使用者</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">订阅全部频道(&amp;U)</translation>
     </message>
     <message>
         <source>Display the occupants of all channels on this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示此服务器内所有频道的使用者</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消订阅频道(&amp;N)</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止显示此频道的使用者</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消订阅所有频道(&amp;N)</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of all channels on this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止显示在此服务器上所有频道的使用者</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">订阅频道树(&amp;U)</translation>
     </message>
     <message>
         <source>Display the occupants of this channel and all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示此频道和所有子频道的使用者</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消订阅频道树(&amp;N)</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel and all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止显示此频道和所有子频道的使用者</translation>
     </message>
     <message>
         <source>&amp;Create Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(&amp;C)</translation>
     </message>
     <message>
         <source>Create a new channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建一个新的频道</translation>
     </message>
     <message>
         <source>C&amp;reate Sub-Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建子频道(&amp;R)</translation>
     </message>
     <message>
         <source>Create a new subchannel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建一个新的子频道</translation>
     </message>
     <message>
         <source>&amp;Edit Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑频道(&amp;E)</translation>
     </message>
     <message>
         <source>Change the properties of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改这个频道的属性</translation>
     </message>
     <message>
         <source>&amp;Delete Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除频道(&amp;D)</translation>
     </message>
     <message>
         <source>Delete the selected channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除选中的频道</translation>
     </message>
     <message>
         <source>&amp;Open Text Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始文字聊天(&amp;O)</translation>
     </message>
     <message>
         <source>Open a new chat tab for this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开和此用户聊天的新选项卡</translation>
     </message>
     <message>
         <source>&amp;Kick Client from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户踢出频道(&amp;K)</translation>
     </message>
     <message>
         <source>Kick the selected client from this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将所选客户端从此频道中踢出</translation>
     </message>
     <message>
         <source>&amp;Kick Client from Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户踢出服务器(&amp;K)</translation>
     </message>
     <message>
         <source>Kick the selected client from this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将所选客户端从此服务器中踢出</translation>
     </message>
     <message>
         <source>&amp;Poke Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戳一戳此用户(&amp;P)</translation>
     </message>
     <message>
         <source>Get the attention of the selected client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">引起所选用户的注意</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部展开</translation>
     </message>
     <message>
         <source>Expand all channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开全部频道</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部折叠</translation>
     </message>
     <message>
         <source>Collapse all channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠全部频道</translation>
     </message>
     <message>
         <source>Expand Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开子频道</translation>
     </message>
     <message>
         <source>Expand all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开全部子频道</translation>
     </message>
     <message>
         <source>Collapse Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠子频道</translation>
     </message>
     <message>
         <source>Collapse all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠全部子频道</translation>
     </message>
     <message>
         <source>&amp;Change Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改昵称(&amp;C)</translation>
     </message>
     <message>
         <source>Change your nickname on this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改您在此服务器上的昵称</translation>
     </message>
     <message>
         <source>&amp;Join Channel of Client</source>
@@ -9109,83 +9109,83 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Move Client to own Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户移动到自己的频道(&amp;M)</translation>
     </message>
     <message>
         <source>Move this client to your own channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户移动到自己的频道</translation>
     </message>
     <message>
         <source>&amp;Find Client in Channel Tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在频道树中寻找用户(&amp;F)</translation>
     </message>
     <message>
         <source>Find and select this client in the channel tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在频道树中查找并选择此用户</translation>
     </message>
     <message>
         <source>Open File Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开文件浏览器</translation>
     </message>
     <message>
         <source>Open the File Browser for this channel to share files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开此频道的文件浏览器以共享文件</translation>
     </message>
     <message>
         <source>Setup 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置3D音效</translation>
     </message>
     <message>
         <source>Configure 3D sound for this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置此频道的3D音效</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置头像</translation>
     </message>
     <message>
         <source>Select and upload your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择并上传你的头像</translation>
     </message>
     <message>
         <source>Delete Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除头像</translation>
     </message>
     <message>
         <source>Delete own avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除自己的头像</translation>
     </message>
     <message>
         <source>Delete Users Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除用户的头像</translation>
     </message>
     <message>
         <source>Delete users avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除用户的头像</translation>
     </message>
     <message>
         <source>Mute Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">静音此用户</translation>
     </message>
     <message>
         <source>Mute this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户静音</translation>
     </message>
     <message>
         <source>Unmute Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消静音此用户</translation>
     </message>
     <message>
         <source>Unmute this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户取消静音</translation>
     </message>
     <message>
         <source>Permissions Overview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限概览</translation>
     </message>
     <message>
         <source>Display permissions overview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示权限概览</translation>
     </message>
     <message>
         <source>Add as Friend</source>
