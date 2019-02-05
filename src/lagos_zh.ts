@@ -9189,155 +9189,155 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Add as Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加为朋友</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户作为好友添加到联系人管理器</translation>
     </message>
     <message>
         <source>Add as Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加为屏蔽</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户添加到联系人管理器为屏蔽</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从联系人中移除</translation>
     </message>
     <message>
         <source>Remove this client from the Contacts List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将用户从联系人列表中移除</translation>
     </message>
     <message>
         <source>Edit in Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑联系人</translation>
     </message>
     <message>
         <source>Open the Contact Manager and edit this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开联系人管理器并编辑此用户</translation>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求通话权限</translation>
     </message>
     <message>
         <source>Request talk power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求通话权限</translation>
     </message>
     <message>
         <source>Cancel Talk Power Request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消请求通话权限</translation>
     </message>
     <message>
         <source>Cancel talk power request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消请求通话权限</translation>
     </message>
     <message>
         <source>Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户权限</translation>
     </message>
     <message>
         <source>Modify client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改用户权限</translation>
     </message>
     <message>
         <source>Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道权限</translation>
     </message>
     <message>
         <source>Modify channel permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道权限</translation>
     </message>
     <message>
         <source>Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道用户权限</translation>
     </message>
     <message>
         <source>Modify channel client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道用户权限</translation>
     </message>
     <message>
         <source>Make a Complaint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提出投诉</translation>
     </message>
     <message>
         <source>Make a complaint about this client to the server admin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提出此用户的投诉给服务器管理员</translation>
     </message>
     <message>
         <source>&amp;Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封禁用户(&amp;B)</translation>
     </message>
     <message>
         <source>Ban the selected client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封禁选中的用户</translation>
     </message>
     <message>
         <source>&amp;Change Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改简介(&amp;C)</translation>
     </message>
     <message>
         <source>Edit this clients description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑此用户的个人简介</translation>
     </message>
     <message>
         <source>&amp;Priority Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">优先发言人(&amp;P)</translation>
     </message>
     <message>
         <source>Assign or remove Priority Speaker permissions to this client in this channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此频道中为此用户分配或删除优先级发言人权限</translation>
     </message>
     <message>
         <source>Change &amp;Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调整音量(&amp;V)</translation>
     </message>
     <message>
         <source>Adjust voice volume of this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调整此用户的语音音量水平</translation>
     </message>
     <message>
         <source>Edit Virtual Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑虚拟服务器</translation>
     </message>
     <message>
         <source>Edit virtual server settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑虚拟服务器设置</translation>
     </message>
     <message>
         <source>Add Temporary Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加临时密码</translation>
     </message>
     <message>
         <source>Add temporary server password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加临时服务器密码</translation>
     </message>
     <message>
         <source>Temporary Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时密码</translation>
     </message>
     <message>
         <source>Manage temporary server passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理服务器临时密码</translation>
     </message>
     <message>
         <source>Grant Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提升通话权限</translation>
     </message>
     <message>
         <source>Grant talk power to this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提升此用户的通话权限</translation>
     </message>
     <message>
         <source>Revoke Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">撤销通话权限</translation>
     </message>
     <message>
         <source>Revoke talk power from this client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">撤销此用户的通话权限</translation>
     </message>
     <message>
         <source>Grant Next Requested Talk Power</source>
@@ -9357,7 +9357,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>View Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看图标</translation>
     </message>
     <message>
         <source>View servergroup and channelgroup icons of this virtual server</source>
@@ -9381,7 +9381,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道指挥官(&amp;C)</translation>
     </message>
     <message>
         <source>Assign or remove Channel Commander status to this client</source>
@@ -9389,23 +9389,23 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Create &amp;Spacer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建间隔(&amp;S)</translation>
     </message>
     <message>
         <source>Create a new spacer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建一个新的间隔</translation>
     </message>
     <message>
         <source>Set Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置频道组</translation>
     </message>
     <message>
         <source>Set Inherited Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置继承的频道组</translation>
     </message>
     <message>
         <source>Set Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置服务器组</translation>
     </message>
     <message>
         <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
@@ -9469,11 +9469,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Invalid server password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的服务器密码.</translation>
     </message>
     <message>
         <source>Maximum number of connections with the same identity exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超出相同身份标识的最大连接上限。</translation>
     </message>
     <message>
         <source>Insufficient identity security level for this server. You need to improve your identity security level.</source>
@@ -9509,51 +9509,51 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Maximum reached</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">达到上限</translation>
     </message>
     <message>
         <source>Action currently not possible due to spam protection. Please wait a few seconds and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由于垃圾邮件保护，目前无法采取此动作。请等一段时间后，再试一次。</translation>
     </message>
     <message>
         <source>the Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此服务器</translation>
     </message>
     <message>
         <source>Turning Push-To-Talk on, &quot;force-push-to-talk&quot; permission was assigned.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键通话已打开，分配了&quot;强制按键通话&quot;权限。</translation>
     </message>
     <message>
         <source>Turning Voice Activation on, &quot;force-push-to-talk&quot; permission has been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语音检测通话已打开，&quot;强制按键通话&quot;权限已被移除。</translation>
     </message>
     <message>
         <source>Turning Continuous Transmission on, &quot;force-push-to-talk&quot; permission has been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">持续传输已打开，&quot;强制按键通话&quot;权限已被移除。</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Note: This channel contains files.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;注意：此频道内存在文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Note: This channel could contain files.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;注意：此频道可能包含文件。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>There are clients inside this channel.&lt;br&gt;Really delete this channel and kick all clients out of it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此频道内有用户。&lt;br&gt;真的要删除此频道并将用户踢到频道外吗？</translation>
     </message>
     <message>
         <source>This channel has subchannels.&lt;br&gt;Really delete this channel including all subchannels?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此频道有子频道。&lt;br&gt;您真的要删除此频道，包括所有子频道？</translation>
     </message>
     <message>
         <source>Do you really want to delete this channel?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你真的想删除这个频道吗？</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
 </context>
 <context>
