@@ -55,15 +55,22 @@ def make_release():
 
 
 def send_progress(done, total):
+    percentage = round(done*100/total, 2)
+    output = f"测试推送:当前进度:\n{done}/{total}\n{percentage}%"
+    print(output)
+    try:
+        telegram_push(output)
+        print("\n推送完毕\n")
+    except Exception as err:
+        print(f"\n{err}\n推送失败\n")
+
+
+def telegram_push(string):
+    querystring = parse.urlencode({"text": string.encode('utf-8')})
     tg_api = os.getenv('TG_API')
     group_id = os.getenv('TG_GROUP_ID')
     url = f"https://api.telegram.org/bot{tg_api}/sendMessage?chat_id={group_id}&"
-    percentage = round(done*100/total, 2)
-    output = f"当前进度:\n{done}/{total}\n{percentage}%".encode("utf-8")
-    querystring = parse.urlencode({"text": output})
     request.urlopen(url + querystring)
-    print(output.decode("utf-8"))
-    print("进度消息推送完毕\n")
 
 
 def make_package(release_list):
@@ -72,7 +79,7 @@ def make_package(release_list):
     with open(ini, "w", encoding="utf-8") as f:
         package_info = [f"Name = TeamSpeak 3 简体中文汉化包 软件版本:{target_version}",
                         "Type = Translation",
-                        "Author = 寂听",
+                        "Author = 寂听 & EdisonJwa",
                         f"Version = {timestamp}",
                         "Platforms = ",
                         'Description = 源代码: https://github.com/jitingcn/TS3-Translation_zh-CN']
@@ -84,11 +91,15 @@ def make_package(release_list):
         release.write(ini, "package.ini")
         for i in release_list:
             release.write(dist+i, f"translations/{i}")
-        print("Complete.")
+        print("构建成功")
 
 
 if __name__ == '__main__':
-    print("Making .qm translations file ...")
-    release_file_list = make_release()
-    print("Making .ts3_translation release package ...")
-    make_package(release_file_list)
+    if len(sys.argv) <= 1:
+        print("Making .qm translations file ...")
+        release_file_list = make_release()
+        print("Making .ts3_translation release package ...")
+        make_package(release_file_list)
+    else:
+        if sys.argv[1] == "1":
+            telegram_push("部署成功")

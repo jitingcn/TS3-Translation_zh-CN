@@ -3,21 +3,25 @@ language: python
 python: 3.7
 sudo: required
 
+cache: 
+  - bundler
+  - pip
+
 branches:
   except:
     - travis-dev-build
 
 before_install:
-- export TZ=Asia/Shanghai
-- mkdir dist -p
-- sudo apt-get update -q
+  - export TZ=Asia/Shanghai
+  - mkdir dist -p
+  - sudo apt-get update -q
 
 install:
-- sudo apt-get install qt5-default qttools5-dev-tools -y -q
+  - sudo apt-get install qt5-default qttools5-dev-tools -y -q
 
 script:
-- python3 maker.py
-- rm dist/*
+  - python3 maker.py
+  - rm dist/*
 
 before_deploy:
   - git tag -f travis-dev-build
@@ -41,3 +45,6 @@ deploy:
   target_commitish: $TRAVIS_COMMIT
   on:
     repo: jitingcn/TS3-Translation_zh-CN
+
+after_deploy:
+  - python3 maker.py 1
