@@ -2561,15 +2561,15 @@ p, li { white-space: pre-wrap; }
     <name>FileBrowser</name>
     <message>
         <source>File Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件浏览器</translation>
     </message>
     <message>
         <source>Go up a directory (Alt+Up)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回到上一级目录 (Alt+Up)</translation>
     </message>
     <message>
         <source>Go up to root directory (Home)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回到根目录 (Home)</translation>
     </message>
     <message>
         <source>Filter files (Ctrl+F)</source>
@@ -2577,112 +2577,112 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Display files as icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">平铺</translation>
     </message>
     <message>
         <source>Detailed view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">详细列表</translation>
     </message>
     <message>
         <source>Clear and hide filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除并隐藏过滤器</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索(&amp;S): </translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载文件夹: </translation>
     </message>
     <message>
         <source>Open download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开下载文件夹</translation>
     </message>
     <message>
         <source>Change download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改下载文件夹</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>Download selected files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载选择的文件</translation>
     </message>
     <message>
         <source>Download All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载全部</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Delete selected files (Del)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除选择的文件 (Del)</translation>
     </message>
     <message>
         <source>Create Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建文件夹</translation>
     </message>
     <message>
         <source>Upload Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传文件</translation>
     </message>
     <message>
         <source>Upload files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传文件</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Refresh current directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新当前目录</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制链接</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目录</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件</translation>
     </message>
     <message numerus="yes">
         <source>%n directory(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 目录</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 文件</numerusform>
         </translation>
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">和</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>您真的想删除所选择的文件吗?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -9189,19 +9189,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Add as Friend</source>
-        <translation type="unfinished">添加为朋友</translation>
+        <translation type="unfinished">加为好友</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Friend</source>
-        <translation type="unfinished">将此用户作为好友添加到联系人管理器</translation>
+        <translation type="unfinished">将此用户添加到联系人管理器好友列表</translation>
     </message>
     <message>
         <source>Add as Blocked</source>
-        <translation type="unfinished">添加为屏蔽</translation>
+        <translation type="unfinished">加入屏蔽列表</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Blocked</source>
-        <translation type="unfinished">将此用户添加到联系人管理器为屏蔽</translation>
+        <translation type="unfinished">将此用户添加到联系人管理器屏蔽列表</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
@@ -9221,19 +9221,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished">请求通话权限</translation>
+        <translation type="unfinished">请求发言权限</translation>
     </message>
     <message>
         <source>Request talk power</source>
-        <translation type="unfinished">请求通话权限</translation>
+        <translation type="unfinished">请求发言权限</translation>
     </message>
     <message>
         <source>Cancel Talk Power Request</source>
-        <translation type="unfinished">取消请求通话权限</translation>
+        <translation type="unfinished">取消请求发言权限</translation>
     </message>
     <message>
         <source>Cancel talk power request</source>
-        <translation type="unfinished">取消请求通话权限</translation>
+        <translation type="unfinished">取消请求发言权限</translation>
     </message>
     <message>
         <source>Client Permissions</source>
@@ -9325,19 +9325,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Grant Talk Power</source>
-        <translation type="unfinished">提升通话权限</translation>
+        <translation type="unfinished">授予发言权限</translation>
     </message>
     <message>
         <source>Grant talk power to this client</source>
-        <translation type="unfinished">提升此用户的通话权限</translation>
+        <translation type="unfinished">授予此用户的发言权限</translation>
     </message>
     <message>
         <source>Revoke Talk Power</source>
-        <translation type="unfinished">撤销通话权限</translation>
+        <translation type="unfinished">撤销发言权限</translation>
     </message>
     <message>
         <source>Revoke talk power from this client</source>
-        <translation type="unfinished">撤销此用户的通话权限</translation>
+        <translation type="unfinished">撤销此用户的发言权限</translation>
     </message>
     <message>
         <source>Grant Next Requested Talk Power</source>
