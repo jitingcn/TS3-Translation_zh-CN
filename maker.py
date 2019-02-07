@@ -56,7 +56,7 @@ def make_release():
 
 def send_progress(done, total):
     percentage = round(done*100/total, 2)
-    output = f"测试推送:当前进度:\n{done}/{total}\n{percentage}%"
+    output = f"当前进度:\n{done}/{total}\n{percentage}%"
     print(output)
     try:
         telegram_push(output)
