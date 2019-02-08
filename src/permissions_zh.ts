@@ -10,7 +10,7 @@
     <message>
         <source>b_serverinstance_help_view_long</source>
         <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用ServerQuery命令 &quot;&lt;b&gt;help&lt;/b&gt;&quot;。&lt;/p&gt;提供有关ServerQuery命令的帮助信息。 不带参数使用 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 命令时，将会简要列出所有命令及其描述。
-&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 或查阅手册:  “ts3_serverquery_manual.pdf”&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 或查阅手册&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
@@ -19,7 +19,7 @@
     <message>
         <source>b_serverinstance_version_view_long</source>
         <translation type="unfinished">允许使用ServerQuery命令 &quot;&lt;b&gt;version&lt;/b&gt;&quot;.&lt;br&gt;&lt;br&gt; 提供服务端版本信息，包括系统平台和内部版本号。
-&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help version&lt;/b&gt;&quot; 输入 ServerQuery 或查阅手册:  ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help version&lt;/b&gt;&quot; 输入 ServerQuery 或查阅手册&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>b_serverinstance_modify_settings</source>
-        <translation type="unfinished">ServerQuery: 修改服务端设置</translation>
+        <translation type="unfinished">ServerQuery: 修改服务器实例设置</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_settings_long</source>
@@ -551,7 +551,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_min_client_version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器最低客户端版本</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_min_client_version_long</source>
@@ -559,7 +559,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_icon_id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器图标ID</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_icon_id_long</source>
@@ -567,7 +567,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_weblist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改在列表上宣告的虚拟服务器</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_weblist_long</source>
@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_codec_encryption_mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器语音加密模式</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_codec_encryption_mode_long</source>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理服务器临时密码</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_long</source>
@@ -591,7 +591,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_own</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理自己的服务器临时密码</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_own_long</source>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>i_channel_min_depth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道最低深度</translation>
     </message>
     <message>
         <source>i_channel_min_depth_long</source>
@@ -631,7 +631,7 @@
     </message>
     <message>
         <source>i_channel_max_depth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道最高深度</translation>
     </message>
     <message>
         <source>i_channel_max_depth_long</source>
@@ -639,7 +639,7 @@
     </message>
     <message>
         <source>b_channel_group_inheritance_end</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消频道组继承</translation>
     </message>
     <message>
         <source>b_channel_group_inheritance_end_long</source>
@@ -647,7 +647,7 @@
     </message>
     <message>
         <source>i_channel_permission_modify_power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道权限修改权限</translation>
     </message>
     <message>
         <source>i_channel_permission_modify_power_long</source>
@@ -655,7 +655,7 @@
     </message>
     <message>
         <source>i_channel_needed_permission_modify_power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">需要的频道权限修改权限</translation>
     </message>
     <message>
         <source>i_channel_needed_permission_modify_power_long</source>
@@ -663,7 +663,7 @@
     </message>
     <message>
         <source>b_channel_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery: 查看频道信息</translation>
     </message>
     <message>
         <source>b_channel_info_view_long</source>
@@ -671,7 +671,7 @@
     </message>
     <message>
         <source>b_channel_create_child</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建子频道</translation>
     </message>
     <message>
         <source>b_channel_create_child_long</source>
@@ -679,7 +679,7 @@
     </message>
     <message>
         <source>b_channel_create_permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建永久频道</translation>
     </message>
     <message>
         <source>b_channel_create_permanent_long</source>
@@ -687,7 +687,7 @@
     </message>
     <message>
         <source>b_channel_create_semi_permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建半永久频道</translation>
     </message>
     <message>
         <source>b_channel_create_semi_permanent_long</source>
@@ -695,7 +695,7 @@
     </message>
     <message>
         <source>b_channel_create_temporary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建临时频道</translation>
     </message>
     <message>
         <source>b_channel_create_temporary_long</source>
@@ -703,7 +703,7 @@
     </message>
     <message>
         <source>b_channel_create_private</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建私有频道</translation>
     </message>
     <message>
         <source>b_channel_create_private_long</source>
@@ -711,7 +711,7 @@
     </message>
     <message>
         <source>b_channel_create_with_topic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建有主题的频道</translation>
     </message>
     <message>
         <source>b_channel_create_with_topic_long</source>
@@ -719,7 +719,7 @@
     </message>
     <message>
         <source>b_channel_create_with_description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建有简介的频道</translation>
     </message>
     <message>
         <source>b_channel_create_with_description_long</source>
@@ -727,7 +727,7 @@
     </message>
     <message>
         <source>b_channel_create_with_password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建有密码的频道</translation>
     </message>
     <message>
         <source>b_channel_create_with_password_long</source>
