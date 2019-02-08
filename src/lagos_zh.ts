@@ -4614,12 +4614,12 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <message>
         <source>%1 %2 on %3</source>
         <comment>3.1.5 [Stable] on Windows</comment>
-        <translation type="unfinished">%1 %2 在 %3 平台</translation>
+        <translation type="unfinished"> %3 平台 %1 %2</translation>
     </message>
     <message>
         <source>%1 on %2</source>
         <comment>3.1.5 on Windows</comment>
-        <translation type="unfinished">%1 在 %2 平台</translation>
+        <translation type="unfinished"> %2 平台 %1 </translation>
     </message>
     <message>
         <source>Total Connections</source>
