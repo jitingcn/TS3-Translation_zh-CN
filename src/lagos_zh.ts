@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Version:</source>
-        <translation>软件版本: </translation>
+        <translation>软件版本:</translation>
     </message>
     <message>
         <source>Qt Version:</source>
-        <translation>Qt 版本: </translation>
+        <translation>Qt 版本:</translation>
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation>TeamSpeak 账号功能: </translation>
+        <translation>TeamSpeak 账号功能:</translation>
     </message>
     <message>
         <source>Synchronization</source>
@@ -170,11 +170,11 @@
     </message>
     <message>
         <source>Email:</source>
-        <translation>电子邮箱地址: </translation>
+        <translation>电子邮箱地址:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码: </translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
@@ -190,11 +190,11 @@
     </message>
     <message>
         <source>Account Actions:</source>
-        <translation>账号操作: </translation>
+        <translation>账号操作:</translation>
     </message>
     <message>
         <source>myTeamSpeak Account Features:</source>
-        <translation>myTeamSpeak 账号功能: </translation>
+        <translation>myTeamSpeak 账号功能:</translation>
     </message>
     <message>
         <source>Manual (Define which items get synchronized)</source>
@@ -371,7 +371,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>预设名称: </translation>
+        <translation>预设名称:</translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
@@ -433,15 +433,15 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation>&amp;UID: </translation>
+        <translation>&amp;UID:</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation>理由: </translation>
+        <translation>理由:</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation>预设信息: </translation>
+        <translation>预设信息:</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -485,7 +485,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>预设名称: </translation>
+        <translation>预设名称:</translation>
     </message>
     <message>
         <source>Save duration</source>
@@ -512,15 +512,15 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>名字: </translation>
+        <translation>名字:</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation>理由: </translation>
+        <translation>理由:</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation>预设信息: </translation>
+        <translation>预设信息:</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -923,11 +923,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码(&amp;P): </translation>
+        <translation>当前密码(&amp;P):</translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation>新邮箱(&amp;E): </translation>
+        <translation>新邮箱(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -938,15 +938,15 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation>新密码(&amp;N): </translation>
+        <translation>新密码(&amp;N):</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation>当前密码(&amp;P): </translation>
+        <translation>当前密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation>确认新密码(&amp;P): </translation>
+        <translation>确认新密码(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -957,7 +957,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation>新用户名(&amp;U): </translation>
+        <translation>新用户名(&amp;U):</translation>
     </message>
 </context>
 <context>
@@ -983,7 +983,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Current password:</source>
-        <translation>当前密码: </translation>
+        <translation>当前密码:</translation>
     </message>
     <message>
         <source>Enter new password:</source>
@@ -991,7 +991,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Re-enter password:</source>
-        <translation>重新输入主密码: </translation>
+        <translation>重新输入主密码:</translation>
     </message>
     <message>
         <source>Remove Master Password</source>
@@ -1098,7 +1098,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Channel Group: %1</source>
-        <translation>频道组:  %1</translation>
+        <translation>频道组: %1</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -1264,7 +1264,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation>选择您的昵称: </translation>
+        <translation>选择您的昵称:</translation>
     </message>
 </context>
 <context>
@@ -1572,7 +1572,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Downloaded this month:</source>
-        <translation type="unfinished">本月下载量: </translation>
+        <translation type="unfinished">本月下载量:</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1580,7 +1580,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Available download quota:</source>
-        <translation type="unfinished">可用下载量: </translation>
+        <translation type="unfinished">可用下载量:</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -1588,15 +1588,15 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Uploaded this month:</source>
-        <translation type="unfinished">本月上传量: </translation>
+        <translation type="unfinished">本月上传量:</translation>
     </message>
     <message>
         <source>Available upload quota:</source>
-        <translation type="unfinished">可用上传量: </translation>
+        <translation type="unfinished">可用上传量:</translation>
     </message>
     <message>
         <source>Remaining download this month:</source>
-        <translation type="unfinished">本月剩余下载量: </translation>
+        <translation type="unfinished">本月剩余下载量:</translation>
     </message>
     <message>
         <source>Remaining upload this month:</source>
@@ -1695,11 +1695,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">名称(&amp;N): </translation>
+        <translation type="unfinished">名称(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished">图标(&amp;I): </translation>
+        <translation type="unfinished">图标(&amp;I):</translation>
     </message>
     <message>
         <source>Set channel icon.</source>
@@ -1707,7 +1707,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密码(&amp;P): </translation>
+        <translation type="unfinished">密码(&amp;P):</translation>
     </message>
     <message>
         <source>Optional password for this channel.</source>
@@ -1715,7 +1715,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Topic:</source>
-        <translation type="unfinished">主题(&amp;T): </translation>
+        <translation type="unfinished">主题(&amp;T):</translation>
     </message>
     <message>
         <source>Optional topic for this channel, displayed in the info area on the right.</source>
@@ -1723,7 +1723,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished">说明(&amp;D): </translation>
+        <translation type="unfinished">说明(&amp;D):</translation>
     </message>
     <message>
         <source>Tear off description editor</source>
@@ -1773,7 +1773,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Sort This Channel After:</source>
-        <translation type="unfinished">排在此频道后面: </translation>
+        <translation type="unfinished">排在此频道后面:</translation>
     </message>
     <message>
         <source>Channel will be sorted below this channel.</source>
@@ -1785,7 +1785,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Needed Talk Power:</source>
-        <translation type="unfinished">发言所需权限(&amp;N): </translation>
+        <translation type="unfinished">发言所需权限(&amp;N):</translation>
     </message>
     <message>
         <source>Talk power required to speak in this channel.</source>
@@ -1821,11 +1821,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Codec:</source>
-        <translation>编解码器(&amp;C): </translation>
+        <translation>编解码器(&amp;C):</translation>
     </message>
     <message>
         <source>Quality:</source>
-        <translation>品质: </translation>
+        <translation>品质:</translation>
     </message>
     <message>
         <source>Codecs</source>
@@ -1833,7 +1833,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Bandwidth usage:</source>
-        <translation>预计带宽使用量: </translation>
+        <translation>预计带宽使用量:</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -1845,23 +1845,23 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Join:</source>
-        <translation>加入(&amp;J): </translation>
+        <translation>加入(&amp;J):</translation>
     </message>
     <message>
         <source>&amp;Subscribe:</source>
-        <translation>订阅(&amp;S): </translation>
+        <translation>订阅(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Desc. View:</source>
-        <translation>查看描述(&amp;D): </translation>
+        <translation>查看描述(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Modify:</source>
-        <translation>修改(&amp;M): </translation>
+        <translation>修改(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Delete:</source>
-        <translation>删除(&amp;D): </translation>
+        <translation>删除(&amp;D):</translation>
     </message>
     <message>
         <source>File Transfer Needed Powers</source>
@@ -1869,23 +1869,23 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Browse:</source>
-        <translation>浏览(&amp;B): </translation>
+        <translation>浏览(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Upload:</source>
-        <translation>上传(&amp;U): </translation>
+        <translation>上传(&amp;U):</translation>
     </message>
     <message>
         <source>&amp;Download:</source>
-        <translation>下载(&amp;D): </translation>
+        <translation>下载(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Rename:</source>
-        <translation>重命名(&amp;R): </translation>
+        <translation>重命名(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Dir. Create:</source>
-        <translation>创建目录(&amp;D): </translation>
+        <translation>创建目录(&amp;D):</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -1897,11 +1897,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Phonetic Name:</source>
-        <translation>名称读音(&amp;P): </translation>
+        <translation>名称读音(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Delete delay:</source>
-        <translation type="unfinished">删除延迟时间(&amp;D): </translation>
+        <translation type="unfinished">删除延迟时间(&amp;D):</translation>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
@@ -2100,11 +2100,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Available actions:</source>
-        <translation type="unfinished">可用行为: </translation>
+        <translation type="unfinished">可用行为:</translation>
     </message>
     <message>
         <source>Selected actions:</source>
-        <translation type="unfinished">已选行为: </translation>
+        <translation type="unfinished">已选行为:</translation>
     </message>
     <message>
         <source>Separator</source>
@@ -2238,11 +2238,11 @@ to chose lower values.</source>
     <name>EasyPermissionsWidget</name>
     <message>
         <source>This group will be set as:</source>
-        <translation type="unfinished">此组将会设置为: </translation>
+        <translation type="unfinished">此组将会设置为:</translation>
     </message>
     <message>
         <source>Icon:</source>
-        <translation type="unfinished">图标: </translation>
+        <translation type="unfinished">图标:</translation>
     </message>
     <message>
         <source>Set group icon.</source>
@@ -2254,7 +2254,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Show name in tree:</source>
-        <translation type="unfinished">在主界面显示组名称: </translation>
+        <translation type="unfinished">在主界面显示组名称:</translation>
     </message>
     <message>
         <source>Do not show</source>
@@ -2589,11 +2589,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished">搜索(&amp;S): </translation>
+        <translation type="unfinished">搜索(&amp;S):</translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished">下载文件夹: </translation>
+        <translation type="unfinished">下载文件夹:</translation>
     </message>
     <message>
         <source>Open download folder</source>
