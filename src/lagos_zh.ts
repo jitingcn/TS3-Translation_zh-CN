@@ -10444,7 +10444,7 @@ Do you want to apply your changes?</source>
 </message>
 <message>
     <source>Inherited</source>
-    <translation type="unfinished">继承</translation
+    <translation type="unfinished">继承</translation>
 </message>
 <message>
     <source>Name</source>
