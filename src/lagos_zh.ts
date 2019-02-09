@@ -7910,11 +7910,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一项</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下一项</translation>
     </message>
     <message>
         <source>&amp;Reload</source>
@@ -8004,11 +8004,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">黑色</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">白色</translation>
     </message>
     <message>
         <source>Light Gray</source>
