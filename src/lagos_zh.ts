@@ -2677,7 +2677,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> and </source>
-git        <translation type="unfinished"> 和 </translation>
+        <translation type="unfinished"> 和 </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
