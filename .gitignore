@@ -1,2 +1,4 @@
 *.bat
 *.exe
+dist/*
+*.ts3_translation
