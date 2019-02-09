@@ -22,7 +22,7 @@
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com/&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://www.wevg.org/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
+        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com/&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://blog.opt.ninja/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -7436,7 +7436,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略</translation>
     </message>
     <message>
         <source>Active Tab</source>
@@ -7452,7 +7452,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地</translation>
     </message>
     <message>
         <source>Cloud</source>
@@ -7529,11 +7529,11 @@ saved passwords and identities.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码:</translation>
     </message>
     <message>
         <source>Password incorrect. Try again:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码错误。请重试:</translation>
     </message>
     <message>
         <source>Enter master password</source>
@@ -7577,7 +7577,7 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>&lt;p&gt;Failed to start &quot;%1&quot;.&lt;/p&gt;&lt;p&gt;Please start createfileassoc.exe manually.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ignore&lt;/strong&gt; to not show this message again.&lt;/p&gt;</source>
@@ -7720,14 +7720,14 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索:</translation>
     </message>
 </context>
 <context>
     <name>SecuritySetupDialog</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安全</translation>
     </message>
     <message>
         <source>Configure Security</source>
@@ -7754,90 +7754,90 @@ Are you sure you want to proceed?</source>
     <name>ServerConnectionInfoDialog</name>
     <message>
         <source>Server Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器连接信息</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">版本</translation>
     </message>
     <message>
         <source>Average ping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">平均延迟</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">许可证</translation>
     </message>
     <message>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">平台</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地址</translation>
     </message>
     <message>
         <source>Uptime</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在线时间</translation>
     </message>
     <message>
         <source>Copy address to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制地址到剪切板</translation>
     </message>
     <message>
         <source>Average packetloss</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">平均丢包</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">传入</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">传出</translation>
     </message>
     <message>
         <source>Packets transferred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据包传输数</translation>
     </message>
     <message>
         <source>Bytes transferred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据传输量</translation>
     </message>
     <message>
         <source>Bandwidth last second</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前一秒带宽</translation>
     </message>
     <message>
         <source>Bandwidth last minute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前一分钟带宽</translation>
     </message>
     <message>
         <source>File transfer bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输带宽</translation>
     </message>
     <message>
         <source>File transfer bytes transferred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件数据传输量</translation>
     </message>
     <message>
         <source>%1/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1/s</translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ms</translation>
     </message>
 </context>
 <context>
     <name>ServerGroupClientChange</name>
     <message>
         <source>Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器组</translation>
     </message>
     <message>
         <source>Changing groups of &lt;b&gt;%1&lt;/b&gt;</source>
@@ -7856,27 +7856,27 @@ Are you sure you want to proceed?</source>
     <name>ServerLogView</name>
     <message>
         <source>&amp;Critical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">危险(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高亮(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排除过滤器(&amp;E)</translation>
     </message>
     <message>
         <source>UTC time</source>
@@ -7884,11 +7884,11 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地时间</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索(&amp;E):</translation>
     </message>
     <message>
         <source>Search text in log.
