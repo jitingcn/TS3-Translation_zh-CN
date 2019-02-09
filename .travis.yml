@@ -13,7 +13,6 @@ branches:
 
 before_install:
   - export TZ=Asia/Shanghai
-  - mkdir dist -p
   - sudo apt-get update -q
 
 install:
