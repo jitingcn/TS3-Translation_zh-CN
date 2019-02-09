@@ -2710,7 +2710,7 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <source>Last Changed</source>
