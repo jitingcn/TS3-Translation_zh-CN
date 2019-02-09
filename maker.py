@@ -55,8 +55,10 @@ def make_release():
         else:
             try:
                 print(result.stderr.decode("utf-8"))
+                telegram_push(f"发生错误:\n{i}\n{result.stderr.decode('utf-8')}")
             except UnicodeDecodeError:
                 print(result.stderr.decode("gbk"))  # 中文系统可能会遇到编码问题
+                telegram_push(f"发生错误:\n{i}\n{result.stderr.decode('gbk')}")
 
         # except subprocess.CalledProcessError as err:
         #    print("lrelease error:")
@@ -70,7 +72,7 @@ def send_progress(done, total):
     output = f"当前进度:\n{done}/{total}\n{percentage}%\n"
     print(output)
     try:
-        assert 0 == telegram_push(output)
+        assert 0 == telegram_push(output, 1)
         print("推送成功\n")
     except AssertionError:
         print("推送被取消\n")
@@ -78,13 +80,14 @@ def send_progress(done, total):
         print(f"发生错误，推送失败\n错误信息：{err}\n")
 
 
-def telegram_push(string):
+def telegram_push(string, debug=0):
     querystring = parse.urlencode({"text": string.encode('utf-8')})
     tg_api = os.getenv('TG_API')
     group_id = os.getenv('TG_GROUP_ID')
     if tg_api == "" or group_id == "":
-        print("未检测到Telegram Api Key或Group ID")
-        print("需要在环境变量中设置api key和Group ID")
+        if debug:
+            print("Telegram api key or chat(group) id not found.")
+            print("You need to set TG_API and TG_GROUP_ID in the environment variable.")
         return 1
     url = f"https://api.telegram.org/bot{tg_api}/sendMessage?chat_id={group_id}&"
     request.urlopen(url + querystring)
