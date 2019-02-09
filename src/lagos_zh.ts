@@ -3104,7 +3104,7 @@ selected files from your computer?</source>
     <name>FriendFoeManager</name>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">联系人</translation>
     </message>
     <message>
         <source>Drag &amp; Drop users here</source>
@@ -3148,7 +3148,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">好友</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
@@ -3160,43 +3160,43 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示</translation>
     </message>
     <message>
         <source>Show custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示备注和昵称</translation>
     </message>
     <message>
         <source>Custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">备注和昵称</translation>
     </message>
     <message>
         <source>Show only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅显示备注</translation>
     </message>
     <message>
         <source>Only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅备注</translation>
     </message>
     <message>
         <source>Show nickname only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅显示昵称</translation>
     </message>
     <message>
         <source>Only nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅昵称</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略</translation>
     </message>
     <message>
         <source>Automaticly mute this person</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动静音此用户</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">静音</translation>
     </message>
     <message>
         <source>Ignore messages this person sends to the server or in channels</source>
@@ -3228,7 +3228,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Hide avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏头像</translation>
     </message>
     <message>
         <source>Ignore this persons away messages</source>
@@ -3266,7 +3266,7 @@ everyone.</source>
     </message>
     <message>
         <source>Set Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设为默认</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3286,7 +3286,7 @@ everyone.</source>
     </message>
     <message>
         <source>Copy Unique ID to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制UID到剪切板</translation>
     </message>
 </context>
 <context>
@@ -3297,7 +3297,7 @@ everyone.</source>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在线:</translation>
     </message>
 </context>
 <context>
@@ -3601,7 +3601,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键通话</translation>
     </message>
     <message>
         <source>Whisper</source>
@@ -3609,7 +3609,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">录音</translation>
     </message>
     <message>
         <source>3D Sound</source>
@@ -3617,7 +3617,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发言权利</translation>
     </message>
     <message>
         <source>----- Server -----</source>
@@ -3645,7 +3645,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">麦克风静音</translation>
     </message>
     <message>
         <source>Unmute Microphone</source>
@@ -4089,15 +4089,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插入</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>%1 Hotkey in Hotkey Profile</source>
@@ -11363,11 +11363,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码</translation>
     </message>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示全部</translation>
     </message>
     <message>
         <source>Show only with password</source>
@@ -11395,7 +11395,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新加载</translation>
     </message>
     <message>
         <source>Apply filter</source>
