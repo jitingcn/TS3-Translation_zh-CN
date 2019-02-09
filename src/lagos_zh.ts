@@ -4484,270 +4484,270 @@ You need to improve your identity security level.&lt;/span&gt;</source>
 <context>
     <name>InfoFrame</name>
     <message>
-        <source>serverinfo.tpl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Clients</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total Client Connections</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Channels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uptime</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nicknames</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>channelinfo.tpl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel Topic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Moderated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlimited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inherited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio Codec</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not subscribed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unencrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription Status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Needed Talk Power</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio Quality</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bitrate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio Transmission</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete Timer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>clientinfo.tpl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 %2 on %3</source>
-        <comment>3.1.5 [Stable] on Windows</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 on %2</source>
-        <comment>3.1.5 on Windows</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total Connections</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume Modifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First Connected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last Connected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online since</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[Inherited from: %1]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;avatar ignored&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;away message ignored&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speakers/Headphones Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speakers/Headphones Muted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microphone Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microphone Muted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Local Muted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Host Provider License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LAN License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Non-Profit License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Activation License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speex Narrowband</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speex Wideband</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Speex Ultra-Wideband</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CELT Mono</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opus Voice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Opus Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown Codec</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh available every 5 seconds</source>
-        <translation type="unfinished"></translation>
+    <source>serverinfo.tpl</source>
+    <translation type="unfinished">serverinfo.tpl</translation>
+</message>
+<message>
+    <source>Version</source>
+    <translation type="unfinished">版本</translation>
+</message>
+<message>
+    <source>Server Icon</source>
+    <translation type="unfinished">服务器图标</translation>
+</message>
+<message>
+    <source>Current Clients</source>
+    <translation type="unfinished">当前用户</translation>
+</message>
+<message>
+    <source>Total Client Connections</source>
+    <translation type="unfinished">总连接用户</translation>
+</message>
+<message>
+    <source>Current Channels</source>
+    <translation type="unfinished">当前频道</translation>
+</message>
+<message>
+    <source>Uptime</source>
+    <translation type="unfinished">运行时间</translation>
+</message>
+<message>
+    <source>Address</source>
+    <translation type="unfinished">地址</translation>
+</message>
+<message>
+    <source>Nicknames</source>
+    <translation type="unfinished">昵称</translation>
+</message>
+<message>
+    <source>License</source>
+    <translation type="unfinished">许可证</translation>
+</message>
+<message>
+    <source>Refresh</source>
+    <translation type="unfinished">刷新</translation>
+</message>
+<message>
+    <source>channelinfo.tpl</source>
+    <translation type="unfinished">channelinfo.tpl</translation>
+</message>
+<message>
+    <source>Channel Topic</source>
+    <translation type="unfinished">频道主题</translation>
+</message>
+<message>
+    <source>Moderated</source>
+    <translation type="unfinished">管控</translation>
+</message>
+<message>
+    <source>Yes</source>
+    <translation type="unfinished">是</translation>
+</message>
+<message>
+    <source>Unlimited</source>
+    <translation type="unfinished">无限</translation>
+</message>
+<message>
+    <source>Inherited</source>
+    <translation type="unfinished">继承</translation>
+</message>
+<message>
+    <source>Audio Codec</source>
+    <translation type="unfinished">音频编解码器</translation>
+</message>
+<message>
+    <source>Channel Icon</source>
+    <translation type="unfinished">频道图标</translation>
+</message>
+<message>
+    <source>Properties</source>
+    <translation type="unfinished">属性</translation>
+</message>
+<message>
+    <source>Subscribed</source>
+    <translation type="unfinished">已订阅</translation>
+</message>
+<message>
+    <source>Not subscribed</source>
+    <translation type="unfinished">未订阅</translation>
+</message>
+<message>
+    <source>Unencrypted</source>
+    <translation type="unfinished">未加密</translation>
+</message>
+<message>
+    <source>Encrypted</source>
+    <translation type="unfinished">已加密</translation>
+</message>
+<message>
+    <source>Description</source>
+    <translation type="unfinished">简介</translation>
+</message>
+<message>
+    <source>Subscription Status</source>
+    <translation type="unfinished">订阅状态</translation>
+</message>
+<message>
+    <source>Needed Talk Power</source>
+    <translation type="unfinished">需要语音权限</translation>
+</message>
+<message>
+    <source>Audio Quality</source>
+    <translation type="unfinished">语音质量</translation>
+</message>
+<message>
+    <source>Bitrate</source>
+    <translation type="unfinished">比特率</translation>
+</message>
+<message>
+    <source>Audio Transmission</source>
+    <translation type="unfinished">语音传输</translation>
+</message>
+<message>
+    <source>Delete Timer</source>
+    <translation type="unfinished">删除计时器</translation>
+</message>
+<message>
+    <source>clientinfo.tpl</source>
+    <translation type="unfinished">clientinfo.tpl</translation>
+</message>
+<message>
+    <source>%1 %2 on %3</source>
+    <comment>3.1.5 [Stable] on Windows</comment>
+    <translation type="unfinished"> %3 平台 %1 %2</translation>
+</message>
+<message>
+    <source>%1 on %2</source>
+    <comment>3.1.5 on Windows</comment>
+    <translation type="unfinished"> %2 平台 %1 </translation>
+</message>
+<message>
+    <source>Total Connections</source>
+    <translation type="unfinished">总连接</translation>
+</message>
+<message>
+    <source>Volume Modifier</source>
+    <translation type="unfinished">音量改动</translation>
+</message>
+<message>
+    <source>First Connected</source>
+    <translation type="unfinished">初次连接</translation>
+</message>
+<message>
+    <source>Last Connected</source>
+    <translation type="unfinished">上次连接</translation>
+</message>
+<message>
+    <source>Online since</source>
+    <translation type="unfinished">在线时间</translation>
+</message>
+<message>
+    <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
+    <translation type="unfinished">用户在 &lt;strong&gt;%1&lt;/strong&gt; 请求语音权限.</translation>
+</message>
+<message>
+    <source>[Inherited from: %1]</source>
+    <translation type="unfinished">[从 %1 继承]</translation>
+</message>
+<message>
+    <source>Server Groups</source>
+    <translation type="unfinished">服务器组</translation>
+</message>
+<message>
+    <source>Channel Group</source>
+    <translation type="unfinished">频道组</translation>
+</message>
+<message>
+    <source>&lt;avatar ignored&gt;</source>
+    <translation type="unfinished">&lt;忽略头像&gt;</translation>
+</message>
+<message>
+    <source>Away</source>
+    <translation type="unfinished">离开</translation>
+</message>
+<message>
+    <source>&lt;away message ignored&gt;</source>
+    <translation type="unfinished">&lt;忽略离开消息&gt;</translation>
+</message>
+<message>
+    <source>Speakers/Headphones Disabled</source>
+    <translation type="unfinished">音响/耳机禁用</translation>
+</message>
+<message>
+    <source>Speakers/Headphones Muted</source>
+    <translation type="unfinished">音响/耳机静音</translation>
+</message>
+<message>
+    <source>Microphone Disabled</source>
+    <translation type="unfinished">麦克风禁用</translation>
+</message>
+<message>
+    <source>Microphone Muted</source>
+    <translation type="unfinished">麦克风静音</translation>
+</message>
+<message>
+    <source>Local Muted</source>
+    <translation type="unfinished">本地静音</translation>
+</message>
+<message>
+    <source>Invalid License</source>
+    <translation type="unfinished">无效的许可</translation>
+</message>
+<message>
+    <source>No License</source>
+    <translation type="unfinished">无许可证</translation>
+</message>
+<message>
+    <source>Host Provider License</source>
+    <translation type="unfinished">主机托管商许可</translation>
+</message>
+<message>
+    <source>LAN License</source>
+    <translation type="unfinished">局域网许可</translation>
+</message>
+<message>
+    <source>Non-Profit License</source>
+    <translation type="unfinished">非盈利许可</translation>
+</message>
+<message>
+    <source>Activation License</source>
+    <translation type="unfinished">激活的许可证</translation>
+</message>
+<message>
+    <source>Unknown</source>
+    <translation type="unfinished">未知</translation>
+</message>
+<message>
+    <source>Speex Narrowband</source>
+    <translation type="unfinished">Speex 窄频</translation>
+</message>
+<message>
+    <source>Speex Wideband</source>
+    <translation type="unfinished">Speex 宽频</translation>
+</message>
+<message>
+    <source>Speex Ultra-Wideband</source>
+    <translation type="unfinished">Speex 超宽频</translation>
+</message>
+<message>
+    <source>CELT Mono</source>
+    <translation type="unfinished">CELT 单声道</translation>
+</message>
+<message>
+    <source>Opus Voice</source>
+    <translation type="unfinished">Opus 语音</translation>
+</message>
+<message>
+    <source>Opus Music</source>
+    <translation type="unfinished">Opus 音乐</translation>
+</message>
+<message>
+    <source>Unknown Codec</source>
+    <translation type="unfinished">未知编码器</translation>
+</message>
+<message>
+    <source>Refresh available every 5 seconds</source>
+    <translation type="unfinished">每5秒可以刷新一次</translation>
     </message>
 </context>
 <context>
@@ -9815,12 +9815,12 @@ Do you want to apply your changes?</source>
     <name>StatusOfflineMessagesDisplay</name>
     <message>
         <source>Show Offline Messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示离线消息</translation>
     </message>
     <message numerus="yes">
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;You have &lt;strong&gt;%n&lt;/strong&gt; unread offlinemessage(s)&lt;/p&gt;</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>&lt;p style=&apos;white-space:nowrap&apos;&gt;你有 &lt;strong&gt;%n&lt;/strong&gt; 条未读的离线消息&lt;/p&gt;</numerusform>
         </translation>
     </message>
 </context>
@@ -9884,7 +9884,7 @@ Do you want to apply your changes?</source>
     <name>SyncOverviewSlides</name>
     <message>
         <source>myTeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">myTeamSpeak</translation>
     </message>
 </context>
 <context>
@@ -10022,19 +10022,19 @@ Do you want to apply your changes?</source>
     <name>TextBrowser</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>Show in File Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在文件浏览器中显示</translation>
     </message>
     <message>
         <source>Copy Link to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制链接到剪贴板</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开</translation>
     </message>
 </context>
 <context>
@@ -10401,99 +10401,99 @@ Do you want to apply your changes?</source>
     <name>TreeModel</name>
     <message>
         <source>RECORDING</source>
-        <translation type="unfinished"></translation>
+        <translation>录音中</translation>
     </message>
 </context>
 <context>
     <name>TreeView</name>
     <message>
-        <source>Channel tree</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>tree_tooltip_client.tpl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online since</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>tree_tooltip_channel.tpl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec Quality</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlimited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inherited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Topic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unencrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Voice Data Encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Clients</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not subscribed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription Status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Needed Talk Power</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel will be deleted in %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
+    <source>Channel tree</source>
+    <translation type="unfinished">频道树</translation>
+</message>
+<message>
+    <source>tree_tooltip_client.tpl</source>
+    <translation type="unfinished">tree_tooltip_client.tpl</translation>
+</message>
+<message>
+    <source>Description</source>
+    <translation type="unfinished">简介</translation>
+</message>
+<message>
+    <source>Nickname</source>
+    <translation type="unfinished">昵称</translation>
+</message>
+<message>
+    <source>Online since</source>
+    <translation type="unfinished">在线时间</translation>
+</message>
+<message>
+    <source>tree_tooltip_channel.tpl</source>
+    <translation type="unfinished">tree_tooltip_channel.tpl</translation>
+</message>
+<message>
+    <source>Codec Quality</source>
+    <translation type="unfinished">编解码质量等级</translation>
+</message>
+<message>
+    <source>Codec</source>
+    <translation type="unfinished">编解码器</translation>
+</message>
+<message>
+    <source>Unlimited</source>
+    <translation type="unfinished">无限</translation>
+</message>
+<message>
+    <source>Inherited</source>
+    <translation type="unfinished">继承</translation
+</message>
+<message>
+    <source>Name</source>
+    <translation type="unfinished">名称</translation>
+</message>
+<message>
+    <source>Topic</source>
+    <translation type="unfinished">主题</translation>
+</message>
+<message>
+    <source>Unencrypted</source>
+    <translation type="unfinished">未加密</translation>
+</message>
+<message>
+    <source>Encrypted</source>
+    <translation type="unfinished">加密</translation>
+</message>
+<message>
+    <source>Voice Data Encryption</source>
+    <translation type="unfinished">语音数据加密</translation>
+</message>
+<message>
+    <source>Current Clients</source>
+    <translation type="unfinished">当前用户</translation>
+</message>
+<message>
+    <source>Type</source>
+    <translation type="unfinished">类型</translation>
+</message>
+<message>
+    <source>Subscribed</source>
+    <translation type="unfinished">已订阅</translation>
+</message>
+<message>
+    <source>Not subscribed</source>
+    <translation type="unfinished">未订阅</translation>
+</message>
+<message>
+    <source>Subscription Status</source>
+    <translation type="unfinished">订阅状态</translation>
+</message>
+<message>
+    <source>Needed Talk Power</source>
+    <translation type="unfinished">需要语音权限</translation>
+</message>
+<message>
+    <source>Channel will be deleted in %1.</source>
+    <translation type="unfinished">频道将会被删除: %1.</translation>
+</message>
 </context>
 <context>
     <name>UIFileTransferManager</name>
