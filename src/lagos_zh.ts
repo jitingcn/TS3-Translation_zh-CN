@@ -2677,7 +2677,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"> 和 </translation>
+git        <translation type="unfinished"> 和 </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
@@ -9413,7 +9413,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You need to setup your identity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您需要设置您的身份</translation>
     </message>
     <message>
         <source>&lt;p&gt;The configured playback device was not found.&lt;br&gt;Instead using: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</source>
@@ -9449,7 +9449,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Your avatar was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的头像已删除。</translation>
     </message>
     <message>
         <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
@@ -9576,11 +9576,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭</translation>
     </message>
     <message>
         <source>Close All Tabs but This</source>
@@ -9592,7 +9592,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">麦克风静音</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones</source>
@@ -9604,7 +9604,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Current server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前服务器</translation>
     </message>
     <message>
         <source>Select capture profile for this server</source>
