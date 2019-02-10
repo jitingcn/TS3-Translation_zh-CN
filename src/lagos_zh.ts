@@ -4484,270 +4484,270 @@ You need to improve your identity security level.&lt;/span&gt;</source>
 <context>
     <name>InfoFrame</name>
     <message>
-    <source>serverinfo.tpl</source>
-    <translation type="unfinished">serverinfo.tpl</translation>
-</message>
-<message>
-    <source>Version</source>
-    <translation type="unfinished">版本</translation>
-</message>
-<message>
-    <source>Server Icon</source>
-    <translation type="unfinished">服务器图标</translation>
-</message>
-<message>
-    <source>Current Clients</source>
-    <translation type="unfinished">当前用户</translation>
-</message>
-<message>
-    <source>Total Client Connections</source>
-    <translation type="unfinished">总连接用户</translation>
-</message>
-<message>
-    <source>Current Channels</source>
-    <translation type="unfinished">当前频道</translation>
-</message>
-<message>
-    <source>Uptime</source>
-    <translation type="unfinished">运行时间</translation>
-</message>
-<message>
-    <source>Address</source>
-    <translation type="unfinished">地址</translation>
-</message>
-<message>
-    <source>Nicknames</source>
-    <translation type="unfinished">昵称</translation>
-</message>
-<message>
-    <source>License</source>
-    <translation type="unfinished">许可证</translation>
-</message>
-<message>
-    <source>Refresh</source>
-    <translation type="unfinished">刷新</translation>
-</message>
-<message>
-    <source>channelinfo.tpl</source>
-    <translation type="unfinished">channelinfo.tpl</translation>
-</message>
-<message>
-    <source>Channel Topic</source>
-    <translation type="unfinished">频道主题</translation>
-</message>
-<message>
-    <source>Moderated</source>
-    <translation type="unfinished">管控</translation>
-</message>
-<message>
-    <source>Yes</source>
-    <translation type="unfinished">是</translation>
-</message>
-<message>
-    <source>Unlimited</source>
-    <translation type="unfinished">无限</translation>
-</message>
-<message>
-    <source>Inherited</source>
-    <translation type="unfinished">继承</translation>
-</message>
-<message>
-    <source>Audio Codec</source>
-    <translation type="unfinished">音频编解码器</translation>
-</message>
-<message>
-    <source>Channel Icon</source>
-    <translation type="unfinished">频道图标</translation>
-</message>
-<message>
-    <source>Properties</source>
-    <translation type="unfinished">属性</translation>
-</message>
-<message>
-    <source>Subscribed</source>
-    <translation type="unfinished">已订阅</translation>
-</message>
-<message>
-    <source>Not subscribed</source>
-    <translation type="unfinished">未订阅</translation>
-</message>
-<message>
-    <source>Unencrypted</source>
-    <translation type="unfinished">未加密</translation>
-</message>
-<message>
-    <source>Encrypted</source>
-    <translation type="unfinished">已加密</translation>
-</message>
-<message>
-    <source>Description</source>
-    <translation type="unfinished">简介</translation>
-</message>
-<message>
-    <source>Subscription Status</source>
-    <translation type="unfinished">订阅状态</translation>
-</message>
-<message>
-    <source>Needed Talk Power</source>
-    <translation type="unfinished">需要语音权限</translation>
-</message>
-<message>
-    <source>Audio Quality</source>
-    <translation type="unfinished">语音质量</translation>
-</message>
-<message>
-    <source>Bitrate</source>
-    <translation type="unfinished">比特率</translation>
-</message>
-<message>
-    <source>Audio Transmission</source>
-    <translation type="unfinished">语音传输</translation>
-</message>
-<message>
-    <source>Delete Timer</source>
-    <translation type="unfinished">删除计时器</translation>
-</message>
-<message>
-    <source>clientinfo.tpl</source>
-    <translation type="unfinished">clientinfo.tpl</translation>
-</message>
-<message>
-    <source>%1 %2 on %3</source>
-    <comment>3.1.5 [Stable] on Windows</comment>
-    <translation type="unfinished"> %3 平台 %1 %2</translation>
-</message>
-<message>
-    <source>%1 on %2</source>
-    <comment>3.1.5 on Windows</comment>
-    <translation type="unfinished"> %2 平台 %1 </translation>
-</message>
-<message>
-    <source>Total Connections</source>
-    <translation type="unfinished">总连接</translation>
-</message>
-<message>
-    <source>Volume Modifier</source>
-    <translation type="unfinished">音量改动</translation>
-</message>
-<message>
-    <source>First Connected</source>
-    <translation type="unfinished">初次连接</translation>
-</message>
-<message>
-    <source>Last Connected</source>
-    <translation type="unfinished">上次连接</translation>
-</message>
-<message>
-    <source>Online since</source>
-    <translation type="unfinished">在线时间</translation>
-</message>
-<message>
-    <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
-    <translation type="unfinished">用户在 &lt;strong&gt;%1&lt;/strong&gt; 请求语音权限.</translation>
-</message>
-<message>
-    <source>[Inherited from: %1]</source>
-    <translation type="unfinished">[从 %1 继承]</translation>
-</message>
-<message>
-    <source>Server Groups</source>
-    <translation type="unfinished">服务器组</translation>
-</message>
-<message>
-    <source>Channel Group</source>
-    <translation type="unfinished">频道组</translation>
-</message>
-<message>
-    <source>&lt;avatar ignored&gt;</source>
-    <translation type="unfinished">&lt;忽略头像&gt;</translation>
-</message>
-<message>
-    <source>Away</source>
-    <translation type="unfinished">离开</translation>
-</message>
-<message>
-    <source>&lt;away message ignored&gt;</source>
-    <translation type="unfinished">&lt;忽略离开消息&gt;</translation>
-</message>
-<message>
-    <source>Speakers/Headphones Disabled</source>
-    <translation type="unfinished">音响/耳机禁用</translation>
-</message>
-<message>
-    <source>Speakers/Headphones Muted</source>
-    <translation type="unfinished">音响/耳机静音</translation>
-</message>
-<message>
-    <source>Microphone Disabled</source>
-    <translation type="unfinished">麦克风禁用</translation>
-</message>
-<message>
-    <source>Microphone Muted</source>
-    <translation type="unfinished">麦克风静音</translation>
-</message>
-<message>
-    <source>Local Muted</source>
-    <translation type="unfinished">本地静音</translation>
-</message>
-<message>
-    <source>Invalid License</source>
-    <translation type="unfinished">无效的许可</translation>
-</message>
-<message>
-    <source>No License</source>
-    <translation type="unfinished">无许可证</translation>
-</message>
-<message>
-    <source>Host Provider License</source>
-    <translation type="unfinished">主机托管商许可</translation>
-</message>
-<message>
-    <source>LAN License</source>
-    <translation type="unfinished">局域网许可</translation>
-</message>
-<message>
-    <source>Non-Profit License</source>
-    <translation type="unfinished">非盈利许可</translation>
-</message>
-<message>
-    <source>Activation License</source>
-    <translation type="unfinished">激活的许可证</translation>
-</message>
-<message>
-    <source>Unknown</source>
-    <translation type="unfinished">未知</translation>
-</message>
-<message>
-    <source>Speex Narrowband</source>
-    <translation type="unfinished">Speex 窄频</translation>
-</message>
-<message>
-    <source>Speex Wideband</source>
-    <translation type="unfinished">Speex 宽频</translation>
-</message>
-<message>
-    <source>Speex Ultra-Wideband</source>
-    <translation type="unfinished">Speex 超宽频</translation>
-</message>
-<message>
-    <source>CELT Mono</source>
-    <translation type="unfinished">CELT 单声道</translation>
-</message>
-<message>
-    <source>Opus Voice</source>
-    <translation type="unfinished">Opus 语音</translation>
-</message>
-<message>
-    <source>Opus Music</source>
-    <translation type="unfinished">Opus 音乐</translation>
-</message>
-<message>
-    <source>Unknown Codec</source>
-    <translation type="unfinished">未知编码器</translation>
-</message>
-<message>
-    <source>Refresh available every 5 seconds</source>
-    <translation type="unfinished">每5秒可以刷新一次</translation>
+        <source>serverinfo.tpl</source>
+        <translation type="unfinished">serverinfo.tpl</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished">版本</translation>
+    </message>
+    <message>
+        <source>Server Icon</source>
+        <translation type="unfinished">服务器图标</translation>
+    </message>
+    <message>
+        <source>Current Clients</source>
+        <translation type="unfinished">当前用户</translation>
+    </message>
+    <message>
+        <source>Total Client Connections</source>
+        <translation type="unfinished">总连接用户</translation>
+    </message>
+    <message>
+        <source>Current Channels</source>
+        <translation type="unfinished">当前频道</translation>
+    </message>
+    <message>
+        <source>Uptime</source>
+        <translation type="unfinished">运行时间</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished">地址</translation>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation type="unfinished">昵称</translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation type="unfinished">许可证</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished">刷新</translation>
+    </message>
+    <message>
+        <source>channelinfo.tpl</source>
+        <translation type="unfinished">channelinfo.tpl</translation>
+    </message>
+    <message>
+        <source>Channel Topic</source>
+        <translation type="unfinished">频道主题</translation>
+    </message>
+    <message>
+        <source>Moderated</source>
+        <translation type="unfinished">管控</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished">是</translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <translation type="unfinished">无限</translation>
+    </message>
+    <message>
+        <source>Inherited</source>
+        <translation type="unfinished">继承</translation>
+    </message>
+    <message>
+        <source>Audio Codec</source>
+        <translation type="unfinished">音频编解码器</translation>
+    </message>
+    <message>
+        <source>Channel Icon</source>
+        <translation type="unfinished">频道图标</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">属性</translation>
+    </message>
+    <message>
+        <source>Subscribed</source>
+        <translation type="unfinished">已订阅</translation>
+    </message>
+    <message>
+        <source>Not subscribed</source>
+        <translation type="unfinished">未订阅</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation type="unfinished">未加密</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished">已加密</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">简介</translation>
+    </message>
+    <message>
+        <source>Subscription Status</source>
+        <translation type="unfinished">订阅状态</translation>
+    </message>
+    <message>
+        <source>Needed Talk Power</source>
+        <translation type="unfinished">需要语音权限</translation>
+    </message>
+    <message>
+        <source>Audio Quality</source>
+        <translation type="unfinished">语音质量</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation type="unfinished">比特率</translation>
+    </message>
+    <message>
+        <source>Audio Transmission</source>
+        <translation type="unfinished">语音传输</translation>
+    </message>
+    <message>
+        <source>Delete Timer</source>
+        <translation type="unfinished">删除计时器</translation>
+    </message>
+    <message>
+        <source>clientinfo.tpl</source>
+        <translation type="unfinished">clientinfo.tpl</translation>
+    </message>
+    <message>
+        <source>%1 %2 on %3</source>
+        <comment>3.1.5 [Stable] on Windows</comment>
+        <translation type="unfinished"> %3 平台 %1 %2</translation>
+    </message>
+    <message>
+        <source>%1 on %2</source>
+        <comment>3.1.5 on Windows</comment>
+        <translation type="unfinished"> %2 平台 %1 </translation>
+    </message>
+    <message>
+        <source>Total Connections</source>
+        <translation type="unfinished">总连接</translation>
+    </message>
+    <message>
+        <source>Volume Modifier</source>
+        <translation type="unfinished">音量改动</translation>
+    </message>
+    <message>
+        <source>First Connected</source>
+        <translation type="unfinished">初次连接</translation>
+    </message>
+    <message>
+        <source>Last Connected</source>
+        <translation type="unfinished">上次连接</translation>
+    </message>
+    <message>
+        <source>Online since</source>
+        <translation type="unfinished">在线时间</translation>
+    </message>
+    <message>
+        <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished">用户在 &lt;strong&gt;%1&lt;/strong&gt; 请求语音权限.</translation>
+    </message>
+    <message>
+        <source>[Inherited from: %1]</source>
+        <translation type="unfinished">[从 %1 继承]</translation>
+    </message>
+    <message>
+        <source>Server Groups</source>
+        <translation type="unfinished">服务器组</translation>
+    </message>
+    <message>
+        <source>Channel Group</source>
+        <translation type="unfinished">频道组</translation>
+    </message>
+    <message>
+        <source>&lt;avatar ignored&gt;</source>
+        <translation type="unfinished">&lt;忽略头像&gt;</translation>
+    </message>
+    <message>
+        <source>Away</source>
+        <translation type="unfinished">离开</translation>
+    </message>
+    <message>
+        <source>&lt;away message ignored&gt;</source>
+        <translation type="unfinished">&lt;忽略离开消息&gt;</translation>
+    </message>
+    <message>
+        <source>Speakers/Headphones Disabled</source>
+        <translation type="unfinished">音响/耳机禁用</translation>
+    </message>
+    <message>
+        <source>Speakers/Headphones Muted</source>
+        <translation type="unfinished">音响/耳机静音</translation>
+    </message>
+    <message>
+        <source>Microphone Disabled</source>
+        <translation type="unfinished">麦克风禁用</translation>
+    </message>
+    <message>
+        <source>Microphone Muted</source>
+        <translation type="unfinished">麦克风静音</translation>
+    </message>
+    <message>
+        <source>Local Muted</source>
+        <translation type="unfinished">本地静音</translation>
+    </message>
+    <message>
+        <source>Invalid License</source>
+        <translation type="unfinished">无效的许可</translation>
+    </message>
+    <message>
+        <source>No License</source>
+        <translation type="unfinished">无许可证</translation>
+    </message>
+    <message>
+        <source>Host Provider License</source>
+        <translation type="unfinished">主机托管商许可</translation>
+    </message>
+    <message>
+        <source>LAN License</source>
+        <translation type="unfinished">局域网许可</translation>
+    </message>
+    <message>
+        <source>Non-Profit License</source>
+        <translation type="unfinished">非盈利许可</translation>
+    </message>
+    <message>
+        <source>Activation License</source>
+        <translation type="unfinished">激活的许可证</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">未知</translation>
+    </message>
+    <message>
+        <source>Speex Narrowband</source>
+        <translation type="unfinished">Speex 窄频</translation>
+    </message>
+    <message>
+        <source>Speex Wideband</source>
+        <translation type="unfinished">Speex 宽频</translation>
+    </message>
+    <message>
+        <source>Speex Ultra-Wideband</source>
+        <translation type="unfinished">Speex 超宽频</translation>
+    </message>
+    <message>
+        <source>CELT Mono</source>
+        <translation type="unfinished">CELT 单声道</translation>
+    </message>
+    <message>
+        <source>Opus Voice</source>
+        <translation type="unfinished">Opus 语音</translation>
+    </message>
+    <message>
+        <source>Opus Music</source>
+        <translation type="unfinished">Opus 音乐</translation>
+    </message>
+    <message>
+        <source>Unknown Codec</source>
+        <translation type="unfinished">未知编码器</translation>
+    </message>
+    <message>
+        <source>Refresh available every 5 seconds</source>
+        <translation type="unfinished">每5秒可以刷新一次</translation>
     </message>
 </context>
 <context>
@@ -9413,7 +9413,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You need to setup your identity.</source>
-        <translation type="unfinished">您需要设置您的身份</translation>
+        <translation type="unfinished">您需要设置您的身份.</translation>
     </message>
     <message>
         <source>&lt;p&gt;The configured playback device was not found.&lt;br&gt;Instead using: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</source>
@@ -10407,93 +10407,93 @@ Do you want to apply your changes?</source>
 <context>
     <name>TreeView</name>
     <message>
-    <source>Channel tree</source>
-    <translation type="unfinished">频道树</translation>
-</message>
-<message>
-    <source>tree_tooltip_client.tpl</source>
-    <translation type="unfinished">tree_tooltip_client.tpl</translation>
-</message>
-<message>
-    <source>Description</source>
-    <translation type="unfinished">简介</translation>
-</message>
-<message>
-    <source>Nickname</source>
-    <translation type="unfinished">昵称</translation>
-</message>
-<message>
-    <source>Online since</source>
-    <translation type="unfinished">在线时间</translation>
-</message>
-<message>
-    <source>tree_tooltip_channel.tpl</source>
-    <translation type="unfinished">tree_tooltip_channel.tpl</translation>
-</message>
-<message>
-    <source>Codec Quality</source>
-    <translation type="unfinished">编解码质量等级</translation>
-</message>
-<message>
-    <source>Codec</source>
-    <translation type="unfinished">编解码器</translation>
-</message>
-<message>
-    <source>Unlimited</source>
-    <translation type="unfinished">无限</translation>
-</message>
-<message>
-    <source>Inherited</source>
-    <translation type="unfinished">继承</translation>
-</message>
-<message>
-    <source>Name</source>
-    <translation type="unfinished">名称</translation>
-</message>
-<message>
-    <source>Topic</source>
-    <translation type="unfinished">主题</translation>
-</message>
-<message>
-    <source>Unencrypted</source>
-    <translation type="unfinished">未加密</translation>
-</message>
-<message>
-    <source>Encrypted</source>
-    <translation type="unfinished">加密</translation>
-</message>
-<message>
-    <source>Voice Data Encryption</source>
-    <translation type="unfinished">语音数据加密</translation>
-</message>
-<message>
-    <source>Current Clients</source>
-    <translation type="unfinished">当前用户</translation>
-</message>
-<message>
-    <source>Type</source>
-    <translation type="unfinished">类型</translation>
-</message>
-<message>
-    <source>Subscribed</source>
-    <translation type="unfinished">已订阅</translation>
-</message>
-<message>
-    <source>Not subscribed</source>
-    <translation type="unfinished">未订阅</translation>
-</message>
-<message>
-    <source>Subscription Status</source>
-    <translation type="unfinished">订阅状态</translation>
-</message>
-<message>
-    <source>Needed Talk Power</source>
-    <translation type="unfinished">需要语音权限</translation>
-</message>
-<message>
-    <source>Channel will be deleted in %1.</source>
-    <translation type="unfinished">频道将会被删除: %1.</translation>
-</message>
+        <source>Channel tree</source>
+        <translation type="unfinished">频道树</translation>
+    </message>
+    <message>
+        <source>tree_tooltip_client.tpl</source>
+        <translation type="unfinished">tree_tooltip_client.tpl</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">简介</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">昵称</translation>
+    </message>
+    <message>
+        <source>Online since</source>
+        <translation type="unfinished">在线时间</translation>
+    </message>
+    <message>
+        <source>tree_tooltip_channel.tpl</source>
+        <translation type="unfinished">tree_tooltip_channel.tpl</translation>
+    </message>
+    <message>
+        <source>Codec Quality</source>
+        <translation type="unfinished">编解码质量等级</translation>
+    </message>
+    <message>
+        <source>Codec</source>
+        <translation type="unfinished">编解码器</translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <translation type="unfinished">无限</translation>
+    </message>
+    <message>
+        <source>Inherited</source>
+        <translation type="unfinished">继承</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名称</translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <translation type="unfinished">主题</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation type="unfinished">未加密</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished">加密</translation>
+    </message>
+    <message>
+        <source>Voice Data Encryption</source>
+        <translation type="unfinished">语音数据加密</translation>
+    </message>
+    <message>
+        <source>Current Clients</source>
+        <translation type="unfinished">当前用户</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">类型</translation>
+    </message>
+    <message>
+        <source>Subscribed</source>
+        <translation type="unfinished">已订阅</translation>
+    </message>
+    <message>
+        <source>Not subscribed</source>
+        <translation type="unfinished">未订阅</translation>
+    </message>
+    <message>
+        <source>Subscription Status</source>
+        <translation type="unfinished">订阅状态</translation>
+    </message>
+    <message>
+        <source>Needed Talk Power</source>
+        <translation type="unfinished">需要语音权限</translation>
+    </message>
+    <message>
+        <source>Channel will be deleted in %1.</source>
+        <translation type="unfinished">频道将会被删除: %1.</translation>
+    </message>
 </context>
 <context>
     <name>UIFileTransferManager</name>
@@ -11291,75 +11291,75 @@ No changes have been written yet.</source>
     <name>WebServerList</name>
     <message>
         <source>Server List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在线服务器列表</translation>
     </message>
     <message>
         <source>&amp;Server name</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器名称(&amp;S)</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished"></translation>
+        <translation>包含</translation>
     </message>
     <message>
         <source>Starts with</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以...开始</translation>
     </message>
     <message>
         <source>Standard filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标准过滤器</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">位置</translation>
     </message>
     <message>
         <source>&amp;Country:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">国家(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Region:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地区(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;City:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">城市(&amp;C):</translation>
     </message>
     <message>
         <source>Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>Hide empty servers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏无人服务器</translation>
     </message>
     <message>
         <source>Hide full servers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏满员服务器</translation>
     </message>
     <message>
         <source>Servers with</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器从</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">到</translation>
     </message>
     <message>
         <source>users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">个用户</translation>
     </message>
     <message>
         <source>Max Slots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户上限</translation>
     </message>
     <message>
         <source>slots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">个用户</translation>
     </message>
     <message>
         <source>Advanced filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级过滤器</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11371,147 +11371,148 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Show only with password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只显示有密码</translation>
     </message>
     <message>
         <source>Show only without password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只显示无密码</translation>
     </message>
     <message>
         <source>Create Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道</translation>
     </message>
     <message>
         <source>Can create channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可以创建频道</translation>
     </message>
     <message>
         <source>Can not create channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法创建频道</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"></translation>
+        <translation>常见问题</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished">重新加载</translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Apply filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用过滤器</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>Create channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">国家</translation>
     </message>
     <message>
         <source>Region</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地区</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">城市</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加至书签</translation>
     </message>
     <message>
         <source>Copy Server Address to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制服务器地址到剪贴板</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部</translation>
     </message>
     <message>
         <source>Own country</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前国家</translation>
     </message>
     <message>
         <source>Displaying %1 servers, last updated: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在显示 %1 个服务器, 最后更新于: %2</translation>
     </message>
     <message>
         <source>Last update: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后更新: %1</translation>
     </message>
     <message>
         <source>Selecting &lt;strong&gt;Own country&lt;/strong&gt; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择&lt;strong&gt;当前国家&lt;/strong&gt; 失败。</translation>
     </message>
     <message>
         <source>Selecting &lt;strong&gt;Own region&lt;/strong&gt; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择&lt;strong&gt;当前地区&lt;/strong&gt; 失败。</translation>
     </message>
     <message>
         <source>Selecting &lt;strong&gt;Own city&lt;/strong&gt; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择&lt;strong&gt;当前城市&lt;/strong&gt; 失败。</translation>
     </message>
     <message>
         <source>The location of your IP could not be properly resolved.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的IP地址无法被正确解析。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 / %2</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No</translation>
     </message>
     <message>
         <source>Max clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户上限</translation>
     </message>
     <message>
         <source>Current clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在线用户</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地址</translation>
     </message>
     <message>
         <source>/Knowledgebase/Article/View/324/16/how-do-i-add-or-remove-my-server-from-the-server-list</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>链接地址,保留原样</translatorcomment>
+        <translation type="unfinished">/Knowledgebase/Article/View/324/16/how-do-i-add-or-remove-my-server-from-the-server-list</translation>
     </message>
     <message>
         <source>Requesting serverlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器列表请求中</translation>
     </message>
     <message>
         <source>Own region</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前地区</translation>
     </message>
     <message>
         <source>Own city</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前城市</translation>
     </message>
 </context>
 <context>
