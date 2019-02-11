@@ -2144,7 +2144,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation>杂项</translation>
+        <translation type="unfinished">杂项</translation>
     </message>
     <message>
         <source>Please Confirm</source>
@@ -7880,7 +7880,7 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UTC时间</translation>
     </message>
     <message>
         <source>Local time</source>
@@ -7893,20 +7893,22 @@ Are you sure you want to proceed?</source>
     <message>
         <source>Search text in log.
 Press Enter to search next location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在日志中搜索文字。
+按回车键搜索下一个位置。</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">过滤器(&amp;F):</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
 Press Enter to apply filter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只显示匹配过滤器文字的行。
+按回车键应用过滤器。</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大小写敏感(&amp;C)</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -7918,89 +7920,89 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新(&amp;R)</translation>
     </message>
     <message>
         <source>Show &amp;Older</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示更早的(&amp;O)</translation>
     </message>
     <message>
         <source>Server Log - %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器日志 - %1</translation>
     </message>
     <message>
         <source>Server Log not supported by this server version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此服务器版本不支持服务器日志</translation>
     </message>
     <message>
         <source>Insufficient permissions to view Server Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限不足，无法查看服务器日志</translation>
     </message>
     <message>
         <source>No log entries available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有可用的日志记录</translation>
     </message>
 </context>
 <context>
     <name>ServerLogViewFilterDialog</name>
     <message>
         <source>Exclude Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排除过滤器</translation>
     </message>
     <message>
         <source>Exclude log entries containing the following terms:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排除包含以下术语的日志条目:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除(&amp;R)</translation>
     </message>
     <message>
         <source>New filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新过滤器</translation>
     </message>
 </context>
 <context>
     <name>ServerLogViewHighlightDialog</name>
     <message>
         <source>Highlight Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高亮设置</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除(&amp;R)</translation>
     </message>
     <message>
         <source>Move &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上移(&amp;U)</translation>
     </message>
     <message>
         <source>Move &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下移(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前景色(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Background color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">背景色(&amp;B)</translation>
     </message>
     <message>
         <source>Set custom foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置自定义前景色</translation>
     </message>
     <message>
         <source>Set custom background color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置自定义背景色</translation>
     </message>
     <message>
         <source>Black</source>
@@ -8012,79 +8014,79 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Light Gray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">浅灰色</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">灰色</translation>
     </message>
     <message>
         <source>Dark Gray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深灰色</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">红色</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">暗红色</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">绿色</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深绿色</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">蓝色</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深蓝色</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">青色</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深青色</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">品红色</translation>
     </message>
     <message>
         <source>Dark Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深品红色</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">黄色</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">深黄色</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">透明</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义</translation>
     </message>
     <message>
         <source>New item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新项目</translation>
     </message>
     <message>
         <source>Select foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择前景色</translation>
     </message>
 </context>
 <context>
