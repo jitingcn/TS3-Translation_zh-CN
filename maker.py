@@ -84,7 +84,7 @@ def telegram_push(string, debug=0):
     querystring = parse.urlencode({"text": string.encode('utf-8')})
     tg_api = os.getenv('TG_API')
     group_id = os.getenv('TG_GROUP_ID')
-    if tg_api == "" or group_id == "":
+    if not tg_api or not group_id:
         if debug:
             print("Telegram api key or chat(group) id not found.")
             print("You need to set TG_API and TG_GROUP_ID in the environment variable.")
