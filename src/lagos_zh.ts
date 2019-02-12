@@ -22,7 +22,7 @@
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com/&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://blog.opt.ninja/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
+        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com/&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://www.wevg.org/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -4691,7 +4691,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished">无效的许可</translation>
+        <translation type="unfinished">无效的许可证</translation>
     </message>
     <message>
         <source>No License</source>
@@ -4699,15 +4699,15 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Host Provider License</source>
-        <translation type="unfinished">主机托管商许可</translation>
+        <translation type="unfinished">主机托管商许可证</translation>
     </message>
     <message>
         <source>LAN License</source>
-        <translation type="unfinished">局域网许可</translation>
+        <translation type="unfinished">局域网许可证</translation>
     </message>
     <message>
         <source>Non-Profit License</source>
-        <translation type="unfinished">非盈利许可</translation>
+        <translation type="unfinished">非盈利许可证</translation>
     </message>
     <message>
         <source>Activation License</source>
@@ -4766,11 +4766,11 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Add Privilege Key</source>
@@ -4778,7 +4778,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制到剪切板</translation>
     </message>
     <message>
         <source>ts3server link</source>
@@ -5174,7 +5174,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation>TeamSpeak 服务器 官方托管</translation>
+        <translation>找出在哪里获取你自己的TeamSpeak 服务器</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
@@ -5634,7 +5634,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ban</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封禁</translation>
     </message>
     <message>
         <source>Messages</source>
@@ -8831,19 +8831,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 pokes you</source>
-        <translation type="unfinished">%1 戳了戳你</translation>
+        <translation type="unfinished">%1 戳了你一下</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you: %3</source>
-        <translation type="unfinished">%1 - %2 戳了戳你: %3</translation>
+        <translation type="unfinished">%1 - %2 戳了你一下并说: %3</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you.</source>
-        <translation type="unfinished">%1 - %2 戳了戳你.</translation>
+        <translation type="unfinished">%1 - %2 戳了你一下.</translation>
     </message>
     <message>
         <source>You Have Been Poked</source>
-        <translation type="unfinished">您被戳了戳</translation>
+        <translation type="unfinished">您被戳了一下</translation>
     </message>
     <message>
         <source>The password of channel %1 has been changed.</source>
@@ -8871,11 +8871,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>This server is blacklisted. Refusing to connect.</source>
-        <translation type="unfinished">此服务器已列入黑名单。拒绝连接。</translation>
+        <translation type="unfinished">此服务器被列入黑名单。拒绝连接。</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您正在连接到似乎使用无效许可证的 TeamSpeak 服务器。&lt;/p&gt;&lt;p&gt;如果您是此服务器的所有者，请与您的TeamSpeak主机提供商联系，确认他们使用的是有效许可证。&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;您正在连接到一台使用无效许可证的 TeamSpeak 服务器。&lt;/p&gt;&lt;p&gt;如果您是此服务器的所有者，请与您的TeamSpeak主机提供商联系，确认他们使用的是有效许可证。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -8883,7 +8883,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Connection aborted.</source>
-        <translation type="unfinished">连接被中断。</translation>
+        <translation type="unfinished">连接中断。</translation>
     </message>
     <message>
         <source>You are not connected to a server, this message has not been sent.</source>
@@ -8971,7 +8971,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel</source>
-        <translation type="unfinished">停止显示此频道的使用者</translation>
+        <translation type="unfinished">不显示此频道的使用者</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from All Channels</source>
@@ -8979,7 +8979,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Discontinue displaying the occupants of all channels on this server</source>
-        <translation type="unfinished">停止显示在此服务器上所有频道的使用者</translation>
+        <translation type="unfinished">不显示在此服务器上所有频道的使用者</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to Channel Family</source>
@@ -8995,7 +8995,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel and all subchannels</source>
-        <translation type="unfinished">停止显示此频道和所有子频道的使用者</translation>
+        <translation type="unfinished">不显示此频道和所有子频道的使用者</translation>
     </message>
     <message>
         <source>&amp;Create Channel</source>
