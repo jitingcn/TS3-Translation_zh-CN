@@ -2378,7 +2378,7 @@ to chose lower values.</source>
     </message>
     <message>
         <source>Client can use channel commander</source>
-        <translation type="unfinished">用户能使用频道指挥官</translation>
+        <translation type="unfinished">用户能使用频道指挥官功能</translation>
     </message>
     <message>
         <source>Client can subscribe channels</source>
@@ -3493,83 +3493,83 @@ p, li { white-space: pre-wrap; }
     <name>HotkeyDialog</name>
     <message>
         <source>Hotkey Setup Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键设置对话框</translation>
     </message>
     <message>
         <source>Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键</translation>
     </message>
     <message>
         <source>Action triggers when the key is released</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">释放按键时触发动作</translation>
     </message>
     <message>
         <source>On key release</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在松开按键时</translation>
     </message>
     <message>
         <source>Press this button to start recording the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按此按钮开始记录快捷键</translation>
     </message>
     <message>
         <source>Set hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置快捷键</translation>
     </message>
     <message>
         <source>Action triggers when the key is pressed down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按下按键时触发动作</translation>
     </message>
     <message>
         <source>On key down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当按键按下时</translation>
     </message>
     <message>
         <source>When enabled the key will not be submitted to other applications.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用后，按键将不会提交给其他应用程序。</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">放弃</translation>
     </message>
     <message>
         <source>Active tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活的选项卡</translation>
     </message>
     <message>
         <source>Keep dialog open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保持对话框开启</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">动作</translation>
     </message>
     <message>
         <source>Connect to Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接至服务器</translation>
     </message>
     <message>
         <source>Disconnect from Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开服务器连接</translation>
     </message>
     <message>
         <source>Select Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择服务器选项卡</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音效</translation>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主音量</translation>
     </message>
     <message>
         <source>Switch to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到频道</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件</translation>
     </message>
     <message>
         <source>Capture Profile</source>
@@ -3577,27 +3577,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放配置</translation>
     </message>
     <message>
         <source>Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键配置</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风</translation>
     </message>
     <message>
         <source>Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>扬声器</translation>
     </message>
     <message>
         <source>Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开状态</translation>
     </message>
     <message>
         <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道指挥官</translation>
     </message>
     <message>
         <source>Push-to-Talk</source>
@@ -3605,7 +3605,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语</translation>
     </message>
     <message>
         <source>Recording</source>
@@ -3613,7 +3613,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3D 音效</translation>
     </message>
     <message>
         <source>Talk Power</source>
@@ -3621,27 +3621,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>----- Server -----</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">----- 服务器 -----</translation>
     </message>
     <message>
         <source>Connect to Server on Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在当前选项卡连接至服务器</translation>
     </message>
     <message>
         <source>Connect to Server in a New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在新选项卡连接至服务器</translation>
     </message>
     <message>
         <source>Disconnect from Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开当前服务器</translation>
     </message>
     <message>
         <source>Disconnect from All Servers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开所有服务器连接</translation>
     </message>
     <message>
         <source>Activate Microphone (current tab)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活麦克风(当前选项卡)</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
@@ -3649,67 +3649,67 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unmute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消麦克风静音</translation>
     </message>
     <message>
         <source>Toggle Microphone Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换麦克风静音</translation>
     </message>
     <message>
         <source>Disable Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消本地麦克风静音</translation>
     </message>
     <message>
         <source>Enable Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开启本地麦克风静音</translation>
     </message>
     <message>
         <source>Toggle Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换本地麦克风静音</translation>
     </message>
     <message>
         <source>Mute Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">扬声器静音</translation>
     </message>
     <message>
         <source>Unmute Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消扬声器静音</translation>
     </message>
     <message>
         <source>Toggle Speaker Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换扬声器静音状态</translation>
     </message>
     <message>
         <source>Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置为离开</translation>
     </message>
     <message>
         <source>Set Online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置为上线</translation>
     </message>
     <message>
         <source>Toggle Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换离开状态</translation>
     </message>
     <message>
         <source>Toggle Away Status with Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换附带消息的离开状态</translation>
     </message>
     <message>
         <source>Activate Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用频道指挥官</translation>
     </message>
     <message>
         <source>Deactivate Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用频道指挥官</translation>
     </message>
     <message>
         <source>Toggle Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换频道指挥官</translation>
     </message>
     <message>
         <source>----- Self -----</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">----- 个人 -----</translation>
     </message>
     <message>
         <source>Activate Capture Profile</source>
@@ -13997,7 +13997,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Add Channel Commander</source>
-        <translation>添加频道管理员</translation>
+        <translation type="unfinished">添加频道指挥官</translation>
     </message>
     <message>
         <source>Add Server Group</source>
