@@ -8447,11 +8447,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Poke</source>
-        <translation type="unfinished">戳一戳</translation>
+        <translation type="unfinished">戳他一下</translation>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished">戳一戳原因:</translation>
+        <translation type="unfinished">为啥戳他:</translation>
     </message>
     <message>
         <source>Complaint</source>
@@ -9055,7 +9055,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&amp;Poke Client</source>
-        <translation type="unfinished">戳一戳此用户(&amp;P)</translation>
+        <translation type="unfinished">戳他一下(&amp;P)</translation>
     </message>
     <message>
         <source>Get the attention of the selected client</source>
