@@ -15,4 +15,4 @@ TeamSpeak 3 简体中文翻译源文件
 4. `permissions.ts` 和 `ts_core_errors.ts` 为权限和错误代码的英文翻译。翻译权限和错误代码文本时，需要先打开 `xxx_zh.ts` ，然后打开 `xxx.ts` 为只读，进行对照。
 
 ## 使用方法
-待更新
+Windows： 一般情况下，下载后直接双击汉化包 `Chinese_Translation_zh-CN.ts3_translation` 即可，如果因为曾经装过旧版之类的问题导致关联程序有误，那么请使用TeamSpeak目录下的 `package_inst.exe` 来打开汉化包 `Chinese_Translation_zh-CN.ts3_translation` 。
