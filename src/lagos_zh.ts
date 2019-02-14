@@ -2749,15 +2749,15 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <source>Halt</source>
@@ -2765,7 +2765,7 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重试</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -2896,7 +2896,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭</translation>
     </message>
     <message>
         <source>File Transfers</source>
@@ -11983,7 +11983,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Voice Activation Detection</source>
-        <translation type="unfinished">语音激活检测</translation>
+        <translation type="unfinished">语音感应激活</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;Set more hotkeys&lt;/span&gt;&lt;/a&gt;</source>
@@ -11991,19 +11991,19 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Echo Reduction&lt;/strong&gt; reduces the volume of currently talking clients while you talk, and thereby reduces the echoing effect.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;减小回音&lt;/strong&gt;在您说话时减少当前通话中的用户的音量，从而减少回音效果。&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;回声抑制&lt;/strong&gt;在您说话时减少当前通话中的用户的音量，从而减少回音效果。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&amp;Echo reduction</source>
-        <translation type="unfinished">减小回音(&amp;E)</translation>
+        <translation type="unfinished">回声抑制(&amp;E)</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Echo Cancellation&lt;/strong&gt; tries to subtract any audio that was played back from the captured signal, reducing the echoing effect at the cost of additional CPU cycles.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;消除回音&lt;/strong&gt;尝试从捕获的音频中移除播放的任何音频，以更高的的CPU使用率为代价降低回声影响。&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;回声消除&lt;/strong&gt;尝试从捕获的音频中移除播放的任何音频，以更高的的CPU使用率为代价降低回声影响。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Echo cancellation</source>
-        <translation type="unfinished">消除回音</translation>
+        <translation type="unfinished">回声消除</translation>
     </message>
     <message>
         <source>&amp;Advanced Options</source>
@@ -12027,7 +12027,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Echo &amp;reduction reduces playback by:</source>
-        <translation type="unfinished">减小回音功能降低的音频回放音量(&amp;R):</translation>
+        <translation type="unfinished">回声抑制功能降低的音频回放音量(&amp;R):</translation>
     </message>
     <message>
         <source> dB</source>
@@ -12047,11 +12047,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Enabled Voice Activation Detection even when Push-To-Talk is used.</source>
-        <translation type="unfinished">使用按键通话时启用语音激活检测。</translation>
+        <translation type="unfinished">使用按键通话时启用语音感应激活。</translation>
     </message>
     <message>
         <source>Voice Activation Detection while using Push-To-Talk</source>
-        <translation type="unfinished">在使用按键通话模式下仍使用语音激活检测功能</translation>
+        <translation type="unfinished">在使用按键通话模式下仍使用语音感应激活功能</translation>
     </message>
 </context>
 <context>
