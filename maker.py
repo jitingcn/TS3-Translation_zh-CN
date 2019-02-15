@@ -6,7 +6,7 @@ import re
 import sys
 import zipfile
 import subprocess
-from urllib import request, parse
+from urllib import request, parse, error
 from time import strftime, localtime
 
 target_version = "3.2.3"
@@ -15,8 +15,6 @@ cwd = sys.path[0]
 src = f"{cwd + os.sep}src{os.sep}"
 dist = f"{cwd + os.sep}dist{os.sep}"
 ini = f"{dist}package.ini"
-translated = re.compile(r"(?:Generated\s)(\d+)(?: translation)")
-untranslated = re.compile(r"(?:Ignored\s)(\d+)(?: untranslated)")
 
 
 def make_release():
@@ -36,6 +34,9 @@ def make_release():
         print("Warning: \"dist\" folder not found. Creating folder...\n")
         os.makedirs(dist)
 
+    translated = re.compile(r"(?:Generated\s)(\d+)(?: translation)")
+    untranslated = re.compile(r"(?:Ignored\s)(\d+)(?: untranslated)")
+
     for i in source_file:
         print(i)
         result = subprocess.run([lrelease, f'{src+i}.ts', '-qm', f'{dist+i}.qm'],
@@ -54,10 +55,10 @@ def make_release():
                 total_count += int(untranslated_count[0]) if len(untranslated_count) != 0 else 0
         else:
             try:
-                print(result.stderr.decode("utf-8"))
+                print(f"发生错误:\n{result.stderr.decode('utf-8')}")
                 telegram_push(f"发生错误:\n{i}\n{result.stderr.decode('utf-8')}")
             except UnicodeDecodeError:
-                print(result.stderr.decode("gbk"))  # 中文系统可能会遇到编码问题
+                print(f"发生错误:\n{result.stderr.decode('gbk')}")  # 中文系统可能会遇到编码问题
                 telegram_push(f"发生错误:\n{i}\n{result.stderr.decode('gbk')}")
 
         # except subprocess.CalledProcessError as err:
@@ -76,22 +77,31 @@ def send_progress(done, total):
         print("推送成功\n")
     except AssertionError:
         print("推送被取消\n")
-    except Exception as err:
-        print(f"发生错误，推送失败\n错误信息：{err}\n")
+    # except Exception as err:
+    #    print(f"发生错误，推送失败\n错误信息：{err}\n")
 
 
 def telegram_push(string, debug=0):
+    if not string:
+        if debug:
+            print('No message to send.')
+        return 1
     querystring = parse.urlencode({"text": string.encode('utf-8')})
     tg_api = os.getenv('TG_API')
     group_id = os.getenv('TG_GROUP_ID')
-    if not tg_api or not group_id:
+    if tg_api == "" or group_id == "":
         if debug:
             print("Telegram api key or chat(group) id not found.")
             print("You need to set TG_API and TG_GROUP_ID in the environment variable.")
         return 1
     url = f"https://api.telegram.org/bot{tg_api}/sendMessage?chat_id={group_id}&"
-    request.urlopen(url + querystring)
-    return 0
+    try:
+        request.urlopen(url + querystring)
+        return 0
+    except error.URLError:
+        if debug:
+            print("Unable to connect to telegram server, skip message sending operation.")
+        return 1
 
 
 def make_package(release_list):
