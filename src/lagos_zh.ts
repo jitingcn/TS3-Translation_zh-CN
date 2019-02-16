@@ -3286,7 +3286,7 @@ everyone.</source>
     </message>
     <message>
         <source>Copy Unique ID to Clipboard</source>
-        <translation type="unfinished">复制UID到剪切板</translation>
+        <translation type="unfinished">复制UID到剪贴板</translation>
     </message>
 </context>
 <context>
@@ -4778,7 +4778,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">复制到剪切板</translation>
+        <translation type="unfinished">复制到剪贴板</translation>
     </message>
     <message>
         <source>ts3server link</source>
@@ -7786,7 +7786,7 @@ Are you sure you want to proceed?</source>
     </message>
     <message>
         <source>Copy address to clipboard</source>
-        <translation type="unfinished">复制地址到剪切板</translation>
+        <translation type="unfinished">复制地址到剪贴板</translation>
     </message>
     <message>
         <source>Average packetloss</source>
@@ -9893,27 +9893,27 @@ Do you want to apply your changes?</source>
     <name>TempPasswordAddDialog</name>
     <message>
         <source>Temporary server password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时服务器密码</translation>
     </message>
     <message>
         <source>Temporary password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时密码:</translation>
     </message>
     <message>
         <source>Description (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">简介(可选):</translation>
     </message>
     <message>
         <source>Expires after:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此后过期:</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">天</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">小时</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -9921,103 +9921,103 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Channel to join:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加入的频道:</translation>
     </message>
     <message>
         <source>Channel password
 (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道密码(可选):</translation>
     </message>
     <message>
         <source>No target channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不存在目标频道</translation>
     </message>
     <message>
         <source>Wrong channel password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误的频道密码</translation>
     </message>
 </context>
 <context>
     <name>TempPasswordWidget</name>
     <message>
         <source>Add new temporary password&lt;br&gt;(Ctrl+N)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加新的临时密码&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <source>Remove selected temporary passwords&lt;br&gt;(Delete)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除选中的临时密码&lt;br&gt;(删除键)</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Create an invitation using the selected temporary password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用所选的临时密码创建邀请链接</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邀请</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建者</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Channel Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道密码</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">过期</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">简介</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效</translation>
     </message>
     <message>
         <source>Temporary Server Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时服务器密码</translation>
     </message>
     <message>
         <source>Temporary Server Passwords - %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时服务器密码 - %1</translation>
     </message>
     <message>
         <source>Create Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建邀请</translation>
     </message>
     <message>
         <source>Copy password to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制密码到剪贴板</translation>
     </message>
 </context>
 <context>
@@ -11293,7 +11293,7 @@ No changes have been written yet.</source>
     <name>WebServerList</name>
     <message>
         <source>Server List</source>
-        <translation type="unfinished">在线服务器列表</translation>
+        <translation type="unfinished">服务器列表</translation>
     </message>
     <message>
         <source>&amp;Server name</source>
@@ -11521,22 +11521,22 @@ No changes have been written yet.</source>
     <name>WebServerListWrapper</name>
     <message>
         <source>Failed to connect to weblist server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法连接到服务器列表信息的服务器。</translation>
     </message>
     <message>
         <source>Too many requests, next request available in about %1 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求过快,下一次请求将在 %1 秒后可用.</translation>
     </message>
     <message>
         <source>Server database changed, reloading list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器数据库更改，重新加载列表。</translation>
     </message>
 </context>
 <context>
     <name>WhisperDialog</name>
     <message>
         <source>Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语列表</translation>
     </message>
     <message>
         <source>Synchronized Whisperlists</source>
@@ -11746,7 +11746,7 @@ No changes have been written yet.</source>
     <name>WhisperSetup</name>
     <message>
         <source>Permissions for Received Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">接收密语的权限</translation>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, allow whispering.</source>
@@ -11766,11 +11766,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Nobody is allowed to whisper to you. Individual contact settings are ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不允许任何人对你使用密语。单独的联系人设置将被忽略。</translation>
     </message>
     <message>
         <source>Deny everyone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拒绝所有人</translation>
     </message>
     <message>
         <source>Settings for Received Whispers</source>
@@ -11786,15 +11786,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Remove clients in whisper history after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此时间后将用户从密语历史记录中移除</translation>
     </message>
     <message>
         <source> mins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 分钟</translation>
     </message>
     <message>
         <source>Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语列表</translation>
     </message>
 </context>
 <context>
@@ -11851,31 +11851,31 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>Activate microphone automatically when switching servers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换服务器时自动激活麦克风</translation>
     </message>
     <message>
         <source>Reconnect to servers which were left during standby</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新连接到待机期间离开的服务器</translation>
     </message>
     <message>
         <source>Reconnect servers when system resumes a standby</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">系统恢复待机状态时重新连接服务器</translation>
     </message>
     <message>
         <source>Open connection info on clients or filebrowser on channels with middle mouse click</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在频道树中单击鼠标中键，打开客户端连接信息或文件浏览器</translation>
     </message>
     <message>
         <source>Use middle mouse button shortcuts in tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在频道树中使用鼠标中键快捷键</translation>
     </message>
     <message>
         <source>Automatically update the nickname in the bookmark after changing it while connected to this bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当连接到服务器时更改的昵称会自动同步更改到书签内</translation>
     </message>
     <message>
         <source>Automatically update nickname in bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动更新书签里的昵称</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -11883,7 +11883,7 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>The client will always stay above any other window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端将始终位于其他窗口之上(保持置顶)</translation>
     </message>
     <message>
         <source>Always stay on top</source>
@@ -11891,57 +11891,59 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>Enable more options for permission system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用更多选项的权限系统</translation>
     </message>
     <message>
         <source>Advanced permissions system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级权限系统</translation>
     </message>
     <message>
         <source>Enable a warning sound when talking while the microphone is muted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在麦克风静音时讲话会发出一个提示声</translation>
     </message>
     <message>
         <source>Warn when talking while microphone is muted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">麦克风静音时讲话警告</translation>
     </message>
     <message>
         <source>The TeamSpeak Client will be automatically started when Windows starts up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Windows 启动时将自动启动 TeamSpeak 客户端</translation>
     </message>
     <message>
         <source>Start TeamSpeak automatically with Windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开机时自动启动 TeamSpeak</translation>
     </message>
     <message>
         <source>Completely disable the Poke Dialog to avoid problems when running fullscreen games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完全禁用&quot;戳一戳&quot;对话框以避免在运行全屏游戏时出现问题</translation>
     </message>
     <message>
         <source>Never show Poke Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不显示戳一戳对话框</translation>
     </message>
     <message>
         <source>Channel Subscription Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道订阅偏好</translation>
     </message>
     <message>
         <source>Automatically subscribe to all channels.
 On servers with a lot of channels and users this should be avoided.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动订阅全部频道
+在具有大量频道和用户的服务器上，应该避免选择此选项。</translation>
     </message>
     <message>
         <source>Subscribe to all channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">订阅全部频道</translation>
     </message>
     <message>
         <source>Only subscribe to the current channel and channels subscribed in a previous connection.
 Useful for servers with a lot of channels and clients.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅订阅在先前连接中订阅的频道和当前频道。
+对于具有大量频道和用户的服务器比较有帮助。</translation>
     </message>
     <message>
         <source>Subscribe to current and previously subscribed channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">订阅当前和以前订阅的频道</translation>
     </message>
 </context>
 <context>
