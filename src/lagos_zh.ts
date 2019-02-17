@@ -3007,19 +3007,19 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Hide avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏头像</translation>
     </message>
     <message>
         <source>Do not download this persons avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不要下载这个用户的头像</translation>
     </message>
     <message>
         <source>Hide away message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">把消息隐藏</translation>
     </message>
     <message>
         <source>Ignore this persons away messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人的消息</translation>
     </message>
     <message>
         <source>Deny whisper</source>
@@ -3250,7 +3250,7 @@ everyone.</source>
     </message>
     <message>
         <source>Allow whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许密语</translation>
     </message>
     <message>
         <source>This contact is always denied to whisper to you.</source>
@@ -3258,7 +3258,7 @@ everyone.</source>
     </message>
     <message>
         <source>Deny whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁止密语</translation>
     </message>
     <message>
         <source>Set default display, ignore and hide options</source>
@@ -3278,7 +3278,7 @@ everyone.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Apply Defaults</source>
@@ -3436,11 +3436,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始</translation>
     </message>
 </context>
 <context>
@@ -4282,31 +4282,31 @@ Do you want to proceed?</source>
     <name>IconViewer</name>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标</translation>
     </message>
     <message>
         <source>Remote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地</translation>
     </message>
     <message>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标包:</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新加载</translation>
     </message>
     <message>
         <source>default</source>
@@ -4314,7 +4314,7 @@ Do you want to proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Invalid image selected.
@@ -4387,7 +4387,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建</translation>
     </message>
     <message>
         <source>Remove Identity</source>
@@ -4395,7 +4395,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Set Default Identity</source>
@@ -4403,7 +4403,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
 </context>
 <context>
