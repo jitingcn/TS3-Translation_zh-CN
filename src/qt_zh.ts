@@ -179,7 +179,7 @@ have libgstreamer-plugins-base installed.</source>
         <location line="+18"/>
         <location line="+54"/>
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
-        <translation>请使用这个滑块调节音量。最左为%0，最右为%1%</translation>
+        <translation>请使用这个滑块调节音量。最左为0%，最右为%1%</translation>
     </message>
 </context>
 <context>
