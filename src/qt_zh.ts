@@ -1608,7 +1608,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+15"/>
         <source>Could not delete directory.</source>
-        <translation>不能删除目录。</translation>
+        <translation>无法删除目录。</translation>
     </message>
     <message>
         <location line="+407"/>
@@ -2161,27 +2161,27 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="+25"/>
         <location line="+250"/>
         <source>Connection closed</source>
-        <translation>连接关闭了</translation>
+        <translation>连接断开</translation>
     </message>
     <message>
         <location filename="../src/qt3support/network/q3ftp.cpp" line="-11"/>
         <source>Host %1 found</source>
-        <translation>主机%1找到了</translation>
+        <translation>主机%1已找到</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Connection to %1 closed</source>
-        <translation>到%1的连接关闭了</translation>
+        <translation>与%1的连接断开</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Host found</source>
-        <translation>主机找到了</translation>
+        <translation>主机已找到</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Connected to host</source>
-        <translation>连接到主机了</translation>
+        <translation>已连接主机</translation>
     </message>
 </context>
 <context>
@@ -2245,7 +2245,7 @@ Do you want to delete it anyway?</source>
         <location line="-568"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="-370"/>
         <source>Request aborted</source>
-        <translation>请求被放弃了</translation>
+        <translation>请求终止</translation>
     </message>
     <message>
         <location line="+579"/>
@@ -2263,12 +2263,12 @@ Do you want to delete it anyway?</source>
         <location line="+4"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="+4"/>
         <source>Server closed connection unexpectedly</source>
-        <translation>服务器异常地关闭了连接</translation>
+        <translation>服务器意外断开连接</translation>
     </message>
     <message>
         <location line="+179"/>
         <source>Unknown authentication method</source>
-        <translation type="unfinished">未知的身份验证方法</translation>
+        <translation type="unfinished">未知的验证方式</translation>
     </message>
     <message>
         <location line="+183"/>
@@ -2308,7 +2308,7 @@ Do you want to delete it anyway?</source>
         <location filename="../src/qt3support/network/q3http.cpp" line="+40"/>
         <location line="+47"/>
         <source>Invalid HTTP chunked body</source>
-        <translation>无效的HTTP臃肿体</translation>
+        <translation>无效的HTTP块正文</translation>
     </message>
     <message>
         <location filename="../src/qt3support/network/q3http.cpp" line="+294"/>
@@ -2318,7 +2318,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+3"/>
         <source>Connected to host %1</source>
-        <translation>连接到%1主机了</translation>
+        <translation>连接至%1主机</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2328,23 +2328,23 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+8"/>
         <source>Host found</source>
-        <translation>主机找到了</translation>
+        <translation>主机已找到</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connected to host</source>
-        <translation>连接到主机了</translation>
+        <translation>已连接主机</translation>
     </message>
     <message>
         <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-22"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="+3"/>
         <source>Connection closed</source>
-        <translation>连接关闭了</translation>
+        <translation>连接断开</translation>
     </message>
     <message>
         <location filename="../src/network/access/qhttp.cpp" line="-135"/>
         <source>Proxy authentication required</source>
-        <translation>代理需要认证</translation>
+        <translation>需要代理认证</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2568,7 +2568,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+3"/>
         <source>No space left on device</source>
-        <translation>设备上没有空间了</translation>
+        <translation>设备空间不足</translation>
     </message>
     <message>
         <location filename="../src/corelib/io/qiodevice.cpp" line="+1536"/>
@@ -3160,7 +3160,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/network/socket/qnativesocketengine.cpp" line="+206"/>
         <source>The remote host closed the connection</source>
-        <translation>远端主机关闭了这个连接</translation>
+        <translation>远端主机断开连接</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3170,7 +3170,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+3"/>
         <source>Out of resources</source>
-        <translation>资源耗尽了</translation>
+        <translation>资源耗尽</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3220,7 +3220,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+3"/>
         <source>The address is protected</source>
-        <translation>这个地址被保护了</translation>
+        <translation>地址受到保护</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3575,7 +3575,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+15"/>
         <source>Remote host closed the connection prematurely on %1</source>
-        <translation>远程主机过早地关闭了在 %1 上的这个连接</translation>
+        <translation>远程主机过早地断开了在 %1 的连接</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -4563,7 +4563,7 @@ Please choose a different file name.</source>
     <message>
         <location line="+1"/>
         <source>disabled feature used</source>
-        <translation>使用了失效的特效</translation>
+        <translation>使用了失效的功能</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4830,7 +4830,7 @@ Please choose a different file name.</source>
         <location line="+6"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+9"/>
         <source>%1: out of resources</source>
-        <translation>%1: 资源耗尽了</translation>
+        <translation>%1: 资源耗尽</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -5591,7 +5591,7 @@ Please choose a different file name.</source>
         <location filename="../src/corelib/kernel/qsystemsemaphore_unix.cpp" line="-41"/>
         <location filename="../src/corelib/kernel/qsystemsemaphore_win.cpp" line="+66"/>
         <source>%1: out of resources</source>
-        <translation>%1: 资源耗尽了</translation>
+        <translation>%1: 资源耗尽</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -5813,12 +5813,12 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+692"/>
         <source>Request cancelled</source>
-        <translation>请求被取消了</translation>
+        <translation>请求被取消</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Request blocked</source>
-        <translation>请求被阻塞了</translation>
+        <translation>请求被阻断</translation>
     </message>
     <message>
         <location line="+7"/>
