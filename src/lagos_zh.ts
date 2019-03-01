@@ -2689,24 +2689,25 @@ p, li { white-space: pre-wrap; }
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n您真的想删除所选择的文件夹吗?
+所有文件夹内的文件将会丢失。</numerusform>
         </translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>File Browser - %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件浏览器 - %1 - %2</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大小</translation>
     </message>
     <message>
         <source>Type</source>
@@ -2714,38 +2715,38 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Last Changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后修改于</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择下载文件夹</translation>
     </message>
     <message>
         <source>Folder name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件夹名称:</translation>
     </message>
     <message>
         <source>Upload file contains bad character, skipping upload &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传的文件存在无法识别的符号,跳过上传 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>FileTransferTreeView</name>
     <message>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">进度</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">简介</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开文件夹</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2761,7 +2762,7 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Halt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">暂停</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2769,130 +2770,132 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">继续</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">等待中</translation>
     </message>
     <message>
         <source>&quot;%1&quot; - waiting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%1&quot; - 等待中</translation>
     </message>
     <message>
         <source>Queue &quot;%1&quot; %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排队 &quot;%1&quot; %2</translation>
     </message>
     <message>
         <source>- waiting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- 等待中</translation>
     </message>
     <message>
         <source>canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <source>Queue %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">排队 %1</translation>
     </message>
     <message>
         <source>Upload finished: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传完毕: %1</translation>
     </message>
     <message>
         <source>Download finished: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载完毕: %1</translation>
     </message>
     <message>
         <source>skipped</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">跳过</translation>
     </message>
     <message>
         <source>finished in %1 (average %2/s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 内完成 (平均 %2/s)</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完成</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">失败: %1</translation>
     </message>
     <message>
         <source>paused</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">暂停</translation>
     </message>
     <message>
         <source>uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传中</translation>
     </message>
     <message>
         <source>downloading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载中</translation>
     </message>
     <message>
         <source>/%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">/%1 %2 剩余</translation>
     </message>
     <message>
         <source>blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">被阻止</translation>
     </message>
     <message>
         <source>Active filetransfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">活跃的文件传输</translation>
     </message>
     <message numerus="yes">
         <source>Found %n filetransfer(s) in progess which will be aborted if you press Ok.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>找到正在传输中的 %n 个文件，如果按“确定”将中止传输。</numerusform>
         </translation>
     </message>
     <message>
         <source>Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您想继续吗？</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>Do you really want to delete
 the file &apos;%1&apos; from your computer?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您真的想从你的电脑上
+删除文件 &apos;%1&apos; ？</translation>
     </message>
     <message>
         <source>Do you really want to delete the
 selected files from your computer?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您真的想从你的电脑上
+删除选中的文件？</translation>
     </message>
 </context>
 <context>
     <name>FileTransferView</name>
     <message>
         <source>Upload Limit - Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传限制 - 数量:</translation>
     </message>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KiB/s</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">速度: </translation>
     </message>
     <message>
         <source>Download Limit - Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载限制 - 数量:</translation>
     </message>
     <message>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清理列表</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2900,11 +2903,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输</translation>
     </message>
     <message>
         <source>Remove all transfers which are not running</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除所有未运行的传输</translation>
     </message>
     <message numerus="yes">
         <source>Upload limited to %n slot(s)</source>
@@ -2928,23 +2931,23 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">/s</translation>
     </message>
     <message>
         <source>Down: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载: %1</translation>
     </message>
     <message>
         <source>%1% download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1% 下载</translation>
     </message>
     <message>
         <source>Up: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传: %1</translation>
     </message>
     <message>
         <source>%1% upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1% 上传</translation>
     </message>
 </context>
 <context>
