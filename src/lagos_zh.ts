@@ -6453,26 +6453,26 @@ Do you want to cancel?</source>
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
         <source>&lt;p&gt;The &quot;%1&quot; settings have been modified.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;&quot;%1&quot; 设置已被修改。&lt;/p&gt;&lt;p&gt;你想要 &lt;strong&gt;保存&lt;/strong&gt;, &lt;strong&gt;丢弃&lt;/strong&gt; 你的更改&lt;br&gt;或者 &lt;strong&gt;放弃&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>PTTWarningDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>不再显示</translation>
     </message>
 </context>
 <context>
@@ -6880,11 +6880,11 @@ Would you like to create an invitation instead?</source>
     <name>PermissionsManager</name>
     <message>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知 (%1)</translation>
     </message>
     <message>
         <source>Invalid permission: 0x%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的权限: 0x%1</translation>
     </message>
 </context>
 <context>
@@ -7074,46 +7074,46 @@ Would you like to create an invitation instead?</source>
     <name>PermissionsTreeDelegate</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此前</translation>
     </message>
     <message>
         <source>Behind</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此后</translation>
     </message>
 </context>
 <context>
     <name>PermissionsWidget</name>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>权限</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器组</translation>
     </message>
     <message>
         <source>Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户权限</translation>
     </message>
     <message>
         <source>Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>频道权限</translation>
     </message>
     <message>
         <source>Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道用户权限</translation>
     </message>
 </context>
 <context>
@@ -7135,23 +7135,23 @@ Would you like to create an invitation instead?</source>
     <name>PingWidget</name>
     <message>
         <source>Connection Quality</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接品质</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
     <message>
         <source>Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计算中...</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">延迟(Ping)</translation>
     </message>
     <message>
         <source>Packet-Loss</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">丢包率</translation>
     </message>
 </context>
 <context>
