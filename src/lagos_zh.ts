@@ -1117,7 +1117,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Paste &amp;&amp; Send</source>
-        <translation>黏贴并发送</translation>
+        <translation>粘贴并发送</translation>
     </message>
     <message>
         <source>Format</source>
@@ -6502,7 +6502,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UID:</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6513,7 +6513,7 @@ Do you want to cancel?</source>
     <name>PermChunkGroups</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -6521,11 +6521,11 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Clients in channel group</source>
@@ -10740,7 +10740,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预览</translation>
     </message>
     <message>
         <source>Host Banner</source>
@@ -11030,7 +11030,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <source>&lt;p&gt;You have selected a permanent group as default.&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;Be careful, all existing users in the selected group will be removed!&lt;/p&gt;</source>
@@ -11050,11 +11050,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>too small</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">过小</translation>
     </message>
     <message>
         <source>too large</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">过大</translation>
     </message>
 </context>
 <context>
