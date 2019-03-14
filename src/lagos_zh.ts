@@ -8225,27 +8225,27 @@ Press Enter to apply filter.</source>
     <name>ServerStatusWidget</name>
     <message>
         <source>Show Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示昵称</translation>
     </message>
     <message>
         <source>Show Identity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示身份</translation>
     </message>
     <message>
         <source>Show Ping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示延迟</translation>
     </message>
     <message>
         <source>Show Connection Quality</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示连接质量</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已连接</translation>
     </message>
     <message>
         <source>Connected as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接为</translation>
     </message>
     <message>
         <source>%1 ms %2 %3</source>
@@ -8253,19 +8253,19 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>(calculating ping)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(计算延迟中)</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已断开连接</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接中</translation>
     </message>
     <message>
         <source>Connected as %1, receiving Channel List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">成功以 %1 连接，正在接收频道列表</translation>
     </message>
 </context>
 <context>
@@ -10928,7 +10928,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">日志</translation>
     </message>
     <message>
         <source>Enable Logging For:</source>
@@ -10936,15 +10936,15 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>ServerQuery</source>
@@ -10952,11 +10952,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限</translation>
     </message>
     <message>
         <source>File transfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件传输</translation>
     </message>
     <message>
         <source>Manage Virtual Server[*]</source>
@@ -11000,7 +11000,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除图标</translation>
     </message>
     <message>
         <source>&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:&lt;/p&gt;&lt;p&gt;Level 0-23 Generated in seconds&lt;br&gt;Level 23-29 Generated in minutes&lt;br&gt;Level 29-34 Generated in hours&lt;br&gt;Level 35-39 Generated in days&lt;br&gt;Level 40-43 Generated in months&lt;br&gt;Level 44++ Generated in years&lt;/p&gt;</source>
@@ -11080,7 +11080,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">昵称:</translation>
     </message>
     <message>
         <source>Phone Client</source>
@@ -11096,11 +11096,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Channel password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道密码:</translation>
     </message>
     <message>
         <source>Server password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器密码:</translation>
     </message>
     <message>
         <source>Verify channel password</source>
