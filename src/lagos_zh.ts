@@ -4929,11 +4929,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限码:&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限密钥:&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter Privilege Key:</source>
-        <translation type="unfinished">输入权限码:</translation>
+        <translation type="unfinished">输入权限密钥:</translation>
     </message>
     <message>
         <source>Select File</source>
