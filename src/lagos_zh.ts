@@ -10840,27 +10840,27 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安全</translation>
     </message>
     <message>
         <source>Needed Security Level:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最低安全等级</translation>
     </message>
     <message>
         <source>Channel voice data encryption:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道语音加密</translation>
     </message>
     <message>
         <source>Configure per Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道单独配置</translation>
     </message>
     <message>
         <source>Globally Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全局关闭</translation>
     </message>
     <message>
         <source>Globally On</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全局开启</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -10868,23 +10868,23 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Default Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认组</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>Channel Admin Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道管理员组</translation>
     </message>
     <message>
         <source>Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器组</translation>
     </message>
     <message>
         <source>Complain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">投诉</translation>
     </message>
     <message>
         <source>Autoban Count:</source>
@@ -10960,27 +10960,27 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Manage Virtual Server[*]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理服务器[*]</translation>
     </message>
     <message>
         <source>Register Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注册服务器别名</translation>
     </message>
     <message>
         <source>No message (NONE)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无消息 (NONE)</translation>
     </message>
     <message>
         <source>Show message in log (LOG)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示在日志 (LOG)</translation>
     </message>
     <message>
         <source>Show modal message (MODAL)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示消息弹窗 (MODAL)</translation>
     </message>
     <message>
         <source>Modal message and exit (MODALQUIT)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示消息弹窗并退出 (MODALQUIT)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -10996,7 +10996,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Edit Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑图标</translation>
     </message>
     <message>
         <source>Remove Icon</source>
@@ -11092,7 +11092,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Invite to channel:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邀请至频道:</translation>
     </message>
     <message>
         <source>Channel password:</source>
@@ -11104,11 +11104,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Verify channel password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">验证频道密码</translation>
     </message>
     <message>
         <source>Verify server password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">验证服务器密码</translation>
     </message>
     <message>
         <source>Phone book</source>
