@@ -10844,11 +10844,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Needed Security Level:</source>
-        <translation type="unfinished">最低安全等级</translation>
+        <translation type="unfinished">最低安全等级:</translation>
     </message>
     <message>
         <source>Channel voice data encryption:</source>
-        <translation type="unfinished">频道语音加密</translation>
+        <translation type="unfinished">频道语音加密:</translation>
     </message>
     <message>
         <source>Configure per Channel</source>
@@ -11072,11 +11072,11 @@ No changes have been written yet.</source>
     <name>VoipCallDialog</name>
     <message>
         <source>Telephone Call</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打电话</translation>
     </message>
     <message>
         <source>Phone number:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电话号码:</translation>
     </message>
     <message>
         <source>Nickname:</source>
@@ -11084,11 +11084,11 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Phone Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电话用户</translation>
     </message>
     <message>
         <source>Telephony account:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电话账号:</translation>
     </message>
     <message>
         <source>Invite to channel:</source>
@@ -11112,38 +11112,38 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Phone book</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电话簿</translation>
     </message>
     <message>
         <source>&amp;Call</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">呼叫(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>VoipManager</name>
     <message>
         <source>Could not find account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法找到账户</translation>
     </message>
     <message>
         <source>This account is not active (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此账户未激活(%1)</translation>
     </message>
     <message>
         <source>Could not make phonecall to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法给 %1 打电话</translation>
     </message>
     <message>
         <source>Could not accept phonecall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法接听电话</translation>
     </message>
     <message>
         <source>[Local Account]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[本地账户]</translation>
     </message>
     <message>
         <source>Could not register voip account %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法注册 voip 帐户 %1</translation>
     </message>
 </context>
 <context>
@@ -11543,35 +11543,35 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Synchronized Whisperlists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同步的密语列表</translation>
     </message>
     <message>
         <source>Local Whisperlists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地密语列表</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名</translation>
     </message>
     <message>
         <source>Whisper List Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语列表详情</translation>
     </message>
     <message>
         <source>Whisper to:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语对象:</translation>
     </message>
     <message>
         <source>Hotkey:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键:</translation>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
@@ -11579,170 +11579,170 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Reply Hotkey:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重复输入快捷键:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;more&lt;/span&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;更多&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Group Whisper Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语组类型:</translation>
     </message>
     <message>
         <source>Group Whisper Target:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语目标组:</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器组</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道指挥官</translation>
     </message>
     <message>
         <source>All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所有用户</translation>
     </message>
     <message>
         <source>All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所有频道</translation>
     </message>
     <message>
         <source>Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前频道</translation>
     </message>
     <message>
         <source>Parent Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">父频道</translation>
     </message>
     <message>
         <source>All Parent Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部的父频道</translation>
     </message>
     <message>
         <source>Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>Complete Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部频道组</translation>
     </message>
     <message>
         <source>Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子频道</translation>
     </message>
 </context>
 <context>
     <name>WhisperHistoryWidget</name>
     <message>
         <source>Clear whisper history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除密语记录</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除</translation>
     </message>
     <message>
         <source>Open whisper options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开密语选项设置</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <source>Whisper History</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语记录</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 在 %2</translation>
     </message>
     <message>
         <source>Mute Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">静音此用户</translation>
     </message>
     <message>
         <source>Unmute Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消静音此用户</translation>
     </message>
     <message>
         <source>Poke</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戳一戳</translation>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为啥戳他:</translation>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你戳了 %1 一下,附带消息: %2</translation>
     </message>
     <message>
         <source>You poked %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你戳了 %1 一下.</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封锁</translation>
     </message>
     <message>
         <source>Open Text Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始文字聊天</translation>
     </message>
     <message>
         <source>Send Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发送离线消息</translation>
     </message>
     <message>
         <source>Poke Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戳他一下</translation>
     </message>
     <message>
         <source>Make a Complaint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提出投诉</translation>
     </message>
     <message>
         <source>Change Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">改变音量</translation>
     </message>
     <message>
         <source>Kick from Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从服务器踢出</translation>
     </message>
     <message>
         <source>Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封禁此用户</translation>
     </message>
     <message>
         <source>Client Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端连接信息</translation>
     </message>
     <message>
         <source>Join Channel of Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加入此用户所在的频道</translation>
     </message>
     <message>
         <source>Move Client to own Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将此用户移动到自己所在的频道</translation>
     </message>
 </context>
 <context>
@@ -11753,19 +11753,19 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, allow whispering.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查在联系人中列表中的独立密语设置。如果用户不在列表中，默认允许密语。</translation>
     </message>
     <message>
         <source>Use individual settings in contacts, else allow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对联系人使用独立的设置,默认允许</translation>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, deny whispering.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查在联系人中列表中的独立密语设置。如果用户不在列表中，默认拒绝密语。</translation>
     </message>
     <message>
         <source>Use individual settings in contacts, else deny</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对联系人使用独立的设置,默认拒绝</translation>
     </message>
     <message>
         <source>Nobody is allowed to whisper to you. Individual contact settings are ignored.</source>
@@ -11777,15 +11777,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Settings for Received Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收到的密语</translation>
     </message>
     <message>
         <source>Play notify sound when receiving a whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收到一条新密语时播放提示声</translation>
     </message>
     <message>
         <source>Always show whisper history when receiving a whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收到密语时总是显示密语历史记录</translation>
     </message>
     <message>
         <source>Remove clients in whisper history after</source>
