@@ -1,4 +1,5 @@
 *.bat
 *.exe
-dist/*
+dist
 *.ts3_translation
+.vscode
