@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require "zip"
+require 'net/http'
 require "open3"
 
 Zip.setup do |c|
@@ -65,8 +66,20 @@ end
 
 def send_progress(done, total)
   percentage = Rational(done*100,total).round(2).to_f
-  puts "当前进度:\n#{done}/#{total}", percentage
-  # TODO: push to telegram
+  info =  "当前进度:\n#{done}/#{total}\n#{percentage}%\n".freeze
+  puts info
+  telegram_push(info)
+end
+
+def telegram_push(string)
+  tg_api = ENV['TG_API']
+  group_id = ENV['TG_GROUP_ID']
+  uri = URI("https://api.telegram.org/bot#{tg_api}/sendMessage")
+  querystring = {chat_id: group_id ,text: string}
+  uri.query = URI.encode_www_form(querystring)
+  res = Net::HTTP.get_response(uri)
+  puts res.code
+  # TODO: error handling
 end
 
 def make_package(zipfile_name, build_version=nil, log_url=nil)
