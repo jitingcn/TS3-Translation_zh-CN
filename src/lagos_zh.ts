@@ -3856,11 +3856,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始录音</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止录音</translation>
     </message>
     <message>
         <source>Increase Master Volume</source>
@@ -3964,15 +3964,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>on Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在当前服务器</translation>
     </message>
     <message>
         <source>Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前服务器</translation>
     </message>
     <message>
         <source>on </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在</translation>
     </message>
     <message>
         <source>Hide Advanced Actions</source>
@@ -4138,11 +4138,11 @@ p, li { white-space: pre-wrap; }
     <name>HotkeyTableWidget</name>
     <message>
         <source>Edit Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置快捷键</translation>
     </message>
     <message>
         <source>Delete Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除快捷键</translation>
     </message>
 </context>
 <context>
@@ -4154,7 +4154,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键</translation>
     </message>
     <message>
         <source>Action</source>
@@ -4182,7 +4182,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Hotkey System</source>
@@ -4190,7 +4190,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键</translation>
     </message>
     <message>
         <source>Configure Hotkeys</source>
@@ -4198,7 +4198,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <source>Keyboard &amp; Mouse Only</source>
@@ -4422,7 +4422,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">身份:</translation>
     </message>
     <message>
         <source>Current Security Level:</source>
@@ -4446,7 +4446,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <source>&lt;p&gt;Press &lt;strong&gt;Start&lt;/strong&gt; to improve to the selected security level.&lt;/p&gt;</source>
@@ -4454,15 +4454,15 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">失败</translation>
     </message>
     <message>
         <source>&lt;p&gt;Improving security level. This can take a long time.&lt;/p&gt;</source>
