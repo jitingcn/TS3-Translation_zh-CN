@@ -2546,7 +2546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>I know the risk, do not show again</source>
-        <translation type="unfinished">我了解可能存在的风险，不再提示</translation>
+        <translation type="unfinished">我了解可能存在的风险，不再显示此提示</translation>
     </message>
     <message>
         <source>Open link</source>
@@ -2912,21 +2912,21 @@ selected files from your computer?</source>
     <message numerus="yes">
         <source>Upload limited to %n slot(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>同时上传数量限制为 %n</numerusform>
         </translation>
     </message>
     <message>
         <source>and unlimited speed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不限速。</translation>
     </message>
     <message>
         <source>and max speed of %1 KiB/s.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最大速度为 %1 KiB/s。</translation>
     </message>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>同时下载数量限制为 %n</numerusform>
         </translation>
     </message>
     <message>
@@ -3363,66 +3363,66 @@ Do you want to restart now?</source>
     <name>GatherUploadInformation</name>
     <message>
         <source>Directories to go: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前往目录：%1</translation>
     </message>
     <message>
         <source>Directories: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目录：%1</translation>
     </message>
     <message>
         <source>Files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件：%1</translation>
     </message>
     <message>
         <source>Data: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据：%1</translation>
     </message>
     <message>
         <source>Gathering files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在收集文件…</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">准备完成</translation>
     </message>
     <message>
         <source>Cancelled...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消…</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始</translation>
     </message>
     <message>
         <source>Start (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始 (%1)</translation>
     </message>
 </context>
 <context>
     <name>GatherUploadInformationClass</name>
     <message>
         <source>Gather Upload Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收集上传信息</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请等待…</translation>
     </message>
     <message>
         <source>Directories to go: 0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前往目录：0</translation>
     </message>
     <message>
         <source>Directories: 0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目录：0</translation>
     </message>
     <message>
         <source>Files: 0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件：0</translation>
     </message>
     <message>
         <source>Data: 0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据：0</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -3431,11 +3431,16 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;You are about to transfer a large amount of files!&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;We suggest to combine the files using a compressor...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;您即将传输大量文件！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;我们建议您使用压缩工具打包文件…&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Autostart when ready</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">准备完成后自动开始</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3450,46 +3455,46 @@ p, li { white-space: pre-wrap; }
     <name>GroupAddDialog</name>
     <message>
         <source>Add Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加服务器组</translation>
     </message>
     <message>
         <source>Add Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加频道组</translation>
     </message>
     <message>
         <source>Enter Server Group name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入服务器组名称</translation>
     </message>
     <message>
         <source>Enter Channel Group name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入频道组名称</translation>
     </message>
     <message>
         <source>Create group using this type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用此类型创建群组：</translation>
     </message>
     <message>
         <source>Create group using this template:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用此模板创建群组：</translation>
     </message>
     <message>
         <source>Regular group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">普通群组</translation>
     </message>
     <message>
         <source>Template group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">群组模板</translation>
     </message>
     <message>
         <source>ServerQuery group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery 群组</translation>
     </message>
 </context>
 <context>
     <name>HotKeyProfileManager</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
 </context>
 <context>
@@ -4112,7 +4117,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press hotkey combination.
 (ESC to cancel or to clear the hotkey)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请按下快捷键组合。
+（按 ESC 取消或清除快捷键）</translation>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
@@ -4123,15 +4129,15 @@ p, li { white-space: pre-wrap; }
     <name>HotkeySetup</name>
     <message>
         <source>Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键发送密语</translation>
     </message>
     <message>
         <source>Push-To-Whisper-Reply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键回复密语</translation>
     </message>
     <message>
         <source>Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键说话</translation>
     </message>
 </context>
 <context>
@@ -4313,7 +4319,7 @@ Do you want to proceed?</source>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4322,16 +4328,18 @@ Do you want to proceed?</source>
     <message>
         <source>Invalid image selected.
 Failed to upload icon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择的图片无效。
+上传图标失败。</translation>
     </message>
     <message>
         <source>Selected icon file is too large.
 The maximum allowed file size is %1 kB.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择的图标文件过大。
+允许上传的最大文件大小为 %1 kB。</translation>
     </message>
     <message>
         <source>Select one or more images to upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择上传一张或更多的图片</translation>
     </message>
 </context>
 <context>
@@ -4438,7 +4446,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>00:00</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">00:00</translation>
     </message>
     <message>
         <source>Total Time Ballpark Figure:</source>
@@ -4474,14 +4482,14 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Infinite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无限</translation>
     </message>
 </context>
 <context>
     <name>ImprovedTabBar</name>
     <message>
         <source>Server Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器标签</translation>
     </message>
 </context>
 <context>
@@ -4757,15 +4765,15 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <name>InvitationDialog</name>
     <message>
         <source>Invite Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邀请朋友</translation>
     </message>
     <message>
         <source>Invitation Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邀请类型：</translation>
     </message>
     <message>
         <source>Insert my current:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插入我当前的：</translation>
     </message>
     <message>
         <source>Channel</source>
@@ -4777,7 +4785,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Add Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加权限密钥</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -4785,31 +4793,31 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>ts3server link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ts3服务器链接</translation>
     </message>
     <message>
         <source>http redirection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网页重定向</translation>
     </message>
     <message>
         <source>html code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">html 代码</translation>
     </message>
     <message>
         <source>The current channel has a password which is not known by your client.&lt;br&gt;Please add the password manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前频道有一个用户不知道的密码。&lt;br&gt;请手动添加密码。</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邀请</translation>
     </message>
     <message>
         <source>The server password stored in your bookmark is not the same as the real server password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">存储在书签中的服务器密码与实际上的服务器密码不同。</translation>
     </message>
     <message>
         <source>Failed to validate server password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法验证服务器密码</translation>
     </message>
 </context>
 <context>
@@ -5660,64 +5668,64 @@ Current: %1</source>
     <name>MicPermissionDialog</name>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone.&lt;br&gt;Click &lt;a href = &quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不幸的是，操作系统拒绝对麦克风的访问。&lt;br&gt;点击 &lt;a href = &quot;#open_os_permissions&quot;&gt;这里&lt;/a&gt; 打开 Windows 隐私设置并允许应用程序使用它。</translation>
     </message>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone. Please check your permission settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不幸的是，操作系统拒绝对麦克风的访问。请检查你的权限设置。</translation>
     </message>
     <message>
         <source>Permission Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限错误</translation>
     </message>
 </context>
 <context>
     <name>MoreLessButton</name>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更多(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更少(&amp;L)</translation>
     </message>
 </context>
 <context>
     <name>MsgDialog</name>
     <message>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">消息</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
 </context>
 <context>
     <name>NewsWidget</name>
     <message>
         <source>News:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新闻：</translation>
     </message>
     <message>
         <source>Hide this news</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏这则新闻</translation>
     </message>
     <message>
         <source>Disable news</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用新闻</translation>
     </message>
 </context>
 <context>
@@ -6243,19 +6251,19 @@ Current: %1</source>
     <name>NotificationsSetupComboBox</name>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">客户端</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
 </context>
 <context>
@@ -7226,7 +7234,7 @@ Would you like to create an invitation instead?</source>
     <name>PluginHotkeyWrapper</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
 </context>
 <context>
