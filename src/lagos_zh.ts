@@ -678,7 +678,7 @@ Inserting a modified copy instead.</source>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
         <translation>
-            <numerusform>%n您真的想删除所选择的黑名单项目吗?</numerusform>
+            <numerusform>%n您确定要删除所选择的黑名单项目吗?</numerusform>
         </translation>
     </message>
     <message>
@@ -1512,12 +1512,12 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Do you really want to remove all complaints of this user?</source>
-        <translation>你真的想移除此用户的所有投诉吗？</translation>
+        <translation>你确定要移除此用户的所有投诉吗？</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
         <translation>
-            <numerusform>%n你真的想移除选中的投诉吗？</numerusform>
+            <numerusform>%n你确定要移除选中的投诉吗？</numerusform>
         </translation>
     </message>
 </context>
@@ -2152,7 +2152,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Do you really want to reset the toolbar?</source>
-        <translation type="unfinished">你真的想重置工具栏吗？</translation>
+        <translation type="unfinished">你确定要重置工具栏吗？</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -2682,14 +2682,14 @@ p, li { white-space: pre-wrap; }
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
         <translation type="unfinished">
-            <numerusform>%n您真的想删除所选择的文件吗?</numerusform>
+            <numerusform>%n您确定要删除所选择的文件吗?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
         <translation type="unfinished">
-            <numerusform>%n您真的想删除所选择的文件夹吗?
+            <numerusform>%n您确定要删除所选择的文件夹吗?
 所有文件夹内的文件将会丢失。</numerusform>
         </translation>
     </message>
@@ -2865,13 +2865,13 @@ All files inside the deleted folder(s) will be lost.</source>
     <message>
         <source>Do you really want to delete
 the file &apos;%1&apos; from your computer?</source>
-        <translation type="unfinished">您真的想从你的电脑上
+        <translation type="unfinished">您确定要从你的电脑上
 删除文件 &apos;%1&apos; ？</translation>
     </message>
     <message>
         <source>Do you really want to delete the
 selected files from your computer?</source>
-        <translation type="unfinished">您真的想从你的电脑上
+        <translation type="unfinished">您确定要从你的电脑上
 删除选中的文件？</translation>
     </message>
 </context>
@@ -5567,7 +5567,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation>您真的想要退出么？</translation>
+        <translation>您确定要要退出么？</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6302,7 +6302,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"><重新加载/translation>
     </message>
     <message>
         <source>Offline Messages on %1</source>
@@ -6368,11 +6368,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Mark as Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标为未读</translation>
     </message>
     <message>
         <source>Mark as Unread</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标为已读</translation>
     </message>
 </context>
 <context>
@@ -8150,7 +8150,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -8534,7 +8534,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;你真的想继续吗？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;你确定要继续吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Leaving a group</source>
@@ -9562,7 +9562,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Do you really want to delete this channel?</source>
-        <translation type="unfinished">你真的想删除这个频道吗？</translation>
+        <translation type="unfinished">你确定要删除这个频道吗？</translation>
     </message>
     <message>
         <source>Confirmation</source>
@@ -10380,7 +10380,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Using Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在使用 Overwolf</translation>
     </message>
     <message>
         <source>%1 [Server Group]</source>
@@ -10804,7 +10804,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传</translation>
     </message>
     <message>
         <source>Byte/s</source>
@@ -11238,15 +11238,15 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从不</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">总是</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">询问</translation>
     </message>
     <message>
         <source>TS3 Server Address:</source>
@@ -12719,7 +12719,7 @@ Useful for servers with a lot of channels and clients.</source>
     <message numerus="yes">
         <source>Do you really want to delete the selected identitie(s)?</source>
         <translation type="unfinished">
-            <numerusform>%n你真的想删除所选的身份吗？</numerusform>
+            <numerusform>%n你确定要删除所选的身份吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -12851,7 +12851,7 @@ Some myTeamSpeak related services are not available.</source>
     </message>
     <message>
         <source>&lt;p&gt;Fallback means that all items on the server will be overwritten by your local items. If you have not synchronized with this client for a while, you may loose some remote items.&lt;br&gt;Only use this as a last resort if you lost your recovery key.&lt;/p&gt;&lt;p&gt;Do you really want to start the item fallback and overwrite all your remote items?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;回滚意味着服务器上的所有项目都将被本地项目覆盖。 如果您暂时没有与此客户端同步，则可能会丢失一些远程项目。&lt;br&gt;如果您丢失了恢复密钥，则仅将此作为最后的手段。&lt;/p&gt;&lt;p&gt;您真的想开始回滚并覆盖所有远程项目？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;回滚意味着服务器上的所有项目都将被本地项目覆盖。 如果您暂时没有与此客户端同步，则可能会丢失一些远程项目。&lt;br&gt;如果您丢失了恢复密钥，则仅将此作为最后的手段。&lt;/p&gt;&lt;p&gt;您确定要开始回滚并覆盖所有远程项目？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -13079,7 +13079,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
         <source>You are about to delete a list which is not empty
 Do you really want to delete?</source>
         <translation type="unfinished">您即将删除非空的列表
-你真的想删除吗？</translation>
+你确定要删除吗？</translation>
     </message>
     <message>
         <source>WhisperList %1</source>
