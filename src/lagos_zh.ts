@@ -6302,7 +6302,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"><重新加载/translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Offline Messages on %1</source>
@@ -6698,7 +6698,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Export as Text</source>
@@ -10137,7 +10137,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新</translation>
     </message>
     <message>
         <source>Remove selected privilege keys</source>
@@ -11540,7 +11540,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Server database changed, reloading list.</source>
-        <translation type="unfinished">服务器数据库更改，重新加载列表。</translation>
+        <translation type="unfinished">服务器数据库更改，正在刷新列表。</translation>
     </message>
 </context>
 <context>
@@ -12127,7 +12127,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Reload private chat logs</source>
-        <translation type="unfinished">重新加载私人聊天记录</translation>
+        <translation type="unfinished">刷新私人聊天记录</translation>
     </message>
     <message>
         <source>Indicate Incoming Chat</source>
@@ -13292,7 +13292,7 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Reload All</source>
-        <translation type="unfinished">全部刷新</translation>
+        <translation type="unfinished">刷新全部</translation>
     </message>
     <message>
         <source>Warning</source>
