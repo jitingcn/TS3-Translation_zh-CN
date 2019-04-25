@@ -2554,7 +2554,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">退出</translation>
+        <translation type="unfinished">取消</translation>
     </message>
 </context>
 <context>
