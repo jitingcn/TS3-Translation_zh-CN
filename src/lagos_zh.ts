@@ -10931,11 +10931,11 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Min clients in channel before silence:</source>
-        <translation type="unfinished">强制静音频道所需的最低用户数量:</translation>
+        <translation type="unfinished">强制频道静音所需用户量:</translation>
     </message>
     <message>
         <source>Delete delay for temporary channels:</source>
-        <translation type="unfinished">删除临时频道的延迟时间:</translation>
+        <translation type="unfinished">临时频道延迟删除时间:</translation>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
@@ -10944,7 +10944,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     <message>
         <source>Phonetic Name:</source>
         <translatorcomment>临时翻译</translatorcomment>
-        <translation type="unfinished">名称读音:</translation>
+        <translation type="unfinished">名称发音:</translation>
     </message>
     <message>
         <source>Enable reporting to server list</source>
