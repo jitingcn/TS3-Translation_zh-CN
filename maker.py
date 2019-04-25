@@ -37,6 +37,8 @@ def make_release():
     translated = re.compile(r"(?:Generated\s)(\d+)(?: translation)")
     untranslated = re.compile(r"(?:Ignored\s)(\d+)(?: untranslated)")
 
+    error = False
+
     for i in source_file:
         print(i)
         result = subprocess.run([lrelease, f'{src+i}.ts', '-qm', f'{dist+i}.qm'],
@@ -54,6 +56,7 @@ def make_release():
                 untranslated_count = untranslated.findall(result_info)
                 total_count += int(untranslated_count[0]) if len(untranslated_count) != 0 else 0
         else:
+            error = True
             try:
                 print(f"发生错误:\n{result.stderr.decode('utf-8')}")
                 telegram_push(f"发生错误:\n{i}\n{result.stderr.decode('utf-8')}")
@@ -64,6 +67,8 @@ def make_release():
         # except subprocess.CalledProcessError as err:
         #    print("lrelease error:")
         #    print(err)'''
+    if error:
+        raise RuntimeError
     send_progress(translated_count, total_count)
     return release_file
 
@@ -122,7 +127,7 @@ def make_package(release_list):
         release.write(ini, "package.ini")
         for i in release_list:
             release.write(dist+i, f"translations/{i}")
-        print("构建成功")
+        print("语言包生成成功")
 
 
 if __name__ == '__main__':
@@ -133,4 +138,4 @@ if __name__ == '__main__':
         make_package(release_file_list)
     else:
         if sys.argv[1] == "1":
-            telegram_push("部署成功")
+            telegram_push("构建成功")
