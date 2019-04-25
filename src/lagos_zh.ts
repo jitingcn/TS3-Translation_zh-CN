@@ -10897,7 +10897,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     </message>
     <message>
         <source>Channel Admin Group</source>
-        <translation type="unfinished">频道管理员组</translation>
+        <translation type="unfinished">频道管理组</translation>
     </message>
     <message>
         <source>Server Group</source>
