@@ -10699,52 +10699,53 @@ TeamSpeak will be closed if you proceed.</source>
     <name>VirtualServerEditDialog</name>
     <message>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>图标:</translation>
     </message>
     <message>
         <source>Reserved Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保留栏位:</translation>
     </message>
     <message>
         <source>Server Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器名称:</translation>
     </message>
     <message>
         <source>Maximum Clients:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户上限:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Welcome Message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">欢迎提示:</translation>
     </message>
     <message>
         <source>Server Nicknames:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器别名:</translation>
     </message>
     <message>
         <source>&lt;p&gt;Server nicknames are registered on the myTeamSpeak webpage and can be used to easily connect to a TeamSpeak Server.&lt;/p&gt;
 &lt;p&gt;Enter already registered servernames here to show them to users. Seperate nicknames by linebreak.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;已经在 myTeamSpeak 网站上注册的服务器别名，可以让用户更轻松的连接到服务器。&lt;/p&gt;
+&lt;p&gt;在这里输入已注册的服务器别名以向用户显示它们。一行一个。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器</translation>
     </message>
     <message>
         <source>Host Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器信息</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息:</translation>
     </message>
     <message>
         <source>Message Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示模式:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -10752,99 +10753,111 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Host Banner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器横幅</translation>
     </message>
     <message>
         <source>Banner Gfx URL:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">旗帜图片地址:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">网址:</translation>
     </message>
     <message>
         <source>Gfx Interval:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图片更新时间:</translation>
     </message>
     <message>
         <source>Resize:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缩放:</translation>
     </message>
     <message>
         <source>Do not adjust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保持原样</translation>
     </message>
     <message>
         <source>Adjust but ignore aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调整并忽视比例</translation>
     </message>
     <message>
         <source>Adjust and keep aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">调整并保持原比例</translation>
     </message>
     <message>
         <source>Host Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器按钮</translation>
     </message>
     <message>
         <source>Tooltip: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提示信息:</translation>
     </message>
     <message>
         <source>Icon URL:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图标地址:</translation>
     </message>
     <message>
         <source>Integrations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">集成</translation>
     </message>
     <message>
         <source>Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">传输</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">上传</translation>
+        <translation>上传</translation>
     </message>
     <message>
         <source>Byte/s</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte/s</translation>
     </message>
     <message>
         <source>Upload Quota:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传限额:</translation>
     </message>
     <message>
         <source>Bandwidth Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">带宽限制:</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Download Quota:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载限额:</translation>
     </message>
     <message>
         <source>Anti-Flood</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>临时翻译
+It kind of works like this.
+
+Actions on Teamspeak costs points ( Sent messages, channels joined, etc ). If your actions exceed a certain amount of points, then a predefined action will happen ( they will get kicked, banned, or warned ). Now there is also a way for clients to lose points. Points are lost per x amount of time. This is to ensure that good clients can remain good because eventually every client would get banned if there is no way for clients to lose points.
+
+Simply,
+Actions cost points.
+If certain amount of points are reached, an action against the client is taken.
+Per a given time, points are automatically reduced.</translatorcomment>
+        <translation type="unfinished">防洪</translation>
     </message>
     <message>
         <source>Reduced points per tick:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>临时翻译</translatorcomment>
+        <translation type="unfinished">每周期时间减少点数:</translation>
     </message>
     <message>
         <source>Points needed to block commands:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>临时翻译</translatorcomment>
+        <translation type="unfinished">封锁命令所需的点数：</translation>
     </message>
     <message>
         <source>Points needed to block IP:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>临时翻译</translatorcomment>
+        <translation type="unfinished">封锁IP所需的点数：</translation>
     </message>
     <message>
         <source>Security</source>
@@ -10852,7 +10865,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Needed Security Level:</source>
-        <translation type="unfinished">最低安全等级:</translation>
+        <translation type="unfinished">需要的安全等级:</translation>
     </message>
     <message>
         <source>Channel voice data encryption:</source>
@@ -10860,15 +10873,15 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Configure per Channel</source>
-        <translation type="unfinished">频道单独配置</translation>
+        <translation type="unfinished">单独配置每个频道</translation>
     </message>
     <message>
         <source>Globally Off</source>
-        <translation type="unfinished">全局关闭</translation>
+        <translation>全局禁用</translation>
     </message>
     <message>
         <source>Globally On</source>
-        <translation type="unfinished">全局开启</translation>
+        <translation>全局启用</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -10896,43 +10909,46 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Autoban Count:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动封禁次数:</translation>
     </message>
     <message>
         <source>Autoban Time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动封禁时间:</translation>
     </message>
     <message>
         <source>Remove Time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除时间:</translation>
     </message>
     <message>
         <source> sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Priority speaker dim modificator:</source>
+        <translatorcomment>临时翻译（大雾
+优先麦限制器:</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Min clients in channel before silence:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">强制静音频道所需的最低用户数量:</translation>
     </message>
     <message>
         <source>Delete delay for temporary channels:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除临时频道的延迟时间:</translation>
     </message>
     <message>
         <source>&lt;p&gt;Delay in seconds after temporary channels are deleted after the last user left the channel.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;在最后一个用户离开频道后删除临时频道的延迟时间（秒）。&lt;/ p&gt;</translation>
     </message>
     <message>
         <source>Phonetic Name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>临时翻译</translatorcomment>
+        <translation type="unfinished">名称读音:</translation>
     </message>
     <message>
         <source>Enable reporting to server list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提交服务器到公共列表</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10940,11 +10956,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Enable Logging For:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">对以下项启用日志:</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">客户端</translation>
+        <translation type="unfinished">用户</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -10956,7 +10972,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>ServerQuery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -10992,15 +11008,15 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确定(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用(&amp;A)</translation>
     </message>
     <message>
         <source>Edit Icon</source>
@@ -11012,29 +11028,33 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:&lt;/p&gt;&lt;p&gt;Level 0-23 Generated in seconds&lt;br&gt;Level 23-29 Generated in minutes&lt;br&gt;Level 29-34 Generated in hours&lt;br&gt;Level 35-39 Generated in days&lt;br&gt;Level 40-43 Generated in months&lt;br&gt;Level 44++ Generated in years&lt;/p&gt;</source>
+        <translatorcomment>临时翻译
+&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给你一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
         <source>At least one setting has been modified.
 Do you want to apply your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器设置已被更改。
+您想要应用更改吗？</translation>
     </message>
     <message>
         <source>Password Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认密码</translation>
     </message>
     <message>
         <source>Please confirm the new Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请确认新密码:</translation>
     </message>
     <message>
         <source>Your entered passwords did not match!
 No changes have been written yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您输入的密码不匹配！
+更改未保存。</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11042,19 +11062,19 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>&lt;p&gt;You have selected a permanent group as default.&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;Be careful, all existing users in the selected group will be removed!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您已选择一个永久组作为默认组。&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;请注意，所选组中的所有现有用户都将被删除！&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;You selected MODALQUIT host message mode.&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;Be careful, with this setting no user can connect to this server!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您选择了 MODALQUIT 主机信息模式。&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;请注意，在此设置下，任何用户都无法连接到此服务器！&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Host Message is empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器信息为空</translation>
     </message>
     <message>
         <source>invalid character</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的字符</translation>
     </message>
     <message>
         <source>too small</source>
