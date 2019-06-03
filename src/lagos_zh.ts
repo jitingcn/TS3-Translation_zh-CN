@@ -5332,6 +5332,10 @@ Current: %1</source>
         <translation>开始录音</translation>
     </message>
     <message>
+        <source>Start Multitrack Recording</source>
+        <translation>开始多轨录音</translation>
+    </message>
+    <message>
         <source>Ctrl+Shift+R</source>
         <translation>Ctrl+Shift+R</translation>
     </message>
@@ -8695,6 +8699,22 @@ Would you like to continue?</source>
     <message>
         <source>Stopped recording</source>
         <translation type="unfinished">停止录音</translation>
+    </message>
+    <message>
+        <source>%1 started multitrack recording</source>
+        <translation type="unfinished">%1 开始多轨录音</translation>
+    </message>
+    <message>
+        <source>%1 stopped multitrack recording</source>
+        <translation type="unfinished">%1 停止多轨录音</translation>
+    </message>
+    <message>
+        <source>Started multitrack recording</source>
+        <translation type="unfinished">开始多轨录音</translation>
+    </message>
+    <message>
+        <source>Stopped multitrack recording</source>
+        <translation type="unfinished">停止多轨录音</translation>
     </message>
     <message>
         <source>Your description has been changed to &quot;%1&quot;.</source>
