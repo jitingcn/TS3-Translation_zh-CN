@@ -2954,23 +2954,23 @@ selected files from your computer?</source>
     <name>FriendFoeDefaultsDialog</name>
     <message>
         <source>Contact Manager Default Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">联系人管理器默认设置</translation>
     </message>
     <message>
         <source>Configure default settings when adding a client to the Contact Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置添加新的联系人时使用的默认配置</translation>
     </message>
     <message>
         <source>Ignore and Hide Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略并隐藏默认配置</translation>
     </message>
     <message>
         <source>Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">朋友</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封锁</translation>
     </message>
     <message>
         <source>Neutral</source>
@@ -3729,7 +3729,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Toggle Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换音频捕获配置</translation>
     </message>
     <message>
         <source>Activate Playback Profile</source>
@@ -4065,19 +4065,19 @@ p, li { white-space: pre-wrap; }
     <name>HotkeyMsgDialog</name>
     <message>
         <source>Inserting Hotkey...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按下快捷键...</translation>
     </message>
     <message>
         <source>Deleting Hotkey...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除快捷键...</translation>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已输入</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已删除</translation>
     </message>
     <message>
         <source>Please choose where the Hotkey should be %1.</source>
@@ -4085,15 +4085,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Note that existing Hotkeys will be overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请注意，现有的快捷键将被覆盖。</translation>
     </message>
     <message>
         <source>Warning, the Hotkey [ %1 ] already used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告，快捷键 [ %1 ] 已被使用。</translation>
     </message>
     <message>
         <source>Please choose another Hotkey.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请选择其他快捷键。</translation>
     </message>
     <message>
         <source>All</source>
@@ -4109,7 +4109,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%1 Hotkey in Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 快捷键已存在</translation>
     </message>
 </context>
 <context>
@@ -5613,55 +5613,55 @@ Current: %1</source>
     <name>MessagesSetup</name>
     <message>
         <source>&amp;Disconnect Message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离线提示(&amp;D):</translation>
     </message>
     <message>
         <source>Customize message sent when disconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义断开连接时发送的消息</translation>
     </message>
     <message>
         <source>Message Presets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息预设</translation>
     </message>
     <message>
         <source>Add new preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加新预设</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <source>Delete selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除选中的预设</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">暂离</translation>
     </message>
     <message>
         <source>Ban</source>
-        <translation type="unfinished">封禁</translation>
+        <translation type="unfinished">被封禁</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">消息</translation>
     </message>
     <message>
         <source>Personalize Messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">个性化消息</translation>
     </message>
     <message>
         <source>leaving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开</translation>
     </message>
     <message>
         <source>The preset name already exists</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此预设名称已存在</translation>
     </message>
 </context>
 <context>
@@ -6270,35 +6270,35 @@ Current: %1</source>
     <name>OfflineMessagesDialog</name>
     <message>
         <source>Compose new message&lt;br&gt;(Ctrl+N)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑新消息&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>&amp;Compose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑(&amp;C)</translation>
     </message>
     <message>
         <source>Reply to selected message&lt;br&gt;(Ctrl+R)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回复此消息&lt;br&gt;(Ctrl+R)</translation>
     </message>
     <message>
         <source>&amp;Reply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回复(&amp;R)</translation>
     </message>
     <message>
         <source>Delete selected messages&lt;br&gt;(Del)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除此消息&lt;br&gt;(Del)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除(&amp;D)</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主题：</translation>
     </message>
     <message>
         <source>Reload messages&lt;br&gt;(F5)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新消息&lt;br&gt;(F5)</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -6306,23 +6306,23 @@ Current: %1</source>
     </message>
     <message>
         <source>Offline Messages on %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在 %1 的离线消息</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主题</translation>
     </message>
     <message>
         <source>Sender</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发送者</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">日期</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
@@ -6334,36 +6334,36 @@ Current: %1</source>
     </message>
     <message>
         <source>F5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">F5</translation>
     </message>
     <message>
         <source>&lt;no Subject&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;无主题&gt;</translation>
     </message>
     <message>
         <source>Unread message...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未读消息…</translation>
     </message>
     <message>
         <source>Do you really want to delete the unread message&lt;br&gt;with subject: &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您确实要删除主题为&lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;的未读消息吗？</translation>
     </message>
     <message>
         <source>New message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新消息</translation>
     </message>
     <message>
         <source>Reload messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新消息</translation>
     </message>
     <message>
         <source>Reply to message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回复消息</translation>
     </message>
     <message numerus="yes">
         <source>Delete messages(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>删除消息 %n</numerusform>
         </translation>
     </message>
     <message>
@@ -6387,7 +6387,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文字</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
@@ -6399,11 +6399,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发送</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消</translation>
     </message>
     <message>
         <source>The nickname is unknown on this server.</source>
@@ -6444,7 +6444,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Please Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请确认</translation>
     </message>
     <message>
         <source>The list of receipients is not empty and the message has not yet been sent.
@@ -6568,15 +6568,15 @@ Do you want to cancel?</source>
     <name>PermClientsDragDropListView</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>Copy Unique ID to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制UID到剪贴板</translation>
     </message>
 </context>
 <context>
