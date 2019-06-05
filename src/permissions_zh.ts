@@ -10,7 +10,7 @@
     <message>
         <source>b_serverinstance_help_view_long</source>
         <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用ServerQuery命令 &quot;&lt;b&gt;help&lt;/b&gt;&quot;。&lt;/p&gt;提供有关ServerQuery命令的帮助信息。 不带参数使用 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 命令时，将会简要列出所有命令及其描述。
-&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 或查阅手册&lt;/p&gt;</translation>
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help&lt;/b&gt;&quot; 键入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
@@ -18,8 +18,8 @@
     </message>
     <message>
         <source>b_serverinstance_version_view_long</source>
-        <translation type="unfinished">允许使用ServerQuery命令 &quot;&lt;b&gt;version&lt;/b&gt;&quot;.&lt;br&gt;&lt;br&gt; 提供服务端版本信息，包括系统平台和内部版本号。
-&lt;p style=&apos;white-space:pre&apos;&gt;欲了解详情, 将 &quot;&lt;b&gt;help version&lt;/b&gt;&quot; 输入 ServerQuery 或查阅手册&lt;/p&gt;</translation>
+        <translation type="unfinished">允许使用ServerQuery命令 &quot;&lt;b&gt;version&lt;/b&gt;&quot;。&lt;br&gt;&lt;br&gt; 提供系统平台和内部版本号等服务端版本信息。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help version&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
@@ -27,7 +27,10 @@
     </message>
     <message>
         <source>b_serverinstance_info_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用 ServerQuery 指令 &quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; 和 &quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot;。&lt;/p&gt;
+&quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; 提供运行时间、虚拟服务器在线数量和流量统计等服务器实例连接信息。&lt;br&gt;&lt;br&gt;
+&quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot; 提供数据库版本号、文件传输端口和默认组ID等服务器实例配置信息。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help hostinfo&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list</source>
@@ -35,7 +38,8 @@
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用 ServerQuery 指令 &quot;&lt;b&gt;serverlist&lt;/b&gt;&quot;。&lt;/p&gt;提供虚拟服务器的服务器ID，状态，在线用户数等信息的列表。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help serverlist&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list</source>
@@ -43,7 +47,8 @@
     </message>
     <message>
         <source>b_serverinstance_binding_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用 ServerQuery 指令 &quot;&lt;b&gt;bindinglist&lt;/b&gt;&quot;。&lt;/p&gt;提供服务器实例的IP地址列表。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help bindinglist&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list</source>
@@ -51,7 +56,8 @@
     </message>
     <message>
         <source>b_serverinstance_permission_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用 ServerQuery 指令 &quot;&lt;b&gt;permissionlist&lt;/b&gt;&quot;。&lt;/p&gt;提供服务器实例上可用的权限列表，包括ID、名称和描述。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help permissionlist&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find</source>
@@ -59,7 +65,8 @@
     </message>
     <message>
         <source>b_serverinstance_permission_find_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;允许使用 ServerQuery 指令 &quot;&lt;b&gt;permfind&lt;/b&gt;&quot;。&lt;/p&gt;提供有关所有分配的权限的详细信息，可以由 &lt;i&gt;permid&lt;/i&gt; 或 &lt;i&gt;permsid&lt;/i&gt;指定。
+&lt;p style=&apos;white-space:pre&apos;&gt;将 &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot; 输入 ServerQuery 获取详细信息，或查阅手册。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_create</source>
