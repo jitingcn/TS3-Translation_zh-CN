@@ -27,7 +27,7 @@ def make_release()
       lrelease = `which lrelease`.split[0]
     when /win/i, /ming/i
       # "windows"
-      lrelease = 'C:/Qt/Qt5.6.3/5.6.3/msvc2015_64/bin/lrelease.exe'
+      lrelease = `where lrelease`.split[0]
     else
       # "other"
       quit()
@@ -78,8 +78,7 @@ def telegram_push(string)
   querystring = {chat_id: group_id ,text: string}
   uri.query = URI.encode_www_form(querystring)
   res = Net::HTTP.get_response(uri)
-  puts res.code
-  # TODO: error handling
+  puts res.code == '200' ? "\n推送成功" : "\n推送失败"
 end
 
 def make_package(zipfile_name, build_version=nil, log_url=nil)
