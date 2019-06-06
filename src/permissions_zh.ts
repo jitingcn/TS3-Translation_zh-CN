@@ -606,7 +606,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_channel_temp_delete_delay_default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑临时频道延迟删除时间的默认值</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_channel_temp_delete_delay_default_long</source>
@@ -614,19 +614,19 @@
     </message>
     <message>
         <source>b_virtualserver_modify_nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改虚拟服务器昵称</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_nickname_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的昵称。 昵称可以在 myTeamSpeak 网页上注册。 昵称可用于轻松连接到 TeamSpeak 服务器。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_integrations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改集成组件</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_integrations_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的集成组件。 这包括添加和删除集成组件以及修改每个层级的服务器组分配。</translation>
     </message>
     <message>
         <source>i_channel_min_depth</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Speex Narrowband Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex8_long</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Speex Wideband Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex16_long</source>
@@ -758,7 +758,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex32</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Speex Ultra-Wideband Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex32_long</source>
@@ -766,7 +766,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_celtmono48</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(CELT Mono Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_celtmono48_long</source>
@@ -774,7 +774,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Opus Voice Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice_long</source>
@@ -782,7 +782,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Opus Music Codec)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic_long</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建具有最高编解码器质量的频道</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality_long</source>
@@ -798,7 +798,7 @@
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_latency_factor_min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建具有最低延迟优化的频道</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_latency_factor_min_long</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>b_channel_create_with_maxclients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Max Clients)</translation>
     </message>
     <message>
         <source>b_channel_create_with_maxclients_long</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>b_channel_create_with_maxfamilyclients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Max Family Clients)</translation>
     </message>
     <message>
         <source>b_channel_create_with_maxfamilyclients_long</source>
@@ -822,7 +822,7 @@
     </message>
     <message>
         <source>b_channel_create_with_sortorder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Sort Order)</translation>
     </message>
     <message>
         <source>b_channel_create_with_sortorder_long</source>
@@ -830,7 +830,7 @@
     </message>
     <message>
         <source>b_channel_create_with_default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建默认频道</translation>
     </message>
     <message>
         <source>b_channel_create_with_default_long</source>
@@ -838,7 +838,7 @@
     </message>
     <message>
         <source>b_channel_create_with_needed_talk_power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Needed Talk Power)</translation>
     </message>
     <message>
         <source>b_channel_create_with_needed_talk_power_long</source>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_force_password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建频道(Password only)</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_force_password_long</source>
@@ -854,7 +854,7 @@
     </message>
     <message>
         <source>i_channel_create_modify_with_temp_delete_delay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">临时频道延迟删除时间</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_temp_delete_delay_long</source>
@@ -862,7 +862,7 @@
     </message>
     <message>
         <source>b_channel_modify_parent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移动频道</translation>
     </message>
     <message>
         <source>b_channel_modify_parent_long</source>
@@ -870,7 +870,7 @@
     </message>
     <message>
         <source>b_channel_modify_make_default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改频道类型为默认</translation>
     </message>
     <message>
         <source>b_channel_modify_make_default_long</source>
@@ -878,7 +878,7 @@
     </message>
     <message>
         <source>b_channel_modify_make_permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改频道类型为永久</translation>
     </message>
     <message>
         <source>b_channel_modify_make_permanent_long</source>
@@ -886,7 +886,7 @@
     </message>
     <message>
         <source>b_channel_modify_make_semi_permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改频道类型为半永久</translation>
     </message>
     <message>
         <source>b_channel_modify_make_semi_permanent_long</source>
@@ -894,7 +894,7 @@
     </message>
     <message>
         <source>b_channel_modify_make_temporary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改频道类型为临时</translation>
     </message>
     <message>
         <source>b_channel_modify_make_temporary_long</source>
@@ -902,7 +902,7 @@
     </message>
     <message>
         <source>b_channel_modify_name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道名称</translation>
     </message>
     <message>
         <source>b_channel_modify_name_long</source>
@@ -910,7 +910,7 @@
     </message>
     <message>
         <source>b_channel_modify_topic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道主题</translation>
     </message>
     <message>
         <source>b_channel_modify_topic_long</source>
@@ -918,7 +918,7 @@
     </message>
     <message>
         <source>b_channel_modify_description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道简介</translation>
     </message>
     <message>
         <source>b_channel_modify_description_long</source>
@@ -926,7 +926,7 @@
     </message>
     <message>
         <source>b_channel_modify_password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道密码</translation>
     </message>
     <message>
         <source>b_channel_modify_password_long</source>
@@ -934,7 +934,7 @@
     </message>
     <message>
         <source>b_channel_modify_codec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道编解码器</translation>
     </message>
     <message>
         <source>b_channel_modify_codec_long</source>
@@ -942,7 +942,7 @@
     </message>
     <message>
         <source>b_channel_modify_codec_quality</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道编解码器质量</translation>
     </message>
     <message>
         <source>b_channel_modify_codec_quality_long</source>
@@ -950,7 +950,7 @@
     </message>
     <message>
         <source>b_channel_modify_codec_latency_factor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道延迟因子</translation>
     </message>
     <message>
         <source>b_channel_modify_codec_latency_factor_long</source>
@@ -958,7 +958,7 @@
     </message>
     <message>
         <source>b_channel_modify_maxclients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道用户上限</translation>
     </message>
     <message>
         <source>b_channel_modify_maxclients_long</source>
@@ -966,7 +966,7 @@
     </message>
     <message>
         <source>b_channel_modify_maxfamilyclients</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道树用户上限</translation>
     </message>
     <message>
         <source>b_channel_modify_maxfamilyclients_long</source>
@@ -974,7 +974,7 @@
     </message>
     <message>
         <source>b_channel_modify_sortorder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道排序</translation>
     </message>
     <message>
         <source>b_channel_modify_sortorder_long</source>
@@ -982,7 +982,7 @@
     </message>
     <message>
         <source>b_channel_modify_needed_talk_power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改频道发言所需权限</translation>
     </message>
     <message>
         <source>b_channel_modify_needed_talk_power_long</source>
@@ -1422,7 +1422,7 @@
     </message>
     <message>
         <source>i_client_max_avatar_filesize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">头像文件大小上限 (Bytes)</translation>
     </message>
     <message>
         <source>i_client_max_avatar_filesize_long</source>
@@ -1510,7 +1510,7 @@
     </message>
     <message>
         <source>b_client_avatar_delete_other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除其他用户头像</translation>
     </message>
     <message>
         <source>b_client_avatar_delete_other_long</source>
@@ -1534,7 +1534,7 @@
     </message>
     <message>
         <source>b_client_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery: 查看用户信息</translation>
     </message>
     <message>
         <source>b_client_info_view_long</source>
@@ -1558,7 +1558,7 @@
     </message>
     <message>
         <source>b_client_remoteaddress_view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查看用户远程地址</translation>
     </message>
     <message>
         <source>b_client_remoteaddress_view_long</source>
@@ -1830,7 +1830,7 @@
     </message>
     <message>
         <source>b_client_modify_description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改所有用户的简介</translation>
     </message>
     <message>
         <source>b_client_modify_description_long</source>
@@ -1838,7 +1838,7 @@
     </message>
     <message>
         <source>b_client_modify_own_description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">修改自己的简介</translation>
     </message>
     <message>
         <source>b_client_modify_own_description_long</source>
@@ -1846,7 +1846,7 @@
     </message>
     <message>
         <source>b_client_modify_dbproperties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery: 修改用户设置</translation>
     </message>
     <message>
         <source>b_client_modify_dbproperties_long</source>
@@ -1854,7 +1854,7 @@
     </message>
     <message>
         <source>b_client_delete_dbproperties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除用户数据库属性</translation>
     </message>
     <message>
         <source>b_client_delete_dbproperties_long</source>
@@ -1862,7 +1862,7 @@
     </message>
     <message>
         <source>b_client_create_modify_serverquery_login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建 ServerQuery 账号</translation>
     </message>
     <message>
         <source>b_client_create_modify_serverquery_login_long</source>
@@ -1878,7 +1878,7 @@
     </message>
     <message>
         <source>b_ft_transfer_list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery: 查看文件传输列表</translation>
     </message>
     <message>
         <source>b_ft_transfer_list_long</source>
@@ -1982,7 +1982,7 @@
     </message>
     <message>
         <source>i_ft_quota_mb_download_per_client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每个用户的下载限额 (MByte)</translation>
     </message>
     <message>
         <source>i_ft_quota_mb_download_per_client_long</source>
@@ -1990,7 +1990,7 @@
     </message>
     <message>
         <source>i_ft_quota_mb_upload_per_client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每个用户的上传限额 (MByte)</translation>
     </message>
     <message>
         <source>i_ft_quota_mb_upload_per_client_long</source>
@@ -1998,11 +1998,11 @@
     </message>
     <message>
         <source>grant_desc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">授予/修改权限</translation>
     </message>
     <message>
         <source>grant_desc_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每个权限都具有关联的授予/修改权限。 这些权限控制允许用户授予或撤消的权限，因此它们是修改权限系统的关键，通常保留给管理员。</translation>
     </message>
 </context>
 </TS>
