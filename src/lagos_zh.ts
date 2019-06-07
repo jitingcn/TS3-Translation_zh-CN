@@ -3296,7 +3296,7 @@ everyone.</source>
     <name>FriendFoeTreeItem</name>
     <message>
         <source>&lt;none&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;无&gt;</translation>
     </message>
     <message>
         <source>Online:</source>
@@ -3307,15 +3307,15 @@ everyone.</source>
     <name>FriendFoeTreeView</name>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>Do you really want to delete contact %1?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您真的想要删除联系人 %1 吗？</translation>
     </message>
     <message>
         <source>Press &quot;[SHIFT + DEL]&quot; to delete without confirmation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按下 &quot;[SHIFT + DEL]&quot;强制删除。</translation>
     </message>
 </context>
 <context>
@@ -4081,7 +4081,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please choose where the Hotkey should be %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请选择快捷键应在 %1 的位置.</translation>
     </message>
     <message>
         <source>Note that existing Hotkeys will be overwritten.</source>
@@ -9777,7 +9777,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Current Sound Pack:</source>
-        <translation type="unfinished">当前音效包</translation>
+        <translation type="unfinished">当前音效包:</translation>
     </message>
 </context>
 <context>
@@ -10533,27 +10533,27 @@ Do you want to apply your changes?</source>
     <name>UIFileTransferManager</name>
     <message>
         <source>Error creating directory: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建目录错误: %1 %2</translation>
     </message>
     <message>
         <source>Error downloading file: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载文件错误: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Downloads from other servers are deactivated for now!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从其他服务器下载已暂时停用!</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择下载文件夹</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>A download with files from a folder is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载任务已在运行。</translation>
     </message>
 </context>
 <context>
@@ -11199,83 +11199,83 @@ No changes have been written yet.</source>
     <name>VoipSetupDialog</name>
     <message>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全局</translation>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基本</translation>
     </message>
     <message>
         <source>Max Simultanious calls:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最大同时通话:</translation>
     </message>
     <message>
         <source>STUN Server:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">STUN 服务器:</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <source>Disable TCP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用TCP</translation>
     </message>
     <message>
         <source>SIP Port:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SIP 端口:</translation>
     </message>
     <message>
         <source>Outbound Proxy for NAT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NAT 出站代理</translation>
     </message>
     <message>
         <source>Proxy Server:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">代理服务器:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码:</translation>
     </message>
     <message>
         <source>Voip Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voip 账户</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">账户</translation>
     </message>
     <message>
         <source>Account Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">账户详情</translation>
     </message>
     <message>
         <source>Domain/Realm:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">域:</translation>
     </message>
     <message>
         <source>Outbound Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">出站代理:</translation>
     </message>
     <message>
         <source>Registration Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">注册超时:</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 秒</translation>
     </message>
     <message>
         <source>Keep-Alive Timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接超时</translation>
     </message>
     <message>
         <source>Accept Calls:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">接受通话:</translation>
     </message>
     <message>
         <source>Never</source>
@@ -11291,39 +11291,39 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>TS3 Server Address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TS3 服务器地址:</translation>
     </message>
     <message>
         <source>TS3 Server Port:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TS3 服务器端口:</translation>
     </message>
     <message>
         <source>TS3 Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TS3 昵称</translation>
     </message>
     <message>
         <source>TS3 Server Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TS3 服务器密码:</translation>
     </message>
     <message>
         <source>Local Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地账户</translation>
     </message>
     <message>
         <source>Enable Local Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用本地账户</translation>
     </message>
     <message>
         <source>Telephony</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电话</translation>
     </message>
     <message>
         <source>Enter your Telephony settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入你的电话设置</translation>
     </message>
     <message>
         <source>[Local Account]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[本地账户]</translation>
     </message>
 </context>
 <context>
