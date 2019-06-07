@@ -812,11 +812,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">音频捕获配置(&amp;C):</translation>
+        <translation type="unfinished">音频输入配置(&amp;C):</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation type="unfinished">用于此服务器的音频捕获配置</translation>
+        <translation type="unfinished">用于此服务器的音频输入配置</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
@@ -864,11 +864,11 @@ servers will not be cleared.</source>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation type="unfinished">音频捕获</translation>
+        <translation type="unfinished">音频输入</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
-        <translation>设置音频捕获系统</translation>
+        <translation type="unfinished">配置音频输入系统</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
@@ -912,7 +912,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished">音频捕获配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有快捷键？&lt;/p&gt;</translation>
+        <translation type="unfinished">音频输入配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有快捷键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3581,7 +3581,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Capture Profile</source>
-        <translation type="unfinished">音频捕获配置</translation>
+        <translation type="unfinished">音频输入配置</translation>
     </message>
     <message>
         <source>Playback Profile</source>
@@ -3721,15 +3721,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Capture Profile</source>
-        <translation type="unfinished">启用音频捕获配置</translation>
+        <translation type="unfinished">启用音频输入配置</translation>
     </message>
     <message>
         <source>Deactivate Capture Profile</source>
-        <translation type="unfinished">停用音频捕获配置</translation>
+        <translation type="unfinished">停用音频输入配置</translation>
     </message>
     <message>
         <source>Toggle Capture Profile</source>
-        <translation type="unfinished">切换音频捕获配置</translation>
+        <translation type="unfinished">切换音频输入配置</translation>
     </message>
     <message>
         <source>Activate Playback Profile</source>
@@ -5856,7 +5856,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Sound capture</source>
-        <translation type="unfinished">音频捕获</translation>
+        <translation type="unfinished">音频输入</translation>
     </message>
     <message>
         <source>Sound playback</source>
@@ -10684,7 +10684,7 @@ TeamSpeak will be closed if you proceed.</source>
     <name>VADControl</name>
     <message>
         <source>Error, could not open Capture Device.</source>
-        <translation>发生错误，无法打开音频捕获设备。</translation>
+        <translation type="unfinished">发生错误，无法打开音频输入设备。</translation>
     </message>
     <message>
         <source>Speak clearly and adjust the voice level.</source>
@@ -10700,7 +10700,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Continuous transmission - just talk.</source>
-        <translation>持续传输 - 保持音频捕获。</translation>
+        <translation type="unfinished">持续传输 - 说话就可以了。</translation>
     </message>
     <message>
         <source>The OS denied access to the microphone. Please click &lt;a href=&quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
@@ -12020,11 +12020,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Capture Mode:</source>
-        <translation type="unfinished">音频捕获模式:</translation>
+        <translation type="unfinished">音频输入模式:</translation>
     </message>
     <message>
         <source>Capture Device:</source>
-        <translation type="unfinished">音频捕获设备:</translation>
+        <translation type="unfinished">音频输入设备:</translation>
     </message>
     <message>
         <source>Push-To-Talk</source>
@@ -13516,7 +13516,7 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Capture Profile:</source>
-        <translation type="unfinished">音频捕获配置:</translation>
+        <translation type="unfinished">音频输入配置:</translation>
     </message>
     <message>
         <source>Playback Profile:</source>
@@ -13635,7 +13635,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished">音频捕获配置(&amp;C):</translation>
+        <translation type="unfinished">音频输入配置(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
