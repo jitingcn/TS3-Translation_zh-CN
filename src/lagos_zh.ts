@@ -772,11 +772,11 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation>播放配置(&amp;P):</translation>
+        <translation type="unfinished">输出配置(&amp;P):</translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
-        <translation>用于此服务器的播放配置</translation>
+        <translation type="unfinished">用于此服务器的音频输出配置</translation>
     </message>
     <message>
         <source>Default Channel &amp;Password:</source>
@@ -3585,7 +3585,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Playback Profile</source>
-        <translation type="unfinished">播放配置</translation>
+        <translation type="unfinished">音频输出配置</translation>
     </message>
     <message>
         <source>Hotkey Profile</source>
@@ -3733,15 +3733,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活音频输出配置</translation>
     </message>
     <message>
         <source>Deactivate Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消激活音频输出配置</translation>
     </message>
     <message>
         <source>Toggle Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换音频输出配置</translation>
     </message>
     <message>
         <source>Activate Hotkey Profile</source>
@@ -5586,31 +5586,31 @@ Current: %1</source>
     <name>MasterVolumeWidget</name>
     <message>
         <source>Voice Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语音音量调节</translation>
     </message>
     <message>
         <source>The current server tab has no active playback profile!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前的服务器页面没有激活的音频输出配置！</translation>
     </message>
     <message>
         <source>Playback Profile: &lt;strong&gt;%1&lt;/strong&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出配置：&lt;strong&gt;%1&lt;/strong&gt; </translation>
     </message>
     <message>
         <source>&lt;strong&gt;&lt;br&gt;Hint: &lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;&lt;br&gt;提示：&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Values greater than zero and less than +6 dB might cause moderate clipping and distortion, but should still be within acceptable bounds.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0到+6 dB可能会造成轻微削波和失真，但仍处于可接受的范围之内。</translation>
     </message>
     <message>
         <source>Values greater than +6 dB will cause clipping and distortion that will negatively affect your audio quality. It is advised to chose lower values.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择高于+6 dB的值会造成失真，将导致你的音频质量受损。建议选择一个较低的值。</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语音音量调节 [%1]</translation>
     </message>
 </context>
 <context>
@@ -6196,7 +6196,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Playback test sound</source>
-        <translation type="unfinished">音频播放测试音</translation>
+        <translation type="unfinished">音频输出测试音</translation>
     </message>
     <message>
         <source>Talking while muted</source>
@@ -7170,68 +7170,69 @@ Would you like to create an invitation instead?</source>
     <name>PlaybackSoundSetupDialog</name>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频输出</translation>
     </message>
     <message>
         <source>Configure the Playback Sound System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置音频输出系统</translation>
     </message>
     <message>
         <source>Play &amp;Test Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放测试音(&amp;T)</translation>
     </message>
     <message>
         <source>Quiet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">小声</translation>
     </message>
     <message>
         <source>Loud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大声</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">语音音量调节</translation>
     </message>
     <message>
         <source>Sound Pack Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音效包音量</translation>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动使用最佳模式</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Error opening playback device:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开输出设备时错误:
+%1</translation>
     </message>
     <message>
         <source>Stop &amp;Test Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止测试音(&amp;T)</translation>
     </message>
     <message>
         <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;未找到文件 &quot;%1&quot;&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除快捷键…</translation>
     </message>
     <message>
         <source>Playback Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 被删除。您是否想要一并删除分配给此配置的所有快捷键？</translation>
     </message>
 </context>
 <context>
@@ -9442,7 +9443,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">尝试连接服务器… &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>You need to setup your identity.</source>
@@ -9593,19 +9594,19 @@ Would you like to continue?</source>
     <name>ServerViewManager</name>
     <message>
         <source>Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频输入配置</translation>
     </message>
     <message>
         <source>Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频输出配置</translation>
     </message>
     <message>
         <source>Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键配置</translation>
     </message>
     <message>
         <source>Sound Pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音效包</translation>
     </message>
     <message>
         <source>Disconnect</source>
@@ -9617,11 +9618,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Close All Tabs but This</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭除此以外的所有面板</translation>
     </message>
     <message>
         <source>Add to Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加到书签</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
@@ -9629,11 +9630,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Mute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音频输出静音</translation>
     </message>
     <message>
         <source>&amp;Activate Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活麦克风(&amp;A)</translation>
     </message>
     <message>
         <source>Current server</source>
@@ -9641,19 +9642,19 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Select capture profile for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于此服务器的音频输入配置</translation>
     </message>
     <message>
         <source>Select playback profile for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于此服务器的音频输出配置</translation>
     </message>
     <message>
         <source>Select hotkey profile for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于此服务器的快捷键配置</translation>
     </message>
     <message>
         <source>Select sound pack for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择用于此服务器的音效包</translation>
     </message>
     <message>
         <source>(Un)Mute the Microphone on the current server</source>
@@ -9665,12 +9666,12 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Activate the Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活麦克风</translation>
     </message>
     <message numerus="yes">
         <source>Found %n unfinished filetransfer(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>发现 %n 个未完成的文件传输任务</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -9701,7 +9702,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Disconnect from Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从服务器断开连接</translation>
     </message>
     <message>
         <source>You are still connected to &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;Disconnect tab?</source>
@@ -9712,108 +9713,108 @@ Would you like to continue?</source>
     <name>Sound3DWidget</name>
     <message>
         <source>Cannot disband the overlapping text automatically!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法自动分离重叠文本！</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除项目</translation>
     </message>
     <message>
         <source>Show all known entries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示所有已知项</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
         <source>The settings have been modified.
 Do you want to apply your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此设置已被更改。应用更改的设置？</translation>
     </message>
     <message>
         <source>[3D Sound] %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[3D 音效] %1</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更多…</translation>
     </message>
     <message>
         <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道指挥官</translation>
     </message>
 </context>
 <context>
     <name>SoundPackPage</name>
     <message>
         <source>Female</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">女性</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">男性</translation>
     </message>
     <message>
         <source>Channel switched</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道已切换</translation>
     </message>
     <message>
         <source>User entered your channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户进入你的频道</translation>
     </message>
     <message>
         <source>Channel created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道被创建</translation>
     </message>
     <message>
         <source>You were poked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你被戳了戳</translation>
     </message>
     <message>
         <source>User left your channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户离开了你的频道</translation>
     </message>
     <message>
         <source>Current Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前音效包</translation>
     </message>
 </context>
 <context>
     <name>StatisticsHelper</name>
     <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为了使 TeamSpeak 变得更好，我们希望收集有关您的操作系统和硬件的一些统计信息。 数据将以匿名方式发送。</translation>
     </message>
     <message>
         <source>Would you like to participate?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您是否想要参加计划？</translation>
     </message>
     <message>
         <source>Report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">报告</translation>
     </message>
 </context>
 <context>
     <name>StatusErrorDisplay</name>
     <message>
         <source>Show errors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示错误</translation>
     </message>
     <message>
         <source>Clear errors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除错误</translation>
     </message>
     <message numerus="yes">
         <source>%n new error message(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 条新的错误消息</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n new warning message(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 条新的警告消息</numerusform>
         </translation>
     </message>
 </context>
@@ -9821,27 +9822,27 @@ Do you want to apply your changes?</source>
     <name>StatusModel</name>
     <message>
         <source>Preset Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设名称</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <source>New Preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新的预设</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">离开</translation>
     </message>
     <message>
         <source>Ban</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封禁</translation>
     </message>
 </context>
 <context>
@@ -13663,7 +13664,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation>播放配置(&amp;P):</translation>
+        <translation type="unfinished">输出配置(&amp;P):</translation>
     </message>
     <message>
         <source>Channel &amp;Password:</source>
@@ -13920,15 +13921,15 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Playback Mode:</source>
-        <translation>回放模式:</translation>
+        <translation type="unfinished">输出模式:</translation>
     </message>
     <message>
         <source>Playback Device:</source>
-        <translation>回放设备:</translation>
+        <translation type="unfinished">输出设备:</translation>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
-        <translation>播放测试音以测试播放设置</translation>
+        <translation type="unfinished">播放测试音以测试输出设置</translation>
     </message>
     <message>
         <source>Mono Sound Expansion</source>
