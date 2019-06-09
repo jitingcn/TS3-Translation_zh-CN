@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_complain_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的投诉设置，例如在触发自动封禁所需的投诉数量，封禁持续时间和自动解除时间。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_antiflood</source>
@@ -510,7 +510,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_ft_settings_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的文件传输设置，例如上行和下载的带宽限制，以字节/秒为单位。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_ft_quotas</source>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_ft_quotas_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改文件传输配额或虚拟服务器的传输量限制。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostmessage</source>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostmessage_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的主机消息和主机消息显示模式，可以在连接时显示给客户端。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostbanner</source>
@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostbanner_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的主机横幅，例如重新加载横幅的时间间隔，图像源URL以及将在单击时打开的URL。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_hostbutton</source>
@@ -542,7 +542,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_hostbutton_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的主机按钮，如工具提示，图像源URL和将在单击时打开的URL。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_port</source>
@@ -550,7 +550,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_port_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的UDP传入连接端口。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_autostart</source>
@@ -558,7 +558,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_autostart_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的自启动行为，选择是否自动启动服务器实例。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_needed_identity_security_level</source>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_log_settings_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的日志设置以指定启用哪些日志记录。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_min_client_version</source>
@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_min_client_version_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器连接所需的最低客户端版本。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_icon_id</source>
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_icon_id_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的图标ID。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_weblist</source>
@@ -606,7 +606,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_weblist_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改要在全局Web服务器列表中公布的虚拟服务器。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_codec_encryption_mode</source>
@@ -614,7 +614,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_codec_encryption_mode_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改虚拟服务器的语音加密设置是按频道单独配置，始终启用还是始终禁用。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords</source>
@@ -622,7 +622,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建和管理临时服务器密码。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_own</source>
@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_temporary_passwords_own_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建和管理自己设置的临时服务器密码。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_channel_temp_delete_delay_default</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>b_channel_group_inheritance_end_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果此权限设置为频道，则不会继承其父频道的频道组成员身份。</translation>
     </message>
     <message>
         <source>i_channel_permission_modify_power</source>
@@ -694,7 +694,7 @@
     </message>
     <message>
         <source>i_channel_needed_permission_modify_power_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此值定义修改频道权限所需的权限修改权限。</translation>
     </message>
     <message>
         <source>b_channel_info_view</source>
@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>b_channel_create_child_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此权限允许在另一个频道内创建子频道。</translation>
     </message>
     <message>
         <source>b_channel_create_permanent</source>
@@ -718,7 +718,7 @@
     </message>
     <message>
         <source>b_channel_create_permanent_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建永久频道，即使在重新启动后也会保留在服务器上。</translation>
     </message>
     <message>
         <source>b_channel_create_semi_permanent</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>b_channel_create_semi_permanent_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建半永久频道，这些频道将保留在服务器上，直到下次重新启动。</translation>
     </message>
     <message>
         <source>b_channel_create_temporary</source>
@@ -734,15 +734,15 @@
     </message>
     <message>
         <source>b_channel_create_temporary_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建临时频道，只要频道中至少有一个客户端，它们将保留在服务器上。</translation>
     </message>
     <message>
         <source>b_channel_create_private</source>
-        <translation type="unfinished">创建私有频道</translation>
+        <translation type="unfinished">创建私人频道</translation>
     </message>
     <message>
         <source>b_channel_create_private_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建私人频道。</translation>
     </message>
     <message>
         <source>b_channel_create_with_topic</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>b_channel_create_with_topic_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建带主题的频道。</translation>
     </message>
     <message>
         <source>b_channel_create_with_description</source>
@@ -758,7 +758,7 @@
     </message>
     <message>
         <source>b_channel_create_with_description_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建带简介的频道。</translation>
     </message>
     <message>
         <source>b_channel_create_with_password</source>
@@ -766,7 +766,7 @@
     </message>
     <message>
         <source>b_channel_create_with_password_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许创建带密码的频道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex8</source>
