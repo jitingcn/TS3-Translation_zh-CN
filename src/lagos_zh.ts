@@ -2966,7 +2966,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Friends</source>
-        <translation type="unfinished">朋友</translation>
+        <translation type="unfinished">好友</translation>
     </message>
     <message>
         <source>Blocked</source>
@@ -2974,39 +2974,39 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中立</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">屏蔽</translation>
     </message>
     <message>
         <source>Automaticly mute this person</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动屏蔽此人语音</translation>
     </message>
     <message>
         <source>Ignore server/channel chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略服务器/频道聊天</translation>
     </message>
     <message>
         <source>Ignore messages this person sends to the server or in channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发送的公共消息</translation>
     </message>
     <message>
         <source>Ignore private chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略私聊</translation>
     </message>
     <message>
         <source>Ignore private chat by this person</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发起的私聊</translation>
     </message>
     <message>
         <source>Ignore Pokes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略戳一戳</translation>
     </message>
     <message>
         <source>Ignore pokes this person sends you</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发起的戳一戳</translation>
     </message>
     <message>
         <source>Hide avatar</source>
@@ -3026,74 +3026,74 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Deny whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁止密语</translation>
     </message>
     <message>
         <source>Nickname Display Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认显示昵称</translation>
     </message>
     <message>
         <source>Custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义名字和昵称</translation>
     </message>
     <message>
         <source>Show both custom name and the nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同时显示名字和昵称</translation>
     </message>
     <message>
         <source>Only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只自定义名称</translation>
     </message>
     <message>
         <source>Show only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只显示自定义名称</translation>
     </message>
     <message>
         <source>Only nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只昵称</translation>
     </message>
     <message>
         <source>Show only the nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只显示昵称</translation>
     </message>
 </context>
 <context>
     <name>FriendFoeListItem</name>
     <message>
         <source>Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">现在</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">永不</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 在 %2</translation>
     </message>
     <message>
         <source>Friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">朋友</translation>
     </message>
     <message>
         <source>Foe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">敌对</translation>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中立</translation>
     </message>
     <message>
         <source>Custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义名字和昵称</translation>
     </message>
     <message>
         <source>Only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只自定义名字</translation>
     </message>
     <message>
         <source>Only nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">只昵称</translation>
     </message>
 </context>
 <context>
@@ -3111,43 +3111,43 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Drag &amp; Drop users here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此处拖放用户</translation>
     </message>
     <message>
         <source>Custom &amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义昵称(&amp;N):</translation>
     </message>
     <message>
         <source>Enter custom nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入自定义昵称</translation>
     </message>
     <message>
         <source>Apply nickname change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用昵称更改</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通用</translation>
     </message>
     <message>
         <source>Mark as neutral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记为中立</translation>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中立</translation>
     </message>
     <message>
         <source>Mark as blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记为封锁</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">封锁</translation>
     </message>
     <message>
         <source>Mark as friend</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记为好友</translation>
     </message>
     <message>
         <source>Friend</source>
@@ -3155,11 +3155,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">昵称读法(&amp;P):</translation>
     </message>
     <message>
         <source>Client nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户昵称的音标写法（可选）</translation>
     </message>
     <message>
         <source>Display</source>
@@ -3203,31 +3203,31 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Ignore messages this person sends to the server or in channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发送的公共消息</translation>
     </message>
     <message>
         <source>Ignore server/channel chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略服务器/频道聊天</translation>
     </message>
     <message>
         <source>Ignore private chat by this person</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发起的私聊</translation>
     </message>
     <message>
         <source>Ignore private chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略私聊</translation>
     </message>
     <message>
         <source>Ignore pokes this person sends you</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此人发送给你的戳一戳</translation>
     </message>
     <message>
         <source>Ignore Pokes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略戳一戳</translation>
     </message>
     <message>
         <source>Do not download this persons avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不下载此人的头像</translation>
     </message>
     <message>
         <source>Hide avatar</source>
@@ -3235,21 +3235,21 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Ignore this persons away messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略此用户的离开消息</translation>
     </message>
     <message>
         <source>Hide away message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏离开消息</translation>
     </message>
     <message>
         <source>Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密语</translation>
     </message>
     <message>
         <source>This contact is allowed to whisper to you
 unless whispering is globally denied for
 everyone.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个联系人被允许对你密语，除非密语被全局禁用。</translation>
     </message>
     <message>
         <source>Allow whisper</source>
@@ -3257,7 +3257,7 @@ everyone.</source>
     </message>
     <message>
         <source>This contact is always denied to whisper to you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个联系人被禁止与你密语。</translation>
     </message>
     <message>
         <source>Deny whisper</source>
@@ -3265,7 +3265,7 @@ everyone.</source>
     </message>
     <message>
         <source>Set default display, ignore and hide options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置默认显示，忽略和隐藏选项</translation>
     </message>
     <message>
         <source>Set Defaults</source>
@@ -3273,11 +3273,11 @@ everyone.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名字</translation>
     </message>
     <message>
         <source>Last Seen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后上线</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3285,7 +3285,7 @@ everyone.</source>
     </message>
     <message>
         <source>Apply Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用默认</translation>
     </message>
     <message>
         <source>Copy Unique ID to Clipboard</source>
@@ -3733,11 +3733,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Playback Profile</source>
-        <translation type="unfinished">激活音频输出配置</translation>
+        <translation type="unfinished">启用音频输出配置</translation>
     </message>
     <message>
         <source>Deactivate Playback Profile</source>
-        <translation type="unfinished">取消激活音频输出配置</translation>
+        <translation type="unfinished">停用音频输出配置</translation>
     </message>
     <message>
         <source>Toggle Playback Profile</source>
@@ -3745,119 +3745,119 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用快捷键配置</translation>
     </message>
     <message>
         <source>Deactivate Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用快捷键配置</translation>
     </message>
     <message>
         <source>Activate Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用按键说话</translation>
     </message>
     <message>
         <source>Deactivate Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用按键说话</translation>
     </message>
     <message>
         <source>Toggle Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换按键说话</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Global)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到下一个频道（全局）</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Global)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到上一个频道（全局）</translation>
     </message>
     <message>
         <source>Switch to Last Visited Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到最后访问的频道</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Channel Family)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到下一个频道（频道树）</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Channel Family)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到上一个频道（频道树）</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Same Level)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到下一个频道（同级）</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Same Level)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换到上一个频道（频道树）</translation>
     </message>
     <message>
         <source>Select Next Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择下一个服务器标签栏</translation>
     </message>
     <message>
         <source>Select Previous Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择上一个服务器标签栏</translation>
     </message>
     <message>
         <source>Activate Soundpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用语音包</translation>
     </message>
     <message>
         <source>Mute Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">静音</translation>
     </message>
     <message>
         <source>Unmute Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消静音</translation>
     </message>
     <message>
         <source>Toggle Sound Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换静音</translation>
     </message>
     <message>
         <source>Activate Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用按键密语</translation>
     </message>
     <message>
         <source>Deactivate Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用按键密语</translation>
     </message>
     <message>
         <source>Activate Push-To-Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用按键回复密语</translation>
     </message>
     <message>
         <source>Deactivate Push-To-Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用按键回复密语</translation>
     </message>
     <message>
         <source>Activate Whisperlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用密语列表</translation>
     </message>
     <message>
         <source>Deactivate Whisperlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用密语列表</translation>
     </message>
     <message>
         <source>Activate Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用回复密语</translation>
     </message>
     <message>
         <source>Deactivate Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用回复密语</translation>
     </message>
     <message>
         <source>Activate Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用封锁传入的密语</translation>
     </message>
     <message>
         <source>Deactivate Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用封锁传入的密语</translation>
     </message>
     <message>
         <source>Toggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换封锁传入的密语</translation>
     </message>
     <message>
         <source>Start Recording</source>
@@ -3869,51 +3869,51 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Increase Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提高主音量</translation>
     </message>
     <message>
         <source>Decrease Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">降低主音量</translation>
     </message>
     <message>
         <source>Activate Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用插件</translation>
     </message>
     <message>
         <source>Deactivate Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停用插件</translation>
     </message>
     <message>
         <source>Toggle Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换插件</translation>
     </message>
     <message>
         <source>Run Plugin Command</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">运行插件命令</translation>
     </message>
     <message>
         <source>Plugin Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插件快捷键</translation>
     </message>
     <message>
         <source>Stylesheet Helper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">样式表帮助</translation>
     </message>
     <message>
         <source>Activate 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用3D音效</translation>
     </message>
     <message>
         <source>Deactivate 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用3D音效</translation>
     </message>
     <message>
         <source>Toggle 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换3D音效</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改昵称</translation>
     </message>
     <message>
         <source>----- Misc -----</source>
@@ -3921,11 +3921,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Grant Next User Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提升下个用户的谈话权限</translation>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请求谈话权限</translation>
     </message>
     <message>
         <source>Revoke All And Grant Next User Talk Power</source>
@@ -3933,15 +3933,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Open Filebrowser on Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在频道打开文件浏览器</translation>
     </message>
     <message>
         <source>Disable Autoconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用自动连接</translation>
     </message>
     <message>
         <source>Reload Skin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刷新皮肤</translation>
     </message>
     <message>
         <source>Bring Client to Front</source>
@@ -3953,11 +3953,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">取消(&amp;C)</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
@@ -3965,7 +3965,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>for all Capture Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">适用于所有音频输入配置文件</translation>
     </message>
     <message>
         <source>on Current Server</source>
@@ -3981,23 +3981,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hide Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏高级操作</translation>
     </message>
     <message>
         <source>Show Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示高级操作</translation>
     </message>
     <message>
         <source>If you want to add more hotkeys, you might want this dialog to keep open.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">一次性添加多个快捷键时，你可能会希望此对话框保持常开。</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Would you like to add %1 for &quot;%2&quot; as well?</source>
@@ -4013,11 +4013,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;strong&gt;deactivation&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;禁用&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;activation&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;启用&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Add another &quot;%1&quot; key automatically?</source>
@@ -4025,16 +4025,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A hotkey with this configuration already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此快捷键配置已存在。</translation>
     </message>
     <message>
         <source>Press hotkey combination.
 (ESC to cancel)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按下快捷键组合
+(ESC取消)</translation>
     </message>
     <message>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告：舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Hint:&lt;/strong&gt; If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!</source>
@@ -4042,23 +4043,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部展开</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部折叠</translation>
     </message>
     <message>
         <source>Expand Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开组</translation>
     </message>
     <message>
         <source>Collapse Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">折叠组</translation>
     </message>
     <message>
         <source>Expand to depth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">展开到指定深度</translation>
     </message>
 </context>
 <context>
