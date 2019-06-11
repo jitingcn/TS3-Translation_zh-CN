@@ -4157,35 +4157,35 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Profile Details</source>
         <comment>Dummy text, no need to translate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Profile Details</translation>
     </message>
     <message>
         <source>Hotkey</source>
-        <translation type="unfinished">快捷键</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">动作</translation>
     </message>
     <message>
         <source>Add hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>添加快捷键</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>Remove selected hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除选择的快捷键</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除(&amp;R)</translation>
     </message>
     <message>
         <source>Edit selected hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标记选择的快捷键</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -4193,7 +4193,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hotkey System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快捷键系统</translation>
     </message>
     <message>
         <source>Hotkeys</source>
@@ -4201,7 +4201,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Configure Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置快捷键</translation>
     </message>
     <message>
         <source>Default</source>
