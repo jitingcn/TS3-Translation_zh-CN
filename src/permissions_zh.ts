@@ -682,7 +682,7 @@
     </message>
     <message>
         <source>i_channel_permission_modify_power</source>
-        <translation type="unfinished">频道权限修改权限</translation>
+        <translation type="unfinished">频道权限修改权限等级</translation>
     </message>
     <message>
         <source>i_channel_permission_modify_power_long</source>
@@ -774,7 +774,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex8_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;Speex Narrowband&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex16</source>
@@ -782,7 +782,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex16_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;Speex Wideband&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex32</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_speex32_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;Speex Ultra-Wideband&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_celtmono48</source>
@@ -798,7 +798,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_celtmono48_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;CELT Mono&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusvoice_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;Opus Voice&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>b_channel_create_modify_with_codec_opusmusic_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用 &lt;b&gt;Opus Music&lt;/b&gt; 编解码器创建通道。</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality</source>
@@ -822,7 +822,7 @@
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_maxquality_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此值定义可在创建或修改频道时使用的最大编解码器质量。</translation>
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_latency_factor_min</source>
@@ -830,7 +830,7 @@
     </message>
     <message>
         <source>i_channel_create_modify_with_codec_latency_factor_min_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此值定义在创建或修改频道时可以使用的最小延迟。</translation>
     </message>
     <message>
         <source>b_channel_create_with_maxclients</source>
@@ -838,7 +838,7 @@
     </message>
     <message>
         <source>b_channel_create_with_maxclients_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许使用单独的客户端上限设置创建通道。</translation>
     </message>
     <message>
         <source>b_channel_create_with_maxfamilyclients</source>
