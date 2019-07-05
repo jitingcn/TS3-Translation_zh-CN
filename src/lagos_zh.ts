@@ -4157,7 +4157,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Profile Details</source>
         <comment>Dummy text, no need to translate</comment>
-        <translation>Profile Details</translation>
+        <translation>配置详情</translation>
     </message>
     <message>
         <source>Hotkey</source>
@@ -6511,7 +6511,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效</translation>
     </message>
     <message>
         <source>Unique ID:</source>
@@ -6519,7 +6519,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
 </context>
 <context>
@@ -6546,7 +6546,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Create Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">生成权限密钥</translation>
     </message>
     <message>
         <source>Permanent Group</source>
@@ -7278,7 +7278,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置文件</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
@@ -7313,11 +7313,11 @@ Would you like to create an invitation instead?</source>
     <name>QObject</name>
     <message>
         <source>Go Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">进阶选项</translation>
     </message>
     <message>
         <source>Go Basic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基本选项</translation>
     </message>
     <message numerus="yes">
         <source>%n unread offline message(s)</source>
@@ -7425,7 +7425,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Identities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">身份</translation>
     </message>
     <message>
         <source>Hotkey Profiles</source>
@@ -7748,7 +7748,7 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Configure Security</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置安全选项</translation>
     </message>
     <message>
         <source>Saving channel passwords to your computer might pose a security risk.
@@ -7758,13 +7758,15 @@ If you do not trust everybody who uses your computer, this option should not be 
     </message>
     <message>
         <source>Clear Channel Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除全部频道密码</translation>
     </message>
     <message>
         <source>This will remove all stored channel passwords.
 
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这将会删除全部已经保存的频道密码。
+
+您确定要继续吗?</translation>
     </message>
 </context>
 <context>
@@ -10088,11 +10090,11 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器组</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
@@ -10124,11 +10126,11 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制到剪切板</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建</translation>
     </message>
     <message>
         <source>Invitation: %1 [%2]</source>
@@ -10151,11 +10153,11 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建</translation>
     </message>
     <message>
         <source>Reload all privilege keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新加载全部权限密钥</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -10163,7 +10165,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Remove selected privilege keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除选中的权限密钥</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10171,7 +10173,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限密钥</translation>
     </message>
     <message>
         <source>Type</source>
@@ -10207,7 +10209,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Copy Privilege Key to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制权限密钥到剪切板</translation>
     </message>
     <message>
         <source>Use Privilege Key as invitation</source>
