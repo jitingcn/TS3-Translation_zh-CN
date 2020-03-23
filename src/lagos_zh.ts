@@ -17,12 +17,16 @@
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation>如需技术支援，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <translation>如需技术支持，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+    </message>
+    <message>
+        <source>For support please visit our &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
+        <translation>如需技术支持，请访问 &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
     </message>
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation type="unfinished">&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;https://github.com/jitingcn&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://www.wevg.org/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
+        <translation type="unfinished">&lt;b&gt;简体中文化 由：&lt;/b&gt; &lt;a href=&quot;https://github.com/jitingcn&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://www.wevg.org/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -717,6 +721,10 @@ Inserting a modified copy instead.</source>
         <translation>启动时连接此服务器</translation>
     </message>
     <message>
+        <source>Enable myTeamSpeak features</source>
+        <translation>启用 myTeamSpeak 功能</translation>
+    </message>
+    <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
         <translation>发送 myTeamSpeak ID 获取 Twitch 集成和其他服务</translation>
     </message>
@@ -872,11 +880,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;按键讲话&lt;/strong&gt; 仅在按下指定的按键时启用麦克风，并在释放指定的热键时停用麦克风。如果您是第一次配置按键通话，请点击 &amp;quot;未分配快捷键&amp;quot; 按钮配置快捷键。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;按键通话&lt;/strong&gt; 仅在按下指定的按键时启用麦克风，并在释放指定的热键时停用麦克风。如果您是第一次配置按键通话，请点击 &amp;quot;未分配快捷键&amp;quot; 按钮配置快捷键。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;With &lt;strong&gt;Continuous Transmission&lt;/strong&gt; voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activation Detection instead to lower bandwidth usage.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;持续传输&lt;/strong&gt; 保持语音数据不断传输。 建议使用 &amp;quot;按键讲话&amp;quot; 或 &amp;quot;自动语音检测&amp;quot; 来降低带宽使用率。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;持续传输&lt;/strong&gt; 保持语音数据不断传输。 建议使用 &amp;quot;按键通话&amp;quot; 或 &amp;quot;自动语音检测&amp;quot; 来降低带宽使用率。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Voice Activation Detection&lt;/strong&gt; automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.&lt;/p&gt;&lt;p&gt;This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.&lt;/p&gt;</source>
@@ -4654,6 +4662,10 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <translation type="unfinished">在线时间</translation>
     </message>
     <message>
+        <source>Badge Showcase</source>
+        <translation type="unfinished">徽章柜</translation>
+    </message>
+    <message>
         <source>Client requested talk power at &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation type="unfinished">用户在 &lt;strong&gt;%1&lt;/strong&gt; 请求语音权限.</translation>
     </message>
@@ -5163,6 +5175,10 @@ Current: %1</source>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
         <translation>访问 TeamSpeak 官网: www.TeamSpeak.com</translation>
+    </message>
+    <message>
+        <source>Visit TeamSpeak Community Forum</source>
+        <translation>访问 TeamSpeak 社区论坛</translation>
     </message>
     <message>
         <source>&amp;myTeamSpeak Account</source>
@@ -7199,7 +7215,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="unfinished">自动使用最佳模式</translation>
+        <translation type="unfinished">自动使用最合适的模式</translation>
     </message>
     <message>
         <source>Default</source>
@@ -12031,6 +12047,10 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished">音频输入设备:</translation>
     </message>
     <message>
+        <source>Activation</source>
+        <translation type="unfinished">激活</translation>
+    </message>
+    <message>
         <source>Push-To-Talk</source>
         <translation type="unfinished">按键通话</translation>
     </message>
@@ -12040,19 +12060,39 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Voice Activation Detection</source>
-        <translation type="unfinished">语音感应激活</translation>
+        <translation type="unfinished">语音检测</translation>
+    </message>
+    <message>
+        <source>Voice Activity Detection</source>
+        <translation type="unfinished">语音检测</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">模式</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;Set more hotkeys&lt;/span&gt;&lt;/a&gt;</source>
         <translation type="unfinished">&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;设置更多快捷键&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
+        <source>Digital Signal Processing</source>
+        <translation type="unfinished">数字信号处理</translation>
+    </message>
+    <message>
+        <source>Typing attenuation</source>
+        <translation type="unfinished">抑制键盘声</translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;Echo Reduction&lt;/strong&gt; reduces the volume of currently talking clients while you talk, and thereby reduces the echoing effect.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;&lt;strong&gt;回声抑制&lt;/strong&gt;在您说话时减少当前通话中的用户的音量，从而减少回音效果。&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Echo reduction</source>
+        <source>&amp;Echo reduction </source>
         <translation type="unfinished">回声抑制(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Echo reduction (Ducking)</source>
+        <translation type="unfinished">回声抑制[闪避] (&amp;E)</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Echo Cancellation&lt;/strong&gt; tries to subtract any audio that was played back from the captured signal, reducing the echoing effect at the cost of additional CPU cycles.&lt;/p&gt;</source>
@@ -12085,6 +12125,10 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>Echo &amp;reduction reduces playback by:</source>
         <translation type="unfinished">回声抑制功能降低的音频回放音量(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Reduce playback volume by:</source>
+        <translation type="unfinished">降低回放音量:</translation>
     </message>
     <message>
         <source> dB</source>
@@ -13591,7 +13635,7 @@ Please contact the plugin author.</source>
     </message>
     <message>
         <source>Your requested nickname</source>
-        <translation>你请求使用的昵称</translation>
+        <translation>请求使用的昵称</translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
@@ -13664,6 +13708,14 @@ Once used, the privilege key will become invalid.</source>
     <message>
         <source>One-Time &amp;Privilege Key:</source>
         <translation>一次性权限密钥(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Enable myTeamSpeak features</source>
+        <translation>启用 myTeamSpeak 功能</translation>
+    </message>
+    <message>
+        <source>Enables myTeamSpeak features likes badges, integeration of external accounts and more</source>
+        <translation>启用 myTeamSpeak 提供的功能，如徽章，外部账户连接等</translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
@@ -13959,12 +14011,20 @@ Once used, the privilege key will become invalid.</source>
         <translation type="unfinished">始终在可用时安排用户的3D空间位置</translation>
     </message>
     <message>
+        <source>Automatic voice volume leveling</source>
+        <translation type="unfinished">自动调节音量水平</translation>
+    </message>
+    <message>
         <source>Own client plays mic clicks</source>
         <translation type="unfinished">在自己的客户端播放麦克风开关声</translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
         <translation type="unfinished">在其他用户的客户端播放麦克风开关声</translation>
+    </message>
+    <message>
+        <source>Comfort noise</source>
+        <translation type="unfinished">舒适噪音</translation>
     </message>
 </context>
 <context>
