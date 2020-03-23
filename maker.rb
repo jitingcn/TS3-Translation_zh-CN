@@ -12,9 +12,9 @@ Zip.setup do |c|
   c.force_entry_names_encoding = 'UTF-8'
 end
 
-task = ARGV
 build_version = ENV["TRAVIS_BUILD_NUMBER"]
 log_url = ENV["TRAVIS_JOB_WEB_URL"]
+target_version = "3.5.0"
 #language = "zh"
 pwd = Dir.pwd
 Dir.mkdir("dist") unless Dir.exist?("dist")
@@ -30,7 +30,7 @@ def make_release()
       lrelease = `where lrelease`.split[0]
     else
       # "other"
-      quit()
+      exit(1)
   end
   translated_count = 0
   total_count = 0
@@ -68,7 +68,7 @@ def send_progress(done, total)
   percentage = Rational(done*100,total).round(2).to_f
   info =  "当前进度:\n#{done}/#{total}\n#{percentage}%\n".freeze
   puts info
-  telegram_push(info)
+  telegram_push(info) unless ARGV[0] == "debug"
 end
 
 def telegram_push(string)
@@ -83,9 +83,8 @@ end
 
 def make_package(zipfile_name, build_version=nil, log_url=nil)
   File.open('dist/package.ini', 'w') do |file|
-    default_target_version = '3.2.3'
     package_info = [
-      "Name = TeamSpeak 3 简体中文汉化包 目标软件版本: #{default_target_version}",
+      "Name = TeamSpeak 3 简体中文汉化包 目标软件版本: #{target_version}",
       "Type = Translation",
       "Author = 寂听 & EdisonJwa",
       "Version = travis-dev-build##{build_version}",
@@ -104,5 +103,15 @@ def make_package(zipfile_name, build_version=nil, log_url=nil)
   end
 end
 
+def debug()
+  case RUBY_PLATFORM
+    when /ix/i, /ux/i, /gnu/i, /bsd/i
+      FileUtils.cp Dir.glob("dist/*.qm"), "#{Dir.home}/.ts3client/translations", :verbose => true
+    else
+      exit
+  end
+end
+
 make_release()
-make_package(package_name)
+make_package(package_name) unless ARGV[0] == "debug"
+debug() if ARGV[0] == "debug"
