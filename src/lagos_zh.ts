@@ -9566,7 +9566,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Action currently not possible due to spam protection. Please wait a few seconds and try again.</source>
-        <translation type="unfinished">由于垃圾邮件保护，目前无法采取此动作。请等一段时间后，再试一次。</translation>
+        <translation type="unfinished">由于滥用保护，目前无法采取此动作。请等一段时间后，再试一次。</translation>
     </message>
     <message>
         <source>the Server</source>
