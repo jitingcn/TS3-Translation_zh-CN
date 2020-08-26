@@ -740,8 +740,8 @@ Inserting a modified copy instead.</source>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation>TeamSpeak 3 服务器的别名、主机名或IP地址，
-示例： voice.teamspeak.com:9987</translation>
+        <translation type="unfinished">TeamSpeak 3 服务器的别名、主机名或IP地址，
+示例: voice.teamspeak.com:9987</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
@@ -4045,7 +4045,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告：舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告: 舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Hint:&lt;/strong&gt; If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!</source>
@@ -4636,12 +4636,12 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <message>
         <source>%1 %2 on %3</source>
         <comment>3.1.5 [Stable] on Windows</comment>
-        <translation type="unfinished"> %3 平台 %1 %2</translation>
+        <translation type="unfinished">%3 平台 %1 %2</translation>
     </message>
     <message>
         <source>%1 on %2</source>
         <comment>3.1.5 on Windows</comment>
-        <translation type="unfinished"> %2 平台 %1 </translation>
+        <translation type="unfinished">%2 平台 %1</translation>
     </message>
     <message>
         <source>Total Connections</source>
@@ -5691,11 +5691,11 @@ Current: %1</source>
     <name>MicPermissionDialog</name>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone.&lt;br&gt;Click &lt;a href = &quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
-        <translation type="unfinished">不幸的是，操作系统拒绝对麦克风的访问。&lt;br&gt;点击 &lt;a href = &quot;#open_os_permissions&quot;&gt;这里&lt;/a&gt; 打开 Windows 隐私设置并允许应用程序使用它。</translation>
+        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。&lt;br&gt;点击 &lt;a href = &quot;#open_os_permissions&quot;&gt;这里&lt;/a&gt; 打开 Windows 隐私设置并允许应用程序使用它。</translation>
     </message>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone. Please check your permission settings.</source>
-        <translation type="unfinished">不幸的是，操作系统拒绝对麦克风的访问。请检查你的权限设置。</translation>
+        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。请检查你的权限设置。</translation>
     </message>
     <message>
         <source>Permission Error</source>
@@ -5740,7 +5740,7 @@ Current: %1</source>
     <name>NewsWidget</name>
     <message>
         <source>News:</source>
-        <translation type="unfinished">新闻：</translation>
+        <translation type="unfinished">新闻:</translation>
     </message>
     <message>
         <source>Hide this news</source>
@@ -6317,7 +6317,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">主题：</translation>
+        <translation type="unfinished">主题:</translation>
     </message>
     <message>
         <source>Reload messages&lt;br&gt;(F5)</source>
@@ -6510,22 +6510,22 @@ Do you want to cancel?</source>
     <name>PermAddClientDialog</name>
     <message>
         <source>Add client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加客户端</translation>
     </message>
     <message>
         <source>Enter client unique ID or database ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">填写客户端 UID 或数据库 ID:</translation>
     </message>
 </context>
 <context>
     <name>PermChunkClient</name>
     <message>
         <source>Drag &amp; Drop client here or enter client unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拖动客户端到此处或输入客户端UID:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">昵称:</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -6838,7 +6838,7 @@ Would you like to create an invitation instead?</source>
     <name>PermWidget</name>
     <message>
         <source>Not possible due to spam protection. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由于滥用保护，目前不可用。 请稍后再试。</translation>
     </message>
 </context>
 <context>
@@ -7151,15 +7151,15 @@ Would you like to create an invitation instead?</source>
     <name>PhoneticNicknameDialog</name>
     <message>
         <source>Set Phonetic Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置昵称发音</translation>
     </message>
     <message>
         <source>Enter your Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入您的昵称发音:</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -7251,7 +7251,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Playback Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished">输出配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 被删除。您是否想要一并删除分配给此配置的所有快捷键？</translation>
+        <translation type="unfinished">输出配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 被删除。您是否想要一并删除分配给此配置的所有快捷键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -7692,19 +7692,19 @@ This can NOT be undone</source>
     <name>RestoreBackupkeyDialog</name>
     <message>
         <source>Restore Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">还原恢复密钥</translation>
     </message>
     <message>
         <source>Enter your recovery key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入您的恢复密钥:</translation>
     </message>
     <message>
         <source>Apply key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用密钥</translation>
     </message>
     <message>
         <source>Fallback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回滚</translation>
     </message>
 </context>
 <context>
@@ -8808,11 +8808,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 was moved from channel %2 to %3 by %4 %5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 被从频道 %2 移动至 %3 由 %4 %5</translation>
     </message>
     <message>
         <source>You were moved from channel %1 to %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你被从频道 %1 移动至 %2 由 %3 %4</translation>
     </message>
     <message>
         <source>%1 left, was moved to channel %2 by %3 %4</source>
@@ -9496,11 +9496,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You are now known as &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您现在称为 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 现在称为 %2</translation>
     </message>
     <message>
         <source>Your avatar was deleted.</source>
@@ -9508,7 +9508,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
-        <translation type="unfinished">您进入了一个受限制的频道。只有获得&lt;strong&gt;发言权限&lt;/strong&gt;后才能说话。</translation>
+        <translation type="unfinished">&lt;p&gt;您进入了一个受限制的频道。只有获得&lt;strong&gt;发言权限&lt;/strong&gt;后才能说话。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To request Talk Power, right-click on your name and select &lt;strong&gt;Request Talk Power&lt;/strong&gt; in the popup menu. Wait until a moderator grants you Talk Power.&lt;/p&gt;</source>
@@ -9552,7 +9552,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Connection failed: &lt;strong&gt;The channel reached its maximum amount of clients&lt;/strong&gt;.&lt;br&gt;Would you like to join the servers default channel instead?</source>
-        <translation type="unfinished">连接失败：&lt;strong&gt;频道已达到最大客户端数量&lt;/strong&gt;。&lt;br&gt;您是否要加入该服务器的默认频道？</translation>
+        <translation type="unfinished">连接失败: &lt;strong&gt;频道已达到最大客户端数量&lt;/strong&gt;。&lt;br&gt;您是否要加入该服务器的默认频道？</translation>
     </message>
     <message>
         <source>Connection failed because the channel reached its maximum amount of family clients.</source>
@@ -10301,15 +10301,15 @@ Do you want to apply your changes?</source>
     <name>TransferThread</name>
     <message>
         <source>Invalid channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效的频道</translation>
     </message>
     <message>
         <source>upload to: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上传至: </translation>
     </message>
     <message>
         <source>download from: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下载自: </translation>
     </message>
     <message>
         <source>Queue %1</source>
@@ -10831,7 +10831,7 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Tooltip: </source>
-        <translation type="unfinished">提示信息:</translation>
+        <translation type="unfinished">提示信息: </translation>
     </message>
     <message>
         <source>Icon URL:</source>
@@ -11072,7 +11072,8 @@ Per a given time, points are automatically reduced.</translatorcomment>
         <source>&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:&lt;/p&gt;&lt;p&gt;Level 0-23 Generated in seconds&lt;br&gt;Level 23-29 Generated in minutes&lt;br&gt;Level 29-34 Generated in hours&lt;br&gt;Level 35-39 Generated in days&lt;br&gt;Level 40-43 Generated in months&lt;br&gt;Level 44++ Generated in years&lt;/p&gt;</source>
         <translatorcomment>临时翻译
 &lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给你一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;所需的安全级别决定了用户在身份被认定有效连接到该服务器之前需要多久才能提高身份安全级别,这将从根本上减少垃圾邮件和滥用的可能性,因为一旦被禁止使用，用户需要投入大量的时间来创建新的身份。
+&lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给你一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
@@ -11292,7 +11293,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Keep-Alive Timeout:</source>
-        <translation type="unfinished">连接超时</translation>
+        <translation type="unfinished">保持连接超时:</translation>
     </message>
     <message>
         <source>Accept Calls:</source>
@@ -12090,7 +12091,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&amp;Echo reduction </source>
-        <translation type="unfinished">回声抑制(&amp;E)</translation>
+        <translation type="unfinished">回声抑制(&amp;E) </translation>
     </message>
     <message>
         <source>&amp;Echo reduction (Ducking)</source>
