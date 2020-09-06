@@ -9507,7 +9507,7 @@ Would you like to continue?</source>
         <translation type="unfinished">您的头像已删除。</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
+        <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk Power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;您进入了一个受限制的频道。只有获得&lt;strong&gt;发言权限&lt;/strong&gt;后才能说话。&lt;/p&gt;</translation>
     </message>
     <message>
@@ -12066,6 +12066,10 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished">语音检测</translation>
     </message>
     <message>
+        <source>Add Voice Activity Detection</source>
+        <translation type="unfinished">启用语音检测</translation>
+    </message>
+    <message>
         <source>Voice Activity Detection</source>
         <translation type="unfinished">语音检测</translation>
     </message>
@@ -12140,6 +12144,10 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>Delay when release the Push-To-Talk key until Push-To-Talk is actually disabled</source>
         <translation type="unfinished">延迟释放按键通话按键直到按键通话实际关闭</translation>
+    </message>
+    <message>
+        <source>Release Delay</source>
+        <translation type="unfinished">释放延迟</translation>
     </message>
     <message>
         <source>Delay releasing Push-To-Talk:</source>
@@ -13905,11 +13913,15 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Display country flag on clients</source>
-        <translation>在用户旁显示国旗(根据IP)</translation>
+        <translation>显示国旗(根据IP)</translation>
     </message>
     <message>
         <source>Display Overwolf icons on clients</source>
-        <translation>在用户旁显示 Overwolf 图标</translation>
+        <translation>显示 Overwolf 图标</translation>
+    </message>
+    <message>
+        <source>Display Badge icons on clients</source>
+        <translation>显示徽章</translation>
     </message>
     <message>
         <source>Show channel commander as lamp</source>
@@ -13921,7 +13933,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Show tooltip info on hover</source>
-        <translation>在悬停时显示工具提示信息</translation>
+        <translation>悬停时显示工具提示信息</translation>
     </message>
     <message>
         <source>Tray Icon</source>
