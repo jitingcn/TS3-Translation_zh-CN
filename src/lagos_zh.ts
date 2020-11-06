@@ -395,7 +395,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Available badges</source>
-        <translation>可用的徽章</translation>
+        <translation type="unfinished">可用徽章</translation>
     </message>
     <message>
         <source>Drag available badges from the list below into one of the slots.&lt;br&gt;
@@ -3168,7 +3168,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Client nickname written as phonemes (optional)</source>
-        <translation>用户昵称的音标写法（可选）</translation>
+        <translation type="unfinished">用户昵称的发音（可选）</translation>
     </message>
     <message>
         <source>Display</source>
@@ -4385,7 +4385,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您的昵称的发音（可选）</translation>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
@@ -4437,7 +4437,8 @@ The maximum allowed file size is %1 kB.</source>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Insufficient identity security level for this server.&lt;br&gt;
 You need to improve your identity security level.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;span style=&quot;color:red;&quot;&gt;没有足够的身份安全级别访问这个服务器。&lt;br&gt;
+您需要提高身份安全级别。&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Identity:</source>
@@ -4449,11 +4450,11 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>&amp;Requested Security Level:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目标安全等级(&amp;R):</translation>
     </message>
     <message>
         <source>Elapsed Time:</source>
-        <translation type="unfinished">预计时间:</translation>
+        <translation type="unfinished">运行时间:</translation>
     </message>
     <message>
         <source>00:00</source>
@@ -4461,7 +4462,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Total Time Ballpark Figure:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预计耗时:</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6402,11 +6403,11 @@ Current: %1</source>
     <name>OfflineMessagesNew</name>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新消息</translation>
     </message>
     <message>
         <source>Recipients:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">收件人:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -6414,11 +6415,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">主题(&amp;S):</translation>
     </message>
     <message>
         <source>Available Contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">可用联系人:</translation>
     </message>
     <message>
         <source>Send</source>
@@ -6430,40 +6431,41 @@ Current: %1</source>
     </message>
     <message>
         <source>The nickname is unknown on this server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此服务器上未找到该昵称。</translation>
     </message>
     <message>
         <source>You have no permission to search for users on this server, so you can only use existing contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您没有权限在此服务器上搜索用户，所以您只能使用当前存在的联系人。</translation>
     </message>
     <message>
         <source>A nickname is unknown on this server or couldn&apos;t be identified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在此服务器上未找到或无法识别该昵称。</translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to send offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您没有足够的权限来发送离线消息。</translation>
     </message>
     <message>
         <source>New Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新离线消息</translation>
     </message>
     <message>
         <source>Reply Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回复离线消息</translation>
     </message>
     <message>
         <source>&quot;%1&quot; wrote:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%1&quot; 写道:
+</translation>
     </message>
     <message>
         <source>Please enter a nickname or doubleclick a contact from the contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入一个昵称或在联系人列表中双击一个联系人。</translation>
     </message>
     <message>
         <source>Message is empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">消息为空</translation>
     </message>
     <message>
         <source>Please Confirm</source>
@@ -6477,7 +6479,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Character limit reached (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">达到最大字数上限 (%1)</translation>
     </message>
 </context>
 <context>
@@ -7350,56 +7352,56 @@ Would you like to create an invitation instead?</source>
     <message numerus="yes">
         <source>%n year(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 年</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 天</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 小时</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 分</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 秒</numerusform>
         </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">信息</translation>
     </message>
     <message>
         <source>Need a restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">需要重启</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">突破</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部文件</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">国家</translation>
     </message>
     <message>
         <source>The directory &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; is not writable and cannot be used to place downloads!</source>
@@ -7407,7 +7409,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改</translation>
     </message>
     <message>
         <source>Select download folder</source>
@@ -7576,7 +7578,7 @@ saved passwords and identities.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重试</translation>
     </message>
     <message>
         <source>Start without decrypting</source>
@@ -8784,7 +8786,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 left heading to channel %2</source>
-        <translation type="unfinished">%1 离开，前往频道 %2</translation>
+        <translation type="unfinished">%1 离开，并前往 %2 频道</translation>
     </message>
     <message>
         <source>%1 dropped (ping timeout)</source>
@@ -8816,31 +8818,31 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 left, was moved to channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 离开，并被  %3 移动至 %2 频道 %4</translation>
     </message>
     <message>
         <source>%1 appears, was kicked from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 出现，被 %3 踢出频道 %2 %4</translation>
     </message>
     <message>
         <source>%1 was kicked from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 被%2 踢出频道 %3 %4</translation>
     </message>
     <message>
         <source>You were kicked from channel %1 by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您被 %2 踢出频道 %1  %3</translation>
     </message>
     <message>
         <source>%1 left: was kicked to channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 离开：被 %2 踢出至频道 %3 %4</translation>
     </message>
     <message>
         <source>%1 was kicked from the server by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 被 %2 踢出服务器 %3</translation>
     </message>
     <message>
         <source>You were kicked from the server by %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您被 %1 踢出服务器 %2</translation>
     </message>
     <message>
         <source>permanently</source>
@@ -8848,15 +8850,15 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">为期 %1</translation>
     </message>
     <message>
         <source>%1 was banned %2 from the server by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 被 %3 禁止登录服务器 %2 %4</translation>
     </message>
     <message>
         <source>You were banned %1 from the server by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您被 %2 禁止登录服务器 %1 %3</translation>
     </message>
     <message>
         <source>Server properties edited successfully</source>
@@ -9507,7 +9509,7 @@ Would you like to continue?</source>
         <translation type="unfinished">您的头像已删除。</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk Power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
+        <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;您进入了一个受限制的频道。只有获得&lt;strong&gt;发言权限&lt;/strong&gt;后才能说话。&lt;/p&gt;</translation>
     </message>
     <message>
@@ -10547,7 +10549,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Channel will be deleted in %1.</source>
-        <translation type="unfinished">频道将会被删除: %1.</translation>
+        <translation type="unfinished">频道将会在 %1 后被删除。</translation>
     </message>
 </context>
 <context>
@@ -13706,7 +13708,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation>你的昵称的读音 (可选)</translation>
+        <translation type="unfinished">您的昵称的发音（可选）</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
@@ -13920,10 +13922,10 @@ Once used, the privilege key will become invalid.</source>
         <translation>显示 Overwolf 图标</translation>
     </message>
     <message>
-        <source>Display Badge icons on clients</source>
-        <translation>显示徽章</translation>
-    </message>
-    <message>
+    <source>Display Badge icons on clients</source>
+    <translation>显示徽章</translation>
+</message>
+<message>
         <source>Show channel commander as lamp</source>
         <translation>显示频道指挥官标志</translation>
     </message>
