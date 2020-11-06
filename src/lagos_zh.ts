@@ -4239,11 +4239,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Push-To-Talk (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键通话 (%1)</translation>
     </message>
     <message>
         <source>Push-To-Talk (All)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按键通话 (全部)</translation>
     </message>
     <message>
         <source>Invalid or broken action</source>
@@ -7481,11 +7481,11 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Synchronized profiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">同步配置</translation>
     </message>
     <message>
         <source>Local profiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地配置</translation>
     </message>
     <message>
         <source>Local</source>
@@ -8910,15 +8910,15 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Channel group &quot;%1&quot;%2 was assigned to %3 by %4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道组 &quot;%1&quot;%2 被 %4 授予给 %3。</translation>
     </message>
     <message>
         <source>%2 was added to server group &quot;%1&quot; by %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2 被 %3 添加至服务器组 &quot;%1&quot; 。</translation>
     </message>
     <message>
         <source>%2 was removed from server group &quot;%1&quot; by %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2 被 %3 移出服务器组 &quot;%1&quot; 。</translation>
     </message>
     <message>
         <source>Chat partner has closed the conversation</source>
