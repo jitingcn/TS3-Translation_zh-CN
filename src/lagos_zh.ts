@@ -8818,7 +8818,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 left, was moved to channel %2 by %3 %4</source>
-        <translation type="unfinished">%1 离开，并被  %3 移动至 %2 频道 %4</translation>
+        <translation type="unfinished">%1 离开，并被 %3 移动至 %2 频道 %4</translation>
     </message>
     <message>
         <source>%1 appears, was kicked from channel %2 by %3 %4</source>
