@@ -7203,11 +7203,11 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Quiet</source>
-        <translation type="unfinished">小声</translation>
+        <translation type="unfinished">安静</translation>
     </message>
     <message>
         <source>Loud</source>
-        <translation type="unfinished">大声</translation>
+        <translation type="unfinished">嘈杂</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment</source>
@@ -13924,6 +13924,14 @@ Once used, the privilege key will become invalid.</source>
     <message>
     <source>Display Badge icons on clients</source>
     <translation>显示徽章</translation>
+</message>
+<message>
+<source>Display group icons in context menus</source>
+<translation>在菜单中显示组图标</translation>
+</message>
+<message>
+<source>Hide inaccessible groups in context menus</source>
+<translation>在菜单中隐藏无法访问的组</translation>
 </message>
 <message>
         <source>Show channel commander as lamp</source>
