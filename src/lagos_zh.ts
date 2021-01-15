@@ -7393,7 +7393,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished">突破</translation>
+        <translation type="unfinished">图片</translation>
     </message>
     <message>
         <source>All files</source>
