@@ -14021,11 +14021,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Mono to center speaker (if available)</source>
-        <translation>转换单声道为立体声（如果可用）</translation>
+        <translation>单声道到中央声道（如果可用）</translation>
     </message>
     <message>
         <source>Mono to surround (if available)</source>
-        <translation>转换单声道为环绕（如果可用）</translation>
+        <translation>单声道到环绕声道（如果可用）</translation>
     </message>
     <message>
         <source>Options</source>
