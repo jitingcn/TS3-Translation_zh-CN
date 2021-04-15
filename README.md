@@ -5,7 +5,7 @@ TeamSpeak 3 简体中文翻译源文件
 2806/4057
 当前进度约 70%
 
-[![HitCount](http://hits.dwyl.io/jitingcn/TS3-Translation_zh-CN/master.svg)](http://hits.dwyl.io/jitingcn/TS3-Translation_zh-CN/master)
+[Telegram 群组](https://t.me/joinchat/ULhtdJY2APqVER3y)
 
 ## 协助翻译
 使用 Qt Linguist 程序打开ts源文件即可
