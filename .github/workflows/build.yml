@@ -1,0 +1,47 @@
+name: Build package
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build Job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: |
+          export TZ=Asia/Shanghai
+          sudo apt-get update -q
+          sudo apt-get install qt5-default qttools5-dev-tools -y -q
+
+      - name: Build package
+        run: |
+          python3 maker.py
+          rm dist/*
+      
+      - name: Push snapshot package
+        uses: "marvinpinto/action-automatic-releases@latest"
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "snapshot"
+          prerelease: true
+          title: "TeamSpeak 3 zh-CN translation snapshot build"
+          files: |
+            Chinese_Translation_zh-CN.ts3_translation
+      
+      - name: Upload mappings
+        uses: actions/upload-artifact@v2
+        with:
+          name: Chinese_Translation_zh-CN.ts3_translation
+          path: Chinese_Translation_zh-CN.ts3_translation
+      
+      - name: Group notify
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        run: python3 maker.py 1
