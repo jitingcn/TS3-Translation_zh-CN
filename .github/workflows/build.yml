@@ -20,6 +20,14 @@ jobs:
           sudo apt-get update -q
           sudo apt-get install qt5-default qttools5-dev-tools -y -q
 
+      - env:
+          TG_API: ${{ secrets.TG_API }}
+          TG_GROUP_ID: ${{ secrets.TG_GROUP_ID }}
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        run: |
+            echo "TG_API=${TG_API}" >> $GITHUB_ENV
+            echo "TG_GROUP_ID=${TG_GROUP_ID}" >> $GITHUB_ENV
+
       - name: Build package
         run: |
           python3 maker.py
