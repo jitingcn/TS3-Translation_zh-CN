@@ -1157,7 +1157,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Configure the Chat Tabs</source>
-        <translation>配置聊天选项卡</translation>
+        <translation type="unfinished">配置聊天标签页</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1215,7 @@ servers will not be cleared.</source>
     <name>ChatTabWidget</name>
     <message>
         <source>Chat output tabs</source>
-        <translation>聊天输出选项卡</translation>
+        <translation type="unfinished">聊天输出标签页</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1243,11 +1243,11 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Close Private Tabs</source>
-        <translation>关闭私聊选项卡</translation>
+        <translation type="unfinished">关闭私聊标签页</translation>
     </message>
     <message>
         <source>Close Private Tabs but this</source>
-        <translation>关闭除此以外的私聊选项卡</translation>
+        <translation type="unfinished">关闭除此以外的私聊标签页</translation>
     </message>
     <message>
         <source>Your chat partner has disconnected.</source>
@@ -3551,7 +3551,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Active tab</source>
-        <translation type="unfinished">激活的选项卡</translation>
+        <translation type="unfinished">激活的标签页</translation>
     </message>
     <message>
         <source>Keep dialog open</source>
@@ -3571,7 +3571,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select Server Tab</source>
-        <translation type="unfinished">选择服务器选项卡</translation>
+        <translation type="unfinished">选择服务器标签页</translation>
     </message>
     <message>
         <source>Sounds</source>
@@ -3643,11 +3643,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Connect to Server on Current Tab</source>
-        <translation type="unfinished">在当前选项卡连接至服务器</translation>
+        <translation type="unfinished">在当前标签页中连接至服务器</translation>
     </message>
     <message>
         <source>Connect to Server in a New Tab</source>
-        <translation type="unfinished">在新选项卡连接至服务器</translation>
+        <translation type="unfinished">在新标签页中连接至服务器</translation>
     </message>
     <message>
         <source>Disconnect from Current Server</source>
@@ -3659,7 +3659,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Microphone (current tab)</source>
-        <translation type="unfinished">激活麦克风(当前选项卡)</translation>
+        <translation type="unfinished">激活麦克风(当前标签页)</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
@@ -5013,7 +5013,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
-        <translation>断开当前选项卡的服务器连接</translation>
+        <translation type="unfinished">断开当前标签页的服务器连接</translation>
     </message>
     <message>
         <source>&amp;Disconnect from All</source>
@@ -7342,12 +7342,12 @@ Would you like to create an invitation instead?</source>
     <message numerus="yes">
         <source>%n unread offline message(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 条未读的离线消息</numerusform>
         </translation>
     </message>
     <message>
         <source>Host message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">服务器消息</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
@@ -7413,7 +7413,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择下载文件夹</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;TeamSpeak fails to start because it cannot find any port.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please see our &lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port&quot;&gt;knowledge base&lt;/a&gt; for further details.&lt;/p&gt;</source>
@@ -7425,11 +7425,11 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">向下</translation>
     </message>
     <message>
         <source>up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">向上</translation>
     </message>
     <message>
         <source>&lt;p&gt;We found a DLL which was injected by &quot;Lavasoft Ad-Aware&quot;.&lt;/p&gt;&lt;p&gt;Lavasoft Ad-Aware can possibly cause the TeamSpeak client to crash. If you experience any issues, you may need to uninstall Ad-Aware.&lt;/p&gt;</source>
@@ -7441,7 +7441,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Bookmarks and Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">书签和文件夹</translation>
     </message>
     <message>
         <source>Identities</source>
@@ -7477,7 +7477,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Active Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">活跃的标签页</translation>
     </message>
     <message>
         <source>Synchronized profiles</source>
@@ -7713,27 +7713,27 @@ This can NOT be undone</source>
     <name>SearchFrame</name>
     <message>
         <source>Hide search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">隐藏搜索</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下一条</translation>
     </message>
     <message>
         <source>Find next match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查找下一个</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一条</translation>
     </message>
     <message>
         <source>Find previous match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">查找上一个</translation>
     </message>
     <message>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">匹配大小写</translation>
     </message>
     <message>
         <source>Do a case sensitive search</source>
@@ -7741,19 +7741,19 @@ This can NOT be undone</source>
     </message>
     <message>
         <source>Search all tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索所有标签页</translation>
     </message>
     <message>
         <source>Search in all tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在所有标签页中搜索</translation>
     </message>
     <message>
         <source>Search Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索聊天：</translation>
     </message>
     <message>
         <source>Search Tree:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">搜索频道树：</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -8468,7 +8468,7 @@ Do you want to change the channel to temporary?</source>
         <source>This will activate another server tab.
 
 Would you like to continue?</source>
-        <translation type="unfinished">这将激活另一个服务器选项卡。
+        <translation type="unfinished">这将激活另一个服务器标签页。
 
 您想继续吗？</translation>
     </message>
@@ -9090,7 +9090,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Open a new chat tab for this client</source>
-        <translation type="unfinished">打开和此用户聊天的新选项卡</translation>
+        <translation type="unfinished">打开和此用户聊天的新标签页</translation>
     </message>
     <message>
         <source>&amp;Kick Client from Channel</source>
@@ -9358,11 +9358,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Edit Virtual Server</source>
-        <translation type="unfinished">编辑虚拟服务器</translation>
+        <translation type="unfinished">编辑服务器</translation>
     </message>
     <message>
         <source>Edit virtual server settings</source>
-        <translation type="unfinished">编辑虚拟服务器设置</translation>
+        <translation type="unfinished">编辑当前服务器设置</translation>
     </message>
     <message>
         <source>Add Temporary Password</source>
@@ -9717,11 +9717,11 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Close Connected Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭服务器标签页</translation>
     </message>
     <message>
         <source>You are still connected to &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;Disconnect and close tab?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您目前正连接到 &lt;strong&gt;%1&lt;/strong&gt;。离开并关闭标签页？</translation>
     </message>
     <message>
         <source>Disconnect from Server</source>
@@ -11922,8 +11922,8 @@ No changes have been written yet.</source>
     <message>
         <source>Always try to activate the microphone when switching server tabs.
 This depends of course, on a valid playback and capture device.</source>
-        <translation type="unfinished">切换服务器选项卡时，请务必尝试激活麦克风。
-当然，这取决于有效的播放和捕获设备。</translation>
+        <translation type="unfinished">总是尝试在切换服务器标签页后激活麦克风。
+当然，这取决于有效的回放和录音设备。</translation>
     </message>
     <message>
         <source>Activate microphone automatically when switching servers</source>
@@ -13922,18 +13922,18 @@ Once used, the privilege key will become invalid.</source>
         <translation>显示 Overwolf 图标</translation>
     </message>
     <message>
-    <source>Display Badge icons on clients</source>
-    <translation>显示徽章</translation>
-</message>
-<message>
-<source>Display group icons in context menus</source>
-<translation>在菜单中显示组图标</translation>
-</message>
-<message>
-<source>Hide inaccessible groups in context menus</source>
-<translation>在菜单中隐藏无法访问的组</translation>
-</message>
-<message>
+        <source>Display Badge icons on clients</source>
+        <translation>显示徽章</translation>
+    </message>
+    <message>
+        <source>Display group icons in context menus</source>
+        <translation>在菜单中显示组图标</translation>
+    </message>
+    <message>
+        <source>Hide inaccessible groups in context menus</source>
+        <translation>在菜单中隐藏无法访问的组</translation>
+    </message>
+    <message>
         <source>Show channel commander as lamp</source>
         <translation>显示频道指挥官标志</translation>
     </message>
