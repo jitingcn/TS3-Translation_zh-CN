@@ -118,7 +118,7 @@ def make_package(release_list):
                         "Author = 寂听 & EdisonJwa",
                         f"Version = {timestamp}",
                         "Platforms = ",
-                        'Description = 源代码: https://github.com/jitingcn/TS3-Translation_zh-CN']
+                        'Description = 源代码: https://github.com/VigorousPro/TS3-Translation_zh-CN']
         f.write("\n".join(package_info))
 
     file_name = 'Chinese_Translation_zh-CN.ts3_translation'
