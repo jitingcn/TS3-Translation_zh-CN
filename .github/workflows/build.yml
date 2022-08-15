@@ -58,7 +58,7 @@ jobs:
           access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
 
       - name: Upload
-        run: ossutil cp -r Chinese_Translation_zh-CN.ts3_translation oss://edison-storage/
+        run: ossutil cp -f Chinese_Translation_zh-CN.ts3_translation oss://edison-storage/
       
       - name: Group notify
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
