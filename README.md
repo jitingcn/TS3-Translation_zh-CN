@@ -7,6 +7,15 @@ TeamSpeak 3 简体中文翻译源文件
 
 [Telegram 群组](https://t.me/joinchat/ULhtdJY2APqVER3y)
 
+## 使用方法
+[点击此处](https://ts.wevg.org/translation-zh-CN/)下载中文语言包
+
+Windows & macOS：下载后直接双击汉化包  `Chinese_Translation_zh-CN.ts3_translation` 即可进行安装。
+
+Linux: 请参考 [解决 Linux 下 TeamSpeak 插件安装问题](https://www.wevg.org/archives/fix-ts3-linux-plugin/) 配置文件关联后，安装语言包即可。
+
+![](https://static.hit.moe/images/2022-08-15-15-29-WUgCd.jpeg)
+
 ## 协助翻译
 使用 Qt Linguist 程序打开ts源文件即可
 
@@ -18,5 +27,3 @@ TeamSpeak 3 简体中文翻译源文件
    例：`Visit TeamSpeak &Webpage` 译为 `访问 TeamSpeak 网站(&W)`
 4. `permissions.ts` 和 `ts_core_errors.ts` 为权限和错误代码的英文翻译。翻译权限和错误代码文本时，需要先打开 `xxx_zh.ts` ，然后打开 `xxx.ts` 为只读，进行对照。
 
-## 使用方法
-Windows： 前往release页面，下载后直接双击汉化包  `Chinese_Translation_zh-CN.ts3_translation` 即可，如果因为曾经装过旧版之类的问题导致关联程序有误，那么请使用TeamSpeak程序目录下的 `package_inst.exe` 来打开汉化包 `Chinese_Translation_zh-CN.ts3_translation` 。
