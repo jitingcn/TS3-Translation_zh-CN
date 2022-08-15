@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>b_virtualserver_modify_needed_identity_security_level_long</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">允许修改连接到虚拟服务器所需的最小客户安全级别。安全级别决定了连接用户在被认为有效地连接到该服务器之前，需要多长时间提高他们的身份。</translation>
     </message>
     <message>
         <source>b_virtualserver_modify_priority_speaker_dimm_modificator</source>

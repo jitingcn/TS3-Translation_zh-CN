@@ -6550,7 +6550,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重命名</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -6616,7 +6616,7 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">忽略</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;You are about to delete the template group &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;This can ruin your permissions setup.&lt;/p&gt;</source>
@@ -6703,11 +6703,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">权限</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -6739,7 +6739,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部</translation>
     </message>
     <message>
         <source>Server Groups</source>
@@ -6751,7 +6751,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Channel Groups</source>
@@ -6798,7 +6798,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加</translation>
     </message>
     <message>
         <source>Remove selected client</source>
@@ -6806,7 +6806,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <source>No permissions to display clients inside this group.</source>
@@ -6828,7 +6828,7 @@ from server group &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
         <source>Your requested ID was not found on this server!
@@ -8147,7 +8147,7 @@ Press Enter to apply filter.</source>
     <name>ServerQueryPasswordDialog</name>
     <message>
         <source>ServerQuery Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ServerQuery 密码</translation>
     </message>
     <message>
         <source>Your ServerQuery Login:</source>
