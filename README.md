@@ -8,7 +8,7 @@ TeamSpeak 3 简体中文翻译源文件
 [Telegram 群组](https://t.me/joinchat/ULhtdJY2APqVER3y)
 
 ## 使用方法
-[点击此处](https://ts.wevg.org/translation-zh-CN/)下载中文语言包
+[点击此处](https://github.com/VigorousPro/TS3-Translation_zh-CN/releases)下载中文语言包
 
 Windows & macOS：下载后直接双击汉化包  `Chinese_Translation_zh-CN.ts3_translation` 即可进行安装。
 
