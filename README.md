@@ -1,6 +1,8 @@
 # TS3-Translation_zh-CN
 TeamSpeak 3 简体中文翻译源文件
 
+![Build Release](https://img.shields.io/github/workflow/status/VigorousPro/TS3-Translation_zh-CN/Build%20package?style=for-the-badge) 
+
 目前已经翻译绝大部分的UI，主要还剩下一些权限相关的字段没有翻译，如果发现存在遗留或对现有翻译不满意，欢迎提出任何修改建议！
 
 当前进度约：85%
