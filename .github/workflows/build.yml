@@ -39,7 +39,7 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "snapshot"
-          prerelease: true
+          prerelease: false
           title: "TeamSpeak 3 zh-CN translation snapshot build"
           files: |
             Chinese_Translation_zh-CN.ts3_translation
