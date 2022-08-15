@@ -10197,7 +10197,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <source>Group</source>
@@ -10205,7 +10205,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">频道</translation>
     </message>
     <message>
         <source>Created</source>
@@ -10213,7 +10213,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">描述</translation>
     </message>
     <message>
         <source>You have insufficient client permissions to view the privilege key list.</source>
@@ -10225,7 +10225,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无效</translation>
     </message>
     <message>
         <source>Copy Privilege Key to clipboard</source>
