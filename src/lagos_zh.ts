@@ -12921,7 +12921,7 @@ Some myTeamSpeak related services are not available.</source>
     </message>
     <message>
         <source>You already have this badge</source>
-        <translation>你已经有这个徽章了</translation>
+        <translation>已经有这个徽章了</translation>
     </message>
 </context>
 <context>
