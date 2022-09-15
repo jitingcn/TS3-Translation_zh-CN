@@ -1521,12 +1521,12 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Do you really want to remove all complaints of this user?</source>
-        <translation>你确定要移除此用户的所有投诉吗？</translation>
+        <translation>确定要移除此用户的所有投诉吗？</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
         <translation>
-            <numerusform>%n你确定要移除选中的投诉吗？</numerusform>
+            <numerusform>%n确定要移除选中的投诉吗？</numerusform>
         </translation>
     </message>
 </context>
@@ -2161,7 +2161,7 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>Do you really want to reset the toolbar?</source>
-        <translation type="unfinished">你确定要重置工具栏吗？</translation>
+        <translation type="unfinished">确定要重置工具栏吗？</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -2191,7 +2191,7 @@ clipping and distortion that will negatively
 affect your audio quality. It is advised
 to chose lower values.</source>
         <translation type="unfinished">选择高于+6 dB的值会造成失真，将导致
-你的音频质量受损。建议选择一个较低的值。</translation>
+音频质量受损。建议选择一个较低的值。</translation>
     </message>
 </context>
 <context>
@@ -2874,13 +2874,13 @@ All files inside the deleted folder(s) will be lost.</source>
     <message>
         <source>Do you really want to delete
 the file &apos;%1&apos; from your computer?</source>
-        <translation type="unfinished">您确定要从你的电脑上
+        <translation type="unfinished">您确定要从计算机中
 删除文件 &apos;%1&apos; ？</translation>
     </message>
     <message>
         <source>Do you really want to delete the
 selected files from your computer?</source>
-        <translation type="unfinished">您确定要从你的电脑上
+        <translation type="unfinished">您确定要从计算机中
 删除选中的文件？</translation>
     </message>
 </context>
@@ -3359,7 +3359,7 @@ everyone.</source>
         <source>TeamSpeak will use the selected icon pack on the next restart.
 Do you want to restart now?</source>
         <translation>TeamSpeak 将在下次重启后使用所选的图标包。
-你想现在重启吗？</translation>
+是否立即重新启动 TeamSpeak？</translation>
     </message>
 </context>
 <context>
@@ -5205,7 +5205,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation>找出在哪里获取你自己的TeamSpeak 服务器</translation>
+        <translation>了解在哪里可以获得自己的TeamSpeak服务器</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
@@ -5437,7 +5437,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Set your nickname written in phonemes</source>
-        <translation>设置你的昵称的发音方式</translation>
+        <translation>设置昵称的发音方式</translation>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
@@ -5626,7 +5626,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Values greater than +6 dB will cause clipping and distortion that will negatively affect your audio quality. It is advised to chose lower values.</source>
-        <translation type="unfinished">选择高于+6 dB的值会造成失真，将导致你的音频质量受损。建议选择一个较低的值。</translation>
+        <translation type="unfinished">选择高于+6 dB的值会造成失真，将导致音频质量受损。建议选择一个较低的值。</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment [%1]</source>
@@ -5696,7 +5696,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone. Please check your permission settings.</source>
-        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。请检查你的权限设置。</translation>
+        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。请检查权限设置。</translation>
     </message>
     <message>
         <source>Permission Error</source>
@@ -8498,7 +8498,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Enter the reason for your complaint</source>
-        <translation type="unfinished">输入你投诉此用户的原因</translation>
+        <translation type="unfinished">输入投诉此用户的原因</translation>
     </message>
     <message>
         <source>Kick from Server</source>
@@ -8562,7 +8562,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;你确定要继续吗？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Leaving a group</source>
@@ -9202,7 +9202,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Select and upload your avatar</source>
-        <translation type="unfinished">选择并上传你的头像</translation>
+        <translation type="unfinished">选择并上传头像</translation>
     </message>
     <message>
         <source>Delete Avatar</source>
@@ -11073,7 +11073,7 @@ Per a given time, points are automatically reduced.</translatorcomment>
     <message>
         <source>&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:&lt;/p&gt;&lt;p&gt;Level 0-23 Generated in seconds&lt;br&gt;Level 23-29 Generated in minutes&lt;br&gt;Level 29-34 Generated in hours&lt;br&gt;Level 35-39 Generated in days&lt;br&gt;Level 40-43 Generated in months&lt;br&gt;Level 44++ Generated in years&lt;/p&gt;</source>
         <translatorcomment>临时翻译
-&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给你一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translatorcomment>
+&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translatorcomment>
         <translation type="unfinished">&lt;p&gt;所需的安全级别决定了用户在身份被认定有效连接到该服务器之前需要多久才能提高身份安全级别,这将从根本上减少垃圾邮件和滥用的可能性,因为一旦被禁止使用，用户需要投入大量的时间来创建新的身份。
 &lt;/p&gt;&lt;p&gt;安全级别的每次增加都需要客户端平均计算时间的两倍。 为了给你一个大概的数字，创建一个身份的平均时间通常在以下范围内：&lt;/p&gt;&lt;p&gt;0-23级 在几秒钟内生成&lt;br&gt;23-29级 在几分钟内生成&lt;br&gt;29-34级 在几小时内生成&lt;br&gt;35-39级 在几天内生成&lt;br&gt;40-43级 在几个月内生成&lt;br&gt;44级以上 在几年内生成&lt;/p&gt;</translation>
     </message>
@@ -12335,7 +12335,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Please confirm your myTeamSpeak account password</source>
-        <translation>请确认你的 myTeamSpeak 账号密码</translation>
+        <translation>请确认 myTeamSpeak 账号密码</translation>
     </message>
     <message>
         <source>Password invalid. Try again</source>
@@ -12571,11 +12571,11 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>&lt;p&gt;Bookmarks have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;书签已更改。&lt;/p&gt;&lt;p&gt;您想要&lt;strong&gt;保存&lt;/strong&gt;，&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt;并关闭此窗口？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;书签已更改。&lt;/p&gt;&lt;p&gt;想要&lt;strong&gt;保存&lt;/strong&gt;，&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt;并关闭此窗口？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Bookmarks have been changed but there is an invalid nickname.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Discard&lt;/strong&gt; your change or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;书签已更改但含有无效的昵称。&lt;/p&gt;&lt;p&gt;你想&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;书签已更改但含有无效的昵称。&lt;/p&gt;&lt;p&gt;想&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -12967,7 +12967,7 @@ Some myTeamSpeak related services are not available.</source>
     </message>
     <message>
         <source>Login to your myTeamSpeak account</source>
-        <translation type="unfinished">登录至你的 myTeamSpeak 账号</translation>
+        <translation type="unfinished">登录 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Link with your %1 account</source>
