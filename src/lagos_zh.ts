@@ -12936,7 +12936,7 @@ Some myTeamSpeak related services are not available.</source>
     </message>
     <message>
         <source>Fallback successfully applied</source>
-        <translation type="unfinished">回国成功</translation>
+        <translation type="unfinished">回滚成功</translation>
     </message>
     <message>
         <source>Fallback failed</source>
