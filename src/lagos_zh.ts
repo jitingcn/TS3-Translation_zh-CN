@@ -295,7 +295,7 @@ After you verified your account, press the Login button.
         <source>English</source>
         <translation>英语 English</translation>
     </message>
-        <message>
+    <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
         <translation>为了使 TeamSpeak 变得更好，我们希望收集一些有关于您的操作系统和硬件配置的统计信息。这些数据将以匿名的方式发送。</translation>
     </message>
