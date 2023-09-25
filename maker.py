@@ -9,7 +9,7 @@ import subprocess
 from urllib import request, parse, error
 from time import strftime, localtime
 
-target_version = "3.6.0"
+target_version = "3.6.2"
 language = "zh"
 cwd = sys.path[0]
 src = f"{cwd + os.sep}src{os.sep}"

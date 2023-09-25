@@ -16,7 +16,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          export TZ=Asia/Shanghai
+          export TZ=Asia/Seoul
           sudo apt-get update -q
           sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools qttools5-dev-tools -y -q
 

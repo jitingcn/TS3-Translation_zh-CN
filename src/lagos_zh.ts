@@ -16,8 +16,8 @@
         <translation>Qt 版本:</translation>
     </message>
     <message>
-        <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation>如需技术支持，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <source>For support please visit our &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
+        <translation>如需技术支持，请访问 &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
@@ -26,7 +26,7 @@
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation>&lt;b&gt;简体中文化 由：&lt;/b&gt; &lt;a href=&quot;https://github.com/jitingcn&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://www.wevg.org/&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/VigorousPro/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
+        <translation>&lt;b&gt;简体中文化 由：&lt;/b&gt; &lt;a href=&quot;https://github.com/jitingcn&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://github.com/edisonjwa&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/VigorousPro/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -295,7 +295,7 @@ After you verified your account, press the Login button.
         <source>English</source>
         <translation>英语 English</translation>
     </message>
-    <message>
+        <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
         <translation>为了使 TeamSpeak 变得更好，我们希望收集一些有关于您的操作系统和硬件配置的统计信息。这些数据将以匿名的方式发送。</translation>
     </message>
@@ -11964,6 +11964,10 @@ This depends of course, on a valid playback and capture device.</source>
     <message>
         <source>Always stay on top</source>
         <translation type="unfinished">保持窗口置顶</translation>
+    </message>
+    <message>
+        <source>Open channel chat automatically</source>
+        <translation type="unfinished">自动打开频道聊天</translation>
     </message>
     <message>
         <source>Enable more options for permission system</source>
