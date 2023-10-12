@@ -51,8 +51,7 @@ diff_nodes.each do |name, messages|
     message_node.add_child(Nokogiri::XML::Node.new("source", zh_doc))
     message_node.xpath("source").first.content = message
     # add emtpy translation node
-    message_node.add_child(Nokogiri::XML::Node.new("translation", zh_doc))
-    message_node.xpath("translation").first.content = ""
+    message_node.add_child('<translation type="unfinished"></translation>')
     context.add_child(message_node)
   end
 end
