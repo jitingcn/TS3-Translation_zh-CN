@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rubyzip (2.3.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  rubyzip
+
+BUNDLED WITH
+   2.4.19
