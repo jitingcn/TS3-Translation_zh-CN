@@ -16,13 +16,13 @@
         <translation>Qt 版本:</translation>
     </message>
     <message>
-        <source>For support please visit our &lt;a href="http://community.teamspeak.com"&gt;forum&lt;/a&gt;</source>
-        <translation>如需技术支持，请访问 &lt;a href="http://community.teamspeak.com"&gt;官方论坛&lt;/a&gt; （英语）</translation>
+        <source>For support please visit our &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
+        <translation>如需技术支持，请访问 &lt;a href=&quot;http://community.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
     </message>
     <message>
         <source>PLACEHOLDER</source>
-        <extracomment>Translators can add their names, copyright notice or links here. If the text stays "PLACEHOLDER", the label will be hidden.</extracomment>
-        <translation>&lt;b&gt;简体中文化 由：&lt;/b&gt; &lt;a href="https://github.com/jitingcn"&gt;寂听&lt;/a&gt; &amp; &lt;a href="https://github.com/edisonjwa"&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href="https://github.com/VigorousPro/TS3-Translation_zh-CN"&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
+        <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
+        <translation>&lt;b&gt;简体中文化 由：&lt;/b&gt; &lt;a href=&quot;https://github.com/jitingcn&quot;&gt;寂听&lt;/a&gt; &amp; &lt;a href=&quot;https://github.com/edisonjwa&quot;&gt;EdisonJwa&lt;/a&gt;&lt;br&gt;如有任何疑问，欢迎到&lt;a href=&quot;https://github.com/VigorousPro/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出建议或修改意见。&lt;br&gt;感谢所有提供帮助的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -161,15 +161,6 @@
         <source>Next</source>
         <translation>下一步</translation>
     </message>
-    <message>
-        <source>Please store your recovery key in a safe place and keep it secret.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is your recovery key for the encryption of your data. 
-It can be used to recover your data in case you lost your account password.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>AccountSetup</name>
@@ -261,13 +252,6 @@ After you verified your account, press the Login button.
     <message>
         <source>Login</source>
         <translation>登录</translation>
-    </message>
-    <message>
-        <source>A verification email has been sent to user@email.com. 
-Check your email and follow the instructions provided to finish creating your TeamSpeak Account.
-After you verified your account, press the Login button.
-</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -675,7 +659,7 @@ To remove a badge drag it from the slot to the list below.</source>
         <translation>权限不足...</translation>
     </message>
     <message>
-        <source>You don't have the permission to edit ban entries from other users.
+        <source>You don&apos;t have the permission to edit ban entries from other users.
 Inserting a modified copy instead.</source>
         <translation>您无权编辑其他用户创建的黑名单条目。
 改为插入修改后的副本。</translation>
@@ -701,14 +685,6 @@ Inserting a modified copy instead.</source>
     <message>
         <source>You have insufficient permissions to view the ban list.</source>
         <translation>您没有足够的权限来查看黑名单列表。</translation>
-    </message>
-    <message>
-        <source>Name/IP/UID/myTSID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>myTSID</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -859,19 +835,6 @@ for example: voice.teamspeak.com:9987</source>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
-    <message>
-        <source>Enables myTeamSpeak features like badges, integration of external accounts and more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hostname or IP of the TeamSpeak 3 server,
-for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server &amp;Address:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CacheClearer</name>
@@ -953,16 +916,8 @@ servers will not be cleared.</source>
         <translation>删除快捷键…</translation>
     </message>
     <message>
-        <source>Capture Profile &lt;strong&gt;"%1"&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation>音频输入配置 &lt;strong&gt;"%1"&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有快捷键？&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;strong&gt;Voice Activity Detection&lt;/strong&gt; automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.&lt;/p&gt;&lt;p&gt;This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;With &lt;strong&gt;Continuous Transmission&lt;/strong&gt; voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activity Detection instead to lower bandwidth usage.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
+        <translation>音频输入配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有快捷键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1078,7 +1033,7 @@ servers will not be cleared.</source>
         <translation>字体颜色</translation>
     </message>
     <message>
-        <source>Press Button to "Preview" the changes in channel info.</source>
+        <source>Press Button to &quot;Preview&quot; the changes in channel info.</source>
         <translation>按下“预览”按钮以查看频道信息的更改。</translation>
     </message>
     <message>
@@ -2076,24 +2031,24 @@ There can be only one default channel for the whole server.</source>
         <translation>此频道的密码。</translation>
     </message>
     <message>
-        <source>Syntax: "&lt;strong&gt;[?Spacer#]Text&lt;/strong&gt;"</source>
-        <translation>格式: "&lt;strong&gt;[?Spacer#]文本&lt;/strong&gt;"</translation>
+        <source>Syntax: &quot;&lt;strong&gt;[?Spacer#]Text&lt;/strong&gt;&quot;</source>
+        <translation>格式: &quot;&lt;strong&gt;[?Spacer#]文本&lt;/strong&gt;&quot;</translation>
     </message>
     <message>
-        <source>Where "?" stands for an alignment (r=right, c=center, l=left),</source>
-        <translation>这里的 "?" 代表对齐位置（r=右，c=中心，l=左），</translation>
+        <source>Where &quot;?&quot; stands for an alignment (r=right, c=center, l=left),</source>
+        <translation>这里的 &quot;?&quot; 代表对齐位置（r=右，c=中心，l=左），</translation>
     </message>
     <message>
-        <source>"*" will repeat the text to fill the whole line.</source>
-        <translation>"*" 文本会被重复填充一整行。</translation>
+        <source>&quot;*&quot; will repeat the text to fill the whole line.</source>
+        <translation>&quot;*&quot; 文本会被重复填充一整行。</translation>
     </message>
     <message>
-        <source>Change "#" to get a unique channel name.</source>
-        <translation>更改 "#" 以获取唯一的频道名称。</translation>
+        <source>Change &quot;#&quot; to get a unique channel name.</source>
+        <translation>更改 &quot;#&quot; 以获取唯一的频道名称。</translation>
     </message>
     <message>
-        <source>Use one of the three-character-blocks as text for a special spacer: "---", "...", "-.-", "___", "-.."</source>
-        <translation>使用以下三连字符作为特殊间隔的文本: "---", "...", "-.-", "___", "-.."</translation>
+        <source>Use one of the three-character-blocks as text for a special spacer: &quot;---&quot;, &quot;...&quot;, &quot;-.-&quot;, &quot;___&quot;, &quot;-..&quot;</source>
+        <translation>使用以下三连字符作为特殊间隔的文本: &quot;---&quot;, &quot;...&quot;, &quot;-.-&quot;, &quot;___&quot;, &quot;-..&quot;</translation>
     </message>
     <message>
         <source>Example:</source>
@@ -2115,20 +2070,16 @@ There can be only one default channel for the whole server.</source>
         <source>Name of this channel displayed in the tree.</source>
         <translation>此频道在频道树中显示的的名称。</translation>
     </message>
-    <message>
-        <source>Talk Power required to speak in this channel.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CreateProfileDialog</name>
     <message>
-        <source>The profile name "All" is prohibited.</source>
-        <translation>禁止使用 "All" 作为配置名称。</translation>
+        <source>The profile name &quot;All&quot; is prohibited.</source>
+        <translation>禁止使用 &quot;All&quot; 作为配置名称。</translation>
     </message>
     <message>
-        <source>The profile name "%1" already exists.</source>
-        <translation>配置 "%1" 已存在。</translation>
+        <source>The profile name &quot;%1&quot; already exists.</source>
+        <translation>配置 &quot;%1&quot; 已存在。</translation>
     </message>
 </context>
 <context>
@@ -2542,19 +2493,19 @@ to chose lower values.</source>
         <translation type="unfinished">TeamSpeak 快捷键系统可能无法正常工作。</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>Don't show again</source>
+        <source>Don&apos;t show again</source>
         <translation>不再显示</translation>
     </message>
     <message>
@@ -2780,8 +2731,8 @@ All files inside the deleted folder(s) will be lost.</source>
         <translation type="unfinished">文件夹名称:</translation>
     </message>
     <message>
-        <source>Upload file contains bad character, skipping upload "%1"</source>
-        <translation type="unfinished">上传的文件存在无法识别的符号,跳过上传 "%1"</translation>
+        <source>Upload file contains bad character, skipping upload &quot;%1&quot;</source>
+        <translation type="unfinished">上传的文件存在无法识别的符号,跳过上传 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -2831,12 +2782,12 @@ All files inside the deleted folder(s) will be lost.</source>
         <translation>等待中</translation>
     </message>
     <message>
-        <source>"%1" - waiting</source>
-        <translation type="unfinished">"%1" - 等待中</translation>
+        <source>&quot;%1&quot; - waiting</source>
+        <translation type="unfinished">&quot;%1&quot; - 等待中</translation>
     </message>
     <message>
-        <source>Queue "%1" %2</source>
-        <translation type="unfinished">排队 "%1" %2</translation>
+        <source>Queue &quot;%1&quot; %2</source>
+        <translation type="unfinished">排队 &quot;%1&quot; %2</translation>
     </message>
     <message>
         <source>- waiting</source>
@@ -2918,9 +2869,9 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message>
         <source>Do you really want to delete
-the file '%1' from your computer?</source>
+the file &apos;%1&apos; from your computer?</source>
         <translation type="unfinished">您确定要从计算机中
-删除文件 '%1' ？</translation>
+删除文件 &apos;%1&apos; ？</translation>
     </message>
     <message>
         <source>Do you really want to delete the
@@ -3369,8 +3320,8 @@ everyone.</source>
         <translation>您真的想要删除联系人 %1 吗？</translation>
     </message>
     <message>
-        <source>Press "[SHIFT + DEL]" to delete without confirmation.</source>
-        <translation>按下 "[SHIFT + DEL]" 强制删除。</translation>
+        <source>Press &quot;[SHIFT + DEL]&quot; to delete without confirmation.</source>
+        <translation>按下 &quot;[SHIFT + DEL]&quot; 强制删除。</translation>
     </message>
 </context>
 <context>
@@ -3410,8 +3361,8 @@ Do you want to restart now?</source>
 <context>
     <name>GatherInfoThread</name>
     <message>
-        <source>Upload contains bad character, skipping upload "%1"</source>
-        <translation>上传内容包含错误字符，跳过上传 "%1"</translation>
+        <source>Upload contains bad character, skipping upload &quot;%1&quot;</source>
+        <translation>上传内容包含错误字符，跳过上传 &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -3480,18 +3431,18 @@ Do you want to restart now?</source>
         <translation type="unfinished">数据: 0</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt; color:#aa0000;"&gt;You are about to transfer a large amount of files!&lt;/span&gt;&lt;/p&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt; color:#aa0000;"&gt;We suggest to combine the files using a compressor...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;You are about to transfer a large amount of files!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;We suggest to combine the files using a compressor...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt; color:#aa0000;"&gt;您即将传输大量文件！&lt;/span&gt;&lt;/p&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:8pt; color:#aa0000;"&gt;我们建议您使用压缩工具打包文件…&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;您即将传输大量文件！&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;我们建议您使用压缩工具打包文件…&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Autostart when ready</source>
@@ -4055,15 +4006,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">关闭(&amp;C)</translation>
     </message>
     <message>
-        <source>Would you like to add %1 for "%2" as well?</source>
+        <source>Would you like to add %1 for &quot;%2&quot; as well?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>an "&lt;strong&gt;Up-Key&lt;/strong&gt;"</source>
+        <source>an &quot;&lt;strong&gt;Up-Key&lt;/strong&gt;&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a "&lt;strong&gt;Down-Key&lt;/strong&gt;"</source>
+        <source>a &quot;&lt;strong&gt;Down-Key&lt;/strong&gt;&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4075,7 +4026,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">&lt;strong&gt;启用&lt;/strong&gt;</translation>
     </message>
     <message>
-        <source>Add another "%1" key automatically?</source>
+        <source>Add another &quot;%1&quot; key automatically?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4089,8 +4040,8 @@ p, li { white-space: pre-wrap; }
 (ESC取消)</translation>
     </message>
     <message>
-        <source>&lt;p style='white-space:nowrap'&gt;&lt;font color='red'&gt;Warning: Discarding "On key release" can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style='white-space:nowrap'&gt;&lt;font color='red'&gt;警告: 舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
+        <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;警告: 舍弃“当按键松开时”设置 会导致系统无法预料的行为！&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Hint:&lt;/strong&gt; If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!</source>
@@ -4312,14 +4263,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>To be able to use hotkeys on Mac, you need to open the System preferences
-"Security &amp; Privacy" page, select tab "Privacy", select "Accessibility"
-and check "TeamSpeak 3 Client". If it does not exist in the list, drag&amp;drop
+&quot;Security &amp; Privacy&quot; page, select tab &quot;Privacy&quot;, select &quot;Accessibility&quot;
+and check &quot;TeamSpeak 3 Client&quot;. If it does not exist in the list, drag&amp;drop
 it from your Applications folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To be able to use hotkeys on Mac, you need to open the System preferences
-"Universal Access" page and make sure "Enable access for assistive devices"
+&quot;Universal Access&quot; page and make sure &quot;Enable access for assistive devices&quot;
 is turned on.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4328,7 +4279,7 @@ is turned on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hotkey Profile &lt;strong&gt;"%1"&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
+        <source>Hotkey Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4396,11 +4347,6 @@ The maximum allowed file size is %1 kB.</source>
     <message>
         <source>Select one or more images to upload</source>
         <translation type="unfinished">选择上传一张或更多的图片</translation>
-    </message>
-    <message>
-        <source>Selected icon is too large.
-The maximum size is %1x%2 pixels.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4485,9 +4431,9 @@ The maximum size is %1x%2 pixels.</source>
         <translation type="unfinished">身份安全等级</translation>
     </message>
     <message>
-        <source>&lt;span style="color:red;"&gt;Insufficient identity security level for this server.&lt;br&gt;
+        <source>&lt;span style=&quot;color:red;&quot;&gt;Insufficient identity security level for this server.&lt;br&gt;
 You need to improve your identity security level.&lt;/span&gt;</source>
-        <translation type="unfinished">&lt;span style="color:red;"&gt;没有足够的身份安全级别访问这个服务器。&lt;br&gt;
+        <translation type="unfinished">&lt;span style=&quot;color:red;&quot;&gt;没有足够的身份安全级别访问这个服务器。&lt;br&gt;
 您需要提高身份安全级别。&lt;/span&gt;</translation>
     </message>
     <message>
@@ -4826,166 +4772,6 @@ You need to improve your identity security level.&lt;/span&gt;</source>
         <source>Refresh available every 5 seconds</source>
         <translation type="unfinished">每5秒可以刷新一次</translation>
     </message>
-    <message>
-        <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(estimated bitrate: %1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>-%1 reserved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel Group:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel will be deleted in %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec Quality:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Codec:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Channels:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Queries:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom nickname:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Description:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flags:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>License:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Licensed hosting provider</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Max Family Clients:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Non-profit license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offline license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online since:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Platform:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reason for Talk Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required Talk Power:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server Group(s):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Standard Server License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Talk Power Request:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Topic:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total Client Connections: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total ServerQuery Connections: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uptime:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Voice Data Encryption:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume modifier:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>InvitationDialog</name>
@@ -5114,16 +4900,16 @@ Current: %1</source>
         <translation>离开此服务器</translation>
     </message>
     <message>
-        <source>&lt;p style="color:red;"&gt;Your message has not been sent. Message limit has been exceeded.&lt;/p&gt;</source>
-        <translation>&lt;p style="color:red;"&gt;您的信息未发送。已超出发信限制。&lt;/p&gt;</translation>
+        <source>&lt;p style=&quot;color:red;&quot;&gt;Your message has not been sent. Message limit has been exceeded.&lt;/p&gt;</source>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;您的信息未发送。已超出发信限制。&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p style="color:blue;"&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style="color:blue;"&gt;内置命令: /close, /clear, /exit&lt;br&gt;插件命令: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
+        <source>&lt;p style=&quot;color:blue;&quot;&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p style=&quot;color:blue;&quot;&gt;内置命令: /close, /clear, /exit&lt;br&gt;插件命令: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;span style="color:red;"&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
-        <translation type="unfinished">&lt;span style="color:red;"&gt;无效的命令或缺少参数: %1&lt;/span&gt;</translation>
+        <source>&lt;span style=&quot;color:red;&quot;&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
+        <translation type="unfinished">&lt;span style=&quot;color:red;&quot;&gt;无效的命令或缺少参数: %1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones on all servers</source>
@@ -5178,8 +4964,8 @@ Current: %1</source>
         <translation>波形文件 (*.wav)</translation>
     </message>
     <message>
-        <source>Transfer "%1" reports: (%2)</source>
-        <translation type="unfinished">传输 "%1" 报告: (%2)</translation>
+        <source>Transfer &quot;%1&quot; reports: (%2)</source>
+        <translation type="unfinished">传输 &quot;%1&quot; 报告: (%2)</translation>
     </message>
     <message>
         <source>Question</source>
@@ -5811,22 +5597,6 @@ Current: %1</source>
         <source>Failed to start Overwolf</source>
         <translation>启动 Overwolf 失败</translation>
     </message>
-    <message>
-        <source>&lt;p style="color:blue;"&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&lt;plugin-command-keyword&gt; &lt;plugin-command&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;This is the last TeamSpeak version available for Windows XP.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows Vista or newer.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visit the TeamSpeak community forum at community.teamspeak.com</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visit the TeamSpeak webpage at www.teamspeak.com</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>MasterVolumeWidget</name>
@@ -5917,8 +5687,8 @@ Current: %1</source>
 <context>
     <name>MicPermissionDialog</name>
     <message>
-        <source>Unfortunately, the operating system denied access to the microphone.&lt;br&gt;Click &lt;a href = "#open_os_permissions"&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
-        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。&lt;br&gt;点击 &lt;a href = "#open_os_permissions"&gt;这里&lt;/a&gt; 打开 Windows 隐私设置并允许应用程序使用它。</translation>
+        <source>Unfortunately, the operating system denied access to the microphone.&lt;br&gt;Click &lt;a href = &quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
+        <translation type="unfinished">抱歉，操作系统拒绝对麦克风的访问。&lt;br&gt;点击 &lt;a href = &quot;#open_os_permissions&quot;&gt;这里&lt;/a&gt; 打开 Windows 隐私设置并允许应用程序使用它。</translation>
     </message>
     <message>
         <source>Unfortunately, the operating system denied access to the microphone. Please check your permission settings.</source>
@@ -5993,8 +5763,8 @@ Current: %1</source>
         <translation type="unfinished">用作所有书签的默认值</translation>
     </message>
     <message>
-        <source>Hint: The Sound Pack can be overwritten for each &lt;a href="jumpTo:OpenBookmarks"&gt;Bookmark&lt;/a&gt;.</source>
-        <translation type="unfinished">提示: 音效包可以覆盖每个单独的&lt;a href="jump To:Open Bookmarks"&gt;书签&lt;/a&gt;。</translation>
+        <source>Hint: The Sound Pack can be overwritten for each &lt;a href=&quot;jumpTo:OpenBookmarks&quot;&gt;Bookmark&lt;/a&gt;.</source>
+        <translation type="unfinished">提示: 音效包可以覆盖每个单独的&lt;a href=&quot;jump To:Open Bookmarks&quot;&gt;书签&lt;/a&gt;。</translation>
     </message>
     <message>
         <source>Play selected sound (Alt+P)</source>
@@ -6469,8 +6239,8 @@ Current: %1</source>
         <translation type="unfinished">没有声音脚本可用</translation>
     </message>
     <message>
-        <source>&lt;strong&gt;File "%1" not found&lt;/strong&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;找不到文件 "%1&lt;/strong&gt;</translation>
+        <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
+        <translation type="unfinished">&lt;strong&gt;找不到文件 &quot;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>No entry selected</source>
@@ -6595,8 +6365,8 @@ Current: %1</source>
         <translation type="unfinished">未读消息…</translation>
     </message>
     <message>
-        <source>Do you really want to delete the unread message&lt;br&gt;with subject: &lt;strong&gt;"%1"&lt;/strong&gt;?</source>
-        <translation type="unfinished">您确实要删除主题为&lt;strong&gt;"%1"&lt;/strong&gt;的未读消息吗？</translation>
+        <source>Do you really want to delete the unread message&lt;br&gt;with subject: &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;?</source>
+        <translation type="unfinished">您确实要删除主题为&lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;的未读消息吗？</translation>
     </message>
     <message>
         <source>New message</source>
@@ -6664,11 +6434,11 @@ Current: %1</source>
         <translation type="unfinished">您没有权限在此服务器上搜索用户，所以您只能使用当前存在的联系人。</translation>
     </message>
     <message>
-        <source>A nickname is unknown on this server or couldn't be identified.</source>
+        <source>A nickname is unknown on this server or couldn&apos;t be identified.</source>
         <translation type="unfinished">在此服务器上未找到或无法识别该昵称。</translation>
     </message>
     <message>
-        <source>You don't have the permission to send offline messages.</source>
+        <source>You don&apos;t have the permission to send offline messages.</source>
         <translation type="unfinished">您没有足够的权限来发送离线消息。</translation>
     </message>
     <message>
@@ -6680,9 +6450,9 @@ Current: %1</source>
         <translation type="unfinished">回复离线消息</translation>
     </message>
     <message>
-        <source>"%1" wrote:
+        <source>&quot;%1&quot; wrote:
 </source>
-        <translation type="unfinished">"%1" 写道:
+        <translation type="unfinished">&quot;%1&quot; 写道:
 </translation>
     </message>
     <message>
@@ -6719,8 +6489,8 @@ Do you want to cancel?</source>
         <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
-        <source>&lt;p&gt;The "%1" settings have been modified.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;"%1" 设置已被修改。&lt;/p&gt;&lt;p&gt;你想要 &lt;strong&gt;保存&lt;/strong&gt;, &lt;strong&gt;丢弃&lt;/strong&gt; 你的更改&lt;br&gt;或者 &lt;strong&gt;放弃&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
+        <source>&lt;p&gt;The &quot;%1&quot; settings have been modified.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;&quot;%1&quot; 设置已被修改。&lt;/p&gt;&lt;p&gt;你想要 &lt;strong&gt;保存&lt;/strong&gt;, &lt;strong&gt;丢弃&lt;/strong&gt; 你的更改&lt;br&gt;或者 &lt;strong&gt;放弃&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -6845,7 +6615,7 @@ Do you want to cancel?</source>
         <translation type="unfinished">忽略</translation>
     </message>
     <message>
-        <source>&lt;p style="color:red;"&gt;You are about to delete the template group &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;This can ruin your permissions setup.&lt;/p&gt;</source>
+        <source>&lt;p style=&quot;color:red;&quot;&gt;You are about to delete the template group &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;This can ruin your permissions setup.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6880,7 +6650,7 @@ Do you want to cancel?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copying group &lt;span style="font-weight:bold;"&gt;%1&lt;/span&gt;</source>
+        <source>Copying group &lt;span style=&quot;font-weight:bold;&quot;&gt;%1&lt;/span&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6996,7 +6766,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 in channel "%2"</source>
+        <source>%1 in channel &quot;%2&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7043,13 +6813,13 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you really want to delete "%1"
-from server group "%2"?</source>
+        <source>Do you really want to delete &quot;%1&quot;
+from server group &quot;%2&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you really want to delete multiple clients
-from server group "%1"?</source>
+from server group &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7470,16 +7240,16 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">停止测试音(&amp;T)</translation>
     </message>
     <message>
-        <source>&lt;strong&gt;File "%1" not found&lt;/strong&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;未找到文件 "%1"&lt;/strong&gt;</translation>
+        <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
+        <translation type="unfinished">&lt;strong&gt;未找到文件 &quot;%1&quot;&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
         <translation type="unfinished">删除快捷键…</translation>
     </message>
     <message>
-        <source>Playback Profile &lt;strong&gt;"%1"&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished">输出配置 &lt;strong&gt;"%1"&lt;/strong&gt; 被删除。您是否想要一并删除分配给此配置的所有快捷键？&lt;/p&gt;</translation>
+        <source>Playback Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
+        <translation type="unfinished">输出配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 被删除。您是否想要一并删除分配给此配置的所有快捷键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -7531,8 +7301,8 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">未保存的修改</translation>
     </message>
     <message>
-        <source>You have unsaved changes to profile "&lt;strong&gt;%1&lt;/strong&gt;".&lt;BR&gt;Do you wish to apply them?</source>
-        <translation type="unfinished">您的配置 "&lt;strong&gt;%1&lt;/strong&gt;"还没有保存.&lt;BR&gt;您打算应用他们吗?</translation>
+        <source>You have unsaved changes to profile &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Do you wish to apply them?</source>
+        <translation type="unfinished">您的配置 &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;还没有保存.&lt;BR&gt;您打算应用他们吗?</translation>
     </message>
     <message>
         <source>profile</source>
@@ -7547,8 +7317,8 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">超过最大的 %1 同步的快捷键配置</translation>
     </message>
     <message>
-        <source>You have unsaved changes to profile "&lt;strong&gt;%1&lt;/strong&gt;".&lt;BR&gt;Do you really want to delete the profile?</source>
-        <translation type="unfinished">您的配置 "&lt;strong&gt;%1&lt;/strong&gt;"还没有保存.&lt;BR&gt;您打算删除该配置吗?</translation>
+        <source>You have unsaved changes to profile &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Do you really want to delete the profile?</source>
+        <translation type="unfinished">您的配置 &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;还没有保存.&lt;BR&gt;您打算删除该配置吗?</translation>
     </message>
     <message>
         <source> profile </source>
@@ -7630,7 +7400,7 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">国家</translation>
     </message>
     <message>
-        <source>The directory "&lt;strong&gt;%1&lt;/strong&gt;" is not writable and cannot be used to place downloads!</source>
+        <source>The directory &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; is not writable and cannot be used to place downloads!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7642,7 +7412,7 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">选择下载文件夹</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;TeamSpeak fails to start because it cannot find any port.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please see our &lt;a href="https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port"&gt;knowledge base&lt;/a&gt; for further details.&lt;/p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;TeamSpeak fails to start because it cannot find any port.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please see our &lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port&quot;&gt;knowledge base&lt;/a&gt; for further details.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7658,7 +7428,7 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished">向上</translation>
     </message>
     <message>
-        <source>&lt;p&gt;We found a DLL which was injected by "Lavasoft Ad-Aware".&lt;/p&gt;&lt;p&gt;Lavasoft Ad-Aware can possibly cause the TeamSpeak client to crash. If you experience any issues, you may need to uninstall Ad-Aware.&lt;/p&gt;</source>
+        <source>&lt;p&gt;We found a DLL which was injected by &quot;Lavasoft Ad-Aware&quot;.&lt;/p&gt;&lt;p&gt;Lavasoft Ad-Aware can possibly cause the TeamSpeak client to crash. If you experience any issues, you may need to uninstall Ad-Aware.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7722,7 +7492,7 @@ Would you like to create an invitation instead?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory "&lt;strong&gt;%1&lt;/strong&gt;" cannot be opened.&lt;br&gt;Do you want to change it?</source>
+        <source>The directory &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; cannot be opened.&lt;br&gt;Do you want to change it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7843,7 +7613,7 @@ This can NOT be undone</source>
         <translation type="unfinished">错误</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Failed to start "%1".&lt;/p&gt;&lt;p&gt;Please start createfileassoc.exe manually.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ignore&lt;/strong&gt; to not show this message again.&lt;/p&gt;</source>
+        <source>&lt;p&gt;Failed to start &quot;%1&quot;.&lt;/p&gt;&lt;p&gt;Please start createfileassoc.exe manually.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ignore&lt;/strong&gt; to not show this message again.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7858,10 +7628,6 @@ This can NOT be undone</source>
         <source>Failed to initialize data backend.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Continue without logging in</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>RecorderLabel</name>
@@ -7874,7 +7640,7 @@ This can NOT be undone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Warning, your key combination &lt;strong&gt;"%1"&lt;/strong&gt; overlaps with an&lt;br&gt;existing Key-Binding or is already bound!&lt;br&gt;&lt;br&gt;Do you want to proceed?</source>
+        <source>Warning, your key combination &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; overlaps with an&lt;br&gt;existing Key-Binding or is already bound!&lt;br&gt;&lt;br&gt;Do you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7900,32 +7666,24 @@ This can NOT be undone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for channel "%1" was not found.</source>
+        <source>The icon for channel &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for client "%1" was not found.</source>
+        <source>The icon for client &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for server group "%1" was not found.</source>
+        <source>The icon for server group &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The icon for channel group "%1" was not found.</source>
+        <source>The icon for channel group &quot;%1&quot; was not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown</source>
         <translation>未知</translation>
-    </message>
-    <message>
-        <source>The icon for channel "%1" (%2) was not found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The icon for client "%1" (%2) was not found.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8121,7 +7879,7 @@ Are you sure you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;p style="font-weight:bold;font-size:large;color:red;text-align:center;"&gt;Changing own groups&lt;/p&gt;</source>
+        <source>&lt;p style=&quot;font-weight:bold;font-size:large;color:red;text-align:center;&quot;&gt;Changing own groups&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8585,16 +8343,16 @@ Press Enter to apply filter.</source>
         <translation type="unfinished">如果跳过此步骤，可以稍后访问设置以执行新登录</translation>
     </message>
     <message>
-        <source>Invalid server address: &lt;span class='TextMessage_HostName'&gt;%1:%2&lt;/span&gt;</source>
-        <translation type="unfinished">服务器地址无效: &lt;span class='TextMessage_HostName'&gt;%1:%2&lt;/span&gt;</translation>
+        <source>Invalid server address: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</source>
+        <translation type="unfinished">服务器地址无效: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</translation>
     </message>
     <message>
-        <source>Trying to resolve hostname &lt;span class='TextMessage_HostName'&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished">尝试解析主机名 &lt;span class='TextMessage_HostName'&gt;%1&lt;/span&gt;</translation>
+        <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
+        <translation type="unfinished">尝试解析主机名 &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
-        <source>Aborting connection attempt to '%1', already connecting</source>
-        <translation type="unfinished">中止尝试连接 '%1'，已经连接</translation>
+        <source>Aborting connection attempt to &apos;%1&apos;, already connecting</source>
+        <translation type="unfinished">中止尝试连接 &apos;%1&apos;，已经连接</translation>
     </message>
     <message>
         <source>This server configuration is deprecated. Support for this configuration will be dropped in the future.</source>
@@ -8605,12 +8363,12 @@ Press Enter to apply filter.</source>
         <translation type="unfinished">请联系您的服务器管理员。有关详细信息，请参阅此 %1知识库%2文章。</translation>
     </message>
     <message>
-        <source>The TSDNS server '%1' does not know '%2'</source>
-        <translation type="unfinished">TSDNS服务器 '%1' 找不到 '%2'</translation>
+        <source>The TSDNS server &apos;%1&apos; does not know &apos;%2&apos;</source>
+        <translation type="unfinished">TSDNS服务器 &apos;%1&apos; 找不到 &apos;%2&apos;</translation>
     </message>
     <message>
-        <source>Failed to resolve hostname '%1'</source>
-        <translation type="unfinished">无法解析主机名 '%1'</translation>
+        <source>Failed to resolve hostname &apos;%1&apos;</source>
+        <translation type="unfinished">无法解析主机名 &apos;%1&apos;</translation>
     </message>
     <message>
         <source>No server</source>
@@ -8625,7 +8383,7 @@ Press Enter to apply filter.</source>
         <translation type="unfinished">刷新文件列表时出错: %1</translation>
     </message>
     <message>
-        <source>You don't have permissions to send channel chat messages, failed to send text message.</source>
+        <source>You don&apos;t have permissions to send channel chat messages, failed to send text message.</source>
         <translation type="unfinished">您当前无权发送频道聊天消息，无法发送文字信息。</translation>
     </message>
     <message>
@@ -8633,7 +8391,7 @@ Press Enter to apply filter.</source>
         <translation type="unfinished">权限不足...</translation>
     </message>
     <message>
-        <source>You don't have the permission to send server text messages.
+        <source>You don&apos;t have the permission to send server text messages.
 Do you want to send a channel chat message instead?</source>
         <translation type="unfinished">您无权发送服务器信息。
 您想要发送频道聊天消息吗？</translation>
@@ -8663,8 +8421,8 @@ Do you want to send a channel chat message instead?</source>
         <translation type="unfinished">服务器配置改变</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;The identity of this server has changed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This could have one of these reasons:&lt;ul style="margin-left:-2em"&gt;&lt;li&gt;A new TeamSpeak server is running at this address.&lt;/li&gt;&lt;li&gt;The security of your connection to this server is compromised,&lt;br&gt;a man-in-the-middle attack is taking place.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Do you want to accept the new identity and remain connected?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;此服务器的身份识别已更改。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这可能是以下原因引起的:&lt;ul style="margin-left:-2em"&gt;&lt;li&gt;新的 TeamSpeak 服务器正在此地址运行。&lt;/li&gt;&lt;li&gt;您与此服务器的连接安全性受到影响，&lt;br&gt;服务器正在遭受中间人攻击。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;您想接受新的服务器标识并保持连接吗？&lt;/p&gt;</translation>
+        <source>&lt;p&gt;&lt;strong&gt;The identity of this server has changed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This could have one of these reasons:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;A new TeamSpeak server is running at this address.&lt;/li&gt;&lt;li&gt;The security of your connection to this server is compromised,&lt;br&gt;a man-in-the-middle attack is taking place.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Do you want to accept the new identity and remain connected?&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;&lt;strong&gt;此服务器的身份识别已更改。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;这可能是以下原因引起的:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;新的 TeamSpeak 服务器正在此地址运行。&lt;/li&gt;&lt;li&gt;您与此服务器的连接安全性受到影响，&lt;br&gt;服务器正在遭受中间人攻击。&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;您想接受新的服务器标识并保持连接吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>You have %1</source>
@@ -8711,8 +8469,8 @@ Would you like to continue?</source>
 您想继续吗？</translation>
     </message>
     <message>
-        <source>You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery is registered for private text messages events with "servernotifyregister event=textprivate".</source>
-        <translation type="unfinished">您正在尝试与 ServerQuery 客户端聊天。请注意，只有在使用 "servernotifyregister event = textprivate" 为私有文本消息事件注册 ServerQuery 时，才会收到文本消息。</translation>
+        <source>You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery is registered for private text messages events with &quot;servernotifyregister event=textprivate&quot;.</source>
+        <translation type="unfinished">您正在尝试与 ServerQuery 客户端聊天。请注意，只有在使用 &quot;servernotifyregister event = textprivate&quot; 为私有文本消息事件注册 ServerQuery 时，才会收到文本消息。</translation>
     </message>
     <message>
         <source>Kick from Channel</source>
@@ -8763,8 +8521,8 @@ Would you like to continue?</source>
         <translation type="unfinished">权限密钥使用成功。</translation>
     </message>
     <message>
-        <source>&lt;p style="color:red;"&gt;Invalid Privilege Key.&lt;/p&gt;&lt;p&gt;Either you entered an invalid Privilege Key or it has already been used.&lt;br&gt;Remember a Privilege Key can be used only once.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style="color:red;"&gt;无效的权限密钥&lt;/p&gt;&lt;p&gt;您输入了无效的权限密钥或密钥已被使用。&lt;br&gt;请记住，权限密钥只能使用一次。&lt;/p&gt;</translation>
+        <source>&lt;p style=&quot;color:red;&quot;&gt;Invalid Privilege Key.&lt;/p&gt;&lt;p&gt;Either you entered an invalid Privilege Key or it has already been used.&lt;br&gt;Remember a Privilege Key can be used only once.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p style=&quot;color:red;&quot;&gt;无效的权限密钥&lt;/p&gt;&lt;p&gt;您输入了无效的权限密钥或密钥已被使用。&lt;br&gt;请记住，权限密钥只能使用一次。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Failed to use Privilege Key: %1</source>
@@ -8799,8 +8557,8 @@ Would you like to continue?</source>
         <translation type="unfinished">TeamSpeak 服务器无法验证您的 myTeamSpeak ID</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;"%1"&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;"%1"&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;</translation>
+        <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;您即将离开服务器组 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;您可能无法自己重新加入此群组！&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Leaving a group</source>
@@ -8843,8 +8601,8 @@ Would you like to continue?</source>
         <translation type="unfinished">警告</translation>
     </message>
     <message>
-        <source>&lt;p&gt;This server version is outdated.&lt;/p&gt;&lt;p style="color:red;font-weight:bold;"&gt;Recent versions of the TeamSpeak Client will not function properly on this server.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Please contact the hoster to update this TeamSpeak server.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;此服务器版本已经过时。&lt;/p&gt;&lt;p style="color:red;font-weight:bold;"&gt;最新版本的 TeamSpeak 客户端无法在此服务器上正常运行。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;请联系服务提供者以更新此 TeamSpeak 服务器。&lt;/p&gt;</translation>
+        <source>&lt;p&gt;This server version is outdated.&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;Recent versions of the TeamSpeak Client will not function properly on this server.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Please contact the hoster to update this TeamSpeak server.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;此服务器版本已经过时。&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;最新版本的 TeamSpeak 客户端无法在此服务器上正常运行。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;请联系服务提供者以更新此 TeamSpeak 服务器。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Connected to Server: %1</source>
@@ -8859,8 +8617,8 @@ Would you like to continue?</source>
         <translation type="unfinished">&lt;p&gt;此服务器版本已过时。&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p&gt;The following features are known to not function properly:&lt;/p&gt;&lt;ul style="margin-left:-25;"&gt;</source>
-        <translation type="unfinished">&lt;p&gt;已知以下功能无法正常运行:&lt;/p&gt;&lt;ul style="margin-left:-25;"&gt;</translation>
+        <source>&lt;p&gt;The following features are known to not function properly:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</source>
+        <translation type="unfinished">&lt;p&gt;已知以下功能无法正常运行:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Sending and receiving text chat messages&lt;/li&gt;</source>
@@ -8875,8 +8633,8 @@ Would you like to continue?</source>
         <translation type="unfinished">&lt;li&gt;可能不会显示权限组的成员&lt;/li&gt;</translation>
     </message>
     <message>
-        <source>&lt;li style="color:red;font-weight:bold;"&gt;Voice transmission can be corrupted, this server cannot be used with this client. The server should be updated.&lt;/li&gt;</source>
-        <translation type="unfinished">&lt;li style="color:red;font-weight:bold;"&gt;语音传输可能已损坏，此服务器无法与此客户端使用。服务器应该进行更新。&lt;/li&gt;</translation>
+        <source>&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;Voice transmission can be corrupted, this server cannot be used with this client. The server should be updated.&lt;/li&gt;</source>
+        <translation type="unfinished">&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;语音传输可能已损坏，此服务器无法与此客户端使用。服务器应该进行更新。&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Certain characters in text messages are transmitted incorrectly&lt;/li&gt;</source>
@@ -8979,16 +8737,16 @@ Would you like to continue?</source>
         <translation type="unfinished">停止多轨录音</translation>
     </message>
     <message>
-        <source>Your description has been changed to "%1".</source>
-        <translation type="unfinished">您的个人简介已更改为 "%1"。</translation>
+        <source>Your description has been changed to &quot;%1&quot;.</source>
+        <translation type="unfinished">您的个人简介已更改为 &quot;%1&quot;。</translation>
     </message>
     <message>
         <source>Your description has been removed.</source>
         <translation type="unfinished">您的个人简介已移除。</translation>
     </message>
     <message>
-        <source>Your description has been changed to "%1" by %2.</source>
-        <translation type="unfinished">您的个人简介已被 %2 更改为 "%1"。</translation>
+        <source>Your description has been changed to &quot;%1&quot; by %2.</source>
+        <translation type="unfinished">您的个人简介已被 %2 更改为 &quot;%1&quot;。</translation>
     </message>
     <message>
         <source>Your description has been removed by %1.</source>
@@ -9111,16 +8869,16 @@ Would you like to continue?</source>
         <translation type="unfinished">服务器被关闭: %1</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;div class="TextMessage_Poke"&gt;&lt;span class="TextMessage_Time"&gt;%1&lt;/span&gt; - %2 pokes you: %3&lt;/div&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;div class="TextMessage_Poke"&gt;&lt;span class="TextMessage_Time"&gt;%1&lt;/span&gt; - %2 戳了你一下并说: %3&lt;/div&gt;&lt;/p&gt;</translation>
+        <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you: %3&lt;/div&gt;&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 戳了你一下并说: %3&lt;/div&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 pokes you: %2</source>
         <translation type="unfinished">%1 戳了你一下: %2</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;div class="TextMessage_Poke"&gt;&lt;span class="TextMessage_Time"&gt;%1&lt;/span&gt; - %2 pokes you.&lt;/div&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;div class="TextMessage_Poke"&gt;&lt;span class="TextMessage_Time"&gt;%1&lt;/span&gt; - %2 戳了你一下。&lt;/div&gt;&lt;/p&gt;</translation>
+        <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you.&lt;/div&gt;&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 戳了你一下。&lt;/div&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 pokes you</source>
@@ -9147,16 +8905,16 @@ Would you like to continue?</source>
         <translation type="unfinished">[从 %1 继承]</translation>
     </message>
     <message>
-        <source>Channel group "%1"%2 was assigned to %3 by %4.</source>
-        <translation type="unfinished">频道组 "%1"%2 被 %4 授予给 %3。</translation>
+        <source>Channel group &quot;%1&quot;%2 was assigned to %3 by %4.</source>
+        <translation type="unfinished">频道组 &quot;%1&quot;%2 被 %4 授予给 %3。</translation>
     </message>
     <message>
-        <source>%2 was added to server group "%1" by %3.</source>
-        <translation type="unfinished">%2 被 %3 添加至服务器组 "%1" 。</translation>
+        <source>%2 was added to server group &quot;%1&quot; by %3.</source>
+        <translation type="unfinished">%2 被 %3 添加至服务器组 &quot;%1&quot; 。</translation>
     </message>
     <message>
-        <source>%2 was removed from server group "%1" by %3.</source>
-        <translation type="unfinished">%2 被 %3 移出服务器组 "%1" 。</translation>
+        <source>%2 was removed from server group &quot;%1&quot; by %3.</source>
+        <translation type="unfinished">%2 被 %3 移出服务器组 &quot;%1&quot; 。</translation>
     </message>
     <message>
         <source>Chat partner has closed the conversation</source>
@@ -9195,7 +8953,7 @@ Would you like to continue?</source>
         <translation type="unfinished">离开</translation>
     </message>
     <message>
-        <source>This ServerQuery client did not register for the private text message event using "servernotifyregister event=textprivate". The text message was not received.</source>
+        <source>This ServerQuery client did not register for the private text message event using &quot;servernotifyregister event=textprivate&quot;. The text message was not received.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9703,8 +9461,8 @@ Would you like to continue?</source>
         <translation type="unfinished">设置服务器组</translation>
     </message>
     <message>
-        <source>Trying to connect to server on &lt;span class='TextMessage_HostName'&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished">尝试连接服务器… &lt;span class='TextMessage_HostName'&gt;%1&lt;/span&gt;</translation>
+        <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
+        <translation type="unfinished">尝试连接服务器… &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>You need to setup your identity.</source>
@@ -9735,8 +9493,8 @@ Would you like to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are now known as "%1"</source>
-        <translation type="unfinished">您现在称为 "%1"</translation>
+        <source>You are now known as &quot;%1&quot;</source>
+        <translation type="unfinished">您现在称为 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -9755,8 +9513,8 @@ Would you like to continue?</source>
         <translation>&lt;p&gt;如需请求发言权限, 右键单击您的名字并在弹出的菜单中选择 &lt;strong&gt;请求发言权限&lt;/strong&gt;。 等待管理员赋予您发言权限。&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p style="color:red;"&gt;This server requires a newer client version.&lt;/p&gt;&lt;p&gt;Please update your client or visit &lt;a href="www.teamspeak.com"&gt;www.teamspeak.com&lt;/a&gt; to download the latest version.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
-        <translation>&lt;p style="color:red;"&gt;该服务器需要较新的客户端版本。&lt;/p&gt;&lt;p&gt;请更新您的客户端或访问 &lt;a href="www.teamspeak.com"&gt;www.teamspeak.com&lt;/a&gt; 以下载最新版本。&lt;/p&gt;&lt;p&gt;您现在要检查更新吗？&lt;/p&gt;</translation>
+        <source>&lt;p style=&quot;color:red;&quot;&gt;This server requires a newer client version.&lt;/p&gt;&lt;p&gt;Please update your client or visit &lt;a href=&quot;www.teamspeak.com&quot;&gt;www.teamspeak.com&lt;/a&gt; to download the latest version.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;该服务器需要较新的客户端版本。&lt;/p&gt;&lt;p&gt;请更新您的客户端或访问 &lt;a href=&quot;www.teamspeak.com&quot;&gt;www.teamspeak.com&lt;/a&gt; 以下载最新版本。&lt;/p&gt;&lt;p&gt;您现在要检查更新吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>The TeamSpeak server version is outdated. Please contact your hoster to update the server.</source>
@@ -9815,16 +9573,16 @@ Would you like to continue?</source>
         <translation type="unfinished">此服务器</translation>
     </message>
     <message>
-        <source>Turning Push-To-Talk on, "force-push-to-talk" permission was assigned.</source>
-        <translation type="unfinished">按键通话已打开，分配了"强制按键通话"权限。</translation>
+        <source>Turning Push-To-Talk on, &quot;force-push-to-talk&quot; permission was assigned.</source>
+        <translation type="unfinished">按键通话已打开，分配了&quot;强制按键通话&quot;权限。</translation>
     </message>
     <message>
-        <source>Turning Voice Activation on, "force-push-to-talk" permission has been removed.</source>
-        <translation type="unfinished">语音检测通话已打开，"强制按键通话"权限已被移除。</translation>
+        <source>Turning Voice Activation on, &quot;force-push-to-talk&quot; permission has been removed.</source>
+        <translation type="unfinished">语音检测通话已打开，&quot;强制按键通话&quot;权限已被移除。</translation>
     </message>
     <message>
-        <source>Turning Continuous Transmission on, "force-push-to-talk" permission has been removed.</source>
-        <translation type="unfinished">持续传输已打开，"强制按键通话"权限已被移除。</translation>
+        <source>Turning Continuous Transmission on, &quot;force-push-to-talk&quot; permission has been removed.</source>
+        <translation type="unfinished">持续传输已打开，&quot;强制按键通话&quot;权限已被移除。</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Note: This channel contains files.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;</source>
@@ -9849,50 +9607,6 @@ Would you like to continue?</source>
     <message>
         <source>Confirmation</source>
         <translation>确认</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You entered a moderated channel. You can only speak if &lt;strong&gt;Talk Power&lt;/strong&gt; has been granted to you.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You have connected to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MyTeamSpeak session expired</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Talk Power granted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Talk Power granted by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Talk Power revoked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Talk Power revoked by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Turning Voice Detection on, "force-push-to-talk" permission has been removed.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9986,7 +9700,7 @@ Would you like to continue?</source>
         </translation>
     </message>
     <message>
-        <source>If you click "No", you will be asked again after the next login.</source>
+        <source>If you click &quot;No&quot;, you will be asked again after the next login.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10157,9 +9871,9 @@ Do you want to apply your changes?</source>
         <translation type="unfinished">显示离线消息</translation>
     </message>
     <message numerus="yes">
-        <source>&lt;p style='white-space:nowrap'&gt;You have &lt;strong&gt;%n&lt;/strong&gt; unread offlinemessage(s)&lt;/p&gt;</source>
+        <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;You have &lt;strong&gt;%n&lt;/strong&gt; unread offlinemessage(s)&lt;/p&gt;</source>
         <translation type="unfinished">
-            <numerusform>&lt;p style='white-space:nowrap'&gt;你有 &lt;strong&gt;%n&lt;/strong&gt; 条未读的离线消息&lt;/p&gt;</numerusform>
+            <numerusform>&lt;p style=&apos;white-space:nowrap&apos;&gt;你有 &lt;strong&gt;%n&lt;/strong&gt; 条未读的离线消息&lt;/p&gt;</numerusform>
         </translation>
     </message>
 </context>
@@ -10580,10 +10294,6 @@ Do you want to apply your changes?</source>
         <source>with this file</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Date: &lt;strong&gt;&lt;unknown&gt;&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>TransferThread</name>
@@ -10612,7 +10322,7 @@ Do you want to apply your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error creating directory "%1": %2</source>
+        <source>Error creating directory &quot;%1&quot;: %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10718,18 +10428,6 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>%1 [Channel Group]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insufficient Talk Power</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Priority Speaker</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11025,8 +10723,8 @@ TeamSpeak will be closed if you proceed.</source>
         <translation type="unfinished">持续传输 - 说话就可以了。</translation>
     </message>
     <message>
-        <source>The OS denied access to the microphone. Please click &lt;a href="#open_os_permissions"&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
-        <translation type="unfinished">操作系统拒绝访问麦克风。 请单击&lt;a href="#open_os_permissions"&gt;此处&lt;/a&gt;以打开Windows隐私设置并允许应用程序使用它。</translation>
+        <source>The OS denied access to the microphone. Please click &lt;a href=&quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
+        <translation type="unfinished">操作系统拒绝访问麦克风。 请单击&lt;a href=&quot;#open_os_permissions&quot;&gt;此处&lt;/a&gt;以打开Windows隐私设置并允许应用程序使用它。</translation>
     </message>
     <message>
         <source>Begin Test</source>
@@ -11404,12 +11102,12 @@ No changes have been written yet.</source>
         <translation type="unfinished">警告</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You have selected a permanent group as default.&lt;/p&gt;&lt;p style="color:red;"&gt;Be careful, all existing users in the selected group will be removed!&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您已选择一个永久组作为默认组。&lt;/p&gt;&lt;p style="color:red;"&gt;请注意，所选组中的所有现有用户都将被删除！&lt;/p&gt;</translation>
+        <source>&lt;p&gt;You have selected a permanent group as default.&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;Be careful, all existing users in the selected group will be removed!&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;您已选择一个永久组作为默认组。&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;请注意，所选组中的所有现有用户都将被删除！&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p&gt;You selected MODALQUIT host message mode.&lt;/p&gt;&lt;p style="color:red;"&gt;Be careful, with this setting no user can connect to this server!&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;您选择了 MODALQUIT 主机信息模式。&lt;/p&gt;&lt;p style="color:red;"&gt;请注意，在此设置下，任何用户都无法连接到此服务器！&lt;/p&gt;</translation>
+        <source>&lt;p&gt;You selected MODALQUIT host message mode.&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;Be careful, with this setting no user can connect to this server!&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;您选择了 MODALQUIT 主机信息模式。&lt;/p&gt;&lt;p style=&quot;color:red;&quot;&gt;请注意，在此设置下，任何用户都无法连接到此服务器！&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Host Message is empty</source>
@@ -11426,10 +11124,6 @@ No changes have been written yet.</source>
     <message>
         <source>too large</source>
         <translation type="unfinished">过大</translation>
-    </message>
-    <message>
-        <source>Priority Speaker dim modificator:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11957,8 +11651,8 @@ No changes have been written yet.</source>
         <translation type="unfinished">重复输入快捷键:</translation>
     </message>
     <message>
-        <source>&lt;a href="jumpTo:Hotkeys"&gt;&lt;span style=" text-decoration: none;"&gt;more&lt;/span&gt;&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href="jumpTo:Hotkeys"&gt;&lt;span style=" text-decoration: none;"&gt;更多&lt;/span&gt;&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;more&lt;/span&gt;&lt;/a&gt;</source>
+        <translation type="unfinished">&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;更多&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Group Whisper Type:</source>
@@ -12202,7 +11896,7 @@ No changes have been written yet.</source>
         <translation>确认框</translation>
     </message>
     <message>
-        <source>Reset all "Do not show again" confirmation dialogs</source>
+        <source>Reset all &quot;Do not show again&quot; confirmation dialogs</source>
         <translation type="unfinished">重置所有“不再显示”确认对话框</translation>
     </message>
     <message>
@@ -12297,7 +11991,7 @@ This depends of course, on a valid playback and capture device.</source>
     </message>
     <message>
         <source>Completely disable the Poke Dialog to avoid problems when running fullscreen games</source>
-        <translation type="unfinished">完全禁用"戳一戳"对话框以避免在运行全屏游戏时出现问题</translation>
+        <translation type="unfinished">完全禁用&quot;戳一戳&quot;对话框以避免在运行全屏游戏时出现问题</translation>
     </message>
     <message>
         <source>Never show Poke Dialog</source>
@@ -12386,8 +12080,8 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished">模式</translation>
     </message>
     <message>
-        <source>&lt;a href="jumpTo:Hotkeys"&gt;&lt;span style=" text-decoration: none;"&gt;Set more hotkeys&lt;/span&gt;&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href="jumpTo:Hotkeys"&gt;&lt;span style=" text-decoration: none;"&gt;设置更多快捷键&lt;/span&gt;&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;Set more hotkeys&lt;/span&gt;&lt;/a&gt;</source>
+        <translation type="unfinished">&lt;a href=&quot;jumpTo:Hotkeys&quot;&gt;&lt;span style=&quot; text-decoration: none;&quot;&gt;设置更多快捷键&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Digital Signal Processing</source>
@@ -12430,7 +12124,7 @@ Useful for servers with a lot of channels and clients.</source>
         <translation type="unfinished">消除背景噪音</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;Automatic voice gain control&lt;/strong&gt; automatically adjusts the volume of captured sound to ensure you don't sound too loud or too soft compared with others.&lt;/p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;Automatic voice gain control&lt;/strong&gt; automatically adjusts the volume of captured sound to ensure you don&apos;t sound too loud or too soft compared with others.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;&lt;strong&gt;自动语音增益控制&lt;/strong&gt;会自动调整捕获声音的音量，以确保与其他人的声音相比，您的声音听起来不会太大声或太轻。&lt;/p&gt;</translation>
     </message>
     <message>
@@ -12472,14 +12166,6 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>Voice Activation Detection while using Push-To-Talk</source>
         <translation type="unfinished">在使用按键通话模式下仍使用语音感应激活功能</translation>
-    </message>
-    <message>
-        <source>Detect speech while using Push-To-Talk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled Voice Activity Detection even when Push-To-Talk is used.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12608,8 +12294,8 @@ Useful for servers with a lot of channels and clients.</source>
         <translation>登录</translation>
     </message>
     <message>
-        <source>&lt;p&gt;If you turn this off now, your synchronized items will no longer be available on this computer (but stay stored in your myTeamSpeak account).&lt;/p&gt;&lt;p&gt;&lt;a href="https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335"&gt;Read details&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;如果您现在关闭此功能，您的同步项目将不再可用于此计算机（但会保留在 myTeamSpeak 帐户中）。&lt;/p&gt;&lt;p&gt;&lt;a href="https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335"&gt;阅读详情&lt;/a&gt;&lt;/p&gt;</translation>
+        <source>&lt;p&gt;If you turn this off now, your synchronized items will no longer be available on this computer (but stay stored in your myTeamSpeak account).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;Read details&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;如果您现在关闭此功能，您的同步项目将不再可用于此计算机（但会保留在 myTeamSpeak 帐户中）。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;阅读详情&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12761,10 +12447,6 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>Critical management error</source>
         <translation type="unfinished">严重的管理错误</translation>
-    </message>
-    <message>
-        <source>Unknown Password error</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12930,10 +12612,6 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>You are not connected to this server</source>
         <translation type="unfinished">您未连接至此服务器</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Bookmarks have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13422,7 +13100,7 @@ Some myTeamSpeak related services are not available.</source>
 <context>
     <name>com::teamspeak::ui::WarnWhenMutedInfoDialog</name>
     <message>
-        <source>&lt;p&gt;You are talking while your microphone is muted.&lt;/p&gt;&lt;p&gt;Occasionally one might forget that the microphone has been muted and continue talking, but nothing will be heard by others.&lt;/p&gt;&lt;p&gt;TeamSpeak can warn you with a "Beep" sound when this happens. This can be useful when running a fullscreen application and the TeamSpeak client is not visible.&lt;/p&gt;&lt;p&gt;Do you want to disable this feature or keep it enabled? This can be changed anytime in the Applications page in the options.&lt;/p&gt;</source>
+        <source>&lt;p&gt;You are talking while your microphone is muted.&lt;/p&gt;&lt;p&gt;Occasionally one might forget that the microphone has been muted and continue talking, but nothing will be heard by others.&lt;/p&gt;&lt;p&gt;TeamSpeak can warn you with a &quot;Beep&quot; sound when this happens. This can be useful when running a fullscreen application and the TeamSpeak client is not visible.&lt;/p&gt;&lt;p&gt;Do you want to disable this feature or keep it enabled? This can be changed anytime in the Applications page in the options.&lt;/p&gt;</source>
         <translation>&lt;p&gt;当你的麦克风被静音时，你正在说话。&lt;/p&gt;&lt;p&gt;偶尔有人可能会忘记麦克风被静音并继续说话，但其他人是听不见的。&lt;/p&gt;&lt;p&gt;TeamSpeak 可以在发生这种情况时发出“嘟嘟”声警告你。 这在运行全屏应用程序并且 TeamSpeak 客户端不可见时非常有用。&lt;/p&gt;&lt;p&gt;是否要禁用此功能或保持启用？ 这可以在选项的“应用程序”页面中随时更改。&lt;/p&gt;</translation>
     </message>
 </context>
@@ -13760,8 +13438,8 @@ Please contact the plugin author.</source>
 <context>
     <name>com::teamspeak::ui::externallink::ExternalLinkWarningDialog</name>
     <message>
-        <source>&lt;p style="font-weight:bold;color:red;"&gt;ATTENTION&lt;/p&gt;&lt;p&gt;You are about to open an external link to:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p style="font-weight:bold;color:red;"&gt;注意&lt;/p&gt;&lt;p&gt;您即将访问外部链接:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak 无法对内容进行验证或承担任何责任。访问网站或从未知来源下载文件时要小心，他们可能会危害您的计算机和系统安全。&lt;/p&gt;</translation>
+        <source>&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;ATTENTION&lt;/p&gt;&lt;p&gt;You are about to open an external link to:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;注意&lt;/p&gt;&lt;p&gt;您即将访问外部链接:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak 无法对内容进行验证或承担任何责任。访问网站或从未知来源下载文件时要小心，他们可能会危害您的计算机和系统安全。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Copy link to clipboard</source>
@@ -14072,19 +13750,6 @@ Once used, the privilege key will become invalid.</source>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
-    <message>
-        <source>Enables myTeamSpeak features like badges, integration of external accounts and more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hostname or IP of the TeamSpeak 3 server,
-for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server &amp;Address:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>createProfileDialog</name>
@@ -14195,7 +13860,7 @@ for example: voice.teamspeak.com:9987</source>
         <translation>主题</translation>
     </message>
     <message>
-        <source>Select stylesheet from "styles" directory</source>
+        <source>Select stylesheet from &quot;styles&quot; directory</source>
         <translation>从“风格”目录中选择样式</translation>
     </message>
     <message>
@@ -14394,8 +14059,8 @@ for example: voice.teamspeak.com:9987</source>
         <translation>密码</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style='white-space:pre'&gt;Save channel passwords to your computer.&lt;BR/&gt;This might pose a security risk if anyone can access the passwords file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style='white-space:pre'&gt;将频道密码保存到您的计算机。&lt;BR/&gt;如果任何人都可以访问密码文件，这可能会带来安全风险。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Save channel passwords to your computer.&lt;BR/&gt;This might pose a security risk if anyone can access the passwords file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;将频道密码保存到您的计算机。&lt;BR/&gt;如果任何人都可以访问密码文件，这可能会带来安全风险。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Save channel passwords</source>
@@ -14573,56 +14238,4 @@ for example: voice.teamspeak.com:9987</source>
         <translation>解除叠加文本</translation>
     </message>
 </context>
-<context>
-    <name>ClientQueryOptionsDialog</name>
-    <message>
-        <source>&lt;p&gt;&lt;span style="color:red;"&gt;Warning&lt;/span&gt;: If you open the ClientQuery telnet port to everyone, other computers on your network can connect to your TeamSpeak client.&lt;/p&gt;&lt;p&gt;You should only enable this option if you really need this feature and have a firewall to protect your TeamSpeak client against access from outside your local network.&lt;/p&gt;&lt;p&gt;If you change this settings, you need to reload the ClientQuery plugin to take effect.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ClientQuery Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable ClientQuery logging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open telnet port for everyone</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>InputManager</name>
-    <message>
-        <source>Dead Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LuaConfigDialog</name>
-    <message>
-        <source>Lua Modules</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>StatusWarningDisplay</name>
-    <message>
-        <source>%n new warning message(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear warnings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show warnings</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>com::teamspeak::ui::tsdns::Connector</name>
-    <message>
-        <source>Deprecated server configuration detected.</source>
-        <translation type="unfinished"
+</TS>
