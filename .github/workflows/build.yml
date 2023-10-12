@@ -18,7 +18,7 @@ jobs:
         run: |
           export TZ=Asia/Shanghai
           sudo apt-get update -q
-          sudo apt-get install qt5-default qttools5-dev-tools -y -q
+          sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools qttools5-dev-tools -y -q
 
       - env:
           TG_API: ${{ secrets.TG_API }}

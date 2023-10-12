@@ -1516,7 +1516,7 @@ to
         <source>%1 already exists.
 Do you want to replace it?</source>
         <translation>%1已经存在。
-你想要替换它么？</translation>
+想要替换它么？</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3977,7 +3977,7 @@ Please choose a different file name.</source>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
         <translation>%1已经存在。
-你想覆盖它么？</translation>
+想覆盖它么？</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qprintdialog_qws.cpp" line="-210"/>

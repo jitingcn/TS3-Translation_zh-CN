@@ -9,7 +9,7 @@ import subprocess
 from urllib import request, parse, error
 from time import strftime, localtime
 
-target_version = "3.5.6"
+target_version = open("VERSION", "r", encoding="utf-8").read().strip()
 language = "zh"
 cwd = sys.path[0]
 src = f"{cwd + os.sep}src{os.sep}"
@@ -34,8 +34,8 @@ def make_release():
         print("Warning: \"dist\" folder not found. Creating folder...\n")
         os.makedirs(dist)
 
-    translated = re.compile(r"(?:Generated\s)(\d+)(?: translation)")
-    untranslated = re.compile(r"(?:Ignored\s)(\d+)(?: untranslated)")
+    translated = re.compile(r"(?:Generated|生成)\s(\d+)\s(?:translation|条翻译)")
+    untranslated = re.compile(r"(?:Ignored|忽略)\s(\d+)\s(?:untranslated|条未翻译源文本)")
 
     error = False
 

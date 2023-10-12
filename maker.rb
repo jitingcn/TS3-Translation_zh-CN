@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require "zip"
-require 'net/http'
+require "net/http"
 require "open3"
 
 Zip.setup do |c|
@@ -9,39 +9,39 @@ Zip.setup do |c|
   c.continue_on_exists_proc = true
   c.unicode_names = true
   c.default_compression = Zlib::BEST_COMPRESSION
-  c.force_entry_names_encoding = 'UTF-8'
+  c.force_entry_names_encoding = "UTF-8"
 end
 
 build_version = ENV["TRAVIS_BUILD_NUMBER"]
 log_url = ENV["TRAVIS_JOB_WEB_URL"]
-target_version = "3.5.0"
-#language = "zh"
+TARGET_VERSION = File.read("VERSION").chomp
+# language = "zh"
 pwd = Dir.pwd
 Dir.mkdir("dist") unless Dir.exist?("dist")
 package_name = "Chinese_Translation_zh-CN.ts3_translation"
 
-def make_release()
+def make_release
   case RUBY_PLATFORM
-    when /ix/i, /ux/i, /gnu/i, /bsd/i
-      # "unix"
-      lrelease = `which lrelease`.split[0]
-    when /win/i, /ming/i
-      # "windows"
-      lrelease = `where lrelease`.split[0]
-    else
-      # "other"
-      exit(1)
+  when /ix/i, /ux/i, /gnu/i, /bsd/i
+    # "unix"
+    lrelease = `which lrelease`.split[0]
+  when /win/i, /ming/i
+    # "windows"
+    lrelease = `where lrelease`.split[0]
+  else
+    # "other"
+    exit(1)
   end
   translated_count = 0
   total_count = 0
-  translated = /(?:Generated\s)(\d+)(?: translation)/.freeze
-  untranslated = /(?:Ignored\s)(\d+)(?: untranslated)/.freeze
+  translated = /(?:Generated|生成)\s(\d+)\s(?:translation|条翻译)/
+  untranslated = /(?:Ignored|忽略)\s(\d+)\s(?:untranslated|条未翻译源文本)/
   Dir.glob("src/*_zh.ts") do |file|
     puts file
     output = "dist/#{file[4...-3]}.qm"
     stdin, stdout, stderr = Open3.popen3(lrelease, file, "-qm", output)
     index = 0
-    stdout.each_line do |line| 
+    stdout.each_line do |line|
       unless /qt_zh/.match?(file)
         if index == 1
           translated_count += translated.match(line)[1].to_i
@@ -51,7 +51,7 @@ def make_release()
           total_count += untranslated.match(line)[1].to_i
         end
       end
-      puts line 
+      puts line
       index += 1
     end
     stdout.close
@@ -61,57 +61,58 @@ def make_release()
     end
     puts ""  # new line
   end
-  send_progress(translated_count, total_count)
+  # send_progress(translated_count, total_count)
 end
 
 def send_progress(done, total)
-  percentage = Rational(done*100,total).round(2).to_f
-  info =  "当前进度:\n#{done}/#{total}\n#{percentage}%\n".freeze
+  percentage = Rational(done * 100, total).round(2).to_f
+  info = "当前进度:\n#{done}/#{total}\n#{percentage}%\n".freeze
   puts info
   telegram_push(info) unless ARGV[0] == "debug"
 end
 
 def telegram_push(string)
-  tg_api = ENV['TG_API']
-  group_id = ENV['TG_GROUP_ID']
+  tg_api = ENV["TG_API"]
+  group_id = ENV["TG_GROUP_ID"]
   uri = URI("https://api.telegram.org/bot#{tg_api}/sendMessage")
-  querystring = {chat_id: group_id ,text: string}
+  querystring = {chat_id: group_id, text: string}
   uri.query = URI.encode_www_form(querystring)
   res = Net::HTTP.get_response(uri)
-  puts res.code == '200' ? "\n推送成功" : "\n推送失败"
+  puts (res.code == "200") ? "\n推送成功" : "\n推送失败"
 end
 
-def make_package(zipfile_name, build_version=nil, log_url=nil)
-  File.open('dist/package.ini', 'w') do |file|
+def make_package(zipfile_name, build_version = nil, log_url = nil)
+  File.open("dist/package.ini", "w") do |file|
     package_info = [
-      "Name = TeamSpeak 3 简体中文汉化包 目标软件版本: #{target_version}",
+      "Name = TeamSpeak 3 简体中文汉化包 目标软件版本: #{TARGET_VERSION}",
       "Type = Translation",
       "Author = 寂听 & EdisonJwa",
-      "Version = travis-dev-build##{build_version}",
+      "Version = snapshot##{build_version}",
       "Platforms = ",
-      "Description = 源代码: https://github.com/jitingcn/TS3-Translation_zh-CN" + 
-      "    构建日志: #{log_url unless log_url.nil?}"]
+      "Description = 源代码: https://github.com/jitingcn/TS3-Translation_zh-CN" +
+        "    构建日志: #{log_url unless log_url.nil?}"
+    ]
     file.write(package_info.join("\n"))
   end
   Zip::File.open(zipfile_name, Zip::File::CREATE) do |zipfile|
     qm_files = Dir.glob("dist/*.qm")
     qm_files.each do |file|
       file = file.split("/")
-      zipfile.add("translations/"+file[1], File.join(file))
+      zipfile.add("translations/" + file[1], File.join(file))
     end
-    zipfile.add("package.ini", File.join(["dist","package.ini"]))
+    zipfile.add("package.ini", File.join(["dist", "package.ini"]))
   end
 end
 
-def debug()
+def debug
   case RUBY_PLATFORM
-    when /ix/i, /ux/i, /gnu/i, /bsd/i
-      FileUtils.cp Dir.glob("dist/*.qm"), "#{Dir.home}/.ts3client/translations", :verbose => true
-    else
-      exit
+  when /ix/i, /ux/i, /gnu/i, /bsd/i
+    FileUtils.cp Dir.glob("dist/*.qm"), "#{Dir.home}/.ts3client/translations", verbose: true
+  else
+    exit
   end
 end
 
-make_release()
+make_release
 make_package(package_name) unless ARGV[0] == "debug"
-debug() if ARGV[0] == "debug"
+debug if ARGV[0] == "debug"
