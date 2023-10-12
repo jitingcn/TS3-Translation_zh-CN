@@ -57,11 +57,14 @@ diff_nodes.each do |name, messages|
 end
 
 # save to new file
+file = File.open("src/lagos_zh.ts", "wb")
 zh_doc.write_xml_to(
-  File.open("src/lagos_zh.ts", "wb"),
+  file,
   indent: 4,
   save_with: Nokogiri::XML::Node::SaveOptions::NO_EMPTY_TAGS | Nokogiri::XML::Node::SaveOptions::FORMAT
 )
+file.flush
+file.close
 
 # remove 4 space indent for every line between tag TS
 File.write("src/lagos_zh.ts", File.read("src/lagos_zh.ts").gsub(/\n {4}/, "\n"))
