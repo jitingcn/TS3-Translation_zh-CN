@@ -1,16 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    nokogiri (1.15.4-x86_64-linux)
+    nokogiri (1.16.2-x86_64-linux)
       racc (~> 1.4)
-    racc (1.7.1)
+    racc (1.7.3)
     rubyzip (2.3.2)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  nokogiri (~> 1.15)
+  nokogiri (~> 1.16)
   rubyzip
 
 BUNDLED WITH
